@@ -5,7 +5,7 @@ import { Screen } from '@/components/Screen';
 
 export default function NotFound() {
   return (
-    <Screen>
+    <Screen edges={['bottom']}>
       <Stack.Screen options={{ title: 'Página não encontrada' }} />
       <Text style={styles.text}>Esta tela não existe.</Text>
       <Link href="/" style={styles.link}>

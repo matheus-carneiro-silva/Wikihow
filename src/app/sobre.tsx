@@ -5,7 +5,7 @@ import { Screen } from '@/components/Screen';
 
 export default function Sobre() {
   return (
-    <Screen>
+    <Screen edges={['bottom']}>
       <Text style={styles.text}>
         Cada arquivo em src/app vira uma tela. Esta é a rota /sobre.
       </Text>

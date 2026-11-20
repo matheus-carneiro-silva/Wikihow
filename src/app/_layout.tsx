@@ -10,7 +10,7 @@ export default function RootLayout() {
           contentStyle: { backgroundColor: '#fff' },
         }}
       >
-        <Stack.Screen name="index" options={{ title: 'Wikihow' }} />
+        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="sobre" options={{ title: 'Sobre' }} />
       </Stack>
       <StatusBar style="dark" />

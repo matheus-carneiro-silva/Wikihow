@@ -36,13 +36,19 @@ As rotas ficam em `src/app/` — cada arquivo é uma tela:
 ```
 src/
 ├── app/
-│   ├── _layout.tsx     # navegador raiz (Stack)
-│   ├── index.tsx       # rota /
-│   ├── sobre.tsx       # rota /sobre
-│   └── +not-found.tsx  # rota inexistente
-└── components/         # código que não é rota (componentes, hooks, utils)
+│   ├── _layout.tsx         # pilha raiz (Stack)
+│   ├── (tabs)/             # grupo de abas (não aparece na URL)
+│   │   ├── _layout.tsx     # abas nativas (Material 3 no Android)
+│   │   ├── index.tsx       # aba Início  → rota /
+│   │   ├── explorar.tsx    # aba Explorar → rota /explorar
+│   │   └── perfil.tsx      # aba Perfil  → rota /perfil
+│   ├── sobre.tsx           # rota /sobre (abre por cima das abas, com cabeçalho)
+│   └── +not-found.tsx      # rota inexistente
+└── components/             # código que não é rota (componentes, hooks, utils)
 ```
 
+- **Abas**: usam `NativeTabs` de `expo-router/native-tabs`, que renderiza a barra de navegação nativa do Android. Ícones são [Material Symbols](https://fonts.google.com/icons) passados no `md` (ex.: `<NativeTabs.Trigger.Icon md="home" />`). Para adicionar uma aba, crie o arquivo em `src/app/(tabs)/` e um `NativeTabs.Trigger` com o mesmo `name`. O Android aceita no máximo 5 abas.
+- **Área segura**: use o componente `Screen`. Nas abas o padrão (`edges={['top']}`) já serve; em telas da pilha com cabeçalho, passe `edges={['bottom']}`.
 - Navegue com `<Link href="/sobre">` ou `router.push('/sobre')` (importados de `expo-router`).
 - Rotas tipadas estão ativas (`experiments.typedRoutes`): um `href` inválido gera erro de TypeScript. Os tipos são gerados em `.expo/types` ao rodar `npm start`.
 - Imports com o alias `@/` apontam para `src/` (ex.: `import { Screen } from '@/components/Screen'`).
