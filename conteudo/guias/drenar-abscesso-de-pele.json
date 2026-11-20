@@ -30,8 +30,7 @@
       "titulo": "Confirme que é abscesso",
       "texto": "Abscesso é uma coleção de pus: área dolorosa, avermelhada e endurecida, com um ponto amolecido (flutuação). Se houver dúvida entre abscesso e celulite, o ultrassom ajuda.\n\nAbscessos pequenos e superficiais podem começar com compressas mornas, com reavaliação em 24 a 48 horas.\n\nSem ultrassom, na dúvida, não corte: faça compressas mornas e reavalie em 24 a 48 horas. Marque com caneta a borda da vermelhidão para ver se ela avança.",
       "avisos": [
-        "Prefira não drenar sozinho: abscesso grande ou profundo, perto de grandes vasos ou nervos, massa que pulsa, na mão além da ponta do dedo, na face ou ao redor do ânus. Nesses casos, havendo como, evacue para atendimento cirúrgico.",
-        "Evacue, mesmo que seja difícil, se houver: osso exposto ou fratura exposta; lesão de tendão, articulação, nervo ou vaso; mordida de mamífero; corpo estranho grande, sobretudo de madeira ou vegetal; infecção que piora apesar do antibiótico; febre, confusão ou pressão baixa; estalido de gás sob a pele, pele escurecida ou com bolhas, ou dor muito maior do que a aparência da ferida (suspeita de infecção necrosante); estrias vermelhas subindo pelo membro."
+        "Prefira não drenar sozinho: abscesso grande ou profundo, perto de grandes vasos ou nervos, massa que pulsa, na mão além da ponta do dedo, na face ou ao redor do ânus. Nesses casos, havendo como, evacue para atendimento cirúrgico."
       ]
     },
     {
@@ -69,6 +68,10 @@
       "avisos": [
         "Confira alergias antes. Doxiciclina não deve ser usada na gravidez nem em crianças pequenas; sulfametoxazol-trimetoprima exige cautela na gravidez."
       ]
+    },
+    {
+      "titulo": "Saiba quando evacuar",
+      "texto": "Evacue, mesmo que seja difícil, se houver: osso exposto ou fratura exposta; lesão de tendão, articulação, nervo ou vaso; mordida de mamífero; corpo estranho grande, sobretudo de madeira ou vegetal; infecção que piora apesar do antibiótico; febre, confusão ou pressão baixa; estalido de gás sob a pele, pele escurecida ou com bolhas, ou dor muito maior do que a aparência da ferida (suspeita de infecção necrosante); estrias vermelhas subindo pelo membro."
     }
   ],
   "fontes": [

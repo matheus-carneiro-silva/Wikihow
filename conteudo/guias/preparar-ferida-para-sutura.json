@@ -11,7 +11,11 @@
     "limpeza",
     "tétano",
     "antissepsia",
-    "desbridamento"
+    "desbridamento",
+    "esterilizar",
+    "ferver instrumentos",
+    "sem hospital",
+    "evacuação"
   ],
   "dificuldade": "facil",
   "tempoMinutos": 20,

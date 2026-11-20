@@ -7,7 +7,6 @@
     "avançado",
     "microgeração",
     "hidrelétrica",
-    "roda d'água",
     "turbina",
     "eólica",
     "cata-vento",
@@ -22,7 +21,7 @@
   "dificuldade": "dificil",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento).",
   "materiais": [
     "Balde de volume conhecido e cronômetro",
     "Mangueira de nível ou altímetro",
@@ -35,7 +34,7 @@
     },
     {
       "titulo": "Meça a vazão do córrego",
-      "texto": "Pelo método do balde: desvie toda a água por um cano ou calha para dentro de um balde de volume conhecido e cronometre. Vazão (L/s) = volume (L) ÷ tempo (s). Meça na época de seca: é o pior caso."
+      "texto": "Pelo método do balde: desvie toda a água por um cano ou calha para dentro de um balde de volume conhecido e cronometre. Vazão (L/s) = volume (L) ÷ tempo (s). Meça na época de seca: é o pior caso.\n\nEm córrego maior, use o flutuador: meça a largura e a profundidade média para ter a área (m²), solte um objeto flutuante com algum peso no meio da correnteza e cronometre um trecho de 10 m para ter a velocidade (m/s). Vazão (L/s) ≈ área × velocidade × 0,8 × 1.000; o 0,8 corrige a água do fundo, que corre mais devagar."
     },
     {
       "titulo": "Meça a queda",
@@ -50,9 +49,17 @@
     },
     {
       "titulo": "Estime a potência do vento",
-      "texto": "Potência (W) = 0,5 × 1,2 × área do rotor (m²) × velocidade³ (m/s) × eficiência. O limite teórico (Betz) é 59%; turbinas pequenas reais ficam bem abaixo, por volta de 25 a 35%. Exemplo: rotor de 2 m de diâmetro (3,14 m²) a 5 m/s com 30%: 0,5 × 1,2 × 3,14 × 125 × 0,3 ≈ 71 W.",
+      "texto": "Potência (W) = 0,5 × densidade do ar (1,2 ao nível do mar; cerca de 1,1 a 1.000 m) × área do rotor (m²) × velocidade³ (m/s) × eficiência. O limite teórico (Betz) é 59%; turbinas pequenas reais ficam bem abaixo, por volta de 25 a 35%. Exemplo: rotor de 2 m de diâmetro (3,14 m²) a 5 m/s com 30%: 0,5 × 1,2 × 3,14 × 125 × 0,3 ≈ 71 W.",
       "dicas": [
         "A velocidade entra ao cubo: dobrar o vento multiplica a potência por 8. Por isso a altura da torre e a ausência de obstáculos importam tanto."
+      ]
+    },
+    {
+      "titulo": "Nunca deixe a turbina sem carga",
+      "texto": "Ao contrário do painel solar, uma turbina d'água ou de vento não pode simplesmente ser desligada da bateria: sem carga, a rotação e a tensão disparam, queimando o controlador e podendo soltar as pás. Use controlador com carga de desvio (por exemplo, uma resistência de aquecimento dimensionada para a potência total da turbina).",
+      "avisos": [
+        "Nunca desconecte a bateria com a turbina girando. Para parar, feche a água ou freie o rotor conforme o manual.",
+        "Gerador improvisado (alternador de carro, motor reaproveitado) não pode ser ligado direto à bateria sem regulador de carga."
       ]
     },
     {
@@ -83,6 +90,10 @@
     {
       "titulo": "Wind power equation — Penn State (EMSC 470)",
       "url": "https://www.e-education.psu.edu/emsc470/node/648"
+    },
+    {
+      "titulo": "Guide to Hydropower — Canyon Hydro",
+      "url": "https://canyonhydro.com/guide/HydroGuide6.html"
     }
   ]
 }

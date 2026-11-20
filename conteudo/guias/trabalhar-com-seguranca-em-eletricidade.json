@@ -15,7 +15,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento).",
   "materiais": [
     "Detector de tensão ou multímetro",
     "Fita isolante e aviso de \"não ligar\"",
@@ -38,7 +38,9 @@
       "titulo": "Teste se a tensão sumiu",
       "texto": "Teste o detector ou multímetro numa tomada que você sabe que está ligada, meça o ponto de trabalho e teste de novo na tomada ligada. Só assim você sabe que o aparelho funcionou e que a leitura zero é verdadeira.",
       "avisos": [
-        "Nunca confie só no disjuntor: o quadro pode estar mal identificado ou o circuito ter duas alimentações."
+        "Nunca confie só no disjuntor: o quadro pode estar mal identificado ou o circuito ter duas alimentações.",
+        "Caneta detectora sem contato não acusa corrente contínua: em bateria, painel e inversor, use multímetro em V⎓ (veja o guia de multímetro).",
+        "Bateria nunca fica sem tensão: cubra os bornes, trabalhe num polo de cada vez e use ferramenta isolada. Depois de desligar um inversor, espere o tempo do manual para os capacitores descarregarem. Painel ao sol sempre gera."
       ]
     },
     {
@@ -51,7 +53,10 @@
     },
     {
       "titulo": "Em caso de choque",
-      "texto": "Não toque na vítima enquanto ela estiver em contato com a eletricidade. Desligue a energia ou afaste a fonte com um objeto seco e isolante (madeira, plástico). Ligue para o SAMU (192) e inicie a reanimação se a pessoa não respirar."
+      "texto": "Não toque na vítima enquanto ela estiver em contato com a eletricidade. Desligue a energia ou, só em baixa tensão dentro de casa, afaste a fonte com um objeto seco e isolante (madeira, plástico). Ligue para o SAMU (192), se possível, e inicie a reanimação se a pessoa não respirar. Toda vítima de choque deve ser avaliada por um médico, mesmo sem sintomas: arritmias podem aparecer depois.",
+      "avisos": [
+        "Fio da rede caído ou água alagando tomadas e quadro: mantenha todos a pelo menos 10 m, não tente afastar nada e avise a distribuidora e os bombeiros (193)."
+      ]
     }
   ],
   "fontes": [
@@ -62,6 +67,10 @@
     {
       "titulo": "Guide to digital multimeter safety — Fluke",
       "url": "https://www.fluke.com/en-us/learn/blog/safety/multimeter-guide"
+    },
+    {
+      "titulo": "Worker Safety in a Power Outage — CDC",
+      "url": "https://archive.cdc.gov/www_cdc_gov/disasters/poweroutage/workersafety.html"
     }
   ]
 }

@@ -18,7 +18,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento).",
   "materiais": [
     "Papel ou planilha",
     "Etiquetas dos aparelhos",
@@ -27,7 +27,7 @@
   "passos": [
     {
       "titulo": "Liste o que é essencial",
-      "texto": "Numa queda de energia longa, priorize: iluminação, carregar celular e rádio, conservar alimentos e remédios (geladeira), bomba d'água e equipamentos médicos. Deixe chuveiro elétrico, ferro, forno e ar-condicionado de fora: consomem muito para um sistema de emergência."
+      "texto": "Numa queda de energia longa, priorize nesta ordem: equipamentos médicos (concentrador de oxigênio, CPAP, remédios que precisam de refrigeração), iluminação, comunicação (celular e rádio), conservar alimentos (geladeira) e bomba d'água. Deixe chuveiro elétrico, ferro, forno e ar-condicionado de fora: consomem muito para um sistema de emergência."
     },
     {
       "titulo": "Descubra a potência de cada aparelho",
@@ -46,7 +46,10 @@
     },
     {
       "titulo": "Corte o consumo antes de gerar",
-      "texto": "Cada Wh economizado é painel e bateria a menos. Troque lâmpadas por LED, use geladeira eficiente e evite abri-la, prefira aparelhos em 12 V ligados direto na bateria (sem perdas do inversor) e concentre usos pesados nas horas de sol."
+      "texto": "Cada Wh economizado é painel e bateria a menos. Troque lâmpadas por LED, use geladeira eficiente e evite abri-la, prefira aparelhos em 12 V ligados direto na bateria (sem perdas do inversor) e concentre usos pesados nas horas de sol.",
+      "dicas": [
+        "Sem energia, a geladeira fechada conserva os alimentos por cerca de 4 horas e o freezer cheio por cerca de 48 horas (meio cheio, 24 horas). Ligar a geladeira em blocos de algumas horas, várias vezes ao dia, mantém o frio e economiza energia. Encha o freezer com garrafas de água congeladas."
+      ]
     },
     {
       "titulo": "Adicione margem para perdas",
@@ -61,6 +64,10 @@
     {
       "titulo": "Selecting an Inverter — Northern Arizona Wind & Sun",
       "url": "https://www.solar-electric.com/learning-center/inverters/inverter-basics-selection.html"
+    },
+    {
+      "titulo": "Keep Your Food Safe During Emergencies — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/keep-your-food-safe-during-emergencies"
     }
   ]
 }

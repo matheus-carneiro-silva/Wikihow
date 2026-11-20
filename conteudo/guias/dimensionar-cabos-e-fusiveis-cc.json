@@ -16,7 +16,7 @@
   "dificuldade": "media",
   "tempoMinutos": 20,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento). Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
   "materiais": [
     "Cabos de cobre flexível",
     "Terminais e alicate de crimpar",
@@ -36,18 +36,21 @@
       "titulo": "Faça o cálculo do exemplo",
       "texto": "Sistema de 12 V, 20 A, a 5 m de distância, queda máxima de 3% (0,36 V): 2 × 5 × 20 × 0,0172 ÷ 0,36 ≈ 9,6 mm². Use o tamanho comercial acima: 10 mm².",
       "dicas": [
-        "Com cobre mais quente (cerca de 50 °C), a resistividade sobe e o cabo deve ser um pouco maior. Na dúvida, suba uma bitola."
+        "Com cobre mais quente (cerca de 50 °C), a resistividade sobe e o cabo deve ser um pouco maior. Na dúvida, suba uma bitola.",
+        "Cabo do inversor: 100 A a 2 m com queda de 2,5% (0,30 V): 2 × 2 × 100 × 0,0172 ÷ 0,30 ≈ 23 mm², então 25 mm²."
       ]
     },
     {
       "titulo": "Confira a capacidade de corrente",
-      "texto": "Além da queda de tensão, o cabo precisa suportar a corrente sem aquecer, conforme a tabela do fabricante e o modo de instalação (ao ar, em eletroduto, agrupado). Fique com o maior dos dois resultados."
+      "texto": "Além da queda de tensão, o cabo precisa suportar a corrente sem aquecer. Capacidade aproximada do cobre com isolação de PVC (70 °C), dois condutores carregados, em eletroduto (NBR 5410, Tabela 36, método B1): 1,5 mm² = 17,5 A; 2,5 = 24 A; 4 = 32 A; 6 = 41 A; 10 = 57 A; 16 = 76 A; 25 = 101 A; 35 = 125 A; 50 = 151 A. Ao ar livre os valores são um pouco maiores; em local quente ou com cabos agrupados, reduza de 20 a 30%. Fique com o maior cabo entre os dois critérios."
     },
     {
       "titulo": "Escolha e posicione os fusíveis",
       "texto": "O fusível protege o CABO: deve ser maior que a corrente normal (cerca de 1,25 vez) e menor que a capacidade do cabo. Coloque-o no positivo, o mais perto possível da bateria, e um em cada ramo que sai dela.",
       "avisos": [
-        "Um curto-circuito sem fusível perto da bateria faz o cabo virar uma resistência incandescente: é causa comum de incêndio em sistemas solares e de veículos."
+        "Um curto-circuito sem fusível perto da bateria faz o cabo virar uma resistência incandescente: é causa comum de incêndio em sistemas solares e de veículos.",
+        "Use só fusível ou disjuntor marcado para corrente contínua (VDC), com tensão igual ou maior que a do sistema e capacidade de interrupção maior que a corrente de curto da bateria. Baterias de lítio exigem fusível classe T ou MRBF junto da bateria. Disjuntor de quadro CA comum pode não apagar o arco em CC.",
+        "Nunca substitua um fusível queimado por fio, papel-alumínio ou fusível de valor maior. Sem peça igual, deixe o circuito desligado."
       ]
     },
     {
@@ -63,6 +66,14 @@
     {
       "titulo": "Calculadora de tamanho de fio CC — Omni Calculator",
       "url": "https://www.omnicalculator.com/pt/fisica/calculadora-de-cc-tamanho-fio"
+    },
+    {
+      "titulo": "DC wiring — Wiring Unlimited (Victron Energy)",
+      "url": "https://www.victronenergy.com/media/pg/The_Wiring_Unlimited_book/en/dc-wiring.html"
+    },
+    {
+      "titulo": "Tabela do eletricista (NBR 5410) — SIL",
+      "url": "https://www.sil.com.br/tabelaeletricista.aspx"
     }
   ]
 }

@@ -15,7 +15,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 15,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento).",
   "materiais": [
     "Multímetro digital (CAT III para rede elétrica)",
     "Pontas de prova em bom estado"
@@ -23,7 +23,10 @@
   "passos": [
     {
       "titulo": "Escolha um multímetro adequado",
-      "texto": "Para mexer em tomadas e quadros, use um multímetro com categoria de segurança CAT III (pelo menos 300 V), de preferência com certificação independente, e pontas de prova com proteção para os dedos. Multímetros baratos sem categoria servem para pilhas e baterias, não para a rede."
+      "texto": "Para mexer em tomadas e quadros, use um multímetro com categoria de segurança CAT III 600 V ou CAT IV (CAT III 300 V é o mínimo), de preferência com certificação independente, e pontas de prova com proteção para os dedos. Multímetros baratos sem categoria servem para pilhas e baterias, não para a rede.",
+      "dicas": [
+        "Prefira multímetro True RMS: ele mede corretamente a saída de inversores de onda modificada."
+      ]
     },
     {
       "titulo": "Meça tensão contínua",
@@ -31,7 +34,7 @@
     },
     {
       "titulo": "Meça tensão alternada",
-      "texto": "Selecione V~ (CA), escala acima de 220 V. Segure as pontas pelas partes isoladas, atrás das proteções, e encoste nos dois furos da tomada. Espere algo entre cerca de 115 e 135 V numa rede de 127 V, ou entre 200 e 230 V numa de 220 V.",
+      "texto": "Selecione V~ (CA), escala acima de 220 V. Segure as pontas pelas partes isoladas, atrás das proteções, e encoste nos dois furos da tomada. A faixa adequada da ANEEL é de 117 a 133 V numa rede de 127 V e de 202 a 231 V numa de 220 V.",
       "avisos": [
         "Teste antes num ponto conhecido para garantir que o multímetro está funcionando."
       ]
@@ -46,6 +49,9 @@
       "avisos": [
         "Nunca encoste as pontas numa tomada ou bateria com o multímetro em ampères: isso é um curto-circuito e pode explodir o fusível ou o aparelho.",
         "Depois de medir corrente, volte a ponta vermelha para V. É o erro mais comum."
+      ],
+      "dicas": [
+        "Para correntes acima de 10 A, como em cabos de bateria e inversor, use alicate amperímetro com função CC (A⎓), que mede sem abrir o circuito."
       ]
     }
   ],
@@ -57,6 +63,10 @@
     {
       "titulo": "How to Measure Battery Voltage with a Multimeter — Fluke",
       "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-test-a-battery-with-a-multimeter"
+    },
+    {
+      "titulo": "Cartilha nível de tensão (PRODIST/ANEEL) — Energisa",
+      "url": "https://www.energisa.com.br/sites/energisa/files/media/documents/2025-10/energisa-cartilha-nivel-tensao.pdf"
     }
   ]
 }

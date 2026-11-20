@@ -30,18 +30,25 @@
     },
     {
       "titulo": "Use a tomada 12 V só para cargas pequenas",
-      "texto": "A tomada do isqueiro tem fusível baixo e suporta em geral pouco mais de 100 W (veja o manual). Para potências maiores, ligue o inversor direto nos terminais da bateria, com fusível no cabo positivo."
+      "texto": "A tomada do isqueiro tem fusível baixo e suporta em geral pouco mais de 100 W (veja o manual). Para potências maiores, ligue o inversor direto nos terminais da bateria, com fusível no cabo positivo: positivo primeiro e negativo por último (na desmontagem, solte o negativo primeiro).",
+      "avisos": [
+        "Cabo de chupeta fino não serve para inversor grande: use o cabo indicado no manual do inversor."
+      ]
     },
     {
       "titulo": "Posicione o carro ao ar livre",
       "texto": "Deixe o carro ao ar livre, com o escapamento apontado para longe da casa e a vários metros de portas e janelas.",
       "avisos": [
-        "Nunca deixe o motor funcionando em garagem, mesmo com o portão aberto, nem dentro de casa."
+        "Nunca deixe o motor funcionando em garagem, mesmo com o portão aberto, nem dentro de casa.",
+        "Nunca durma nem fique dentro do carro com o motor ligado."
       ]
     },
     {
       "titulo": "Não esgote a bateria de partida",
-      "texto": "Com o motor desligado, o inversor descarrega a bateria a ponto de o carro não pegar mais. Se não puder manter o motor ligado o tempo todo, ligue o carro e deixe funcionar cerca de 10 minutos a cada hora."
+      "texto": "Com o motor desligado, o inversor descarrega a bateria a ponto de o carro não pegar mais. Meça a bateria: não deixe cair abaixo de cerca de 12,2 V (metade da carga). Ao chegar nisso, ligue o motor até a tensão voltar a 13,7 V ou mais. Em marcha lenta o alternador entrega pouca corrente: limite o inversor ao essencial.",
+      "avisos": [
+        "O carro é também seu meio de fuga: guarde sempre combustível e carga suficientes para sair numa evacuação."
+      ]
     },
     {
       "titulo": "Calcule o combustível",
@@ -58,12 +65,12 @@
       "url": "https://www.consumerreports.org/cro/2012/02/can-a-pint-sized-power-inverter-replace-a-generator/index.htm"
     },
     {
-      "titulo": "Inverter buying guide — Tripp Lite/Eaton",
-      "url": "https://tripplite.eaton.com/products/inverter-buying-guide"
-    },
-    {
       "titulo": "Danger! Carbon Monoxide Hazard — CDC",
       "url": "https://www.cdc.gov/nceh/multimedia/infographics/carbon_monoxide_danger.html"
+    },
+    {
+      "titulo": "DC wiring — Wiring Unlimited (Victron Energy)",
+      "url": "https://www.victronenergy.com/media/pg/The_Wiring_Unlimited_book/en/dc-wiring.html"
     }
   ]
 }

@@ -18,7 +18,7 @@
   "dificuldade": "media",
   "tempoMinutos": 20,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento). Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
   "materiais": [
     "Bateria estacionária, AGM ou LiFePO4",
     "Monitor de bateria ou multímetro",
@@ -31,9 +31,10 @@
     },
     {
       "titulo": "Chumbo-ácido: barata e pesada",
-      "texto": "Inclui as estacionárias, AGM e gel. Para durar, use no máximo cerca de 50% da capacidade: uma AGM de referência faz cerca de 600 ciclos descarregando 50% e 400 ciclos descarregando 80%. Precisa ser recarregada por completo com frequência; ficar descarregada a destrói (sulfatação).",
+      "texto": "Inclui as estacionárias, AGM e gel. Para durar, use no máximo cerca de 50% da capacidade: uma AGM típica faz cerca de 400 a 600 ciclos descarregando 50% e só 200 a 300 descarregando 80% (varia por fabricante). Precisa ser recarregada por completo com frequência; ficar descarregada a destrói (sulfatação).",
       "avisos": [
-        "Baterias de chumbo-ácido liberam hidrogênio, inflamável, durante a carga: instale em local ventilado, nunca em compartimento fechado."
+        "Baterias de chumbo-ácido liberam hidrogênio, inflamável, durante a carga: instale em local ventilado, nunca em compartimento fechado.",
+        "Em baterias abertas (com tampas), complete só com água destilada ou deionizada, nunca de torneira, usando óculos e luvas. Em respingo de ácido na pele ou nos olhos, lave com muita água por 15 minutos."
       ]
     },
     {
@@ -52,11 +53,21 @@
     },
     {
       "titulo": "Ligue em série ou em paralelo",
-      "texto": "Em série (positivo de uma no negativo da outra) somam-se as tensões: duas de 12 V e 100 Ah dão 24 V e 100 Ah. Em paralelo (positivo com positivo) somam-se as capacidades: 12 V e 200 Ah. Use baterias iguais, de mesma idade e carga, e cabos de mesmo comprimento."
+      "texto": "Em série (positivo de uma no negativo da outra) somam-se as tensões: duas de 12 V e 100 Ah dão 24 V e 100 Ah. Em paralelo (positivo com positivo) somam-se as capacidades: 12 V e 200 Ah. Use baterias iguais, de mesma idade e carga, e cabos de mesmo comprimento.\n\nEm paralelo, tire o positivo de uma ponta do banco e o negativo da outra (ligação em diagonal) ou use barramentos, para as baterias trabalharem por igual. Antes de unir, carregue cada bateria por completo.",
+      "avisos": [
+        "Nunca misture chumbo-ácido e lítio, nem marcas ou idades diferentes, no mesmo banco. Baterias de lítio em série só se o fabricante permitir, com balanceamento."
+      ]
     },
     {
       "titulo": "Monitore e conserve",
-      "texto": "Acompanhe a carga por um monitor de bateria ou pela tensão em repouso. Mantenha terminais limpos e apertados, a bateria fresca e à sombra (calor encurta a vida) e nunca a deixe descarregada por dias."
+      "texto": "Chumbo-ácido de 12 V, em repouso há mais de 1 hora: 12,6 V ≈ 100%; 12,4 V ≈ 75%; 12,2 V ≈ 50% (pare de descarregar aqui); 12,0 V ≈ 25%. Em LiFePO4 a tensão quase não muda entre 20% e 90%: use o monitor de bateria ou o BMS.\n\nMantenha terminais limpos e apertados, a bateria fresca e à sombra (calor encurta a vida) e nunca a deixe descarregada por dias."
+    },
+    {
+      "titulo": "Sem bateria estacionária",
+      "texto": "Uma bateria de carro serve como banco provisório, mas não é feita para descargas profundas: use o mínimo possível e recarregue no mesmo dia. Baterias de nobreak (7 a 9 Ah) servem para iluminação LED e rádio.",
+      "avisos": [
+        "Nunca monte pacote com células de lítio soltas (como as 18650 de notebook) sem BMS, nunca use bateria estufada, vazando ou quente, e nunca recarregue pilha alcalina."
+      ]
     }
   ],
   "fontes": [
@@ -75,6 +86,10 @@
     {
       "titulo": "Charging LiFePO4, what’s the impact of lower voltages? — Panbo",
       "url": "https://panbo.com/charging-lifepo4-what"
+    },
+    {
+      "titulo": "Battery bank wiring — Wiring Unlimited (Victron Energy)",
+      "url": "https://www.victronenergy.com/media/pg/The_Wiring_Unlimited_book/en/battery-bank-wiring.html"
     }
   ]
 }

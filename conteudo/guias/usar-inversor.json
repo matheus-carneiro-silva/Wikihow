@@ -15,7 +15,7 @@
   "dificuldade": "media",
   "tempoMinutos": 20,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento). Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
   "materiais": [
     "Inversor de onda senoidal pura",
     "Cabos de bitola adequada, com terminais",
@@ -43,7 +43,10 @@
     },
     {
       "titulo": "Respeite a polaridade e o aterramento",
-      "texto": "Ligue primeiro o negativo, depois o positivo, com o inversor desligado. Inverter a polaridade queima a maioria dos inversores. Aterre a carcaça conforme o manual."
+      "texto": "Com o inversor desligado e o fusível retirado (ou o disjuntor CC aberto), faça todas as ligações conferindo a polaridade, e coloque o fusível por último. Uma faísca pequena nesse momento é normal: são os capacitores carregando. Inverter a polaridade queima a maioria dos inversores. Aterre a carcaça conforme o manual.",
+      "dicas": [
+        "Ajuste o corte por tensão baixa do inversor (por exemplo, cerca de 11,5 V em chumbo-ácido), ou deixe o BMS da bateria de lítio cuidar disso."
+      ]
     },
     {
       "titulo": "Não ligue na tomada da casa",
@@ -63,12 +66,12 @@
       "url": "https://www.solar-electric.com/learning-center/inverters/inverter-basics-selection.html"
     },
     {
-      "titulo": "Inverter buying guide — Tripp Lite/Eaton",
-      "url": "https://tripplite.eaton.com/products/inverter-buying-guide"
-    },
-    {
       "titulo": "Worker Safety in a Power Outage — CDC",
       "url": "https://archive.cdc.gov/www_cdc_gov/disasters/poweroutage/workersafety.html"
+    },
+    {
+      "titulo": "DC wiring — Wiring Unlimited (Victron Energy)",
+      "url": "https://www.victronenergy.com/media/pg/The_Wiring_Unlimited_book/en/dc-wiring.html"
     }
   ]
 }

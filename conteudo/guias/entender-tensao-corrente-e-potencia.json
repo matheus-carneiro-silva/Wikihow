@@ -18,7 +18,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 15,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Havendo eletricista qualificado ao alcance, chame-o para qualquer ligação ao quadro da casa. Sem ele, siga à risca os passos de segurança e nunca improvise proteções (fusíveis, disjuntores, aterramento).",
   "passos": [
     {
       "titulo": "Tensão (volts, V)",
@@ -30,9 +30,10 @@
     },
     {
       "titulo": "Potência (watts, W)",
-      "texto": "Potência = tensão × corrente (P = V × I). Uma lâmpada de 12 W em 12 V consome 1 A; o mesmo aparelho de 1.200 W consome cerca de 10 A em 127 V, 5,5 A em 220 V e 100 A em 12 V.",
+      "texto": "Potência = tensão × corrente (P = V × I). Uma lâmpada de 12 W em 12 V consome 1 A; um aparelho de 1.200 W consome cerca de 10 A em 127 V, 5,5 A em 220 V e 100 A em 12 V.",
       "dicas": [
-        "Por isso sistemas de bateria maiores usam 24 V ou 48 V: para a mesma potência, a corrente cai e os cabos podem ser mais finos."
+        "Por isso sistemas de bateria maiores usam 24 V ou 48 V: para a mesma potência, a corrente cai e os cabos podem ser mais finos.",
+        "Em motores, tensão × corrente dá a potência aparente (VA), que é maior que a potência em W. Dimensione inversores e geradores pelo VA."
       ]
     },
     {
