@@ -1,16 +1,33 @@
 import { Stack, useLocalSearchParams } from 'expo-router';
-import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import { useMemo, useRef } from 'react';
+import { ScrollView, StyleSheet, Text, View, type ScrollViewInstance } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { destacar } from '@/busca/motor';
 import { metaGuia } from '@/components/CartaoGuia';
 import { Screen } from '@/components/Screen';
+import { TextoDestacado } from '@/components/TextoDestacado';
 import { obterGuia, type Passo } from '@/conteudo';
 import { cores } from '@/tema';
 
+type Params = {
+  id: string;
+  /** Índice (0-based) do passo para onde rolar, vindo da busca. */
+  passo?: string;
+  /** Termos da busca a destacar, separados por vírgula. */
+  termos?: string;
+};
+
 export default function TelaGuia() {
-  const { id } = useLocalSearchParams<{ id: string }>();
+  const { id, passo, termos } = useLocalSearchParams<Params>();
   const guia = obterGuia(id);
   const insets = useSafeAreaInsets();
+  const scroll = useRef<ScrollViewInstance>(null);
+  const jaRolou = useRef(false);
+
+  const alvo = useMemo(() => new Set(termos ? termos.split(',') : []), [termos]);
+  const passoAlvo = passo !== undefined ? Number(passo) : undefined;
+  const d = (texto: string) => destacar(texto, alvo);
 
   if (!guia) {
     return (
@@ -25,26 +42,36 @@ export default function TelaGuia() {
     <>
       <Stack.Screen options={{ title: guia.titulo }} />
       <ScrollView
+        ref={scroll}
         style={styles.tela}
         contentContainerStyle={[styles.conteudo, { paddingBottom: insets.bottom + 24 }]}
       >
-        <Text style={styles.titulo}>{guia.titulo}</Text>
+        <TextoDestacado partes={d(guia.titulo)} style={styles.titulo} />
         <Text style={styles.meta}>{metaGuia(guia)}</Text>
-        <Text style={styles.resumo}>{guia.resumo}</Text>
+        <TextoDestacado partes={d(guia.resumo)} style={styles.resumo} />
 
         {guia.materiais?.length ? (
           <View style={styles.secao}>
             <Text style={styles.secaoTitulo}>Você vai precisar de</Text>
             {guia.materiais.map((m) => (
-              <Text key={m} style={styles.item}>
-                •  {m}
-              </Text>
+              <TextoDestacado key={m} partes={[{ texto: '•  ', destaque: false }, ...d(m)]} style={styles.item} />
             ))}
           </View>
         ) : null}
 
-        {guia.passos.map((passo, i) => (
-          <BlocoPasso key={i} numero={i + 1} passo={passo} />
+        {guia.passos.map((p, i) => (
+          <View
+            key={i}
+            onLayout={(e) => {
+              // Rola uma vez até o passo onde a busca encontrou o termo.
+              if (i === passoAlvo && !jaRolou.current) {
+                jaRolou.current = true;
+                scroll.current?.scrollTo({ y: Math.max(0, e.nativeEvent.layout.y - 12), animated: true });
+              }
+            }}
+          >
+            <BlocoPasso numero={i + 1} passo={p} destacado={i === passoAlvo} d={d} />
+          </View>
         ))}
 
         <Text style={styles.rodape}>Atualizado em {formatarData(guia.atualizadoEm)}</Text>
@@ -53,38 +80,38 @@ export default function TelaGuia() {
   );
 }
 
-function BlocoPasso({ numero, passo }: { numero: number; passo: Passo }) {
+type Destacador = (texto: string) => ReturnType<typeof destacar>;
+
+function BlocoPasso({ numero, passo, destacado, d }: { numero: number; passo: Passo; destacado: boolean; d: Destacador }) {
   return (
-    <View style={styles.passo}>
+    <View style={[styles.passo, destacado && styles.passoDestacado]}>
       <View style={styles.passoTopo}>
         <View style={styles.numero}>
           <Text style={styles.numeroTexto}>{numero}</Text>
         </View>
-        <Text style={styles.passoTitulo}>{passo.titulo}</Text>
+        <TextoDestacado partes={d(passo.titulo)} style={styles.passoTitulo} />
       </View>
       {passo.texto.split(/\n\s*\n/).map((p, i) => (
-        <Text key={i} style={styles.paragrafo}>
-          {p.trim()}
-        </Text>
+        <TextoDestacado key={i} partes={d(p.trim())} style={styles.paragrafo} />
       ))}
-      {passo.dicas?.map((d) => (
-        <Caixa key={d} tipo="dica" texto={d} />
+      {passo.dicas?.map((t) => (
+        <Caixa key={t} tipo="dica" texto={t} d={d} />
       ))}
-      {passo.avisos?.map((a) => (
-        <Caixa key={a} tipo="aviso" texto={a} />
+      {passo.avisos?.map((t) => (
+        <Caixa key={t} tipo="aviso" texto={t} d={d} />
       ))}
     </View>
   );
 }
 
-function Caixa({ tipo, texto }: { tipo: 'dica' | 'aviso'; texto: string }) {
+function Caixa({ tipo, texto, d }: { tipo: 'dica' | 'aviso'; texto: string; d: Destacador }) {
   const dica = tipo === 'dica';
   return (
     <View style={[styles.caixa, { backgroundColor: dica ? cores.dicaFundo : cores.avisoFundo }]}>
-      <Text style={[styles.caixaTexto, { color: dica ? cores.dicaTexto : cores.avisoTexto }]}>
-        <Text style={styles.caixaRotulo}>{dica ? 'Dica: ' : 'Atenção: '}</Text>
-        {texto}
-      </Text>
+      <TextoDestacado
+        partes={[{ texto: dica ? 'Dica: ' : 'Atenção: ', destaque: false }, ...d(texto)]}
+        style={[styles.caixaTexto, { color: dica ? cores.dicaTexto : cores.avisoTexto }]}
+      />
     </View>
   );
 }
@@ -104,6 +131,15 @@ const styles = StyleSheet.create({
   secaoTitulo: { fontSize: 15, fontWeight: '700', color: cores.texto, marginBottom: 2 },
   item: { fontSize: 15, color: cores.texto, lineHeight: 22 },
   passo: { gap: 10, paddingTop: 8, borderTopWidth: StyleSheet.hairlineWidth, borderTopColor: cores.borda },
+  passoDestacado: {
+    borderTopWidth: 0,
+    borderLeftWidth: 3,
+    borderLeftColor: cores.primaria,
+    backgroundColor: cores.dicaFundo,
+    borderRadius: 8,
+    padding: 12,
+    marginHorizontal: -12,
+  },
   passoTopo: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingTop: 8 },
   numero: {
     width: 32,
@@ -118,6 +154,5 @@ const styles = StyleSheet.create({
   paragrafo: { fontSize: 16, color: cores.texto, lineHeight: 24 },
   caixa: { borderRadius: 10, padding: 12 },
   caixaTexto: { fontSize: 15, lineHeight: 22 },
-  caixaRotulo: { fontWeight: '700' },
   rodape: { fontSize: 13, color: cores.textoSecundario, textAlign: 'center', marginTop: 8 },
 });

@@ -7,6 +7,7 @@ no build, então o app funciona sem internet. Os tipos ficam em
 ```
 conteudo/
 ├── categorias.json      # lista de categorias
+├── sinonimos.json       # grupos de palavras equivalentes para a busca
 └── guias/
     └── <id>.json        # um arquivo por guia
 ```
@@ -77,5 +78,42 @@ na tela. Em um build de produção, só o guia inválido é ignorado.
 
 Campos fora dessa lista são recusados pela validação, para pegar erros de digitação.
 
-A busca da aba Explorar procura em título, resumo, tags e títulos dos passos,
-ignorando maiúsculas e acentos.
+## sinonimos.json
+
+Grupos de palavras que a busca trata como equivalentes: buscar "refrigerador"
+encontra guias que só falam "geladeira". Cada grupo tem ao menos duas palavras,
+uma palavra por item (sem espaços). Plurais e conjugações já são tratados pela
+busca, então não precisam entrar aqui.
+
+```json
+[
+  ["geladeira", "refrigerador"],
+  ["carro", "automóvel", "veículo"]
+]
+```
+
+## Como a busca usa o conteúdo
+
+O motor fica em `src/busca/motor.ts` e roda todo no aparelho.
+
+- **Onde procura**, do maior para o menor peso: `titulo` (5), `tags` (3),
+  nome da categoria e `resumo` (2), `materiais` e títulos dos passos (1,5),
+  texto, dicas e avisos dos passos (1).
+- **Ranking BM25**: palavras raras pesam mais que palavras comuns a muitos guias.
+- **Ignora** maiúsculas, acentos e palavras vazias ("como", "de", "para"…).
+  "sem" e "não" continuam valendo.
+- **Variações**: plural e conjugação caem no mesmo radical ("trocando pneus"
+  encontra "Como trocar o pneu").
+- **Enquanto digita**: a última palavra é buscada como prefixo ("desentu").
+- **Erros de digitação**: palavras com 5+ letras aceitam uma letra errada.
+- **Todas as palavras**: um guia só aparece se tiver todas as palavras da busca.
+  Se nenhum tiver, a busca mostra os que têm alguma e avisa.
+- **Palavras genéricas** ("fazer", "usar", "jeito"…) não são exigidas, só
+  melhoram a posição de quem as tem.
+- **Trecho**: o resultado mostra o passo onde a busca apareceu e, ao tocar, o
+  guia abre rolado até ele, com os termos destacados.
+
+Para o conteúdo render bons resultados: títulos com a ação e o objeto
+("Como trocar o pneu do carro"), resumo com os termos principais e `tags` com
+palavras que alguém buscaria mas que não aparecem no texto (marcas, apelidos,
+nomes alternativos).

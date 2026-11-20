@@ -3,7 +3,7 @@ import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 import type { Categoria } from '../src/conteudo/tipos.ts';
-import { validarCategorias, validarGuia } from '../src/conteudo/validar.ts';
+import { validarCategorias, validarGuia, validarSinonimos } from '../src/conteudo/validar.ts';
 
 const raiz = join(import.meta.dirname, '..', 'conteudo');
 const erros: string[] = [];
@@ -19,6 +19,7 @@ function lerJson(caminho: string, nome: string): unknown {
 
 const categorias = lerJson(join(raiz, 'categorias.json'), 'categorias.json');
 erros.push(...validarCategorias(categorias));
+erros.push(...validarSinonimos(lerJson(join(raiz, 'sinonimos.json'), 'sinonimos.json')));
 const listaCategorias = Array.isArray(categorias) ? (categorias as Categoria[]) : [];
 
 const arquivos = readdirSync(join(raiz, 'guias')).filter((f) => f.endsWith('.json'));

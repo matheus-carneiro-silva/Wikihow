@@ -36,6 +36,19 @@ export function validarCategorias(dados: unknown): string[] {
   return erros;
 }
 
+export function validarSinonimos(dados: unknown): string[] {
+  const erros: string[] = [];
+  if (!Array.isArray(dados)) return ['sinonimos.json: deve ser uma lista de grupos'];
+  dados.forEach((grupo, i) => {
+    const local = `sinonimos.json[${i}]`;
+    if (!Array.isArray(grupo) || grupo.length < 2) return void erros.push(`${local}: grupo com ao menos 2 palavras`);
+    grupo.forEach((p, j) => {
+      if (!ehTexto(p) || /\s/.test(p.trim())) erros.push(`${local}[${j}]: uma palavra só, sem espaços`);
+    });
+  });
+  return erros;
+}
+
 export function validarGuia(dados: unknown, arquivo: string, categorias: Categoria[]): string[] {
   const erros: string[] = [];
   if (!ehObjeto(dados)) return [`${arquivo}: deve ser um objeto`];

@@ -26,6 +26,7 @@ npm run android    # inicia e abre direto no emulador/dispositivo conectado
 | `npm run prebuild` | Gera a pasta nativa `android/` a partir do `app.json` |
 | `npm run typecheck` | Verificação de tipos com TypeScript |
 | `npm run conteudo:validar` | Valida os JSON de `conteudo/` |
+| `npm test` | Testes do motor de busca |
 | `npm run doctor` | Diagnóstico de configuração e dependências |
 | `npm run build:apk` | Build de APK na nuvem (perfil `preview`, para testes internos) |
 | `npm run build:aab` | Build de AAB na nuvem (perfil `production`, para a Play Store) |
@@ -37,6 +38,7 @@ As rotas ficam em `src/app/` — cada arquivo é uma tela:
 ```
 conteudo/                   # páginas offline em JSON (formato em conteudo/README.md)
 ├── categorias.json
+├── sinonimos.json
 └── guias/<id>.json
 src/
 ├── app/
@@ -44,15 +46,17 @@ src/
 │   ├── (tabs)/             # grupo de abas (não aparece na URL)
 │   │   ├── _layout.tsx     # abas nativas (Material 3 no Android)
 │   │   ├── index.tsx       # aba Início: todos os guias, mais recentes primeiro
-│   │   └── explorar.tsx    # aba Explorar: busca e filtro por categoria
-│   ├── guia/[id].tsx       # rota /guia/<id>: o guia com seus passos
+│   │   └── explorar.tsx    # aba Explorar: busca com trechos destacados e filtro por categoria
+│   ├── guia/[id].tsx       # rota /guia/<id>: o guia com seus passos (rola até ?passo=N)
 │   └── +not-found.tsx      # rota inexistente
-├── conteudo/               # tipos, validação, carregamento e busca do conteúdo
+├── busca/motor.ts          # motor de busca (MiniSearch + stemming em português)
+├── conteudo/               # tipos, validação e carregamento do conteúdo
 ├── components/             # componentes reutilizáveis
 └── tema.ts                 # cores
 ```
 
 - **Conteúdo**: `src/conteudo/index.ts` carrega todos os arquivos de `conteudo/guias/` com `require.context`, então basta criar o arquivo — não há lista para manter.
+- **Busca**: detalhes de como funciona e de como escrever conteúdo que a busca encontra bem em [`conteudo/README.md`](conteudo/README.md#como-a-busca-usa-o-conteúdo). Testes em `testes/busca.test.mts`.
 - **Abas**: usam `NativeTabs` de `expo-router/native-tabs`, que renderiza a barra de navegação nativa do Android. Ícones são [Material Symbols](https://fonts.google.com/icons) passados no `md`. Para adicionar uma aba, crie o arquivo em `src/app/(tabs)/` e um `NativeTabs.Trigger` com o mesmo `name` (máximo de 5 abas).
 - **Navegação**: `<Link href={{ pathname: '/guia/[id]', params: { id } }}>` ou `router.push(...)`. Rotas tipadas estão ativas (`experiments.typedRoutes`); os tipos são gerados em `.expo/types` ao rodar `npm start`.
 - Imports com o alias `@/` apontam para `src/`.

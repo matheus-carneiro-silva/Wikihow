@@ -10,4 +10,5 @@ export const cores = {
   dicaTexto: '#174ea6',
   avisoFundo: '#fdf0e3',
   avisoTexto: '#8a4b08',
+  destaque: '#fff0a8',
 } as const;
