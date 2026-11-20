@@ -1,0 +1,103 @@
+{
+  "id": "dimensionar-um-biodigestor",
+  "titulo": "Como dimensionar um biodigestor para fazer biogás",
+  "resumo": "Quanto gás dá o esterco de vaca, porco ou galinha, quanto o fogão gasta e como calcular o volume do biodigestor, com exemplos para 2 vacas e 5 porcos.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "biogás",
+    "gás de esterco",
+    "metano",
+    "biodigestor",
+    "fogão",
+    "tamanho do biodigestor",
+    "quantas vacas",
+    "tempo de retenção",
+    "esterco de porco",
+    "gás de cozinha"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Biogás é inflamável e pode explodir: misturado ao ar na faixa de 5% a 15% de metano, uma faísca basta. Também contém gás sulfídrico, tóxico. Nunca entre num biodigestor, mesmo vazio. Antes de montar, leia \"usar biogás com segurança\".",
+  "materiais": [
+    "Balança ou balde de volume conhecido para pesar o esterco",
+    "Termômetro (de preferência para medir a temperatura do solo)",
+    "Papel e calculadora"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que acontece dentro do biodigestor",
+      "texto": "No biodigestor, bactérias decompõem o esterco misturado com água num tanque fechado, sem oxigênio (digestão anaeróbia). Saem dois produtos: o biogás, que queima com chama azul, e um líquido digerido, o biofertilizante.\n\nO biogás tem de 40% a 70% de metano (o que queima), de 30% a 60% de gás carbônico e pequenas quantidades de outros gases, entre eles o gás sulfídrico (H2S), de cheiro de ovo podre. Cada metro cúbico tem cerca de 6 kWh de energia.\n\nAs bactérias trabalham melhor perto de 35 °C. Quanto mais frio, mais devagar: o esterco precisa ficar mais dias dentro do tanque, e o tanque precisa ser maior.",
+      "dicas": [
+        "Esterco de vaca já traz as bactérias certas e é o mais fácil para dar a partida em qualquer biodigestor."
+      ]
+    },
+    {
+      "titulo": "Calcule quanto gás a família precisa",
+      "texto": "Um fogão a biogás gasta de 150 a 300 litros por hora em cada boca. Para não errar a menos, use 300 L/h (0,3 m³/h).\n\nReferências: o manual da Redbiolac considera 1 m³ por dia o mínimo para o fogão de uma família, o que dá cerca de 3 horas de uma boca acesa. O manual da GTZ estima de 1,5 a 2,4 m³ por dia para uma família de 5 pessoas fazendo 2 refeições só no biogás.\n\nExemplo: uma família que cozinha 2 horas por dia numa boca e mais 1 hora na outra precisa de 3 h × 0,3 m³/h = 0,9 m³ por dia.",
+      "dicas": [
+        "Na prática, muitas famílias usam o biogás para parte da comida e mantêm a lenha ou o botijão de reserva. Numa pesquisa com biodigestores do semiárido de Pernambuco, os de 15 m³ produziram em média 15,7 m³ por mês, cerca de 0,5 m³ por dia."
+      ]
+    },
+    {
+      "titulo": "Pese o esterco que você consegue juntar",
+      "texto": "O que conta é o esterco que chega ao biodigestor, não o que o animal produz no pasto. A quantidade varia muito com a raça e a comida; o ideal é pesar o que você recolhe durante uma semana e tirar a média.\n\nPara estimar: a vaca produz cerca de 8 kg de esterco por dia para cada 100 kg de peso vivo; o porco, cerca de 4 kg. Uma vaca de 400 kg dá 32 kg por dia, mas, se ela só dorme no curral, você recolhe cerca de 1/4 disso (8 kg). Se fica 3 horas no curral para a ordenha, recolhe 3/24 = 1/8.\n\nUm porco de 60 kg preso em chiqueiro de cimento dá cerca de 60 × 4 ÷ 100 = 2,4 kg por dia, e quase tudo pode ser recolhido."
+    },
+    {
+      "titulo": "Estime o gás de cada matéria-prima",
+      "texto": "Valores médios por kg de material fresco (variam cerca de 10% para mais ou para menos):\n\n- Esterco de vaca: de 20 a 35 litros de biogás por kg. Use 20 L/kg para não superestimar. Por cabeça, o manual da GTZ dá cerca de 0,4 m³ por dia para uma vaca presa o dia todo.\n- Esterco de porco: de 50 a 60 litros por kg. Use 50 L/kg. Por cabeça, cerca de 0,15 m³ por dia.\n- Esterco de galinha: rende cerca do dobro do de vaca por kg, mas azeda (acidifica) o biodigestor com facilidade. Comece sempre com esterco de vaca e vá acrescentando aos poucos.\n- Restos de verdura e cascas: cerca de 35 litros por kg. Pique em pedaços de 2 a 6 cm e use só como complemento do esterco: palha e folhas formam uma crosta que flutua e trava a produção.\n\nMadeira e galhos não servem.",
+      "avisos": [
+        "Carga demais de uma vez, ou muito esterco de porco ou galinha sem esterco de vaca, azeda o biodigestor: o gás para de queimar e o líquido de saída fica fedendo."
+      ]
+    },
+    {
+      "titulo": "Escolha o tempo de retenção pela temperatura",
+      "texto": "Tempo de retenção é quantos dias a mistura fica dentro do biodigestor antes de sair. Sem aquecimento, o biodigestor fica 1 a 2 °C acima da temperatura do solo. Dimensione pela época mais fria do ano.\n\nTempos recomendados (Redbiolac): 35 °C: 25 a 30 dias; 30 °C: 30 a 40; 25 °C: 35 a 50; 20 °C: 50 a 65; 15 °C: 65 a 90; 10 °C: 90 a 125.\n\nPara biodigestor simples, a GTZ recomenda no mínimo 40 dias, e de 60 a 80 dias para esterco de vaca. Use o valor mais alto da faixa: por exemplo, 60 dias para vaca e 50 dias para porco a cerca de 25 °C.",
+      "dicas": [
+        "Abaixo de uns 15 °C a produção cai muito. No inverno do Sul, enterrar o biodigestor e cobri-lo com estufa transparente ajuda a manter o calor."
+      ]
+    },
+    {
+      "titulo": "Defina quanta água misturar",
+      "texto": "A mistura precisa ficar líquida o bastante para correr pelos canos e para as bactérias trabalharem. A proporção depende do modelo:\n\n- Biodigestor tubular de lona (Redbiolac): 1 parte de esterco de vaca para 3 de água; esterco de porco, 1 para 4.\n- Biodigestor sertanejo (modelo indiano adaptado, usado no semiárido): 1 kg de esterco para 1 litro de água por dia.\n\nCarga diária = esterco + água (considere 1 kg de esterco = 1 litro). Exemplo: 30 kg de esterco de vaca + 90 L de água = 120 litros por dia.",
+      "avisos": [
+        "Água de mais derruba a produção; água de menos entope os canos. Se o esterco estiver mais seco, ponha um pouco mais de água; se estiver mais mole, um pouco menos."
+      ],
+      "dicas": [
+        "Onde falta água, dá para reaproveitar o líquido que sai do biodigestor, coado, no lugar da água da mistura."
+      ]
+    },
+    {
+      "titulo": "Calcule o volume: exemplo com 2 vacas",
+      "texto": "Fórmula: volume líquido = carga diária × tempo de retenção. Some o espaço para o gás: no tubular, cerca de 1/4 do volume total. Volume total ≈ volume líquido ÷ 0,75.\n\nExemplo: 2 vacas de 400 kg presas à noite e na ordenha. Você pesou e recolhe 30 kg de esterco por dia.\n\n1. Gás: 30 kg × 20 L/kg = 600 L = 0,6 m³ por dia, cerca de 2 horas de uma boca do fogão.\n2. Carga diária (tubular, 1:3): 30 + 90 = 120 L por dia.\n3. Tempo de retenção a 25 °C: 60 dias.\n4. Volume líquido: 120 L × 60 = 7.200 L = 7,2 m³.\n5. Volume total: 7,2 ÷ 0,75 = 9,6 m³, ou seja, cerca de 10 m³.\n\nNo inverno do Sul, a 15 °C: 120 L × 90 dias = 10,8 m³ líquidos, cerca de 14,4 m³ no total.",
+      "dicas": [
+        "Para chegar a 1 m³ por dia com esterco de vaca, conte com cerca de 50 kg de esterco recolhido por dia (1.000 ÷ 20)."
+      ]
+    },
+    {
+      "titulo": "Exemplo com 5 porcos e confira o resultado",
+      "texto": "5 porcos de 60 kg em chiqueiro de cimento: 5 × 60 × 4 ÷ 100 = 12 kg de esterco por dia.\n\n1. Gás: 12 kg × 50 L/kg = 600 L = 0,6 m³ por dia (pelo valor por cabeça daria 5 × 0,15 = 0,75 m³; fique com o menor).\n2. Carga diária (tubular, 1:4): 12 + 48 = 60 L por dia.\n3. Tempo de retenção a 25 °C: 50 dias.\n4. Volume líquido: 60 × 50 = 3.000 L = 3 m³; volume total: 3 ÷ 0,75 = 4 m³.\n\nConfira: um biodigestor simples produz de 0,3 a 0,5 m³ de gás por m³ de tanque por dia na melhor situação; na prática, costuma render menos. Se o gás calculado não cobre o fogão, junte mais esterco (por exemplo, prendendo os animais mais horas) ou planeje usar o biogás só em parte da comida.",
+      "dicas": [
+        "Depois de dimensionado, veja como construir em \"montar um biodigestor caseiro\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Biodigestores Tubulares: Guía de Diseño y Manual de Instalación — J. Martí-Herrero, Redbiolac, 2019",
+      "url": "https://repositorio.ikiam.edu.ec/jspui/bitstream/RD_IKIAM/351/1/L-IKIAM-000005.pdf"
+    },
+    {
+      "titulo": "Biogas plants in animal husbandry — GATE/GTZ, 1989",
+      "url": "https://www.lowimpact.org/wp-content/uploads/biogas-animal-husbandry.pdf"
+    },
+    {
+      "titulo": "Small-scale biodigesters in a tropical semi-arid region — Silva et al., Energy Nexus, 2025 (UFPE, Embrapa Semiárido, Diaconia)",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1185937/1/Small-scale-biodigesters-in-a-tropical-semi-arid-region.pdf"
+    },
+    {
+      "titulo": "Fundamentos da digestão anaeróbia, purificação do biogás, uso e tratamento do digestato, 2ª ed. — Embrapa Suínos e Aves, 2022",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1141618/1/final9894.pdf"
+    }
+  ]
+}

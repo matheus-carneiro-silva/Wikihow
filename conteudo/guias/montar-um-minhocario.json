@@ -1,0 +1,86 @@
+{
+  "id": "montar-um-minhocario",
+  "titulo": "Como montar um minhocário doméstico",
+  "resumo": "Vermicompostagem em caixas empilhadas ou baldes: minhocas, substrato, o que dar, chorume diluído, colheita do húmus e solução de problemas.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "minhoca",
+    "minhocas californianas",
+    "vermicompostagem",
+    "vermicomposteira",
+    "composteira doméstica",
+    "húmus de minhoca",
+    "chorume",
+    "biofertilizante",
+    "lixo orgânico",
+    "restos de comida"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Use luvas para mexer no minhocário e lave bem as mãos depois. Nunca coloque fezes de cachorro ou gato, nem papel higiênico usado: podem transmitir doenças para quem usa o húmus na horta.",
+  "materiais": [
+    "3 ou 4 caixas plásticas iguais e empilháveis com tampa (cerca de 36 a 80 L) ou baldes de 20 L",
+    "Furadeira ou prego quente para furar o fundo das caixas",
+    "Torneira plástica para a caixa de baixo (opcional)",
+    "100 a 200 minhocas vermelhas-da-califórnia com um pouco do substrato de origem",
+    "Substrato já curtido: esterco curtido, húmus, pó de coco ou folhas com terra em decomposição",
+    "Material seco: folhas secas, palha, serragem grossa ou papelão picado"
+  ],
+  "passos": [
+    {
+      "titulo": "Monte as caixas",
+      "texto": "O modelo mais comum tem 3 caixas empilhadas mais 1 embaixo, sem furos, que só recolhe o chorume. Faça vários furos pequenos no fundo das caixas de cima, para o líquido escorrer e as minhocas subirem de uma caixa para a outra. Se tiver, instale uma torneira perto do fundo da caixa de baixo.\n\nTambém servem baldes de 20 L encaixados uns nos outros, caixotes de madeira ou manilhas de cimento, sempre com tampa: a tampa impede a entrada de ratos e baratas.\n\nTamanho: segundo a Embrapa, uma família de 3 pessoas que faz as 3 refeições em casa precisa de cerca de 4 conjuntos de 4 caixas de 36 L para reciclar todo o lixo orgânico. Comece com 1 conjunto e aumente conforme a sobra.",
+      "dicas": [
+        "Ponha um tijolo ou pedaço de madeira dentro da caixa do chorume: as minhocas que caírem sobem por ele e não morrem afogadas."
+      ]
+    },
+    {
+      "titulo": "Escolha o lugar",
+      "texto": "Deixe o minhocário à sombra, em lugar arejado e protegido da chuva: varanda, área de serviço, garagem ou bancada sob uma árvore.\n\nA temperatura ideal para a minhoca vermelha-da-califórnia fica em torno de 25 °C. Ela aguenta até cerca de 30 °C; acima disso e no sol direto, morre ou foge."
+    },
+    {
+      "titulo": "Povoe a primeira caixa",
+      "texto": "Use a minhoca vermelha-da-califórnia (Eisenia fetida ou E. andrei), a mais adaptada a minhocários fechados. Compre de criadores, floriculturas ou peça a quem já tem minhocário.\n\nColoque de 100 a 200 minhocas numa caixa de 40 a 80 L, no fundo ou num canto, junto com o substrato em que vieram e uma camada de substrato curtido. O material precisa estar decomposto, úmido e frio, nunca esquentando.",
+      "avisos": [
+        "Não comece com resto de comida fresco puro nem esterco fresco: ao fermentar, eles esquentam e podem matar as minhocas."
+      ]
+    },
+    {
+      "titulo": "Alimente do jeito certo",
+      "texto": "Coloque os restos de cozinha todo dia ou a cada 2 dias, variando o ponto da caixa e sempre enterrando no substrato. A cada 2 dias, cubra com material seco (folhas, palha, papelão picado de 1 a 3 cm) em volume igual ao dos restos colocados. O seco evita mau cheiro, mosquinhas e excesso de umidade.\n\nPode: cascas e restos de frutas e verduras, borra de café com o filtro de papel, pão umedecido, cascas de ovo moídas, folhas, flores e galhos finos, papelão do rolo de papel higiênico, guardanapo sem resto de carne.\n\nEvite ou dê pouco: cascas de frutas cítricas (laranja, limão), comida cozida e temperada com sal, serragem fina em grande quantidade, jornal e papel colorido.\n\nNunca coloque: carne, peixe, osso, queijo e outros laticínios, óleo e gordura, fezes de animais de estimação e papel higiênico usado.",
+      "dicas": [
+        "Picar os restos em pedaços pequenos acelera a decomposição.",
+        "Casca de coco verde e sabugo de milho em pedaços deixam o substrato arejado (lave bem a casca de coco antes)."
+      ],
+      "avisos": [
+        "Não exagere na comida nem a concentre num ponto só: o excesso fermenta, esquenta a caixa e afugenta ou mata as minhocas."
+      ]
+    },
+    {
+      "titulo": "Controle a umidade e retire o chorume",
+      "texto": "A umidade ideal é de 80 a 90%. Teste apertando um punhado do substrato: devem escorrer só algumas gotas. Os restos de cozinha já têm muita água, então geralmente não é preciso molhar; depois de uns 45 dias, confira e acrescente um pouco de água se estiver seco.\n\nRetire o chorume (o líquido escuro da caixa de baixo) 1 a 2 vezes por semana. Use diluído:\n\n• no solo, ao pé de fruteiras e canteiros: 1 parte de chorume para 4 de água (1 L de chorume + 4 L de água);\n• nas folhas, em pulverizador: coe e dilua 1 para 9 (0,5 L de chorume + 4,5 L de água).\n\nAplique a cada 1 ou 2 semanas.",
+      "avisos": [
+        "Não use o chorume puro nas plantas."
+      ]
+    },
+    {
+      "titulo": "Colha o húmus",
+      "texto": "Os restos viram húmus em cerca de 45 a 60 dias, dependendo da temperatura, da umidade e da quantidade de minhocas. Quando a caixa de cima encher, coloque uma caixa vazia por cima com um pouco de substrato e algumas minhocas e passe a alimentar só nela. As minhocas sobem atrás da comida.\n\nPara separar as minhocas do húmus pronto, use um dos jeitos:\n\n• Peneira: ponha o húmus numa peneira de malha maior que 0,4 cm sobre um balde e deixe alguns minutos no sol. As minhocas fogem da luz para baixo e caem.\n• Isca: coloque esterco úmido ou cascas de fruta num saco vazado (como o de cebola) sobre o húmus. Em 4 a 7 dias, a maior parte das minhocas entra no saco.\n\nUse o húmus na horta, em vasos e no plantio de mudas. Veja também o guia \"adubar a horta sem adubo químico\"."
+    },
+    {
+      "titulo": "Resolva os problemas comuns",
+      "texto": "Mau cheiro: excesso de comida, comida exposta, umidade demais ou falta de ar. Pare de alimentar por 14 dias, enterre bem os restos, acrescente material seco e revire o substrato com a tampa aberta.\n\nMosquinhas e moscas: comida exposta ou podre e excesso de cascas cítricas. Enterre tudo, cubra com palha ou substrato e não exagere na comida.\n\nMinhocas morrendo: umidade demais ou de menos, falta de ar ou de comida, calor ou frio extremo. Corrija a umidade para cerca de 80%, revire e mantenha o minhocário entre 25 e 30 °C.\n\nMinhocas fugindo (raro): ambiente ruim, pelos mesmos motivos acima, ou vibração constante. Corrija as condições e afaste de máquinas.\n\nFungos e acidez: excesso de cítricos. Reduza as cascas cítricas e misture 100 a 200 g de calcário.\n\nÁgua acumulando no fundo: restos muito úmidos e pouca ventilação. Deixe a tampa aberta por alguns dias e acrescente material seco."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manejo de minhocários domésticos (Documentos 203) — Embrapa Tabuleiros Costeiros",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1042106/1/Doc203.pdf"
+    },
+    {
+      "titulo": "Composting at home — Agência de Proteção Ambiental dos EUA (EPA)",
+      "url": "https://www.epa.gov/recycle/composting-home"
+    }
+  ]
+}

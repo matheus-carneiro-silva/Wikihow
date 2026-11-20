@@ -1,0 +1,103 @@
+{
+  "id": "fazer-compostagem",
+  "titulo": "Como fazer compostagem",
+  "resumo": "Composto orgânico em pilha ou composteira com restos de cozinha, palha e esterco: proporção, umidade, reviramento, tempo, o que não colocar e minhocário.",
+  "categoria": "solo-e-adubacao",
+  "tags": [
+    "composto",
+    "composteira",
+    "adubo caseiro",
+    "adubo orgânico",
+    "restos de comida",
+    "lixo orgânico",
+    "minhocário",
+    "húmus",
+    "chorume",
+    "esterco"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 90,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca coloque fezes humanas, de cão ou de gato na composteira da horta: transmitem doenças, e uma composteira caseira raramente esquenta o bastante para eliminá-las. Use luvas ao mexer com esterco e composto, lave as mãos depois e cuidado com o forcado e a enxada ao revirar. O centro da pilha pode passar de 60 °C.",
+  "materiais": [
+    "Material seco (marrom): palha, capim seco, folhas secas, serragem grossa, papelão picado",
+    "Material úmido (verde): restos de frutas e verduras, borra de café, grama fresca, esterco de gado, cavalo, cabra ou galinha",
+    "Água",
+    "Forcado, pá ou enxada",
+    "Vergalhão (ferro de construção) ou termômetro de haste",
+    "Luvas"
+  ],
+  "passos": [
+    {
+      "titulo": "Separe os materiais secos e úmidos",
+      "texto": "O composto depende do equilíbrio entre carbono e nitrogênio. O ideal é uma mistura de cerca de 30 partes de carbono para 1 de nitrogênio (relação C/N de 30:1).\n\n• Marrons (ricos em carbono, secos): palha de milho, capim seco, folhas secas, serragem, bagaço de cana, galhos finos picados.\n• Verdes (ricos em nitrogênio, úmidos): restos de frutas e verduras, borra de café, grama recém-cortada, folhas de leguminosas, esterco.\n\nNa prática, misture por volume 2 a 3 partes de material seco para 1 de material úmido. Exemplo: para cada balde de restos de cozinha, 2 baldes de folhas secas ou palha. Com esterco, use camadas de cerca de 30 cm de palha para 10 cm de esterco.",
+      "dicas": [
+        "Pique materiais grandes: pedaços pequenos se decompõem mais rápido, mas pó muito fino (serragem fina) compacta e abafa a pilha."
+      ]
+    },
+    {
+      "titulo": "Monte a pilha ou a composteira",
+      "texto": "Escolha um lugar plano, que não empoce água, de preferência à sombra ou coberto, e longe de poço e nascente.\n\nPilha no chão: comece com uma camada de material seco, depois uma de material úmido, e vá alternando. A primeira e a última camada devem ser de material seco, que cobre os restos e evita mosca e cheiro. Molhe cada camada sem encharcar. Tamanho recomendado: cerca de 1,2 m de largura e entre 1 e 1,5 m de altura. Pilhas com mais de 5 m de comprimento dão muito trabalho para revirar.\n\nComposteira de caixas (para quintal pequeno ou apartamento): 2 ou mais caixas furadas no fundo, empilhadas sobre uma terceira sem furos que recolhe o líquido. Sempre que puser restos de comida, cubra com uma camada de material seco.",
+      "dicas": [
+        "Um punhado de composto pronto ou de terra de mata misturado no início acelera o aquecimento."
+      ]
+    },
+    {
+      "titulo": "Acerte a umidade com o teste do aperto",
+      "texto": "A umidade ideal fica em torno de 50 a 60%. Pegue um punhado do meio da pilha e aperte com força média:\n\n• não sai água: está seco, molhe;\n• aparecem algumas gotas entre os dedos: está certo;\n• a água escorre pela mão: está molhado demais, misture material seco.\n\nAjuste a umidade sempre que revirar a pilha.",
+      "avisos": [
+        "Cheiro de podre ou de amônia (xixi) indica excesso de umidade ou de material verde: acrescente folhas secas, palha ou serragem e revire."
+      ]
+    },
+    {
+      "titulo": "Controle a temperatura e revire",
+      "texto": "Nos primeiros dias a pilha esquenta e deve ficar entre 50 e 65 °C. Essa fase quente mata sementes de mato e boa parte dos micróbios causadores de doenças, desde que todo o material passe pelo miolo da pilha.\n\nPara medir sem termômetro, enfie um vergalhão no meio da pilha, espere alguns minutos e tire: se não der para segurar o ferro com a mão, está quente demais (acima de 65 °C) e é hora de revirar.\n\nRevire a cada 7 dias no primeiro mês e depois a cada 15 dias, trazendo o que estava na borda para o meio e de cima para baixo.",
+      "dicas": [
+        "Se a pilha não esquenta: falta material verde ou água, ou ela é pequena demais. Acrescente restos verdes, molhe e aumente o volume."
+      ]
+    },
+    {
+      "titulo": "Saiba o que não colocar",
+      "texto": "Fora da composteira:\n\n• fezes humanas, de cão e de gato, e areia de gato;\n• carnes, peixes, ossos, gorduras e laticínios: atraem ratos, cães e moscas;\n• plantas doentes e mato com sementes: a pilha caseira raramente esquenta o bastante para eliminá-los;\n• plástico, metal, vidro, madeira tratada ou envernizada e cinza de carvão de churrasqueira com resto de carne.\n\nResto de comida cozida com sal e muito tempero, em pouca quantidade, vai na pilha comum coberto com material seco, mas não no minhocário.",
+      "avisos": [
+        "Restos expostos atraem ratos e baratas: sempre cubra com material seco ou terra."
+      ]
+    },
+    {
+      "titulo": "Saiba quando está pronto e como usar",
+      "texto": "A pilha fica pronta, em geral, entre 60 e 90 dias. Com reviramento esporádico, conte 90 a 120 dias. Ele está pronto quando:\n\n• não dá mais para reconhecer os materiais;\n• tem cor escura e cheiro de terra;\n• a temperatura do miolo ficou igual à do ambiente, mesmo depois de revirar.\n\nPara hortaliças, aplique de 1 a 3 kg de composto por metro quadrado de canteiro, misturado na terra antes do plantio. Exemplo: canteiro de 1 m × 5 m = 5 m², de 5 a 15 kg (cerca de 1 a 3 carrinhos de mão pequenos, conforme a umidade).",
+      "dicas": [
+        "Mantenha duas pilhas: uma recebendo material e outra maturando. Assim sempre há composto pronto."
+      ]
+    },
+    {
+      "titulo": "Opcional: monte um minhocário",
+      "texto": "As minhocas transformam restos de cozinha em húmus mais rápido, em 45 a 60 dias. Use a minhoca vermelha-da-califórnia, que vive bem em caixas.\n\n• Use caixas plásticas empilhadas (por exemplo, 3 com furos para os resíduos e 1 embaixo para o chorume), com tampa contra ratos e baratas, num lugar arejado e à sombra.\n• Comece com 100 a 200 minhocas para uma caixa de 40 a 80 litros, junto com um pouco de esterco curtido ou composto já frio.\n• Ponha restos de frutas e verduras todo dia ou a cada 2 dias, mudando o lugar dentro da caixa. A cada 2 dias, cubra com folhas secas picadas em volume igual ao dos restos.\n• Não ponha carne, fezes de cachorro, papel colorido nem cítricos e comidas temperadas em quantidade.\n\nA umidade certa é maior que a da pilha: ao apertar, devem escorrer poucas gotas. A temperatura ideal é perto de 25 °C; acima de 30 °C as minhocas sofrem.\n\nRetire o chorume 1 a 2 vezes por semana. Para regar no solo, dilua 1 litro de chorume em 4 litros de água; para borrifar nas folhas, coe e dilua 0,5 litro em 4,5 litros de água, uma vez por semana ou a cada 15 dias.",
+      "dicas": [
+        "Para separar as minhocas do húmus, coloque uma isca de casca de fruta num saco de cebola sobre a caixa: em 4 a 7 dias a maioria migra para ela."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Compostagem e adubos orgânicos (cap. 8), em Horticultura em Moçambique — Embrapa Hortaliças",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1029670/1/HorticulturaemMocambiquePDFCap8.pdf"
+    },
+    {
+      "titulo": "Produção de composto orgânico — Embrapa Amapá (2014)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1009568/1/CPAFAPFDRAdubacaoverde.pdf"
+    },
+    {
+      "titulo": "Compostagem doméstica, comunitária e institucional de resíduos orgânicos: manual de orientação — Ministério do Meio Ambiente (2017)",
+      "url": "https://sapiens.ipt.br/Anexos/cms-files-143183-1597432775Compostagem-ManualOrientacao_MMA_2017-06-20%20(1).pdf"
+    },
+    {
+      "titulo": "What types of materials should not be added to a compost pile? — Iowa State University Extension",
+      "url": "https://yardandgarden.extension.iastate.edu/faq/what-types-materials-should-not-be-added-compost-pile"
+    },
+    {
+      "titulo": "Manejo de minhocários domésticos — Embrapa Tabuleiros Costeiros (Documentos 203)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1042106/1/Doc203.pdf"
+    }
+  ]
+}

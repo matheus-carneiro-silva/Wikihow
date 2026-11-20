@@ -1,0 +1,93 @@
+{
+  "id": "montar-um-banheiro-seco",
+  "titulo": "Como montar um banheiro seco",
+  "resumo": "Banheiro seco ou compostável sem água nem rede de esgoto: balde de emergência, separação de urina, câmara dupla, tempo seguro e uso como adubo.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "privada seca",
+    "sanitário compostável",
+    "banheiro compostável",
+    "latrina",
+    "patente",
+    "fezes",
+    "xixi",
+    "urina como adubo",
+    "banheiro de emergência",
+    "sem água"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fezes humanas transmitem diarreias, verminoses e outras doenças graves. Nunca use o material antes de cumprir todo o tempo de tratamento, use luvas para manuseá-lo, lave as mãos com sabão sempre e mantenha o banheiro a pelo menos 30 m de poços, nascentes e córregos.",
+  "materiais": [
+    "Para emergência: 2 baldes de cerca de 20 L com tampa, assento ou tampa de vaso adaptada e sacos de lixo reforçados",
+    "Para uso permanente: 2 câmaras impermeáveis acima do solo (alvenaria rebocada ou tambores) com tampa e cano de ventilação",
+    "Assento com separador de urina, se possível",
+    "Material de cobertura seco: serragem, cinza, cal, terra seca, folhas secas picadas ou palha",
+    "Galão com torneira, sabão e bacia para lavar as mãos",
+    "Luvas de borracha e pá"
+  ],
+  "passos": [
+    {
+      "titulo": "Veja quando o banheiro seco faz sentido",
+      "texto": "Ele serve quando falta água para dar descarga, não há rede de esgoto ou fossa adequada, a rede parou (enchente, terremoto, falta de água prolongada) ou o terreno tem lençol freático raso demais para fossa.\n\nSe existe água encanada e espaço, outra opção é tratar o esgoto do vaso numa fossa séptica biodigestora: veja o guia \"tratar esgoto sem rede\".\n\nEscolha o modelo:\n\n• Balde de emergência: para dias ou semanas, montado em minutos.\n• Câmara com separação de urina: as fezes secam mais rápido e quase não há cheiro.\n• Câmara dupla alternada: para uso permanente; enquanto uma câmara é usada, a outra descansa."
+    },
+    {
+      "titulo": "Monte o balde de emergência",
+      "texto": "Use 2 baldes de cerca de 20 L, marcados \"xixi\" e \"cocô\".\n\n• Balde do xixi: sem saco, sempre tampado. Não jogue papel nele.\n• Balde do cocô: forrado com saco de lixo reforçado. Depois de cada uso, jogue cerca de meia xícara de serragem, aparas de madeira ou papel picado, cobrindo tudo. Não precisa misturar. Papel higiênico vai neste balde.\n\nAbaixe o assento sem vedar, para o material secar. Encha o balde do cocô só até a metade. Para esvaziar, use luvas, feche o saco, coloque dentro de um segundo saco e guarde numa lixeira tampada, longe de comida, água, crianças, animais e moscas.\n\nO xixi, quando o balde estiver com cerca de 1/4, pode ser diluído com água e despejado no chão, mudando o lugar a cada vez.",
+      "avisos": [
+        "Não misture o xixi no balde do cocô: a urina é a principal causa do mau cheiro.",
+        "Em área rural, se precisar enterrar as fezes, faça a cova a pelo menos 30 m de qualquer poço, nascente ou córrego e nunca em lugar de onde a enxurrada escorra para eles."
+      ]
+    },
+    {
+      "titulo": "Construa as câmaras para uso permanente",
+      "texto": "As fezes devem ficar acima do solo, em câmaras fechadas que não vazem para o lençol freático. Faça 2 câmaras lado a lado, de alvenaria rebocada ou com tambores, cada uma com uma porta ou tampa para retirar o material e um cano de ventilação. O assento fica sobre a câmara em uso; a outra fica tampada.\n\nSe possível, use um assento com separador: a urina vai por um cano para um galão fechado ou para o solo, e só as fezes caem na câmara. Isso deixa o material mais seco, reduz o cheiro e as moscas e diminui o volume a tratar.",
+      "dicas": [
+        "A água usada para lavar o ânus não deve ir para a câmara nem para a urina: mande para a infiltração da água cinza.",
+        "Papel higiênico pode ir para a câmara se for biodegradável. Absorventes, fraldas descartáveis e plástico vão para o lixo comum."
+      ]
+    },
+    {
+      "titulo": "Cubra as fezes depois de cada uso",
+      "texto": "Depois de cada uso, cubra as fezes com material seco: serragem, cinza, cal, terra seca, folhas secas picadas ou palha. A cobertura tira o cheiro, afasta moscas e absorve a umidade.\n\nCinza e cal são as melhores escolhas, porque deixam o meio alcalino (pH alto) e matam mais micróbios. Serragem e palha ajudam a compostar.\n\nEm épocas de diarreia na casa, coloque mais cobertura."
+    },
+    {
+      "titulo": "Respeite o tempo de tratamento",
+      "texto": "Quando a câmara em uso encher, tampe-a e passe para a outra. O material da câmara fechada só pode ser retirado depois do tempo total de armazenamento:\n\n• clima com temperatura média até 20 °C: 1,5 a 2 anos;\n• clima com temperatura média acima de 20 °C: pelo menos 1 ano.\n\nPara fezes cobertas com bastante cinza ou cal, as recomendações falam em 6 meses no mínimo com pH acima de 9, mas sem medir o pH não há como garantir isso. Use os tempos acima.\n\nA compostagem quente reduz o tempo: o material precisa ficar a 50 °C ou mais por pelo menos 7 dias, com revolvimento para que todo ele aqueça, e depois maturar. Sem termômetro de compostagem, não conte com isso.\n\nDimensione as câmaras para que cada uma leve pelo menos esse tempo para encher."
+    },
+    {
+      "titulo": "Use o composto com segurança",
+      "texto": "Retire o material com luvas e pá exclusivas para isso. Enterre e misture bem no solo antes do plantio; nunca deixe na superfície.\n\nUse em árvores frutíferas, capineiras, plantas ornamentais e culturas que serão cozidas. Não use em verduras, frutas ou raízes que são comidas cruas (árvores frutíferas podem receber). Deixe pelo menos 1 mês entre a última aplicação e a colheita.\n\nPara outros adubos da horta, veja o guia \"adubar a horta sem adubo químico\"."
+    },
+    {
+      "titulo": "Aproveite a urina como adubo",
+      "texto": "A urina é um adubo rico em nitrogênio, com cerca de 3 a 7 g de nitrogênio por litro, além de fósforo e potássio. Se for da própria família, pode ser usada sem armazenar. Se vier de várias casas, guarde em galão fechado, sem diluir, por 1 a 6 meses antes de usar.\n\nRegra prática: a urina de 1 pessoa em 1 dia aduba 1 m² por ciclo de cultura. A urina de uma pessoa dá para adubar cerca de 300 a 400 m² por ano.\n\nAplique pura ou diluída em água, rente ao solo e nunca sobre as folhas. Depois, incorpore na terra ou regue. Use do plantio até cerca de 2/3 do ciclo da cultura e pare pelo menos 1 mês antes da colheita.",
+      "avisos": [
+        "A urina contaminada com fezes deixa de ser segura: mantenha o separador limpo."
+      ]
+    },
+    {
+      "titulo": "Mantenha a higiene",
+      "texto": "Deixe ao lado do banheiro um galão de água limpa com torneira, sabão, toalha e uma bacia para recolher a água usada, que pode servir para diluir a urina.\n\nLave as mãos com água e sabão depois de usar o banheiro, de mexer no material e de cuidar de doentes, e antes de cozinhar ou comer. Sem água e sabão, use álcool em gel com pelo menos 60% de álcool, sabendo que ele funciona mal em mãos sujas.\n\nUse ferramentas diferentes para o material ainda não tratado e para o composto pronto."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "EcoSanRes Fact Sheet 5: Guidelines for the safe use of urine and faeces in ecological sanitation systems — Stockholm Environment Institute",
+      "url": "https://susana.org/_resources/documents/default/2-323-esr-factsheet-5-en.pdf"
+    },
+    {
+      "titulo": "EcoSanRes Fact Sheet 6: Guidelines on the use of urine and faeces in crop production — Stockholm Environment Institute",
+      "url": "https://susana.org/_resources/documents/default/2-324-esr-factsheet-6-en.pdf"
+    },
+    {
+      "titulo": "Dehydration and storage (orientações da OMS para fezes) — SSWM",
+      "url": "https://sswm.info/humanitarian-crises/camps/sanitation/collection-and-storage-treatment/dehydration-and-storage"
+    },
+    {
+      "titulo": "Survival basics: sanitation and waste management (EM 9334) — Oregon State University Extension",
+      "url": "https://extension.oregonstate.edu/catalog/pub/em-9334-survival-basics-sanitation-waste-management"
+    }
+  ]
+}

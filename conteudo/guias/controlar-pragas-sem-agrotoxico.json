@@ -1,0 +1,109 @@
+{
+  "id": "controlar-pragas-sem-agrotoxico",
+  "titulo": "Como controlar pragas da horta sem agrotóxico",
+  "resumo": "Prevenção, catação, barreiras, armadilhas e caldas caseiras (sabão, nim, bordalesa) contra pulgão, lagarta, formiga cortadeira, lesma e fungos.",
+  "categoria": "pragas-colheita-e-sementes",
+  "tags": [
+    "pulgão",
+    "lagarta",
+    "formiga cortadeira",
+    "lesma",
+    "caramujo",
+    "nim",
+    "calda bordalesa",
+    "defensivo natural",
+    "inseticida caseiro",
+    "agroecologia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Calda caseira também é produto químico: use luvas, evite contato com pele e olhos, aplique nas horas frescas e lave bem tudo o que for comer. Teste antes em poucas plantas para ver se queima. Este guia não traz calda de fumo (nicotina), que é tóxica para quem aplica.",
+  "materiais": [
+    "Luvas, balde e pulverizador ou regador",
+    "Pano fino ou peneira para coar",
+    "Sabão em barra (de coco ou de cinza)",
+    "Sementes de nim (se houver a árvore por perto)",
+    "Sulfato de cobre e cal virgem (para a calda bordalesa)",
+    "Faca de aço comum (não inox)",
+    "Cinza de fogão a lenha, sacos de pano velhos e cerveja"
+  ],
+  "passos": [
+    {
+      "titulo": "Previna com diversidade e plantas repelentes",
+      "texto": "Horta com muitas espécies misturadas sofre menos ataque do que um canteiro grande de uma planta só. Plante em consórcio e faça rotação: não repita a mesma cultura no mesmo canteiro em seguida.\n\nPlantas de cheiro forte afastam pragas quando ficam junto da cultura:\n\n• cravo-de-defunto junto do tomate (brocas do fruto);\n• cravo-de-defunto, coentro ou arruda junto de couve e repolho (lagartas);\n• alecrim ou tomilho junto da couve (borboleta-da-couve);\n• hortelã, manjericão e alfavaca nas bordas dos canteiros (borboletas, mariposas e formigas);\n• girassol no meio da horta, que também atrai polinizadores.",
+      "dicas": [
+        "Solo bem adubado com matéria orgânica dá plantas mais resistentes. Veja os guias \"fazer compostagem\" e \"adubar a horta sem adubo químico\"."
+      ]
+    },
+    {
+      "titulo": "Vistorie e cate as pragas à mão",
+      "texto": "Olhe as plantas com frequência, sempre pela parte de baixo das folhas, onde ficam ovos, pulgões e lagartas pequenas. Quanto mais cedo achar, mais fácil é controlar.\n\nCate lagartas, ovos e besouros e jogue num balde com água e sabão. Lesmas e caramujos saem ao entardecer e de noite: é a melhor hora para recolher.\n\nArranque e retire da horta folhas ou plantas muito atacadas ou doentes, para não espalhar.",
+      "avisos": [
+        "Recolha lesmas e caramujos com luva ou com um saco plástico na mão e lave as mãos depois."
+      ]
+    },
+    {
+      "titulo": "Use barreiras e plantas-isca",
+      "texto": "Faça uma faixa de 15 cm de largura em volta dos canteiros ou das plantas com cinza de fogão a lenha, pó de carvão, casca de ovo moída ou farinha de osso. Refaça depois da chuva.\n\nPlantas-isca atraem a praga para longe da cultura principal. Contra formigas cortadeiras, plante em volta da horta mandioca, batata-doce, cana-de-açúcar ou leucena, e espalhe sementes de gergelim preto na bordadura: as formigas levam as folhas de gergelim para o ninho, e elas são tóxicas para o fungo que alimenta o formigueiro."
+    },
+    {
+      "titulo": "Monte armadilhas para lesmas e caramujos",
+      "texto": "Num teste da Embrapa Pantanal, sacos de pano de cerca de 35 × 60 cm molhados com cerveja foram a isca que mais atraiu caramujos; em segundo lugar ficou um extrato da própria cebolinha (1 maço batido no liquidificador com 2 litros de água, feito na hora).\n\nMolhe os sacos ao entardecer e deixe ao lado dos canteiros, sobre folhas (de coqueiro, por exemplo), sem encostar direto na terra. De manhã, recolha os bichos que se esconderam embaixo e elimine. Em 7 dias de teste, as armadilhas pegaram mais de 1.600 caramujos e baixaram o ataque.",
+      "dicas": [
+        "No teste, pano com leite atraiu menos do que pano só com água: não vale a pena gastar leite."
+      ]
+    },
+    {
+      "titulo": "Prepare o extrato de plantas com sabão (pulgão e lagarta pequena)",
+      "texto": "Receita do Ministério da Agricultura (MAPA) para insetos em geral:\n\n1. Deixe 1 kg de folhas de plantas de cheiro forte (coentro, losna, arruda, cravo-de-defunto) de molho em 5 litros de água por 10 dias.\n2. Tire 1 litro desse líquido e misture 10 colheres de sopa de sabão derretido (ou 10 colheres de cinza).\n3. Complete com mais 10 litros de água e pulverize nas plantas atacadas, cobrindo bem a parte de baixo das folhas.\n\nO restante do líquido de molho serve para novas misturas."
+    },
+    {
+      "titulo": "Use extrato de nim contra lagartas e mosca-branca",
+      "texto": "As sementes de nim (Azadirachta indica) têm azadiractina, que age contra lagartas (inclusive a do cartucho do milho), gafanhotos, mosca-branca, mosca-minadora e traça-das-crucíferas.\n\nReceita simples (MAPA): moa de 25 a 50 g de sementes de nim, amarre num saquinho de pano e deixe mergulhado em 1 litro de água por 1 dia. Esprema o saquinho na água e pulverize nas plantas atacadas.\n\nPara volume maior: 1 kg de sementes moídas no saquinho em 1 litro de água por 12 horas; esprema, misture 2 g de sabão neutro ou de cinza, junte a 20 litros de água e aplique logo.",
+      "avisos": [
+        "Use o extrato no mesmo dia: depois de 1 dia ele perde o efeito."
+      ]
+    },
+    {
+      "titulo": "Afaste as formigas cortadeiras",
+      "texto": "Além das plantas-isca, o MAPA indica:\n\n• Manipueira (o caldo que sai ao prensar a massa de mandioca para farinha): despeje 2 litros direto em cada olheiro e repita a cada 5 dias.\n• Preparado fermentado: misture 50 litros de água, 10 kg de esterco fresco e 1 kg de melaço ou açúcar mascavo, deixe fermentar 1 semana, coe num pano e aplique dentro do formigueiro na proporção de 1 litro do coado para 10 litros de água.\n\nCombine com os vizinhos: formigueiro não respeita cerca. Em horta nova o ataque é comum e tende a diminuir à medida que o solo ganha matéria orgânica.",
+      "avisos": [
+        "A manipueira tem cianeto: não deixe animais beberem e não despeje perto de poço ou nascente."
+      ]
+    },
+    {
+      "titulo": "Previna doenças de fungo com calda bordalesa",
+      "texto": "A calda bordalesa previne doenças de fungo (míldio, ferrugem, requeima, pinta-preta, antracnose, manchas nas folhas) e também afasta pulgões e cochonilhas. Receita da Embrapa para 10 litros a 1%:\n\n1. Num balde plástico, dissolva 100 g de sulfato de cobre em 5 litros de água (água morna ajuda, ou deixe na véspera num saquinho de pano pendurado na água).\n2. Noutro balde de 10 litros, \"apague\" 100 g de cal virgem (ou 180 g de cal hidratada) juntando água devagar até virar pasta e complete até 5 litros: é o leite de cal.\n3. Despeje o sulfato (azul) sobre o leite de cal (branco), mexendo com pá de madeira. Nunca o contrário.\n4. Teste: pingue 3 gotas numa faca de aço comum bem limpa e espere 3 minutos. Mancha avermelhada indica calda ácida, que queima as folhas: junte mais uns 20 g de cal e teste de novo.\n5. Coe e aplique cobrindo os dois lados das folhas. Use em até 3 dias.\n\nEm plantas novas, em brotação ou em flor, junte mais 10 litros de água (fica a 0,5%).",
+      "dicas": [
+        "Uma colher de sopa rasa de açúcar nos 10 litros ajuda a calda a grudar nas folhas."
+      ],
+      "avisos": [
+        "Use luvas e roupa que cubra a pele, lave-se depois e lave bem o que for comer. Não aplique no sol quente.",
+        "O cobre se acumula no solo: certificadoras orgânicas limitam a 3 kg de cobre por hectare por ano. Use para prevenir, não toda semana sem necessidade."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Calda bordalesa: utilidades e preparo — Embrapa Agropecuária Oeste",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/242170/1/FOL200837.pdf"
+    },
+    {
+      "titulo": "Extrato aquoso de sementes de nim para o controle de pragas — Fichas agroecológicas, MAPA",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/organicos/fichas-agroecologicas/arquivos-sanidade-vegetal/27-extrato-aquoso-de-sementes-de-nim-para-o-controle-de-pragas-1.pdf"
+    },
+    {
+      "titulo": "Controle de formigas cortadeiras 1 — Fichas agroecológicas, MAPA",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/organicos/fichas-agroecologicas/arquivos-sanidade-vegetal/28-controle-de-formigas-cortadeiras-1-1.pdf"
+    },
+    {
+      "titulo": "Plantas repelentes a insetos — Fichas agroecológicas, MAPA",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/organicos/fichas-agroecologicas/arquivos-sanidade-vegetal/32-plantas-repelentes-e-insetos-1.pdf"
+    },
+    {
+      "titulo": "Controle de caramujos utilizando armadilhas atrativas na cultura da cebolinha — Embrapa Pantanal",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/990915/1/14690624441PB.pdf"
+    }
+  ]
+}

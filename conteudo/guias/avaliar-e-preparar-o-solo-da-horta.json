@@ -1,0 +1,104 @@
+{
+  "id": "avaliar-e-preparar-o-solo-da-horta",
+  "titulo": "Como avaliar e preparar o solo da horta",
+  "resumo": "Escolha do local, testes caseiros de textura e drenagem da terra, matéria orgânica, solo compactado e montagem de canteiros com cobertura morta.",
+  "categoria": "solo-e-adubacao",
+  "tags": [
+    "terra",
+    "horta caseira",
+    "canteiro",
+    "textura do solo",
+    "terra argilosa",
+    "terra arenosa",
+    "drenagem",
+    "solo compactado",
+    "cobertura morta",
+    "onde fazer a horta"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 120,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Não faça a horta em terreno que recebeu lixo, entulho, óleo, esgoto ou produtos químicos, nem perto de fossas: a contaminação passa para o alimento. Use luvas e calçado fechado ao cavar, cuidado com cacos de vidro, pregos e animais peçonhentos escondidos sob pedras e tocos, e mantenha enxada e enxadão com a lâmina virada para baixo quando largados no chão.",
+  "materiais": [
+    "Enxada, enxadão ou pá",
+    "Pote ou garrafa transparente de paredes retas, com tampa",
+    "Régua ou fita métrica",
+    "Água",
+    "Barbante e estacas (piquetes)",
+    "Composto ou esterco curtido",
+    "Palha seca ou capim seco sem sementes"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha o local",
+      "texto": "Procure um ponto que receba sol direto em pelo menos um período do dia: hortaliças folhosas, pimentas e pimentões precisam de cerca de 5 horas de luz para produzir. Quanto mais sol, melhor para as hortaliças de fruto.\n\nO local deve ficar perto de uma fonte de água de boa qualidade (a horta é regada quase todo dia no começo), ser plano ou pouco inclinado, não encharcar na chuva e não ter pedras demais.\n\nEm terreno inclinado, faça os canteiros atravessados ao caimento, em nível, para a água da chuva não correr ao longo deles e levar a terra.",
+      "dicas": [
+        "Antes de decidir, observe o terreno num dia de chuva forte: onde a água empoça, a horta sofre."
+      ]
+    },
+    {
+      "titulo": "Descubra a textura com o teste do pote",
+      "texto": "Cave a terra até uns 20 cm, tire pedras, raízes e gravetos e esfarele. Encha cerca de 1/3 de um pote transparente de paredes retas com essa terra e complete com água, deixando um espaço no topo. Tampe e sacuda com força até virar uma lama uniforme.\n\nApoie o pote numa superfície plana, sem mexer, e marque com caneta ou fita:\n\n• depois de 1 minuto: o topo da camada de areia (fundo);\n• depois de 2 horas: o topo da camada de silte (no meio);\n• depois de 48 horas: o topo da camada de argila (em cima).\n\nMeça cada camada e divida pela altura total. Exemplo: total de 10 cm, com 5 cm de areia, 2 cm de silte e 3 cm de argila = 50% de areia, 20% de silte e 30% de argila.",
+      "dicas": [
+        "O ideal para horta é uma terra de textura média, com areia e argila misturadas. O que boiar na água é matéria orgânica, e é bom sinal."
+      ]
+    },
+    {
+      "titulo": "Confirme com o teste do rolinho",
+      "texto": "Pegue um punhado de terra (cerca de 25 g), molhe aos poucos e amasse até ficar moldável, como massinha. Tente fazer uma bola de uns 3 cm:\n\n• não forma bola: terra arenosa;\n• forma bola mas não dá para espremer uma fita entre o polegar e o indicador: terra areno-franca (ainda bem arenosa).\n\nSe der fita, empurre-a para cima com o polegar até ela quebrar com o próprio peso:\n\n• quebra com até 2,5 cm: terra franca (média);\n• quebra entre 2,5 e 5 cm: franco-argilosa;\n• passa de 5 cm: argilosa.\n\nEsfregue um pouco de terra molhada na palma: áspera indica mais areia, lisa como talco indica mais silte, pegajosa indica argila.",
+      "dicas": [
+        "Terra arenosa seca rápido e perde adubo com a chuva; terra argilosa segura água e nutrientes mas encharca e endurece. As duas melhoram com matéria orgânica."
+      ]
+    },
+    {
+      "titulo": "Teste a drenagem",
+      "texto": "Cave um buraco de pelo menos 30 cm de profundidade e 10 a 30 cm de largura. Encha de água e deixe esvaziar por completo, para encharcar a terra em volta. Em seguida, encha de novo, meça a altura da água, espere 15 minutos e meça quanto ela baixou. Multiplique por 4 para ter a velocidade em cm por hora.\n\n• 2,5 a 7,5 cm por hora: boa para a maioria das plantas;\n• menos de 2,5 cm por hora: drenagem ruim;\n• mais de 10 cm por hora: drena demais (terra muito arenosa), seca rápido.\n\nExemplo: a água baixou 1 cm em 15 minutos: 1 × 4 = 4 cm por hora, boa drenagem.\n\nCom drenagem ruim, faça canteiros mais altos ou leiras (veja o passo de canteiros) e acrescente matéria orgânica.",
+      "avisos": [
+        "Não faça o teste com a terra já encharcada de chuva: as paredes do buraco ficam lisas e o resultado engana."
+      ]
+    },
+    {
+      "titulo": "Recupere solo pobre ou compactado",
+      "texto": "A maior parte da terra disponível para horta é \"terra de barranco\", vermelha ou amarela, de baixa fertilidade. Quanto mais escura a terra, mais matéria orgânica ela costuma ter.\n\nPara melhorar a estrutura, espalhe composto (não areia) numa camada de 5 a 10 cm e misture nos primeiros 15 a 30 cm de terra. Sinais de compactação: a água empoça, o enxadão quase não entra e as raízes crescem tortas e rasas. Nesse caso, revolva a terra até 25 a 30 cm de profundidade com enxadão, quando ela estiver úmida mas não encharcada.\n\nDepois de solta, não pise mais no canteiro e evite revolver demais: isso desmancha os torrões que deixam a terra fofa. Plantas de adubação verde, como crotalária e feijão-de-porco, ajudam a abrir a terra com as raízes (veja o guia de adubar a horta sem adubo químico).",
+      "dicas": [
+        "Se a terra for ácida, a calagem deve vir antes do plantio. Veja o guia de corrigir a acidez do solo."
+      ]
+    },
+    {
+      "titulo": "Monte os canteiros",
+      "texto": "Limpe o terreno (mato, pedras, tocos, vidros) e marque cada canteiro com estacas e barbante. Revolva a terra a 25 a 30 cm de profundidade e levante o canteiro com:\n\n• largura de 0,8 a 1,2 m (dá para alcançar o meio dos dois lados sem pisar);\n• altura de 20 a 30 cm;\n• corredor de 40 cm entre canteiros;\n• comprimento conforme o espaço.\n\nEm áreas que encharcam ou na época de muita chuva, faça leiras: mais estreitas e mais altas, com cerca de 40 cm de altura, boas para batata-doce, tomate, pepino e cará.\n\nMisture a matéria orgânica (composto ou esterco curtido) e, se precisar, o calcário antes de nivelar a superfície com o ancinho.",
+      "dicas": [
+        "Exemplo: um quintal de 4 m × 5 m comporta 3 canteiros de 1 m × 4 m com dois corredores de 40 cm e sobra para a composteira."
+      ]
+    },
+    {
+      "titulo": "Cubra o solo",
+      "texto": "Nunca deixe a terra do canteiro pelada: sol e chuva forte endurecem a superfície e levam a matéria orgânica. Cubra entre as plantas com palha seca, capim seco ou folhas. A cobertura (cobertura morta) segura a umidade, diminui o mato e alimenta a vida do solo à medida que apodrece.\n\nPara recuperar um canteiro sem revirar, use a compostagem laminar: sobre a terra, uma camada de restos vegetais (palha, cascas), por cima uma de esterco e, cobrindo tudo, outra de palha. O canteiro fica parado por cerca de 3 meses, conforme a época e a região; quando a camada de baixo se desfez e o esterco cheira a terra de mato, plante direto por cima.",
+      "avisos": [
+        "Capim roçado com sementes espalha mato no canteiro: a compostagem laminar não esquenta o bastante para matar sementes."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Hortas: recomendações para cultivo no estado do Pará — Embrapa Amazônia Oriental (2024)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1168224/1/CartilhaHortas.pdf"
+    },
+    {
+      "titulo": "Horta em pequenos espaços — Embrapa Hortaliças",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/927690/1/HORTA-EM-PEQUENOS-ESPACOS-4-IMP-2017.pdf"
+    },
+    {
+      "titulo": "Soil texture analysis: the jar test — Clemson Cooperative Extension",
+      "url": "https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/"
+    },
+    {
+      "titulo": "Texture — ribbon method (exercício de campo) — FAO",
+      "url": "https://www.fao.org/fileadmin/user_upload/GSP/GSDP/Field_exercises/New_format_EN/P01b-Texture-Ribbon-EN.pdf"
+    },
+    {
+      "titulo": "Testing and improving soil drainage — Iowa State University Extension",
+      "url": "https://yardandgarden.extension.iastate.edu/how-to/testing-and-improving-soil-drainage"
+    }
+  ]
+}

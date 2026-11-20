@@ -1,0 +1,110 @@
+{
+  "id": "criar-cabras-de-leite",
+  "titulo": "Como criar cabras de leite",
+  "resumo": "Cabras para a família ter leite: aprisco ripado, área por animal, comida, sal mineral, cobertura, gestação de 150 dias, colostro e cuidados com cabritos.",
+  "categoria": "caprinos-e-suinos",
+  "tags": [
+    "cabra",
+    "bode",
+    "cabrito",
+    "caprino",
+    "leite de cabra",
+    "aprisco",
+    "chiqueiro de cabra",
+    "cabra leiteira",
+    "Saanen",
+    "Anglo-nubiana"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Cabras e bodes dão cabeçadas e chifradas, e o bode adulto pode derrubar e ferir um adulto ou uma criança: nunca deixe crianças sozinhas com eles. Parto, aborto, placenta e leite cru podem transmitir doenças para pessoas: use luvas no parto e só beba o leite depois de fervido ou pasteurizado (veja o guia de ordenha e leite seguro).",
+  "materiais": [
+    "Aprisco coberto com piso ripado suspenso",
+    "Cocho de comida, saleiro e bebedouro",
+    "Pasto, capineira ou feno",
+    "Sal mineral para caprinos",
+    "Iodo para cura do umbigo e luvas descartáveis",
+    "Mamadeira ou balde para cabritos"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que esperar de uma cabra",
+      "texto": "A cabra é pequena, come menos que uma vaca e cabe num sítio pequeno. Num sistema de agricultura familiar acompanhado pela Embrapa Meio-Norte, a cabra deu leite por cerca de 6 meses depois do parto, somando aproximadamente 215 litros por lactação: pouco mais de 1 litro por dia, em média. Cabras Alpinas em regiões adaptadas produzem em média 4 litros por dia, mas exigem comida melhor.\n\nPara a família ter leite o ano todo, tenha pelo menos 2 cabras paridas em épocas diferentes.\n\nRaças leiteiras puras (Saanen, Alpina, Anglo-nubiana) toleram mal o calor forte e não servem bem ao Semiárido. Mestiças dessas raças com cabras locais do Nordeste juntam rusticidade e leite e costumam ser a melhor escolha para quem tem pouco recurso.",
+      "dicas": [
+        "Compre animais de criador conhecido, examine o úbere (duas metades iguais, sem caroços) e prefira cabras já testadas na ordenha."
+      ]
+    },
+    {
+      "titulo": "Construa o aprisco",
+      "texto": "O aprisco é a instalação coberta onde as cabras dormem e se protegem da chuva. A Embrapa recomenda:\n\n• área útil de 0,80 a 1,0 m² por animal;\n• piso ripado, com 1 cm de vão entre as ripas, para fezes e urina caírem;\n• piso elevado de 0,80 a 1,0 m do solo;\n• rampa de acesso com inclinação suave e proteção lateral de 1,20 m de altura;\n• terreno bem drenado, ventilado, sem corrente de ar forte.\n\nExemplo: para 4 cabras e 4 cabritos, faça um aprisco de pelo menos 8 m² de piso.\n\nUse madeira dura da região nas ripas e cubra com telha ou palha de palmeira. Separe baias para cabras no fim da gestação, recém-paridas, cabritos e o bode.",
+      "avisos": [
+        "Vão maior que o recomendado prende e quebra as patas dos cabritos recém-nascidos."
+      ],
+      "dicas": [
+        "O esterco que cai embaixo do piso ripado é ótimo adubo. Retire-o com frequência e leve para uma esterqueira, longe do aprisco."
+      ]
+    },
+    {
+      "titulo": "Alimente bem e dê água à vontade",
+      "texto": "A base da comida é volumoso: pasto, capineira, ramas e, na seca, feno ou silagem.\n\nCapineira de capim-elefante: corte a cada 60 a 70 dias (capim velho fica fibroso e fraco), deixe murchar algumas horas (corte de manhã e pique à tarde) e ofereça picado em pedaços de 3 a 6 cm. Uma cabra leiteira adulta em regime semi-intensivo come em média 3 kg de capim-elefante picado por dia, além do pasto.\n\nPara cabras em lactação, a Embrapa Meio-Norte usou concentrado na quantidade de 1% do peso vivo por dia, feito com 70% de milho em grão e 30% de farelo de soja. Exemplo: cabra de 50 kg recebe 500 g por dia, dividida nas duas ordenhas.\n\nÁgua limpa à vontade, todos os dias. Sal mineral à vontade no saleiro coberto: use sal mineral próprio para caprinos ou a mistura usada pela Embrapa Meio-Norte: 50% de fosfato bicálcico (ou farinha de osso calcinada), 49% de sal comum e 1% de micronutrientes.",
+      "dicas": [
+        "Coloque cochos e bebedouros por fora da baia e limpos: isso reduz a verminose."
+      ],
+      "avisos": [
+        "Ofereça mais comida (capim verde, feno de leguminosa, concentrado) às cabras no fim da gestação, recém-paridas e em lactação: são as que mais precisam."
+      ]
+    },
+    {
+      "titulo": "Faça a cobertura no tempo certo",
+      "texto": "O cio da cabra se repete a cada 3 semanas, mais ou menos: as fontes da Embrapa dão em média 18 a 21 dias, variando de 14 a 24. O cio dura de 30 a 32 horas. A cabra no cio fica inquieta, balança o rabo rapidamente, urina com frequência, monta e se deixa montar pelas companheiras, pode cair a produção de leite e procura o bode.\n\nCubra a fêmea só quando ela tiver pelo menos 25 kg. Uma forma simples é a monta controlada: deixe o bode junto das cabras por cerca de 60 dias e depois separe-o até a próxima estação. Anote a data das coberturas para prever os partos.\n\nA gestação dura em média 150 dias (de 142 a 162). No último terço, quando o cabrito mais cresce, melhore a alimentação da cabra.",
+      "dicas": [
+        "Mantenha o bode separado das cabras em lactação: o cheiro dele passa para o leite."
+      ]
+    },
+    {
+      "titulo": "Acompanhe o parto e garanta o colostro",
+      "texto": "Sinais de parto próximo: afundamento dos dois lados da cauda e dos flancos, úbere cheio com tetas inchadas, cabra que deita e levanta muitas vezes, corrimento amarelado pela vulva. Leve-a para um piquete ou baia limpa perto de casa.\n\nA maioria dos partos é normal. Se precisar ajudar, retire as membranas do nariz e da boca do cabrito e estimule a respiração. Em qualquer anormalidade, chame o veterinário ou um técnico experiente.\n\nColostro: o cabrito deve mamar nas primeiras horas; o que não recebe colostro nas primeiras 6 horas de vida pode adoecer e morrer. Dê colostro até 72 horas de vida, 3 vezes ao dia, de 300 a 500 g por dia, mamando na cabra ou na mamadeira. O leite desses dias é do cabrito, não da família.\n\nUmbigo: nas primeiras 6 horas, corte a cerca de 2 cm da barriga com tesoura ou faca fervida e mergulhe o coto em tintura de iodo a 10% por 30 segundos. Repita por 2 a 3 dias.",
+      "avisos": [
+        "Use luvas no parto e lave bem as mãos depois. Aborto, placenta e líquidos do parto podem transmitir brucelose e outras doenças para pessoas.",
+        "Se a cabra tiver CAEV (artrite-encefalite caprina), separe o cabrito logo ao nascer e dê colostro de outra cabra sadia ou de vaca: a doença passa pelo leite."
+      ]
+    },
+    {
+      "titulo": "Crie os cabritos",
+      "texto": "Em criações leiteiras, a Embrapa separa os cabritos das mães 72 horas depois do parto. Daí em diante, a Embrapa Meio-Norte dá leite duas vezes ao dia, num total de 20% do peso vivo por dia, em mamadeira. Exemplo: cabrito de 5 kg recebe 1 litro por dia, 500 mL em cada mamada.\n\nOfereça desde cedo capim verde de boa qualidade e feno de leguminosa. Desmame com cerca de 84 dias (12 semanas). Pese os cabritos de tempos em tempos para ver se crescem.\n\nSeparar os cabritos permite tirar o leite que sobra para a família. Se preferir deixar o cabrito com a mãe, ordenhe só o que ele não mamar.",
+      "dicas": [
+        "Mamadeira e baldes devem ser lavados depois de cada uso, como os utensílios da ordenha."
+      ]
+    },
+    {
+      "titulo": "Mantenha a rotina de saúde",
+      "texto": "Pela orientação da Embrapa Meio-Norte:\n\n• vacine o rebanho contra clostridioses pelo menos uma vez por ano, cerca de 1 mês antes dos partos;\n• apare os cascos de todo o rebanho pelo menos 3 vezes por ano;\n• controle a verminose examinando a cor da mucosa do olho (método FAMACHA) em vez de vermifugar todo mundo.\n\nOrdenhe duas vezes ao dia, com higiene, e respeite a carência de qualquer remédio no leite. Detalhes nos guias de ordenha e de saúde dos animais.",
+      "avisos": [
+        "Vermífugos do grupo das lactonas macrocíclicas (ivermectina e parecidos) deixam resíduo no leite durante toda a lactação: leia a bula antes de tratar uma cabra que dá leite para a família."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manejo de caprinos leiteiros na agricultura familiar — Embrapa Meio-Norte",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/70543/1/Manejodecaprinos0001.pdf"
+    },
+    {
+      "titulo": "Recomendações técnicas para criação de cabras leiteiras — Embrapa Meio-Norte (Circular Técnica 25)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/61156/1/CIT25.pdf"
+    },
+    {
+      "titulo": "Instalações para caprinos — Embrapa Meio-Norte",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/65892/1/Instalacoes-para-Caprinos.pdf"
+    },
+    {
+      "titulo": "Manejo reprodutivo de matrizes e reprodutores caprinos em sistema de produção de leite — Embrapa Caprinos (Documentos 65)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/533330/1/doc65.pdf"
+    },
+    {
+      "titulo": "Recomendações para o controle integrado de verminose em caprinos e ovinos — Embrapa Caprinos e Ovinos",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1148919/1/CNPC-2023-Recomendacoes-para-o-controle-integrado.pdf"
+    }
+  ]
+}

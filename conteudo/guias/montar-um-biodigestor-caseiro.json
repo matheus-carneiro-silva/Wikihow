@@ -1,0 +1,117 @@
+{
+  "id": "montar-um-biodigestor-caseiro",
+  "titulo": "Como montar um biodigestor caseiro",
+  "resumo": "Modelos para o sítio (sertanejo, tubular de lona, tambor), passo a passo do tubular, selo d'água, partida, alimentação diária e uso do biofertilizante na horta.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "biogás",
+    "gás de esterco",
+    "biodigestor",
+    "biodigestor sertanejo",
+    "biodigestor de lona",
+    "fogão",
+    "biofertilizante",
+    "biol",
+    "metano",
+    "gás caseiro"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Biogás é inflamável e explosivo misturado ao ar, e o gás sulfídrico que vem junto é tóxico. Nunca entre no biodigestor nem em caixas de esterco: há risco de morte por asfixia, inclusive para quem tenta socorrer. Cerque o biodigestor contra crianças e animais e leia \"usar biogás com segurança\" antes de acender o fogão.",
+  "materiais": [
+    "Plástico tubular de estufa de 250 micras e 4 m de circunferência (duas peças) ou geomembrana de polietileno de 500 micras",
+    "2 pedaços de 1,5 m de cano de esgoto de PVC de 6\" (ou 4\")",
+    "30 a 40 m de tiras de câmara de pneu com cerca de 5 cm de largura",
+    "Adaptador de caixa d'água (flange) de 1/2\" e fita veda-rosca",
+    "Cano de 1/2\", tês, joelhos, união e pelo menos 2 registros de esfera",
+    "Garrafa PET de 2 L (selo d'água)",
+    "Corda plástica de 1/4\" (2,5 vezes o comprimento do biodigestor)",
+    "Palha de aço e vinagre (filtro de gás sulfídrico)",
+    "Sacos de ração ou lona velha para forrar a vala",
+    "Pá, picareta, trena, tesoura e serra"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha o modelo",
+      "texto": "Antes, calcule o tamanho (veja \"dimensionar um biodigestor\"). Modelos viáveis para família:\n\n- Sertanejo: adaptado do modelo indiano e difundido no semiárido pela Diaconia, com estudos da Embrapa. O tanque é feito com placas de cimento, como a cisterna de placas, e uma caixa d'água de PVC virada de boca para baixo, com contrapeso, guarda o gás. Tem caixa de carga, tanque de fermentação e caixa de descarga. Recebe 1 kg de esterco para 1 litro de água por dia.\n- Tubular de lona (plástico de estufa ou geomembrana): o mais barato e o mais bem documentado passo a passo (manual da Redbiolac). Duas pessoas com prática montam o biodigestor até o selo d'água em meio dia. É o modelo deste guia.\n- Tambor ou caixa d'água pequena: serve para aprender, não para cozinhar. Um tambor de 200 L, a 0,3 a 0,5 m³ de gás por m³ de tanque por dia, dá de 60 a 100 litros de gás por dia: de 12 a 20 minutos de uma boca do fogão.",
+      "dicas": [
+        "Para a família, o biodigestor tubular de referência da Redbiolac para clima quente (23 a 32 °C) recebe 30 kg de esterco de vaca + 90 L de água por dia e dá cerca de 1 m³ de biogás por dia."
+      ]
+    },
+    {
+      "titulo": "Escolha o local e cave a vala",
+      "texto": "Ponha o biodigestor perto do curral e, se der, abaixo dele, para o esterco descer por gravidade, e acima da horta, para o biofertilizante descer até ela. Em lugar com média abaixo de 25 °C, escolha um ponto de sol o dia todo, sem sombra de árvores. Evite caminhos de gente e de animais e áreas que alagam: cheia faz o biodigestor boiar.\n\nPara plástico de 4 m de circunferência, a vala tem formato de trapézio: 0,65 m de largura no fundo, 1,15 m na boca e 1 m de profundidade. Comprimento de 7 m em clima quente (cerca de 6,3 m³ de líquido) ou 9 m onde a média fica entre 18 e 22 °C.\n\nDeixe o fundo nivelado, corte raízes, tire pedras e pontas e tape buracos com barro. Em cada ponta, cave uma rampa a 45° para o cano. Forre a vala com sacos de ração ou lona velha.",
+      "avisos": [
+        "Se aparecer água no fundo da vala (lençol freático raso), encha o fundo com areia e levante as paredes com sacos de terra, em vez de cavar mais."
+      ]
+    },
+    {
+      "titulo": "Monte a manga de plástico",
+      "texto": "Num chão limpo e forrado, corte duas peças de plástico com comprimento = vala + 1 m + profundidade (7 + 1 + 1 = 9 m). Enfie uma dentro da outra para ter parede dupla. Quem entra na manga para puxar o plástico vai descalço e sem nada que corte. Passe a corda por dentro, de ponta a ponta.\n\nSaída de gás: a 1 ou 2 m da ponta que será a entrada, na parte de cima, faça um furo pequeno e instale o adaptador de caixa d'água, com a peça macho por dentro, a fêmea por fora e 10 voltas de veda-rosca. Aperte bem, sem forçar a rosca.\n\nCanos de entrada e saída: proteja a borda do cano com fita ou borracha. Enfie 80 cm de cano em cada ponta da manga. Dobre o plástico em sanfona sobre o cano (4 a 6 dobras de cada lado) e amarre 50 cm com a tira de pneu bem esticada, cada volta sobre a anterior, e avance mais 10 cm só sobre o cano. Ficam 30 cm de cano livres dentro e 70 cm para fora.",
+      "avisos": [
+        "Nunca arraste o plástico: qualquer arranhão vira vazamento. Com geomembrana de 500 micras, use camada única e amarre ainda mais apertado."
+      ]
+    },
+    {
+      "titulo": "Faça o selo d'água (válvula de alívio)",
+      "texto": "Ligue a saída de gás a um tê. Na perna de baixo do tê, ponha um cano de 30 cm mergulhado numa garrafa PET com água. Mergulhe de 12 a 15 cm para plástico de estufa (de 15 a 20 cm para geomembrana de polietileno). Quando a pressão passa disso, o gás borbulha e escapa pela água, e o plástico não estoura.\n\nFaça furinhos na garrafa na altura certa da água, para a chuva não subir o nível. Depois do tê, coloque um registro de esfera: se alguém fechar esse registro, o gás ainda escapa pelo selo. Fixe o selo num poste a 2 ou 3 m do biodigestor, sempre fora de área coberta, e deixe o cano entre os dois em descida, sem barriga.",
+      "avisos": [
+        "O selo d'água é obrigatório. Sem ele, o gás acumulado pode romper o biodigestor."
+      ]
+    },
+    {
+      "titulo": "Instale, encha e cerque",
+      "texto": "Leve a manga até a vala com 3 ou mais pessoas, sem encostar no chão, com a saída de gás para cima. Feche uma ponta com um saco plástico amarrado e encha de ar pela outra (com soprador ou empurrando ar com um pedaço de plástico tubular enrolado) para tirar as rugas.\n\nEncha com água até as pontas internas dos canos ficarem submersas: isso forma o selo hidráulico que impede o gás de sair pelos canos. Ajuste a boca do cano de saída para ficar acima do chão na mesma medida, em centímetros, que o cano mergulhado no selo (15 cm de selo = 15 cm de altura). A boca da entrada fica mais alta que a da saída.\n\nCubra as amarrações com plástico, saco ou terra para o sol não estragar a borracha. Cerque com tela e postes no mesmo dia. Plástico de estufa precisa de cobertura contra o sol (telha translúcida ou sombrite em clima frio; pode ser opaca em clima quente).",
+      "avisos": [
+        "Muitos biodigestores se rasgam nas primeiras semanas por falta de cerca: cachorro, porco ou bezerro furam o plástico."
+      ]
+    },
+    {
+      "titulo": "Dê a partida",
+      "texto": "Coloque de uma vez de 80 a 100 kg de esterco (duas carriolas), misturado com a água necessária para escorrer. Prefira esterco de vaca fresco: ele já traz as bactérias e funciona como inóculo. Depois, carregue todo dia a carga planejada. No sertanejo, a primeira carga recomendada é de cerca de 3.400 kg de esterco com 3.400 L de água.\n\nEm clima quente, o gás aparece em 2 ou 3 semanas (no sertanejo, cerca de 30 dias); em clima frio, pode levar até 3 meses. Sinal: o selo d'água começa a borbulhar nos dias de sol.\n\nTeste da chama: depois de soltar as duas primeiras enchidas (veja o aviso) e só com a cúpula bem cheia, abra um pouco um registro depois do selo, sem ninguém na frente, e aproxime o isqueiro. Se acende e fica acesa, já pode ligar o fogão. Se não acende, ainda é quase só gás carbônico: espere e teste de novo a cada semana.",
+      "avisos": [
+        "A chama do teste pode chegar a 1 m: fique de lado e mantenha o rosto longe.",
+        "Solte sem usar o gás das duas primeiras vezes que a cúpula encher: ele ainda tem o oxigênio do ar e pode explodir."
+      ],
+      "dicas": [
+        "Se depois de um mês (clima quente) ou três (clima frio) o gás ainda não acende, pare de alimentar por uma semana e recomece com metade da carga diária, de preferência com esterco de vaca."
+      ]
+    },
+    {
+      "titulo": "Alimente todo dia e faça a manutenção",
+      "texto": "Carregue a mesma quantidade todos os dias, como no cálculo (por exemplo, 30 kg de esterco de vaca + 90 L de água). Não deixe entrar palha, folhas, galhos nem areia. Uma caixa de mistura antes da entrada ajuda a segurar essas sobras.\n\nCarga demais deixa o biodigestor com \"diarreia\": sai líquido fedendo e pouco gás, e ele pode azedar. Nesse caso, pare uma semana e volte com metade da carga. Carga de menos só reduz o gás.\n\nRotina:\n- Algumas vezes por semana, empurre o plástico com o pé na altura do líquido, para desfazer a crosta.\n- Quebre a crosta da saída com um pau com uma garrafa PET na ponta, para não furar o fundo.\n- Complete a água do selo quando baixar.\n- Drene a água dos pontos baixos do cano quando a chama pulsar ou o cano fizer barulho.\n- Troque a palha de aço do filtro quando sentir cheiro de ovo podre ao abrir o fogão.",
+      "dicas": [
+        "Rasgo em geomembrana de PVC se remenda como câmara de bicicleta: pedaço do mesmo material, cola de PVC e grampos de aperto."
+      ]
+    },
+    {
+      "titulo": "Use o biofertilizante na horta",
+      "texto": "O líquido que sai (biofertilizante, ou biol) começa a transbordar depois de cerca de 2/3 do tempo de retenção. Ele fica bom quando já se produz gás que acende, e garantido depois de 2 vezes o tempo de retenção. Biofertilizante bom não tem cheiro de esterco fresco e não atrai moscas.\n\nGuarde num tanque tampado (uma camada de palha serve) para não perder nitrogênio. Use na rega, por gravidade, ou coado num pano para pulverizar nas folhas. Ele já sai diluído: não precisa diluir de novo para pulverizar. Aplique de manhã cedo ou no fim da tarde, durante o crescimento das plantas.\n\nCuidados:\n- Não pulverize durante a floração, porque espanta os insetos que polinizam.\n- Pare de aplicar 15 dias antes da colheita ou antes de dar o pasto aos animais.\n- Lave bem o que for colhido, principalmente o que se come cru.\n- Ele tem muito sal dissolvido: em solo que quase não recebe chuva ou rega, aplique com moderação e observe as plantas.",
+      "avisos": [
+        "Numa análise do biofertilizante de biodigestores sertanejos, não se achou E. coli, mas havia coliformes. Para verduras comidas cruas, respeite os 15 dias e lave bem."
+      ],
+      "dicas": [
+        "O que fica no pano depois de coar também aduba: junte à compostagem (veja \"fazer compostagem\" e \"adubar a horta sem adubo químico\")."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Biodigestores Tubulares: Guía de Diseño y Manual de Instalación — J. Martí-Herrero, Redbiolac, 2019",
+      "url": "https://repositorio.ikiam.edu.ec/jspui/bitstream/RD_IKIAM/351/1/L-IKIAM-000005.pdf"
+    },
+    {
+      "titulo": "Sertanejo biodigestor: a social technology, an alternative source of energy — Souza et al., RBCIAMB, 2021 (Embrapa)",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1139965/1/Sertanejo-biodigestor-a-social-technology-2021.pdf"
+    },
+    {
+      "titulo": "Small-scale biodigesters in a tropical semi-arid region — Silva et al., Energy Nexus, 2025 (UFPE, Embrapa Semiárido, Diaconia)",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1185937/1/Small-scale-biodigesters-in-a-tropical-semi-arid-region.pdf"
+    },
+    {
+      "titulo": "Biogas plants in animal husbandry — GATE/GTZ, 1989",
+      "url": "https://www.lowimpact.org/wp-content/uploads/biogas-animal-husbandry.pdf"
+    }
+  ]
+}

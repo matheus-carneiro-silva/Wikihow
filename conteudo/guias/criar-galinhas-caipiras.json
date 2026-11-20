@@ -1,0 +1,108 @@
+{
+  "id": "criar-galinhas-caipiras",
+  "titulo": "Como criar galinhas caipiras para ovos",
+  "resumo": "Quantas galinhas ter, galinheiro, piquete, ração, água e postura esperada para a família ter ovos e carne com poucos recursos.",
+  "categoria": "aves",
+  "tags": [
+    "galinha",
+    "frango",
+    "ovo",
+    "galinheiro",
+    "galinha de quintal",
+    "galinha de capoeira",
+    "poedeira",
+    "quantas galinhas",
+    "ração de galinha",
+    "galo"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Galinhas podem transmitir Salmonella às pessoas. Lave as mãos com água e sabão depois de mexer nas aves, nos ovos, na ração ou nos bebedouros, não deixe crianças menores de 5 anos pegarem as aves e não leve galinhas para dentro de casa. Se muitas aves adoecerem ou morrerem de repente, veja o guia de prevenção de doenças nas galinhas: algumas doenças precisam ser comunicadas ao serviço veterinário oficial.",
+  "materiais": [
+    "Galinhas caipiras sadias, de origem conhecida",
+    "Abrigo coberto e telado (o galinheiro)",
+    "Tela, estacas ou varas para cercar o piquete",
+    "Poleiros de madeira roliça, ninhos e cama seca (maravalha, casca de arroz ou capim seco)",
+    "Comedouros e bebedouros fáceis de lavar (podem ser de garrafa PET ou cano de PVC)",
+    "Ração balanceada para a fase da ave"
+  ],
+  "passos": [
+    {
+      "titulo": "Calcule quantas galinhas ter",
+      "texto": "Pelas contas da Embrapa, uma galinha caipira que choca os próprios ovos põe de 76 a 107 ovos por ano; sem chocar, de 130 a 180. Linhagens híbridas comerciais de postura chegam a 240 a 280 ovos por ano, mas são menos rústicas e quase não chocam.\n\nExemplo: uma família que quer 2 dúzias de ovos por semana precisa de cerca de 1.250 ovos por ano. Com caipiras que não chocam (130 a 180 ovos), são de 7 a 10 galinhas; se as galinhas também forem chocar, de 12 a 16.\n\nComece pequeno: o manual da Embrapa para a agricultura familiar inicia a criação com 1 galo e 12 galinhas.",
+      "dicas": [
+        "Prefira aves rústicas, de preferência galinhas caipiras da própria região, já adaptadas ao clima: escolha as boas criadeiras, mansas e de bom tamanho. Galinhas caipiras chocam e criam pintinhos sozinhas.",
+        "Descarte (para a panela) galinhas com mais de 2 anos: a partir dessa idade elas comem mais e põem menos."
+      ]
+    },
+    {
+      "titulo": "Decida se precisa de galo",
+      "texto": "A galinha põe ovos sem galo. O galo só é necessário se você quiser ovos férteis para chocar e renovar o plantel.\n\nSe for ter galo, use 1 para até 12 galinhas: com mais que isso aparecem ovos que não chocam. Traga o galo de outra criação, para não cruzar parentes próximos, troque-o a cada 6 meses (para não cruzar com as filhas) e não use galo com mais de 2 anos, porque a fertilidade cai.",
+      "dicas": [
+        "Galo novo comprado fora fica separado por 40 dias antes de ir para o plantel, para ver se não está doente."
+      ]
+    },
+    {
+      "titulo": "Monte o galinheiro",
+      "texto": "Escolha um terreno seco, ventilado, com sol, fácil de chegar e afastado da casa. O abrigo deve ter telhado (telha de cerâmica ou palha) e laterais teladas. O piso pode ser cimentado, de tijolo deitado ou de chão batido bem compactado, coberto com cama seca de maravalha, casca de arroz ou capim seco.\n\nMedidas por ave:\n\n• espaço coberto: cerca de 0,2 m² por galinha (no máximo 5 por m²);\n• poleiro: de 15 a 25 cm por ave, de madeira roliça ou com o topo arredondado, a 45–60 cm do chão e com uns 30 cm entre um poleiro e outro, longe dos ninhos;\n• ninhos: 2 para as 4 primeiras galinhas e mais 1 para cada 4 a mais, com pelo menos 30 × 30 cm, forrados com a mesma cama do piso.\n\nExemplo para 10 galinhas: 2 m² de abrigo, 1,5 a 2,5 m de poleiro e 4 ninhos.",
+      "dicas": [
+        "Não coloque comedouro e bebedouro embaixo dos poleiros: as fezes caem e contaminam.",
+        "Ninho com abertura para fora do galinheiro facilita pegar os ovos sem entrar.",
+        "Troque a forração dos ninhos no máximo a cada 30 dias, ou antes se sujar."
+      ]
+    },
+    {
+      "titulo": "Proteja contra predadores e ventilação ruim",
+      "texto": "Use tela forte nas laterais e nas cercas, que segure as aves e impeça a entrada de predadores. Feche as galinhas no abrigo à noite e mantenha ratos e outros bichos longe da ração.\n\nO galinheiro precisa ser bem ventilado (por isso as laterais teladas), principalmente no calor, mas protegido da chuva e das noites de vento frio. Cortinas laterais de lona ou sacos ajudam no frio e na chuva de lado.",
+      "avisos": [
+        "Galinhas amontoadas em espaço pequeno, com sujeira e pouca ventilação, adoecem mais. Não passe da lotação recomendada."
+      ]
+    },
+    {
+      "titulo": "Cerque um piquete",
+      "texto": "O piquete é a área ao ar livre, cercada, onde as galinhas ciscam, comem verde e insetos. No sistema da Embrapa para agricultura familiar, 1 galo e 12 galinhas ficam com um cercado de 40 m² (4 × 10 m), cerca de 3 m² por ave; onde a vegetação é rala, como no Semiárido, quanto mais área melhor.\n\nOs piquetes da cartilha da Embrapa usam cerca de 1,60 m de altura. Se puder, divida a área em duas e faça rodízio, para a vegetação se recuperar. Árvores dão sombra e alimento."
+    },
+    {
+      "titulo": "Alimente na medida certa",
+      "texto": "A base deve ser uma ração completa para a fase da ave (inicial, crescimento ou postura), comprada pronta ou feita com milho moído, farelo de soja (ou outros farelos) e mistura mineral de sal comum, fosfato bicálcico e calcário calcítico. Milho sozinho não basta. Galinhas em postura precisam de muito cálcio para a casca: além da ração de postura, deixe calcário calcítico ou farinha de ostra num cocho à parte.\n\nQuantidade: uma galinha adulta come de 100 a 150 g de ração por dia, conforme o tamanho. Para 10 galinhas, de 1 a 1,5 kg por dia. Restos de horta, folhas e frutos verdes e o que as aves encontram no piquete complementam a ração e reduzem o gasto, mas restos de comida devem ser só um complemento.",
+      "avisos": [
+        "Não dê: comida mofada ou estragada, abacate (casca, caroço e folhas), feijão cru, casca de batata esverdeada, comida salgada, cebola em quantidade, chocolate, café e bebida alcoólica.",
+        "Guarde a ração em recipiente fechado, longe de ratos e insetos e sem umidade, para não embolorar."
+      ]
+    },
+    {
+      "titulo": "Garanta água limpa todo dia",
+      "texto": "As aves bebem cerca do dobro do que comem de ração: com 100 a 150 g de ração, de 200 a 300 mL de água por galinha por dia. Sem água, a galinha também para de comer.\n\nTroque a água e lave os bebedouros todos os dias. Ajuste a altura do bebedouro à altura do dorso das aves. Água boa é incolor, sem cheiro e sem gosto; prefira água potável."
+    },
+    {
+      "titulo": "Recolha e guarde os ovos",
+      "texto": "Recolha os ovos pelo menos 2 vezes por dia (ao meio-dia e à tardinha), para não sujarem, quebrarem ou começarem a desenvolver o pinto. Limpe a sujeira com pano, escova ou lixa fina, sem mergulhar em água, e jogue fora ovos rachados. Marque a data a lápis na casca.\n\nNa geladeira, ovos para comer duram até 30 dias; fora dela, em local fresco e arejado, até 7 dias. Cozinhe até a gema e a clara ficarem firmes.",
+      "avisos": [
+        "Lave as mãos com água e sabão depois de recolher ovos e de mexer nas galinhas."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Criação de galinhas caipiras (ABC da Agricultura Familiar) — Embrapa",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/126298/1/00081600.pdf"
+    },
+    {
+      "titulo": "Sistema alternativo de criação de galinhas caipiras — Embrapa Meio-Norte",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1122469/1/SPOCriacaoGalinhasCaipiras2018.pdf"
+    },
+    {
+      "titulo": "Successfully raising a small flock of laying chickens — Penn State Extension",
+      "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens"
+    },
+    {
+      "titulo": "10 foods you should never feed chickens — UF/IFAS Extension",
+      "url": "https://blogs.ifas.ufl.edu/holmesco/?p=28475"
+    },
+    {
+      "titulo": "Backyard poultry — CDC",
+      "url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html"
+    }
+  ]
+}

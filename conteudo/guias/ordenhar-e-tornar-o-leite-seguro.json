@@ -1,0 +1,103 @@
+{
+  "id": "ordenhar-e-tornar-o-leite-seguro",
+  "titulo": "Como ordenhar e tornar o leite seguro para beber",
+  "resumo": "Ordenha higiênica de cabra ou vaca: caneca de fundo escuro para mastite, pré e pós-dipping, coar, resfriar, ferver ou pasteurizar e respeitar a carência.",
+  "categoria": "caprinos-e-suinos",
+  "tags": [
+    "ordenha",
+    "ordenhar",
+    "tirar leite",
+    "leite cru",
+    "ferver leite",
+    "pasteurizar",
+    "mastite",
+    "mamite",
+    "brucelose",
+    "vaca"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Leite cru pode transmitir brucelose e tuberculose, entre outras doenças, mesmo vindo de animal com aparência saudável. Só beba, e só faça queijo, coalhada ou doce, com leite fervido ou pasteurizado. Leite de animal com mastite ou em tratamento com remédio não serve para consumo.",
+  "materiais": [
+    "Água limpa e sabão",
+    "Balde de inox ou plástico de uso só para leite, com boca estreita",
+    "Caneca de fundo escuro (ou telada)",
+    "Iodo a 10%, álcool etílico e glicerina para as soluções de dipping",
+    "Copinho para mergulhar os tetos",
+    "Papel toalha descartável",
+    "Coador de inox ou plástico",
+    "Panela, termômetro culinário e geladeira, se houver"
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare-se e prepare os utensílios",
+      "texto": "Lave as mãos com água e sabão antes de começar. Mantenha as unhas aparadas, use roupa limpa e cabelo coberto e não fume durante a ordenha.\n\nQuem está gripado, doente ou com ferida nas mãos não deve ordenhar.\n\nLeve o animal para a ordenha com calma. Ordenhe primeiro os animais sadios e por último os que tiveram ou têm mastite.\n\nBaldes, canecas e coadores devem estar lavados e higienizados com água de boa qualidade.",
+      "dicas": [
+        "Dar o concentrado no cocho durante a ordenha acalma a cabra ou a vaca e a mantém em pé depois."
+      ],
+      "avisos": [
+        "Vaca e cabra podem dar coice. Prenda o animal (canzil ou corda curta) e fique ao lado, nunca atrás dele."
+      ]
+    },
+    {
+      "titulo": "Faça o teste da caneca de fundo escuro",
+      "texto": "Tire os primeiros jatos de cada teto na caneca de fundo escuro ou telada (os 3 primeiros jatos, como no protocolo da Embrapa). Esses jatos não vão para o balde.\n\nOlhe o leite: grumos, pus, sangue, aspecto aguado ou cor diferente indicam mastite clínica. Apalpe o úbere: inchaço, calor, endurecimento ou dor também são sinais.\n\nSe aparecer qualquer alteração, ordenhe esse animal por último, jogue fora o leite dele e procure orientação para o tratamento."
+    },
+    {
+      "titulo": "Desinfete os tetos antes (pré-dipping)",
+      "texto": "Mergulhe cada teto numa solução de iodo a 0,5%. Para 1 litro: 50 mL de iodo a 10% + 950 mL de álcool etílico.\n\nDepois, seque cada teto com papel toalha descartável, uma folha para cada teto. Só então comece a ordenhar.",
+      "dicas": [
+        "Teto sujo de barro ou esterco precisa ser limpo antes do dipping; mantenha o local de descanso dos animais limpo para evitar isso."
+      ]
+    },
+    {
+      "titulo": "Ordenhe por completo e desinfete depois (pós-dipping)",
+      "texto": "Ordenhe de forma completa e sem interrupção, com movimentos firmes, rápidos e suaves, sem puxar o teto.\n\nAo terminar, mergulhe os tetos numa solução de iodo a 0,5% com glicerina, cobrindo pelo menos 2/3 do teto. Para 1 litro: 50 mL de iodo a 10% + 830 mL de álcool etílico + 120 mL de glicerina.\n\nA glicerina forma uma película que tampa o orifício do teto. Mantenha o animal em pé depois da ordenha (por exemplo, com comida no cocho) até o teto se fechar."
+    },
+    {
+      "titulo": "Coe e resfrie logo",
+      "texto": "Coe o leite logo depois da ordenha, num coador de inox ou de plástico próprio.\n\nResfriar imediatamente é a medida isolada que mais protege a qualidade do leite, porque segura a multiplicação das bactérias. A Embrapa recomenda chegar a 4 °C ou menos em no máximo 2 horas depois do fim da ordenha.\n\nSem geladeira, ferva o leite logo depois de coar (próximo passo) e consuma no mesmo dia.",
+      "dicas": [
+        "Para esfriar mais rápido, coloque o vasilhame tampado dentro de uma bacia com água fria, trocando a água algumas vezes."
+      ]
+    },
+    {
+      "titulo": "Ferva ou pasteurize antes de consumir",
+      "texto": "Brucelose e tuberculose de bovinos passam para as pessoas principalmente pelo leite cru e pelos derivados feitos com ele. A brucelose humana causa febre, suor noturno, calafrios, fraqueza, dor nas juntas e perda de peso, pode durar até 2 anos e não tem vacina para pessoas. O animal infectado muitas vezes parece saudável.\n\nFervura: aqueça o leite até ferver, mexendo para não derramar nem queimar. É o jeito mais simples e não exige termômetro.\n\nPasteurização lenta caseira (para queijo, iogurte e coalhada): em banho-maria, aqueça o leite até 65 °C e mantenha nessa temperatura por 30 minutos, medindo com termômetro e mexendo. Depois, resfrie rápido. Se não tiver termômetro, ferva.\n\nFaça queijo, coalhada, manteiga e doce só com leite fervido ou pasteurizado.",
+      "avisos": [
+        "Abaixo de 65 °C ou por menos de 30 minutos, a pasteurização não é garantida. Na dúvida, ferva.",
+        "Depois de fervido ou pasteurizado, use só vasilhas limpas e tampadas para não recontaminar o leite."
+      ]
+    },
+    {
+      "titulo": "Respeite a carência dos remédios",
+      "texto": "Carência é o tempo, depois de um remédio, em que o leite e a carne não podem ser consumidos porque têm resíduo do produto.\n\nJogue fora o leite de animais com mastite ou em tratamento. Antes de usar qualquer remédio, vermífugo ou carrapaticida em animal que dá leite, leia na bula o período de descarte do leite.\n\nExemplo da Embrapa: vermífugos do grupo das lactonas macrocíclicas (ivermectina e parecidos) deixam resíduo no leite da cabra durante toda a lactação, cerca de 6 a 8 meses. Albendazol e levamisol têm período residual menor, até cerca de 30 dias. Vale sempre o que está na bula do produto que você usou.",
+      "avisos": [
+        "Anote a data de cada tratamento e o fim da carência num caderno ou na parede do curral, para ninguém usar o leite por engano."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Mastite caprina: informações para prevenção e controle da doença — Embrapa Caprinos e Ovinos",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1010154/1/CNPC-2013-Arq-01.pdf"
+    },
+    {
+      "titulo": "Queijo prato (Coleção Agroindústria Familiar) — Embrapa, pasteurização lenta",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/116504/1/00076230.pdf"
+    },
+    {
+      "titulo": "Brucelose humana — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/b/brucelose-humana"
+    },
+    {
+      "titulo": "Controle de brucelose e tuberculose bovina: requisitos para queijos artesanais de leite cru — Embrapa Gado de Leite",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1184689/1/Controle-de-brucelose-e-tuberculose-bovina-requisitos-para-agroindustrias.pdf"
+    },
+    {
+      "titulo": "Recomendações para o controle integrado de verminose em caprinos e ovinos — Embrapa Caprinos e Ovinos",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1148919/1/CNPC-2023-Recomendacoes-para-o-controle-integrado.pdf"
+    }
+  ]
+}

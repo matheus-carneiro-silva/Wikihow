@@ -1,0 +1,108 @@
+{
+  "id": "prevenir-doencas-nas-galinhas",
+  "titulo": "Como prevenir doenças nas galinhas",
+  "resumo": "Biosseguridade, quarentena, vacinas (Marek, Newcastle, bouba), piolhos e vermes, ave morta e quando avisar o serviço veterinário de Newcastle e gripe aviária.",
+  "categoria": "aves",
+  "tags": [
+    "galinha doente",
+    "frango",
+    "vacina",
+    "gripe aviária",
+    "influenza aviária",
+    "doença de Newcastle",
+    "piolho de galinha",
+    "verme",
+    "salmonela",
+    "ave morta"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Suspeita de influenza aviária (gripe aviária) ou doença de Newcastle tem notificação obrigatória: se muitas aves morrerem de repente, ou aparecerem sinais nervosos ou respiratórios fortes, avise imediatamente o serviço veterinário oficial do seu estado ou notifique pelo e-Sisbravet do MAPA. A gripe aviária pode infectar pessoas que lidam com aves doentes ou mortas: não pegue nessas aves sem luvas, não as abra e não as coma. Galinhas sadias também passam Salmonella: lave as mãos depois de mexer em aves e ovos.",
+  "materiais": [
+    "Luvas e um par de calçados só para o galinheiro",
+    "Cal, desinfetante e vassoura",
+    "Recipiente com tampa para aves mortas",
+    "Cerca, tela e um cercado separado para quarentena",
+    "Vacinas e aplicadores (conta-gotas, agulha de punção), conforme orientação do veterinário"
+  ],
+  "passos": [
+    {
+      "titulo": "Isole o galinheiro",
+      "texto": "Quanto mais isoladas as aves, menos doença entra. Faça o galinheiro separado e afastado da casa e de outras criações, cercado (cerca de pelo menos 1 m) e telado com malha que impeça a entrada de aves silvestres e ratos, vedando as frestas.\n\nNão deixe as galinhas terem acesso a lagoas, açudes, poças ou esgoto: cubra poças do piquete com cal, areia ou pedrisco. Crie uma espécie só; patos, marrecos e perus perto das galinhas aumentam a troca de doenças. Tire entulho e mantenha o mato aparado em volta, para não abrigar ratos.",
+      "dicas": [
+        "Dê ração e água só dentro do galinheiro, para não atrair aves silvestres."
+      ]
+    },
+    {
+      "titulo": "Controle quem entra e o que entra",
+      "texto": "Não deixe vizinhos e curiosos entrarem no galinheiro. Use calçados e roupa só para lidar com as aves e lave essa roupa separada da roupa da casa. Quem visitou outra criação de aves nos últimos 3 dias não deve entrar; se precisar, que use roupa limpa e lave os calçados.\n\nCompre aves só de origem segura (incubatório ou granja registrada, com nota fiscal ou GTA) e já vacinadas contra Marek no incubatório; peça o comprovante. Ave nova, inclusive galo de troca, fica num cercado separado, longe do plantel, por pelo menos 40 dias, para ver se adoece e para ser vacinada e tratada antes de se juntar às outras.",
+      "avisos": [
+        "É muito arriscado comprar ave sem origem segura (de feira ou de desconhecidos): sem saber, você pode trazer aves doentes para o galinheiro."
+      ]
+    },
+    {
+      "titulo": "Mantenha limpeza e vazio sanitário",
+      "texto": "Todo dia: lave comedouros e bebedouros, dê água limpa e tire restos de comida do chão.\n\nTroque a cama quando estiver molhada, compactada ou com muitas fezes (por volta de a cada 45 dias) e a forração dos ninhos no máximo a cada 15 dias. Guarde ração e ovos longe de ratos e controle ratos e moscas.\n\nQuando um lote sair, faça o vazio sanitário: tire toda a cama, limpe de cima para baixo, desinfete, passe cal e deixe o galinheiro secar por completo, sem aves, antes do lote seguinte. A água das aves deve ser de fonte segura e, de preferência, clorada; mantenha a caixa d'água tampada, na sombra e lave-a pelo menos a cada 6 meses.",
+      "dicas": [
+        "O esterco vira adubo depois de compostado, longe das aves. Se adubar o piquete, espere cerca de 60 dias antes de soltar as aves ali."
+      ]
+    },
+    {
+      "titulo": "Vacine conforme o calendário",
+      "texto": "As principais doenças virais das galinhas são Marek, Newcastle, Gumboro, bronquite infecciosa e bouba aviária. Contra a doença de Newcastle não há tratamento depois que a ave adoece, e contra a bouba o tratamento ajuda pouco; a prevenção é a vacina. Calendário básico da Embrapa Meio-Norte para galinha caipira:\n\n• Marek: no 1º dia de vida, sob a pele (normalmente feita no incubatório);\n• Newcastle: aos 7, 21 e 35 dias, por gota no olho, e de novo aos 90 dias nas aves de postura;\n• bouba aviária (varíola aviária): aos 35 dias, por punção na membrana da asa ou na coxa;\n• coriza: aos 35 a 40 dias, no músculo; Gumboro, nas aves jovens; bronquite infecciosa, só onde a doença ocorre.\n\nO calendário muda conforme as doenças da região e deve ser ajustado por um médico-veterinário ou técnico da extensão rural (Emater). A cartilha da Embrapa e do MAPA recomenda vacinar contra Newcastle as aves que vivem mais de 70 dias ou têm acesso a piquete.",
+      "dicas": [
+        "As vacinas costumam vir em frascos de 1.000 doses, precisam de geladeira e não podem ser guardadas depois de abertas: combine com vizinhos para vacinar as aves de todos no mesmo dia e dividir o frasco.",
+        "Vacine com calma, nas horas mais frescas do dia, para não assustar as aves. Nas primeiras vezes, peça ajuda a um técnico ou a um criador experiente."
+      ]
+    },
+    {
+      "titulo": "Reconheça uma ave doente",
+      "texto": "Observe as aves todos os dias. Sinais de alerta: ave triste e parada, sem comer; diarreia; anemia (crista pálida) e crescimento fraco; espirros, chiado ou outros sinais respiratórios; tremores, paralisia ou outros sinais nervosos (a doença de Newcastle é chamada de \"tristeza\" ou \"mal-de-roda\"); queda na postura ou ovos deformados; morte de várias aves em pouco tempo.\n\nRetire logo a ave doente para o cercado de quarentena, para tratamento ou descarte. Detectar cedo limita o surto. Para tratar, procure um médico-veterinário.",
+      "avisos": [
+        "Avise imediatamente o serviço veterinário oficial do seu estado (ou notifique pelo e-Sisbravet do MAPA) se morrerem 10% ou mais das aves em até 72 horas, se a mortalidade subir de repente, ou se houver queda forte da postura ou ovos deformados junto com sinais nervosos e respiratórios em muitas aves. Até receber orientação, não venda, não doe e não transporte aves nem ovos."
+      ]
+    },
+    {
+      "titulo": "Combata piolhos e vermes",
+      "texto": "Piolhos e ácaros vivem nas penas, na cama, nos ninhos e nas frestas, sugam sangue e causam anemia, queda de postura e até morte. Troque a cama e a forração dos ninhos, limpe com desinfetante e cal, tire ninhos de aves silvestres e trate as aves com produto próprio para piolho de galinha.\n\nEm infestação leve, a Embrapa ensina um banho caseiro: 100 g de sabão em barra picado e 100 g de fumo de rolo desfiado em 1 balde de água; coe e mergulhe a ave, sem a cabeça, por cerca de 10 segundos. Não faça em pintos com menos de 30 dias, em galinhas chocando nem em aves que vão ser abatidas.\n\nVermes causam anemia, crescimento fraco, diarreia, paralisia e morte. Previna com bebedouros limpos, ração no comedouro (não no chão), ração balanceada e sem acesso a água parada. Vermífugos vão na água ou na ração; peça orientação ao veterinário.",
+      "avisos": [
+        "Use luvas ao preparar e aplicar a calda de fumo, para ela não tocar a sua pele.",
+        "Siga a bula e o veterinário no uso de vermífugos e outros remédios, inclusive o prazo de carência antes de comer ovos e carne das aves tratadas."
+      ]
+    },
+    {
+      "titulo": "Dê destino seguro à ave morta",
+      "texto": "Aves mortas ou doentes podem estar infectadas e devem ser tratadas como risco. Retire a carcaça do galinheiro na hora, usando luvas, e ponha num recipiente com tampa até levá-la à composteira (deixe por pelo menos 45 dias ou até decompor) ou enterrá-la ou queimá-la. Depois, lave e desinfete o recipiente e lave as mãos.\n\nSe morrerem várias aves ao mesmo tempo, chame o serviço veterinário oficial e siga a orientação dele sobre o destino das carcaças.",
+      "avisos": [
+        "Nunca deixe carcaças expostas no terreno: elas são fonte de infecção para as outras aves."
+      ]
+    },
+    {
+      "titulo": "Proteja a família da Salmonella",
+      "texto": "Lave as mãos com água e sabão depois de mexer em aves, ovos, ração, bebedouros ou qualquer coisa do galinheiro. Não beije nem aconchegue as aves, não as deixe entrar em casa e não coma nem beba no galinheiro. Crianças menores de 5 anos não devem pegar aves nem pintos.\n\nRecolha os ovos com frequência, jogue fora os rachados, limpe a sujeira a seco (pano, escova ou lixa fina) e guarde na geladeira. Coma ovos só bem cozidos, com gema e clara firmes."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Biosseguridade: 10 passos para a produção de ovos em pequena escala — Embrapa e MAPA (Revista do Ovo)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1127931/1/final9459.pdf"
+    },
+    {
+      "titulo": "Galinha caipira: manejo sanitário — Embrapa Meio-Norte",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1099813/1/FolderManejosanitario.pdf"
+    },
+    {
+      "titulo": "Criação de galinhas caipiras (ABC da Agricultura Familiar) — Embrapa",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/126298/1/00081600.pdf"
+    },
+    {
+      "titulo": "Influenza aviária — Ministério da Agricultura e Pecuária (MAPA)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/programas-de-saude-animal/pnsa/influenza-aviaria"
+    },
+    {
+      "titulo": "Backyard poultry — CDC",
+      "url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html"
+    }
+  ]
+}
