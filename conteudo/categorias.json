@@ -68,5 +68,20 @@
     "id": "pragas-colheita-e-sementes",
     "nome": "Pragas, colheita e sementes",
     "descricao": "Controle de pragas sem agrotóxico, armazenamento e sementes"
+  },
+  {
+    "id": "aves",
+    "nome": "Aves",
+    "descricao": "Galinhas caipiras: criação, pintinhos, saúde e abate"
+  },
+  {
+    "id": "caprinos-e-suinos",
+    "nome": "Cabras, porcos e saúde animal",
+    "descricao": "Cabras de leite, ordenha segura, porcos e cuidados veterinários básicos"
+  },
+  {
+    "id": "pequenas-criacoes",
+    "nome": "Coelhos, peixes, abelhas e carne",
+    "descricao": "Coelhos, tilápia, abelhas sem ferrão e conservação de carne"
   }
 ]
