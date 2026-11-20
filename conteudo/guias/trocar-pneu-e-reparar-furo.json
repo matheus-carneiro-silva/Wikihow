@@ -1,0 +1,104 @@
+{
+  "id": "trocar-pneu-e-reparar-furo",
+  "titulo": "Como trocar o pneu furado e reparar o furo",
+  "resumo": "Sinalização na estrada, troca pelo estepe, limites do estepe temporário, reparo com macarrão ou selante e quando o pneu não tem conserto.",
+  "categoria": "emergencias-na-estrada",
+  "tags": [
+    "estepe",
+    "step",
+    "pneu furado",
+    "macarrão",
+    "plug",
+    "selante",
+    "kit reparo",
+    "triângulo",
+    "calibrar",
+    "roda"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Pneu é item de segurança. Macarrão (plug) e selante são reparos de emergência para chegar a um borracheiro, não conserto definitivo. Nunca entre embaixo de um carro apoiado só no macaco. Se o local for perigoso (curva, pista sem acostamento, noite sem visibilidade), saia do carro pelo lado oposto ao trânsito, fique atrás da proteção e peça socorro em vez de trocar ali.",
+  "materiais": [
+    "Triângulo de sinalização",
+    "Estepe calibrado",
+    "Macaco e chave de roda do carro",
+    "Calços para as rodas (pedras ou tocos servem)",
+    "Calibrador ou compressor 12 V",
+    "Kit de reparo com macarrão (plug) ou kit de selante, se tiver",
+    "Lanterna e luvas"
+  ],
+  "passos": [
+    {
+      "titulo": "Pare e sinalize",
+      "texto": "Ao sentir o pneu murchar, ligue o pisca-alerta, alivie o acelerador e freie devagar, sem golpes no volante. Pare fora da pista, num trecho reto, firme e plano, de preferência num posto, recuo ou rua lateral.\n\nO Código de Trânsito Brasileiro (art. 46) exige sinalizar o veículo imobilizado em emergência; a Resolução Contran 36/1998 manda acionar o pisca-alerta e pôr o triângulo a no mínimo 30 m da traseira, em pé, de frente para quem vem. Em pista rápida, curva ou subida, ponha bem mais longe (cerca de 40 passos largos dão 30 m).",
+      "avisos": [
+        "Fazer reparo na pista de rolamento de rodovia é infração grave (CTB art. 179) e muito perigoso. Use o acostamento ou saia da via.",
+        "Rodar com o pneu vazio destrói a carcaça e pode danificar a roda: pare logo."
+      ]
+    },
+    {
+      "titulo": "Prepare o carro",
+      "texto": "Desligue o motor, puxe o freio de mão e deixe engatada a primeira ou a ré (no automático, P). Tire os passageiros e deixe-os longe da pista. Calce a roda diagonalmente oposta à furada, na frente e atrás.\n\nPegue o estepe, o macaco e a chave. Deite o estepe no chão, ao lado, para não rolar."
+    },
+    {
+      "titulo": "Afrouxe os parafusos antes de levantar",
+      "texto": "Com a roda ainda no chão, tire a calota e afrouxe cada parafuso de um quarto a meia volta, no sentido anti-horário. O peso do carro impede a roda de girar.\n\nSe estiverem muito presos, apoie o pé na chave e use o peso do corpo, sem pular nela."
+    },
+    {
+      "titulo": "Levante e troque a roda",
+      "texto": "Encaixe o macaco no ponto de apoio indicado no manual (geralmente um reforço na lateral, perto da roda). Em chão mole, ponha uma tábua embaixo. Levante até o pneu ficar uns 15 cm acima do chão, para caber o estepe cheio.\n\nTire os parafusos, puxe a roda devagar para não balançar o carro e deite-a no chão. Encaixe o estepe, rosqueie os parafusos à mão e dê um aperto leve em cruz.",
+      "avisos": [
+        "Nunca ponha mão, pé ou corpo embaixo do carro no macaco. Nunca apoie o macaco em plástico ou no assoalho fino."
+      ]
+    },
+    {
+      "titulo": "Baixe e aperte em cruz",
+      "texto": "Desça o macaco até o pneu tocar o chão e aperte os parafusos com firmeza em cruz (em estrela). Baixe de vez, tire o macaco e dê o aperto final.\n\nConfira a pressão do estepe: o temporário (fino, de uso provisório) costuma pedir 60 psi (cerca de 4,1 bar), bem mais que um pneu normal; a pressão certa está na etiqueta da porta, na tampa do tanque ou no manual. Assim que puder, confira o aperto com torquímetro, no valor do manual.",
+      "dicas": [
+        "Guarde a roda furada no lugar do estepe: o carro fica sem reserva até consertar."
+      ]
+    },
+    {
+      "titulo": "Respeite os limites do estepe temporário",
+      "texto": "Estepe temporário é só para chegar ao borracheiro. Não passe de 80 km/h (o limite vem gravado na roda ou numa etiqueta) e evite trechos longos, frenagens fortes e curvas rápidas.\n\nEstepe de tamanho normal não tem esse limite, mas confira a pressão: costuma estar baixa depois de meses parado."
+    },
+    {
+      "titulo": "Sem estepe: kit de selante ou macarrão",
+      "texto": "Selante (kit de reparo de fábrica): só para furos pequenos na banda de rodagem, de até cerca de 4 mm. Siga o manual: injete o selante pela válvula, encha com o compressor (não o ligue por mais de 10 minutos seguidos) e rode logo alguns quilômetros para espalhar o líquido. Pare, confira a pressão e complete. Depois, no máximo 80 km/h até o borracheiro; alguns manuais permitem até 200 km.\n\nMacarrão (plug): só para furos de até 6 mm na banda de rodagem, longe do ombro. Tire o objeto com o alicate, alargue o furo com a lima do kit, enfie o macarrão com a agulha deixando uma ponta para fora, puxe a agulha reta e corte o excesso rente. Encha e jogue água com sabão: se borbulhar, refaça.",
+      "avisos": [
+        "Macarrão colocado por fora, com o pneu na roda, não é reparo definitivo. O conserto certo é o reparo combinado (plug com manchão por dentro), feito com o pneu desmontado e examinado.",
+        "Avise o borracheiro que usou selante: o pneu e a roda precisam ser limpos antes do reparo."
+      ]
+    },
+    {
+      "titulo": "Saiba quando o pneu não tem conserto",
+      "texto": "Troque o pneu, sem tentar consertar, se houver: furo, corte ou bolha na lateral (flanco); dano no ombro; furo maior que 6 mm; banda abaixo do limite de 1,6 mm (marcador TWI); ou se o carro rodou com ele vazio, o que danifica a carcaça por dentro.\n\nDepois do reparo definitivo, calibre os quatro pneus com eles frios, na pressão da etiqueta do carro.",
+      "avisos": [
+        "Nunca rode com bolha ou corte na lateral: o pneu pode estourar."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Change a Tire in 11 Easy Steps — AAA",
+      "url": "https://www.aaa.com/autorepair/articles/how-to-change-a-tire-in-11-easy-steps"
+    },
+    {
+      "titulo": "Can My Tire Be Repaired? — Michelin",
+      "url": "https://www.michelinman.com/auto/auto-tips-and-advice/tire-maintenance/can-my-tire-be-repaired"
+    },
+    {
+      "titulo": "If you have a flat tire (with Tire Mobility Kit) — manual do proprietário Kia",
+      "url": "https://ownersmanual.kia.com/full_webhelp/CV1/2026/en_US/topics/t00784.html"
+    },
+    {
+      "titulo": "Tire repair — Continental",
+      "url": "https://www.continental-tires.com/car/tire-knowledge/tire-damage-age-repair/tire-repair"
+    },
+    {
+      "titulo": "Código de Trânsito Brasileiro, art. 46 comentado (Resolução Contran 36/1998) — CTB Digital",
+      "url": "https://ctbdigital.com.br/comentario/comentario46/"
+    }
+  ]
+}

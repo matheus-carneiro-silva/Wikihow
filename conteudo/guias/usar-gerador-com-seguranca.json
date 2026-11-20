@@ -57,7 +57,7 @@
     },
     {
       "titulo": "Mantenha e teste",
-      "texto": "Funcione o gerador em carga a cada mês ou dois para testar e troque o óleo conforme o manual. A gasolina brasileira tem 30% de etanol e envelhece em poucos meses: use estabilizador, gire o estoque e esvazie o carburador se o gerador for ficar parado.\n\nPara poupar combustível, rode em blocos (por exemplo, algumas horas de manhã e à noite) para gelar o freezer e recarregar baterias.",
+      "texto": "Funcione o gerador em carga a cada mês ou dois para testar e troque o óleo conforme o manual. A gasolina comum brasileira tem de 30% a 32% de etanol (32% desde agosto de 2026, em caráter temporário) e envelhece em poucos meses: use estabilizador, gire o estoque e esvazie o carburador se o gerador for ficar parado.\n\nPara poupar combustível, rode em blocos (por exemplo, algumas horas de manhã e à noite) para gelar o freezer e recarregar baterias.",
       "avisos": [
         "Nunca guarde gasolina em garrafa PET: use galão próprio para combustível."
       ]
@@ -81,8 +81,8 @@
       "url": "https://www.eversource.com/residential/safety/electric-safety/generator-safety/generator-back-feed"
     },
     {
-      "titulo": "E30 e B15 entram em vigor em todo o Brasil — Agência Gov",
-      "url": "https://agenciagov.ebc.com.br/noticias/202508/e30-e-b15-entram-em-vigor-em-todo-o-brasil"
+      "titulo": "Resolução que institui o E32 é publicada — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202607/resolucao-que-institui-o-e32-e-publicada-e-nova-mistura-passa-a-valer-neste-sabado"
     }
   ]
 }

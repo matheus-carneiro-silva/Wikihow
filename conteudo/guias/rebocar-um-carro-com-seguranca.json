@@ -1,0 +1,91 @@
+{
+  "id": "rebocar-um-carro-com-seguranca",
+  "titulo": "Como rebocar um carro com segurança",
+  "resumo": "Reboque de emergência entre dois carros: cambão ou corda e o que diz o Código de Trânsito, sinais combinados, velocidade baixa e freio e direção sem motor.",
+  "categoria": "emergencias-na-estrada",
+  "tags": [
+    "reboque",
+    "rebocar",
+    "guincho",
+    "cambão",
+    "corda",
+    "cinta",
+    "puxar carro",
+    "carro quebrado",
+    "câmbio automático"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Reboque entre carros é só para emergência e trechos curtos. Sempre que possível, chame guincho de plataforma. Carros automáticos, CVT e com tração nas quatro rodas podem ter o câmbio destruído se forem puxados com as rodas de tração no chão: leia a seção de reboque do manual antes. O carro rebocado sem motor tem freio duro e volante pesado.",
+  "materiais": [
+    "Cambão (barra rígida de reboque) ou cinta de reboque",
+    "Pano branco ou vermelho para sinalizar a cinta",
+    "Ganchos ou olhais de reboque dos dois carros",
+    "Triângulo de sinalização"
+  ],
+  "passos": [
+    {
+      "titulo": "Decida se pode rebocar",
+      "texto": "O Código de Trânsito Brasileiro (art. 236) proíbe rebocar outro veículo com cabo flexível ou corda, salvo em emergência; é infração média, com multa. O Manual Brasileiro de Fiscalização de Trânsito considera cabo flexível também corrente, cabo de aço e cinta, e define emergência como veículo quebrado na via causando risco ou atrapalhando a circulação. O cambão (barra rígida) não é citado no artigo e dá muito mais controle, por isso é a opção preferida; uma barra improvisada, porém, não fica automaticamente liberada.\n\nMoto não pode rebocar outro veículo (CTB art. 244, VI, infração gravíssima).\n\nCom corda ou cinta, o deslocamento deve ser só o suficiente para eliminar o risco (tirar o carro da pista, de um lugar perigoso) até o ponto seguro mais próximo; para o resto, chame guincho."
+    },
+    {
+      "titulo": "Confira o tipo de câmbio e de tração",
+      "texto": "Carro com tração nas quatro rodas (4x4, AWD): em geral só pode ir em plataforma, com todas as rodas fora do chão.\n\nAutomático, CVT ou automatizado: muitos manuais permitem puxar com as quatro rodas no chão só pela frente, em ponto morto (N), a até 15 km/h e por menos de 1,5 km. Se houver vazamento de fluido do câmbio, só plataforma ou carrinho de reboque (dolly).\n\nManual: em ponto morto, por exemplo até 25 km/h num trecho de até 20 km em alguns manuais. O limite do seu carro está no manual; na dúvida, use o menor.",
+      "avisos": [
+        "Puxar automático com as rodas de tração no chão acima do limite do manual pode destruir o câmbio por falta de lubrificação."
+      ]
+    },
+    {
+      "titulo": "Prenda nos pontos certos",
+      "texto": "Use os ganchos ou olhais de reboque indicados no manual (em alguns carros o olhal é rosqueável e precisa ser encaixado no para-choque). Nunca amarre no para-choque, na suspensão, na barra de direção ou no escapamento.\n\nCom cinta, use uma de menos de 5 m e amarre um pano branco ou vermelho de uns 30 cm no meio, para que os outros motoristas a vejam.",
+      "avisos": [
+        "Corda de varal ou de náilon fino pode partir e virar chicote. Fique longe da linha da cinta ao esticá-la."
+      ]
+    },
+    {
+      "titulo": "Prepare o carro rebocado",
+      "texto": "Precisa haver um motorista habilitado no carro rebocado para frear e esterçar. Coloque a chave na posição de acessórios (ACC) ou ligada, para destravar o volante e manter luzes e pisca funcionando. Solte o freio de mão e ponha o câmbio em N. Ligue o pisca-alerta nos dois carros."
+    },
+    {
+      "titulo": "Saiba o que muda sem motor",
+      "texto": "Com o motor desligado, o servofreio fica sem assistência: o pedal fica duro e é preciso pisar com muito mais força que o normal. A direção hidráulica ou elétrica também para, e o volante fica pesado, especialmente devagar.\n\nO motorista de trás deve frear um pouco antes do da frente, para manter a cinta esticada e não bater no carro que puxa.",
+      "avisos": [
+        "Em descida longa, pare de vez em quando para os freios esfriarem."
+      ]
+    },
+    {
+      "titulo": "Combine os sinais antes de sair",
+      "texto": "Antes de partir, combine como o motorista de trás vai pedir para parar (buzina contínua, piscar o farol) e confirme que os dois entenderam. Combine também o trajeto, evitando subidas fortes, rodovias rápidas e muito trânsito.\n\nTenha um celular ligado com o outro motorista, se der."
+    },
+    {
+      "titulo": "Rode devagar e sem trancos",
+      "texto": "Quem puxa sai bem devagar até a cinta esticar, sem arrancar de uma vez. Mantenha a velocidade baixa e constante, dentro do limite do manual do carro rebocado, acelere e freie com suavidade e faça curvas abertas. Sinalize as manobras com antecedência.\n\nCom cinta, o carro da frente deve manter a cinta sempre esticada; se ela folgar e esticar de novo, o tranco pode soltar os ganchos.",
+      "dicas": [
+        "Com cambão, a distância entre os carros é fixa e o carro de trás não precisa controlar a folga, o que torna o reboque bem mais seguro."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Código de Trânsito Brasileiro (Lei 9.503/1997), arts. 46, 236 e 244 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    },
+    {
+      "titulo": "Emergency towing — manual do proprietário Kia",
+      "url": "https://ownersmanual.kia.com/full_webhelp/BDm/2024/en_US/topics/t00590.html"
+    },
+    {
+      "titulo": "Emergency towing precautions — manual do proprietário Kia Rio",
+      "url": "https://www.manualslib.com/manual/740114/Kia-Rio.html?page=361"
+    },
+    {
+      "titulo": "Towing service (AWD) — manual do proprietário Hyundai",
+      "url": "https://ownersmanual.hyundai.com/full_webhelp/LX3/2026/en_US/id84c9d8c4b38.html"
+    },
+    {
+      "titulo": "Infração 695-50: rebocar outro veículo com cabo flexível ou corda — Âmbito Jurídico",
+      "url": "https://ambitojuridico.com.br/infracao-695-50-rebocar-outro-veiculo-com-cabo-flexivel-ou-corda/"
+    }
+  ]
+}

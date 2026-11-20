@@ -1,0 +1,96 @@
+{
+  "id": "trocar-correia-de-acessorios",
+  "titulo": "Como trocar a correia de acessórios (correia do alternador)",
+  "resumo": "Sinais de correia poli-V gasta, inspeção, troca com tensor automático e o que fazer se a correia do alternador arrebentar na estrada.",
+  "categoria": "motor",
+  "tags": [
+    "correia do alternador",
+    "correia poli-V",
+    "correia serpentina",
+    "tensor",
+    "chiado",
+    "luz da bateria",
+    "direção pesada",
+    "correia arrebentou",
+    "esticador"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe só com o motor desligado e frio, chave fora da ignição e, se possível, o negativo da bateria desligado: a ventoinha elétrica pode ligar sozinha. A correia de acessórios é diferente da correia dentada (sincronismo), que fica escondida sob uma capa: não mexa na dentada sem o procedimento do motor (veja o guia de correia dentada). O manual do seu veículo prevalece sobre estas orientações gerais.",
+  "materiais": [
+    "Correia nova com o mesmo número de nervuras e comprimento",
+    "Chave de boca ou soquete com cabo longo para girar o tensor",
+    "Celular para fotografar o trajeto, ou papel e caneta",
+    "Lanterna",
+    "Pano limpo"
+  ],
+  "passos": [
+    {
+      "titulo": "Reconheça os sinais",
+      "texto": "A correia de acessórios (poli-V, com várias nervuras) gira o alternador e, conforme o carro, a bomba d'água, a bomba da direção hidráulica e o compressor do ar-condicionado. Desconfie dela se houver:\n\n- chiado agudo ao ligar o motor, ao virar o volante ou ao ligar o ar;\n- luz da bateria acesa no painel com o motor ligado;\n- temperatura subindo (quando ela gira a bomba d'água);\n- direção pesada de repente (direção hidráulica);\n- ar-condicionado fraco.",
+      "dicas": [
+        "Em carro com direção elétrica, a direção não depende da correia."
+      ]
+    },
+    {
+      "titulo": "Inspecione a correia e o tensor",
+      "texto": "Com o motor frio e desligado, olhe toda a extensão da correia que estiver visível, com lanterna. Troque se houver trincas, pedaços faltando, nervuras arredondadas, lado brilhante (vitrificado), fios soltos ou contaminação por óleo ou líquido de arrefecimento.\n\nCorreias modernas de EPDM quase não trincam: elas gastam como um pneu, com perda de material das nervuras, e podem parecer boas no fim da vida. A Gates recomenda começar a conferir o desgaste por volta de 60.000 milhas (cerca de 96.000 km); siga o intervalo do manual.\n\nGire o braço do tensor por todo o curso: se trava, raspa ou volta aos trancos, troque o tensor junto.",
+      "avisos": [
+        "Vazamento de óleo ou de aditivo estraga a correia nova: corrija antes."
+      ]
+    },
+    {
+      "titulo": "Registre o trajeto antes de tirar",
+      "texto": "Procure o desenho do trajeto da correia numa etiqueta sob o capô ou no manual. Mesmo que exista, fotografe ou desenhe o caminho por todas as polias, marcando quais tocam o lado das nervuras e quais tocam o lado liso.\n\nConfira se a correia nova tem o mesmo número de nervuras e o mesmo comprimento da velha (o código vem impresso nela)."
+    },
+    {
+      "titulo": "Alivie o tensor e retire a correia",
+      "texto": "Encaixe a chave no parafuso ou no quadrado do tensor automático e gire no sentido que afrouxa a correia (o manual indica). Com o tensor aliviado, tire a correia de uma polia lisa, solte o tensor devagar e retire o resto.",
+      "avisos": [
+        "O tensor tem mola forte: segure a chave com firmeza e não solte de uma vez. Não desmonte o tensor.",
+        "Mantenha dedos fora das polias enquanto o tensor estiver aliviado."
+      ]
+    },
+    {
+      "titulo": "Confira as polias",
+      "texto": "Com a correia fora, gire cada polia com a mão. Ela deve girar lisa, sem ruído, aspereza, folga ou balanço de lado. Limpe os canais das polias com pano. Polia ou rolamento ruim destrói a correia nova em pouco tempo."
+    },
+    {
+      "titulo": "Instale a correia nova",
+      "texto": "Passe a correia por todas as polias seguindo o desenho, deixando por último uma polia lisa ou a do próprio tensor. Alivie o tensor, encaixe a correia e solte-o devagar.\n\nConfira com a lanterna se todas as nervuras estão dentro dos canais de cada polia, sem nenhuma montada fora. Se o tensor tem marcas de indicação, o ponteiro deve ficar dentro da faixa.",
+      "avisos": [
+        "Uma nervura fora do canal faz a correia sair ou rasgar logo após a partida."
+      ]
+    },
+    {
+      "titulo": "Teste com o motor ligado",
+      "texto": "Reconecte a bateria, ligue o motor e observe de longe: a correia deve correr reta, sem vibrar nem chiar. Ligue o ar e vire o volante. A luz da bateria deve apagar. Desligue e confira de novo o alinhamento."
+    },
+    {
+      "titulo": "Se a correia arrebentar na estrada",
+      "texto": "Sinais: luz da bateria acesa, volante pesado, ar parando e, se ela gira a bomba d'água, o ponteiro de temperatura subindo. Pare em local seguro.\n\nSe a correia não move a bomba d'água, dá para rodar um trecho curto só com a bateria: desligue ar, rádio e tudo que puder, pois o alternador parou e a bateria vai acabar. Se move a bomba d'água, o motor superaquece em poucos minutos: não rode, chame reboque.\n\nNão há improviso confiável para correia poli-V. Leve uma correia reserva e a chave do tensor no carro se viajar por lugares isolados.",
+      "avisos": [
+        "Fique de olho no ponteiro da temperatura e pare ao primeiro sinal de aquecimento (veja o guia de arrefecimento). Motor superaquecido pode queimar a junta do cabeçote."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Tech Tip TT002-15: Belt Inspection Changes — Gates",
+      "url": "https://www.gates.com/content/dam/documents-library/tech-tips-bulletins/tt002-15.pdf"
+    },
+    {
+      "titulo": "Changing a Car Serpentine Belt — Family Handyman",
+      "url": "https://www.familyhandyman.com/project/changing-a-car-serpentine-belt/"
+    },
+    {
+      "titulo": "Serpentine Belt Symptoms and Diagnosis — O'Reilly Auto Parts",
+      "url": "https://oreillyauto.com/how-to-hub/serpentine-belt-symptoms-diagnosis"
+    },
+    {
+      "titulo": "Here's What Happens If You Drive With A Broken Serpentine Belt — SlashGear",
+      "url": "https://www.slashgear.com/1837325/what-happens-drive-with-broken-serpentine-belt"
+    }
+  ]
+}

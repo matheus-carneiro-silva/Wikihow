@@ -1,0 +1,99 @@
+{
+  "id": "lidar-com-combustivel-no-carro-flex",
+  "titulo": "Como lidar com o combustível no carro flex",
+  "resumo": "Etanol ou gasolina e a regra dos 70%, partida a frio e tanquinho, combustível adulterado ou com água, pane seca e como guardar e transportar combustível.",
+  "categoria": "motor",
+  "tags": [
+    "etanol",
+    "álcool",
+    "gasolina",
+    "pane seca",
+    "acabou a gasolina",
+    "reserva",
+    "galão",
+    "combustível adulterado",
+    "tanquinho",
+    "bomba de combustível"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Gasolina e etanol são inflamáveis e seus vapores explodem com uma faísca. Nunca fume, use celular encostado no bocal ou deixe o motor ligado ao manusear combustível. Nunca use garrafa PET ou embalagem improvisada, e nunca guarde combustível dentro de casa ou no carro fechado.",
+  "materiais": [
+    "Galão para combustível certificado pelo Inmetro",
+    "Funil limpo",
+    "Pano",
+    "Nota ou cupom fiscal dos abastecimentos"
+  ],
+  "passos": [
+    {
+      "titulo": "Etanol ou gasolina: faça a conta",
+      "texto": "O etanol rende cerca de 30% menos por litro, por isso a regra prática: divida o preço do etanol pelo da gasolina. Se der 0,70 ou menos, o etanol tende a compensar.\n\nA conta exata depende do seu carro. Exemplo: se ele faz 10 km/l com etanol e 14 km/l com gasolina, o limite é 10 ÷ 14 = 0,714, ou seja, o etanol compensa até 71% do preço da gasolina. Alguns flex mais novos empatam perto de 73% a 75%.\n\nA gasolina comum já tem etanol anidro misturado: 30% (E30) desde 1º/8/2025 e 32% (E32) desde 1º/8/2026, por um prazo de 180 dias prorrogáveis. O carro flex aceita qualquer mistura dos dois no tanque.",
+      "dicas": [
+        "Anote quilometragem e litros por alguns tanques de cada combustível para saber o seu consumo real."
+      ]
+    },
+    {
+      "titulo": "Partida a frio",
+      "texto": "Abaixo de uns 15 °C, o etanol vaporiza mal e o motor reluta em pegar. Carros com tanquinho de partida a frio injetam gasolina dele nessa hora: mantenha-o com gasolina, porque gasolina velha estraga e a bombinha pode travar. Carros sem tanquinho aquecem o combustível ou os bicos antes da partida.\n\nEm região ou época fria, abastecer com gasolina ou misturar gasolina ao etanol no tanque facilita a partida. Veja o guia de carro que não pega.",
+      "dicas": [
+        "Se o carro passa meses parado, troque a gasolina do tanquinho por gasolina nova."
+      ]
+    },
+    {
+      "titulo": "Desconfie de combustível ruim",
+      "texto": "Sinais logo depois de abastecer: motor falhando, engasgando, perdendo força, morrendo em marcha lenta, difícil de pegar, luz de injeção acesa ou consumo que sobe de repente.\n\nA falha mais comum na gasolina é etanol além do permitido; no etanol, excesso de água. Você pode pedir no posto a análise na hora: o posto é obrigado a fazer, quando o consumidor pede, o teste de teor de etanol da gasolina (teste da proveta), o de densidade e teor alcoólico do etanol e o de aspecto (deve ser límpido e sem impurezas).",
+      "avisos": [
+        "Se o motor falhar muito, não insista em rodar: combustível com água pode danificar bomba e bicos. Peça guincho e drenagem do tanque."
+      ]
+    },
+    {
+      "titulo": "O que fazer com combustível adulterado",
+      "texto": "Guarde a nota ou o cupom fiscal: ela tem o CNPJ do posto e prova a compra. Pare de rodar e leve o carro para drenar o tanque, a linha e trocar o filtro de combustível.\n\nDenuncie à ANP pelo 0800 970 0267 (gratuito) ou pelo aplicativo ANP com VC – Postos, informando CNPJ e endereço do posto."
+    },
+    {
+      "titulo": "Evite a pane seca",
+      "texto": "Ficar parado na via por falta de combustível é infração média, com multa e remoção do veículo (CTB art. 180). A AAA recomenda não deixar o tanque abaixo de 1/4: em muitos carros a bomba elétrica fica dentro do tanque e é resfriada pelo próprio combustível, e rodar sempre na reserva também faz a bomba puxar a sujeira do fundo.\n\nQuanto dá para andar na reserva varia de carro para carro e com o trânsito. Se o manual informar o volume da reserva, calcule: litros × seu consumo. Exemplo: 5 L × 10 km/l = 50 km. Conte com bem menos, porque o marcador é impreciso."
+    },
+    {
+      "titulo": "Depois da pane seca",
+      "texto": "Coloque pelo menos alguns litros. Antes de dar partida, ligue a ignição sem dar partida, espere a bomba parar de zumbir (cerca de 2 segundos), desligue e repita algumas vezes, para encher a linha. Depois dê partida em tentativas curtas.\n\nSe o carro andou até secar, a bomba pode ter puxado sujeira: se ele falhar depois, troque o filtro de combustível."
+    },
+    {
+      "titulo": "Filtro de combustível",
+      "texto": "O filtro segura sujeira e ferrugem antes dos bicos injetores. Troque no intervalo do manual e também depois de combustível contaminado, pane seca ou falhas de alimentação. Filtro entupido pode causar falta de força, falhas e carro que pega e morre.\n\nRespeite a seta de sentido do fluxo impressa no filtro e alivie a pressão da linha antes de soltar (o manual explica como).",
+      "avisos": [
+        "A linha de combustível fica sob pressão mesmo com o motor desligado. Proteja os olhos e trabalhe longe de faíscas."
+      ]
+    },
+    {
+      "titulo": "Guarde e transporte com segurança",
+      "texto": "Pela Resolução ANP 948/2023, o posto pode vender combustível em recipiente transportável certificado pelo Inmetro, e é proibido abastecer garrafas, embalagens improvisadas ou recipientes não certificados, mesmo em emergência.\n\nNo posto, tire o galão do carro e apoie no chão antes de encher: dentro do porta-malas ou na caçamba com forro plástico, a eletricidade estática não escoa e pode inflamar os vapores. Mantenha o bico encostado na borda da boca do galão enquanto enche e pare em cerca de 95% da capacidade: o combustível dilata com o calor.\n\nTransporte bem fechado e preso, para não deslizar, fora do habitáculo (no porta-malas, não junto dos passageiros), e não deixe o galão no carro por longos períodos. Guarde em local ventilado, longe do sol, de chamas e de crianças, nunca dentro de casa.",
+      "avisos": [
+        "Nunca use garrafa PET, galão de água ou de produtos químicos: o plástico não é feito para combustível, pode vazar e acumular estática."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Resolução que institui o E32 é publicada e nova mistura passa a valer neste sábado — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202607/resolucao-que-institui-o-e32-e-publicada-e-nova-mistura-passa-a-valer-neste-sabado"
+    },
+    {
+      "titulo": "Cartilha do Posto Revendedor de Combustíveis — ANP",
+      "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/cartilhas-e-guias/arq/cartilha-postos.pdf"
+    },
+    {
+      "titulo": "Ofício-Circular nº 3/2026/SDL: combustíveis em recipientes transportáveis — ANP",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/distribuicao-e-revenda/revendedor/arquivos/arq-rev/sei_6460858_oficio_circular_3.pdf"
+    },
+    {
+      "titulo": "Why You Should Never Let Your Gas Tank Drop Below a Quarter — AAA",
+      "url": "https://cluballiance.aaa.com/the-extra-mile/advice/car/never-let-your-gas-tank-drop-below-a-quarter"
+    },
+    {
+      "titulo": "Fire Prevention 52: Gas Cans — U.S. National Park Service",
+      "url": "https://www.nps.gov/articles/fire-p52-gas-cans.htm"
+    }
+  ]
+}

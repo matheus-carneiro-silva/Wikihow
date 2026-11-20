@@ -1,0 +1,100 @@
+{
+  "id": "diagnosticar-carro-que-nao-pega",
+  "titulo": "Como descobrir por que o carro não pega",
+  "resumo": "Árvore de decisão sem ferramentas para carro que não dá partida: não faz nada, só estala, gira e não pega ou pega e morre.",
+  "categoria": "emergencias-na-estrada",
+  "tags": [
+    "não liga",
+    "não pega",
+    "não dá partida",
+    "motor de arranque",
+    "bateria descarregada",
+    "imobilizador",
+    "afogado",
+    "partida a frio",
+    "pane seca",
+    "estalando"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Faça o diagnóstico com o carro em local seguro, freio de mão puxado e câmbio em ponto morto (no automático, P). Não fume nem use chama perto do motor ou da bateria: a bateria solta hidrogênio e o sistema de combustível tem vapores inflamáveis. Nunca borrife gasolina no motor para ajudar a pegar.",
+  "materiais": [
+    "Lanterna",
+    "Chave de fenda ou de boca para os terminais da bateria",
+    "Escova de aço ou lixa",
+    "Fusíveis e relés reserva do mesmo modelo, se tiver",
+    "Chave reserva do carro, se tiver"
+  ],
+  "passos": [
+    {
+      "titulo": "Classifique o sintoma",
+      "texto": "Gire a chave (ou aperte o botão) e observe com atenção. Quase todo caso cai num destes:\n\n1. Não faz nada: painel apagado ou fraco, nenhum som.\n2. Só estala: um clique ou uma metralhadora de cliques, o motor não gira.\n3. Gira e não pega: o motor de arranque gira normal, mas o motor não funciona sozinho.\n4. Pega e morre: funciona alguns segundos e apaga.\n\nVá para o passo do seu caso. Se tiver um scanner, leia os códigos de falha antes (veja o guia de códigos OBD2).",
+      "dicas": [
+        "Teste da luz: acenda o farol ou a luz interna e dê partida. Se a luz quase apaga, a bateria está fraca ou mal conectada."
+      ]
+    },
+    {
+      "titulo": "Não faz nada ou só estala: bateria e terminais",
+      "texto": "Cliques rápidos e luz que enfraquece quase sempre indicam bateria descarregada ou mau contato. Abra o capô e mexa nos terminais com a mão: se algum gira ou tem pó branco ou esverdeado, desligue primeiro o negativo (−), depois o positivo (+), limpe com escova ou lixa até brilhar, reconecte o positivo primeiro e aperte firme. Confira também a outra ponta do cabo negativo, na carroceria ou no motor.\n\nSe continuar, faça a partida com cabos de outro carro (veja o guia de partida com cabos) ou meça a bateria com multímetro (veja o guia de testar a bateria).",
+      "avisos": [
+        "Use luvas e óculos: o pó dos terminais é ácido. Não encoste ferramenta ao mesmo tempo no positivo e na carroceria."
+      ]
+    },
+    {
+      "titulo": "Um clique só, com bateria boa",
+      "texto": "Painel forte e um clique único sem o motor girar apontam para o motor de arranque, seu relé ou o interruptor do câmbio. No automático, tente dar partida em N; em alguns carros mexer a alavanca restabelece o contato. No manual, confira se o pedal da embreagem está indo até o fundo (muitos carros exigem).\n\nSe nada mudar, o problema costuma estar no motor de arranque, e o caminho é guincho ou oficina. Em carro manual dá para pegar no tranco, mas só com ajuda e em local seguro."
+    },
+    {
+      "titulo": "Gira e não pega: imobilizador e combustível",
+      "texto": "Olhe o painel: luz de chave ou cadeado piscando indica que o imobilizador não reconheceu a chave. Desligue, ligue de novo e tente outra vez, com outras chaves com chip longe da chave em uso. Se continuar, use a chave reserva.\n\nDepois, combustível. Confira o marcador (pane seca é a causa mais simples). Com tudo em silêncio, ligue a ignição sem dar partida e escute perto do tanque: a bomba elétrica deve zumbir por cerca de 2 segundos. Sem zumbido, suspeite de fusível, relé ou da própria bomba.",
+      "dicas": [
+        "Não fique dando partida sem parar: tente por até 5 segundos e, se não pegar, espere 10 segundos antes de tentar de novo, para não esgotar a bateria nem esquentar o motor de arranque."
+      ]
+    },
+    {
+      "titulo": "Confira fusíveis e relés",
+      "texto": "O mapa dos fusíveis fica na tampa da caixa ou no manual. Procure os de bomba de combustível, injeção e ignição. Fusível queimado tem o filete interno partido. Troque por outro de mesma amperagem (mesma cor); se queimar de novo, há curto e não adianta insistir.\n\nRelé suspeito pode ser trocado por outro idêntico (mesmo código impresso) de uma função dispensável, como a buzina, só para teste.",
+      "avisos": [
+        "Nunca troque fusível por um de amperagem maior nem faça ponte com fio ou papel-alumínio: risco de incêndio."
+      ]
+    },
+    {
+      "titulo": "Partida a frio no flex",
+      "texto": "Com etanol, abaixo de uns 15 °C o combustível vaporiza mal e o motor reluta. Carros com tanquinho de partida a frio precisam de gasolina nele; gasolina velha ou bombinha travada fazem o carro não pegar no frio. Carros mais novos aquecem o etanol ou os bicos e dispensam o tanquinho.\n\nSe for rodar em região fria, colocar gasolina no tanque principal resolve: o motor flex aceita qualquer mistura. Veja o guia de combustível no carro flex."
+    },
+    {
+      "titulo": "Motor afogado ou que pega e morre",
+      "texto": "Muitas tentativas no frio podem encharcar as velas (cheiro forte de combustível). Em muitos carros com injeção, a saída é o modo de desafogar: com o freio de mão puxado, pise o acelerador até o fundo, mantenha e dê a partida; se pegar, solte o acelerador na hora, porque o motor acelera de repente. Se não pegar, tente de novo sem acelerar. Confirme no manual se o seu carro tem esse recurso.\n\nPega e morre costuma ser falta de combustível (bomba fraca, filtro entupido, combustível com água), imobilizador cortando a injeção ou falha de sensor. Luz do imobilizador acesa, cheiro de combustível estranho ou falha só depois de abastecer dão a pista."
+    },
+    {
+      "titulo": "Saiba quando parar",
+      "texto": "Sem faísca (velas, bobina, sensor de rotação) ou sem pressão de combustível, o diagnóstico precisa de ferramentas. Se depois destes passos o carro não pegar, pare de insistir: cada tentativa gasta bateria e pode afogar o motor. Chame socorro ou reboque (veja o guia de rebocar um carro).",
+      "avisos": [
+        "Barulho de batida metálica, motor travado ou correia dentada partida: não insista na partida, pode destruir o motor."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Starting a Flooded Engine — manual do proprietário Mazda3",
+      "url": "https://www.mazdausa.com/static/manuals/2023/mazda3/contents/08040101.html"
+    },
+    {
+      "titulo": "Immobilizer system — manual do proprietário Kia",
+      "url": "https://ownersmanual.kia.com/full_webhelp/CL4/2026/en_US/topics/t00039.html"
+    },
+    {
+      "titulo": "Fuel Pump Diagnosis — AA1Car",
+      "url": "https://www.aa1car.com/library/fuel_pump_diagnose.htm"
+    },
+    {
+      "titulo": "Car Cranks But Won't Start — The Drive",
+      "url": "https://www.thedrive.com/maintenance-repair/36052/car-cranks-but-wont-start.md"
+    },
+    {
+      "titulo": "Tanquinho de partida a frio: 'jurássico' ainda equipa alguns flex — AutoPapo",
+      "url": "https://autopapo.com.br/noticia/tanquinho-de-partida-a-frio-equipa-flex/"
+    }
+  ]
+}

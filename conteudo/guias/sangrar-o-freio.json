@@ -1,0 +1,101 @@
+{
+  "id": "sangrar-o-freio",
+  "titulo": "Como sangrar o freio",
+  "resumo": "Sangria do freio com duas pessoas para tirar ar do sistema: quando fazer, ordem das rodas, fluido certo, cuidados com ABS e descarte.",
+  "categoria": "freios",
+  "tags": [
+    "sangria",
+    "sangrar",
+    "pedal esponjoso",
+    "pedal baixo",
+    "fluido de freio",
+    "óleo de freio",
+    "DOT 4",
+    "ar no freio",
+    "purgar"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Freio é item de segurança: se não tiver certeza de cada etapa, leve à oficina. Não dirija com pedal baixo ou esponjoso. Trabalhe com o carro em local plano, motor desligado e frio, e, se precisar levantar, use cavaletes: nunca entre embaixo de um carro apoiado só no macaco. Carros com ABS podem precisar de scanner para tirar todo o ar. O manual do seu veículo prevalece sobre estas orientações gerais.",
+  "materiais": [
+    "Fluido de freio novo, do tipo indicado na tampa do reservatório ou no manual (frasco lacrado)",
+    "Chave de boca do tamanho do sangrador (estrela é melhor)",
+    "Mangueira transparente que encaixe justa no sangrador",
+    "Garrafa ou pote transparente",
+    "Seringa limpa e panos",
+    "Ajudante",
+    "Luvas e óculos"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba quando sangrar",
+      "texto": "Sangre quando o pedal estiver esponjoso, baixo ou precisar de bombeadas, depois de abrir o sistema hidráulico (troca de pinça, cilindro de roda, flexível ou cilindro-mestre) ou se o reservatório secou.\n\nO fluido comum (DOT 3, DOT 4, DOT 5.1) absorve água do ar, e a água baixa o ponto de ebulição: com o freio quente, formam-se bolhas de vapor e o pedal afunda. Por isso se recomenda trocar todo o fluido em geral a cada 2 anos, ou no prazo do manual (veja o guia de verificar o fluido de freio).",
+      "avisos": [
+        "Pedal que afunda devagar enquanto você mantém o pé parado indica vazamento (externo ou no cilindro-mestre), não ar. Encontre e corrija o vazamento antes de sangrar."
+      ]
+    },
+    {
+      "titulo": "Use o fluido certo",
+      "texto": "Use só o tipo escrito na tampa do reservatório ou no manual, de frasco novo e lacrado. Fluido de frasco aberto há muito tempo já absorveu umidade.\n\nNunca coloque DOT 5 (à base de silicone) num sistema de DOT 3, 4 ou 5.1 (à base de glicol), nem o contrário. Nunca complete com outro líquido (óleo, água) no lugar de fluido de freio.",
+      "avisos": [
+        "O fluido de freio ataca a pintura: cubra a lataria com pano e lave na hora com bastante água se respingar."
+      ]
+    },
+    {
+      "titulo": "Descubra a ordem das rodas",
+      "texto": "A regra geral é começar pela roda mais distante do cilindro-mestre e terminar na mais próxima. Num carro com volante à esquerda e cilindro-mestre do lado do motorista, costuma ser: traseira direita, traseira esquerda, dianteira direita, dianteira esquerda.\n\nMuitos carros têm circuito em diagonal e ordem própria definida pela montadora. Se o manual de serviço indicar outra ordem, siga o manual.",
+      "dicas": [
+        "Antes de começar, solte e reaperte de leve cada sangrador. Se um estiver travado, use desengripante e paciência: sangrador quebrado deixa o carro parado."
+      ]
+    },
+    {
+      "titulo": "Prepare o sistema",
+      "texto": "Complete o reservatório até a marca MÁX com fluido novo. Coloque a chave estrela no sangrador da primeira roda, encaixe a mangueira e mergulhe a outra ponta num pouco de fluido novo dentro da garrafa. Assim, se o ar tentar voltar, a mangueira puxa fluido, não ar."
+    },
+    {
+      "titulo": "Sangre com duas pessoas",
+      "texto": "1. O ajudante pisa no pedal devagar três vezes e mantém pisado, avisando \"pisado\".\n2. Você folga o sangrador o suficiente para o fluido sair: sai fluido e ar, e o pedal desce.\n3. Feche o sangrador antes de o ajudante soltar o pedal. Só então ele solta e avisa \"solto\".\n4. Repita até sair fluido limpo, sem nenhuma bolha na mangueira.\n\nPasse para a próxima roda na ordem e repita.",
+      "avisos": [
+        "O ajudante só solta o pedal com o sangrador fechado. Se soltar aberto, o sistema puxa ar de volta."
+      ]
+    },
+    {
+      "titulo": "Nunca deixe o reservatório secar",
+      "texto": "A cada poucas pisadas, olhe o reservatório e complete. Se o nível cair abaixo do mínimo, entra ar no cilindro-mestre e é preciso recomeçar tudo, às vezes sangrando o próprio cilindro-mestre.\n\nNunca reaproveite o fluido que saiu na garrafa, mesmo que pareça limpo."
+    },
+    {
+      "titulo": "Confira o pedal e o ABS",
+      "texto": "Aperte bem os sangradores, sem exagero, e recoloque as capinhas. Complete o reservatório até o MÁX e feche a tampa. Com o motor desligado, o pedal deve ficar alto e firme; ligue o motor e ele desce um pouco e continua firme.\n\nNo ABS, a sangria comum costuma bastar se o módulo não foi aberto nem o sistema secou. Se o pedal continuar esponjoso, pode haver ar preso no bloco do ABS, e algumas válvulas só abrem com scanner: leve à oficina.",
+      "avisos": [
+        "Teste os freios devagar, num lugar vazio, antes de ir para a rua. Pedal mole: não dirija."
+      ]
+    },
+    {
+      "titulo": "Descarte o fluido usado",
+      "texto": "Fluido de freio usado é tóxico e conta como resíduo perigoso. Não jogue no ralo, na pia, no esgoto, na terra nem no lixo comum, e não misture com outros resíduos. Guarde num frasco fechado e identificado e entregue numa oficina ou ponto de coleta de resíduos perigosos da sua cidade."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Changing the brake fluid — HELLA TechWorld",
+      "url": "https://www.hella.com/techworld/en/technical/brakes/changing-the-brake-fluid/"
+    },
+    {
+      "titulo": "How to bleed brakes yourself — Haynes",
+      "url": "https://us.haynes.com/blogs/tips-tutorials/how-bleed-brakes-yourself"
+    },
+    {
+      "titulo": "DIY: How to Bleed Brakes — O'Reilly Auto Parts",
+      "url": "https://www.oreillyauto.com/how-to-hub/diy-how-to-bleed-brakes"
+    },
+    {
+      "titulo": "Brake fluid: function, changing and differences — LIQUI MOLY",
+      "url": "https://www.liqui-moly.com/en/us/products/tips-and-topics/brake-fluid-function-changing-and-differences.html"
+    },
+    {
+      "titulo": "Automotive fluids and oils — King County Hazardous Waste Program",
+      "url": "https://kingcounty.gov/en/dept/dnrp/waste-services/hazardous-waste-program/business/products/automotive-fluids-oils"
+    }
+  ]
+}
