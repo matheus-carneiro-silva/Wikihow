@@ -83,5 +83,10 @@
     "id": "pequenas-criacoes",
     "nome": "Coelhos, peixes, abelhas e carne",
     "descricao": "Coelhos, tilápia, abelhas sem ferrão e conservação de carne"
+  },
+  {
+    "id": "residuos-e-bioenergia",
+    "nome": "Resíduos e bioenergia",
+    "descricao": "Biogás, biodigestor, minhocário, banheiro seco e esgoto sem rede"
   }
 ]
