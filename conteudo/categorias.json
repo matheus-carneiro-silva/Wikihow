@@ -128,5 +128,45 @@
     "id": "reconstrucao-social",
     "nome": "Reconstrução social",
     "descricao": "Organização comunitária, conflitos, bens comuns, saúde pública, educação e memória"
+  },
+  {
+    "id": "plantas-silvestres",
+    "nome": "Plantas silvestres e medicinais",
+    "descricao": "PANC, plantas tóxicas e plantas medicinais com evidência"
+  },
+  {
+    "id": "saude-mental",
+    "nome": "Saúde mental",
+    "descricao": "Primeiros cuidados psicológicos, estresse, luto e sono em crise"
+  },
+  {
+    "id": "abrigo",
+    "nome": "Abrigo e conforto térmico",
+    "descricao": "Abrigos de emergência e manter a casa aquecida ou fresca sem energia"
+  },
+  {
+    "id": "orientacao",
+    "nome": "Orientação e navegação",
+    "descricao": "Achar o caminho sem GPS: sol, estrelas, mapa e bússola"
+  },
+  {
+    "id": "seguranca",
+    "nome": "Segurança da casa e da comunidade",
+    "descricao": "Proteger a casa, prevenir incêndios e evitar confrontos"
+  },
+  {
+    "id": "oficios",
+    "nome": "Ofícios",
+    "descricao": "Nós e cordas, marcenaria, ferramentas, costura e couro"
+  },
+  {
+    "id": "transporte",
+    "nome": "Transporte sem combustível",
+    "descricao": "Bicicleta e tração animal"
+  },
+  {
+    "id": "clima-e-calendario",
+    "nome": "Clima e calendário",
+    "descricao": "Prever o tempo sem internet e planejar o plantio pelas estações"
   }
 ]
