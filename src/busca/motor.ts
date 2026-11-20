@@ -306,9 +306,10 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
     if (!crua) return undefined;
     const queries: Query[] = [
       // Palavra como digitada; prefixo na última (o usuário ainda está digitando).
+      // O radical não usa prefixo: "corr" (de "correia") casaria "corrente" e "corrosão".
       { queries: [crua], prefix: (ultima && crua.length >= 3) || crua.length >= 4, fuzzy: crua.length >= 5 ? 0.2 : false },
     ];
-    if (r) queries.push({ queries: [r], prefix: ultima, fuzzy: r.length >= 5 ? 0.2 : false });
+    if (r) queries.push({ queries: [r], prefix: false, fuzzy: r.length >= 5 ? 0.2 : false });
     const sin = new Set([...(mapaSinonimos.get(crua) ?? []), ...(r ? (mapaSinonimos.get(r) ?? []) : [])]);
     // Sinônimos valem um pouco menos que a palavra digitada.
     if (sin.size) queries.push({ queries: [...sin], combineWith: 'OR', boostTerm: () => 0.7, prefix: false, fuzzy: false });
