@@ -43,5 +43,15 @@
     "id": "geracao-de-energia",
     "nome": "Geração de energia",
     "descricao": "Geradores, carro como fonte de energia e microgeração"
+  },
+  {
+    "id": "primeiros-socorros",
+    "nome": "Primeiros socorros",
+    "descricao": "Hemorragias, queimaduras, mordidas, picadas e desidratação"
+  },
+  {
+    "id": "emergencias-na-estrada",
+    "nome": "Emergências na estrada",
+    "descricao": "Pneu furado, carro que não pega e reboque"
   }
 ]
