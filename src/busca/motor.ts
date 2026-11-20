@@ -64,7 +64,7 @@ function ehVazia(palavra: string): boolean {
  * Palavras genéricas de guias: não são exigidas na busca, só somam pontos.
  * "como fazer pão" encontra "Pão caseiro" mesmo sem a palavra "fazer".
  */
-const FRACAS = new Set(['fazer', 'faco', 'feito', 'usar', 'utilizar', 'guia', 'jeito', 'maneira', 'forma', 'modo', 'passo', 'dica', 'dicas', 'serve', 'servir']);
+const FRACAS = new Set(['fazer', 'faco', 'feito', 'usar', 'utilizar', 'guia', 'jeito', 'maneira', 'forma', 'modo', 'passo', 'dica', 'dicas', 'serve', 'servir', 'preciso', 'precisa', 'precisar', 'devo', 'deve']);
 
 /** Plurais que não devem perder o "s". */
 const INVARIAVEIS = new Set(['lapis', 'onibus', 'virus', 'tenis', 'pires', 'atlas', 'gas', 'pais', 'cais', 'mes', 'tres', 'bonus', 'oasis', 'freezer', 'gratis', 'simples']);
