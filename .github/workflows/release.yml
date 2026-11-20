@@ -1,8 +1,11 @@
-# Gera o APK de uma nova versão quando uma Release é publicada no GitHub.
+# Gera o APK de uma nova versão. Dois jeitos de disparar:
 #
-# A tag da Release define a versão do app: v1.2.0 → version "1.2.0".
-# O versionCode é incrementado automaticamente pelos servidores da Expo
-# (appVersionSource "remote" + autoIncrement no perfil production do eas.json).
+#   1. Publicar uma Release no GitHub com a tag v1.2.0: o APK é anexado a ela.
+#   2. Actions → Release Android → Run workflow, informando a versão (1.2.0):
+#      compila e, só se o build der certo, cria a Release v1.2.0 com o APK.
+#
+# A versão vira o "version" do app. O versionCode é incrementado pelos servidores
+# da Expo (appVersionSource "remote" + autoIncrement no perfil production).
 #
 # Pré-requisitos (uma vez só; ver "Versões e builds" no README):
 #   - secret EXPO_TOKEN no repositório
@@ -13,12 +16,18 @@ name: Release Android
 on:
   release:
     types: [published]
+  workflow_dispatch:
+    inputs:
+      versao:
+        description: Versão no formato 1.2.3 (cria a Release v1.2.3)
+        required: true
+        type: string
 
 permissions:
-  contents: write # anexar o APK na Release
+  contents: write # criar a Release e anexar o APK
 
 concurrency:
-  group: release-${{ github.event.release.tag_name }}
+  group: release-${{ github.event.release.tag_name || inputs.versao }}
   cancel-in-progress: false
 
 jobs:
@@ -28,22 +37,28 @@ jobs:
     # O build roda na nuvem da Expo; no plano gratuito pode haver fila.
     timeout-minutes: 180
     env:
-      TAG: ${{ github.event.release.tag_name }}
+      # Release publicada: a tag dela. Disparo manual: "v" + versão informada.
+      TAG: ${{ github.event_name == 'release' && github.event.release.tag_name || format('v{0}', inputs.versao) }}
+      GH_TOKEN: ${{ github.token }}
     steps:
-      - name: Validar a tag
+      - name: Validar a versão
         run: |
           if [[ ! "$TAG" =~ ^v?([0-9]+\.[0-9]+\.[0-9]+)$ ]]; then
-            echo "::error::A tag \"$TAG\" não é uma versão no formato v1.2.3."
+            echo "::error::\"$TAG\" não é uma versão no formato v1.2.3."
             exit 1
           fi
           echo "VERSAO=${BASH_REMATCH[1]}" >> "$GITHUB_ENV"
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ] && gh release view "$TAG" --repo "$GITHUB_REPOSITORY" > /dev/null 2>&1; then
+            echo "::error::A Release $TAG já existe. Escolha outra versão."
+            exit 1
+          fi
 
       - uses: actions/checkout@v7
 
       - name: Verificar configuração do EAS
         run: |
           if [ -z "$(jq -r '.expo.extra.eas.projectId // empty' app.json)" ]; then
-            echo "::error::Projeto ainda não ligado ao EAS. Rode antes o workflow \"Configurar EAS\" (Actions → Configurar EAS → Run workflow) e crie a Release de novo."
+            echo "::error::Projeto ainda não ligado ao EAS. Rode antes o workflow \"Configurar EAS\" (Actions → Configurar EAS → Run workflow)."
             exit 1
           fi
 
@@ -60,7 +75,7 @@ jobs:
       - name: Tipos
         run: npm run typecheck
 
-      - name: Aplicar a versão da tag no app.json
+      - name: Aplicar a versão no app.json
         run: |
           node -e '
             const fs = require("fs");
@@ -80,9 +95,7 @@ jobs:
         # O EAS envia o diretório atual, incluindo o app.json alterado acima.
         run: eas build --platform android --profile production --non-interactive --wait --json > build.json
 
-      - name: Anexar o APK na Release
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Baixar o APK
         run: |
           URL=$(jq -r '.[0].artifacts.buildUrl // .[0].artifacts.applicationArchiveUrl // empty' build.json)
           if [ -z "$URL" ]; then
@@ -90,7 +103,14 @@ jobs:
             cat build.json
             exit 1
           fi
-          ARQUIVO="wikihow-$TAG.apk"
-          curl -fsSL -o "$ARQUIVO" "$URL"
+          echo "ARQUIVO=wikihow-$TAG.apk" >> "$GITHUB_ENV"
+          curl -fsSL -o "wikihow-$TAG.apk" "$URL"
+
+      - name: Criar a Release (disparo manual)
+        if: github.event_name == 'workflow_dispatch'
+        run: gh release create "$TAG" --target "$GITHUB_SHA" --title "$TAG" --generate-notes
+
+      - name: Anexar o APK na Release
+        run: |
           gh release upload "$TAG" "$ARQUIVO" --clobber
           echo "### APK $TAG anexado à Release" >> "$GITHUB_STEP_SUMMARY"

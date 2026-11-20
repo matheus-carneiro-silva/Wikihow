@@ -96,9 +96,16 @@ atualizar o app sem desinstalar.
 
 ### Gerar uma versão
 
-No GitHub: **Releases → Draft a new release**, crie a tag (`v1.0.0`, `v1.1.0`…)
-e clique em **Publish release**. Acompanhe em **Actions**; no plano gratuito da Expo
-o build pode esperar alguns minutos na fila.
+Duas opções, ambas pelo navegador:
+
+- **Pela aba Actions**: **Actions → Release Android → Run workflow**, informe a
+  versão (`1.0.0`, `1.1.0`…) e confirme. A Release `v1.0.0` só é criada se o build
+  der certo.
+- **Pelas Releases**: **Releases → Draft a new release**, crie a tag (`v1.0.0`) e
+  clique em **Publish release**. O APK é anexado à Release quando o build termina.
+
+Acompanhe em **Actions**; no plano gratuito da Expo o build pode esperar alguns
+minutos na fila.
 
 ## Configuração Android
 
