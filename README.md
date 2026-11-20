@@ -1,6 +1,7 @@
 # Wikihow
 
-App pessoal de guias passo a passo ("como fazer"), feito com [Expo](https://expo.dev) (SDK 58, React Native 0.88, TypeScript), **exclusivamente para Android** e **100% offline**: todos os guias são arquivos JSON em [`conteudo/`](conteudo/README.md) embutidos no app.
+App pessoal de guias passo a passo ("como fazer"), feito com [Expo](https://expo.dev) (SDK 58, React Native 0.88, TypeScript), **exclusivamente para Android** e **100% offline**: os guias são arquivos JSON em [`conteudo/`](conteudo/README.md). O APK já vem com eles, e o app
+baixa do GitHub os guias novos ou alterados — **adicionar um guia não exige um novo build**.
 
 ## Pré-requisitos
 
@@ -32,6 +33,23 @@ npm run android    # inicia e abre direto no emulador/dispositivo conectado
 | `npm run build:apk` | Build de APK na nuvem da Expo (perfil `preview`, para testar) |
 | `npm run build:release` | Build de APK na nuvem da Expo (perfil `production`, o mesmo da Release) |
 
+## Conteúdo sem build
+
+O app lê a pasta `conteudo/` deste repositório (branch `master`) direto do GitHub e guarda uma cópia
+no celular para usar offline:
+
+- **Ao abrir o app** e ao **puxar a lista da Início para baixo**, ele pergunta ao GitHub se há um commit
+  novo. Se houver, baixa só os arquivos novos ou alterados e reaproveita o resto.
+- O conteúdo baixado passa pela mesma validação do app. Se algo estiver inválido, a versão atual é
+  mantida e a Início mostra os erros.
+- Antes da primeira sincronização (ou sem internet), o app usa os guias que vieram no APK.
+- **O repositório precisa ser público**: o app baixa sem autenticação (limite do GitHub: 60 consultas
+  por hora por aparelho; cada verificação sem novidades gasta 1).
+- Repositório, branch e pasta ficam em `app.json` → `expo.extra.conteudo`.
+
+Fluxo para publicar guias: commit em `conteudo/` → push na `master` → no celular, puxar a lista.
+Um build novo só é necessário quando o **código** do app muda.
+
 ## Navegação (Expo Router)
 
 As rotas ficam em `src/app/` — cada arquivo é uma tela:
@@ -53,7 +71,7 @@ src/
 │   ├── guia/[id].tsx       # rota /guia/<id>: o guia com seus passos (rola até ?passo=N)
 │   └── +not-found.tsx      # rota inexistente
 ├── busca/motor.ts          # motor de busca (MiniSearch + stemming em português)
-├── conteudo/               # tipos, validação e carregamento do conteúdo
+├── conteudo/               # tipos, validação, conteúdo embutido e sincronização com o GitHub
 ├── components/             # componentes reutilizáveis
 └── tema.ts                 # cores
 ```

@@ -4,11 +4,12 @@ import { Pressable, StyleSheet, Text } from 'react-native';
 import type { ResultadoBusca } from '@/busca/motor';
 import { cores } from '@/tema';
 
-import { metaGuia } from './CartaoGuia';
+import { useMetaGuia } from './CartaoGuia';
 import { TextoDestacado } from './TextoDestacado';
 
 export function CartaoResultado({ resultado }: { resultado: ResultadoBusca }) {
   const { guia, titulo, trecho, termos } = resultado;
+  const meta = useMetaGuia();
   const params: { id: string; passo?: string; termos?: string } = { id: guia.id };
   if (trecho.passo !== undefined) params.passo = String(trecho.passo);
   if (termos.length) params.termos = termos.join(',');
@@ -19,7 +20,7 @@ export function CartaoResultado({ resultado }: { resultado: ResultadoBusca }) {
         <TextoDestacado partes={titulo} style={styles.titulo} />
         {trecho.rotulo ? <TextoDestacado partes={trecho.rotulo} style={styles.rotulo} numberOfLines={1} /> : null}
         <TextoDestacado partes={trecho.partes} style={styles.trecho} numberOfLines={3} />
-        <Text style={styles.meta}>{metaGuia(guia)}</Text>
+        <Text style={styles.meta}>{meta(guia)}</Text>
       </Pressable>
     </Link>
   );

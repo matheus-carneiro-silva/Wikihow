@@ -45,6 +45,11 @@
       },
       "eas": {
         "projectId": "817edbe7-1f5e-4215-8d29-5d630f1554fa"
+      },
+      "conteudo": {
+        "repositorio": "matheus-carneiro-silva/Wikihow",
+        "branch": "master",
+        "pasta": "conteudo"
       }
     },
     "owner": "matcar008"

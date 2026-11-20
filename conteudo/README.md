@@ -1,7 +1,9 @@
 # Conteúdo offline
 
-Todas as "páginas" do app são arquivos JSON nesta pasta. Elas entram no bundle
-no build, então o app funciona sem internet. Os tipos ficam em
+Todas as "páginas" do app são arquivos JSON nesta pasta. O APK já vem com o
+conteúdo do momento do build, e o app baixa do GitHub (branch `master`) o que
+mudar depois — basta fazer push; não precisa de um build novo. A cópia baixada
+fica no celular e funciona sem internet. Os tipos ficam em
 `src/conteudo/tipos.ts` e as regras de validação em `src/conteudo/validar.ts`.
 
 ```
@@ -20,8 +22,8 @@ Depois de adicionar ou editar arquivos, rode:
 npm run conteudo:validar
 ```
 
-Com o app aberto em desenvolvimento, um JSON inválido mostra a lista de erros
-na tela. Em um build de produção, só o guia inválido é ignorado.
+Rode a validação antes do push: se o conteúdo no GitHub estiver inválido, o app
+recusa a atualização inteira, mantém a versão anterior e mostra os erros na Início.
 
 ## categorias.json
 

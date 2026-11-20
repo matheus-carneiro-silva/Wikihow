@@ -2,17 +2,12 @@
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, sep } from 'node:path';
 
-import type { Categoria, Guia } from '../src/conteudo/tipos.ts';
-import { EXTENSOES_IMAGEM, validarCategorias, validarGuia, validarSinonimos } from '../src/conteudo/validar.ts';
+import { lerJson, montarConteudo, type ConteudoMontado } from '../src/conteudo/montar.ts';
+import { EXTENSOES_IMAGEM } from '../src/conteudo/validar.ts';
 
 export const PASTA_CONTEUDO = join(import.meta.dirname, '..', 'conteudo');
 
-export type ConteudoLido = {
-  erros: string[];
-  categorias: Categoria[];
-  sinonimos: string[][];
-  /** Só os guias válidos. */
-  guias: Guia[];
+export type ConteudoLido = ConteudoMontado & {
   /** Total de arquivos .json em guias/, válidos ou não. */
   totalArquivos: number;
   /** Caminhos das imagens em imagens/ (ex.: "guia/foto.png"). */
@@ -20,26 +15,9 @@ export type ConteudoLido = {
 };
 
 export function lerConteudo(raiz = PASTA_CONTEUDO): ConteudoLido {
-  const erros: string[] = [];
-
-  const lerJson = (caminho: string, nome: string): unknown => {
-    try {
-      return JSON.parse(readFileSync(caminho, 'utf8'));
-    } catch (e) {
-      erros.push(`${nome}: JSON inválido (${(e as Error).message})`);
-      return undefined;
-    }
-  };
-
-  const dadosCategorias = lerJson(join(raiz, 'categorias.json'), 'categorias.json');
-  const errosCategorias = dadosCategorias === undefined ? [] : validarCategorias(dadosCategorias);
-  erros.push(...errosCategorias);
-  const categorias = dadosCategorias !== undefined && !errosCategorias.length ? (dadosCategorias as Categoria[]) : [];
-
-  const dadosSinonimos = lerJson(join(raiz, 'sinonimos.json'), 'sinonimos.json');
-  const errosSinonimos = dadosSinonimos === undefined ? [] : validarSinonimos(dadosSinonimos);
-  erros.push(...errosSinonimos);
-  const sinonimos = dadosSinonimos !== undefined && !errosSinonimos.length ? (dadosSinonimos as string[][]) : [];
+  const errosLeitura: string[] = [];
+  const ler = (relativo: string) =>
+    existsSync(join(raiz, relativo)) ? lerJson(readFileSync(join(raiz, relativo), 'utf8'), relativo, errosLeitura) : undefined;
 
   const pastaImagens = join(raiz, 'imagens');
   const imagens = existsSync(pastaImagens)
@@ -48,18 +26,18 @@ export function lerConteudo(raiz = PASTA_CONTEUDO): ConteudoLido {
         .filter((f) => EXTENSOES_IMAGEM.test(f))
         .sort()
     : [];
-  const conjuntoImagens = new Set(imagens);
 
   const arquivos = readdirSync(join(raiz, 'guias')).filter((f) => f.endsWith('.json'));
-  const guias: Guia[] = [];
-  for (const arquivo of arquivos) {
-    const nome = `guias/${arquivo}`;
-    const dados = lerJson(join(raiz, 'guias', arquivo), nome);
-    if (dados === undefined) continue;
-    const errosGuia = validarGuia(dados, nome, categorias, conjuntoImagens);
-    erros.push(...errosGuia);
-    if (!errosGuia.length) guias.push(dados as Guia);
-  }
+  const guias = arquivos
+    .map((f) => ({ nome: `guias/${f}`, dados: ler(`guias/${f}`) }))
+    .filter((g) => g.dados !== undefined);
 
-  return { erros, categorias, sinonimos, guias, totalArquivos: arquivos.length, imagens };
+  const montado = montarConteudo({
+    categorias: ler('categorias.json'),
+    sinonimos: ler('sinonimos.json'),
+    guias,
+    imagens,
+    errosLeitura,
+  });
+  return { ...montado, totalArquivos: arquivos.length, imagens };
 }

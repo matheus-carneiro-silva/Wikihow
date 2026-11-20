@@ -1,7 +1,8 @@
+import { useState } from 'react';
 import { Image, StyleSheet, View } from 'react-native';
 
 import type { Parte } from '@/busca/motor';
-import { obterImagem, type ImagemPasso as Dados } from '@/conteudo';
+import { useConteudo, type ImagemPasso as Dados } from '@/conteudo';
 import { cores } from '@/tema';
 
 import { TextoDestacado } from './TextoDestacado';
@@ -13,12 +14,16 @@ type Props = {
 };
 
 export function ImagemPasso({ imagem, destacar }: Props) {
+  const { obterImagem } = useConteudo();
   const fonte = obterImagem(imagem.arquivo);
+  // Proporção real da imagem, para ocupar a largura sem cortar nem distorcer.
+  // Imagem embutida: conhecida de antemão. Baixada: lida quando carrega.
+  const [proporcaoCarregada, setProporcaoCarregada] = useState<number>();
   if (fonte === undefined) return null; // a validação já acusa o arquivo ausente
 
-  // Proporção real da imagem, para ocupar a largura sem cortar nem distorcer.
-  const tamanho = Image.resolveAssetSource(fonte);
-  const proporcao = tamanho?.width && tamanho.height ? tamanho.width / tamanho.height : 16 / 10;
+  const embutida = typeof fonte === 'number' ? Image.resolveAssetSource(fonte) : undefined;
+  const proporcao =
+    proporcaoCarregada ?? (embutida?.width && embutida.height ? embutida.width / embutida.height : 16 / 10);
 
   return (
     <View style={styles.container}>
@@ -26,6 +31,10 @@ export function ImagemPasso({ imagem, destacar }: Props) {
         source={fonte}
         style={[styles.imagem, { aspectRatio: proporcao }]}
         resizeMode="contain"
+        onLoad={(e) => {
+          const { width, height } = e.nativeEvent.source;
+          if (width && height) setProporcaoCarregada(width / height);
+        }}
         accessible
         accessibilityRole="image"
         accessibilityLabel={imagem.descricao}

@@ -3,17 +3,18 @@ import { FlatList, Pressable, ScrollView, StyleSheet, Text, TextInput, View } fr
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { CartaoResultado } from '@/components/CartaoResultado';
-import { categorias, motorDeBusca } from '@/conteudo';
+import { useConteudo } from '@/conteudo';
 import { cores } from '@/tema';
 
 export default function Explorar() {
+  const { categorias, motor } = useConteudo();
   const [termo, setTermo] = useState('');
   const [categoria, setCategoria] = useState<string>();
   // A busca roda sem travar a digitação.
   const termoAdiado = useDeferredValue(termo);
   const { resultados, parcial } = useMemo(
-    () => motorDeBusca.buscar(termoAdiado, { categoria }),
-    [termoAdiado, categoria],
+    () => motor.buscar(termoAdiado, { categoria }),
+    [motor, termoAdiado, categoria],
   );
   const buscando = termoAdiado.trim().length > 0;
 

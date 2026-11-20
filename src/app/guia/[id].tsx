@@ -4,11 +4,11 @@ import { ScrollView, StyleSheet, Text, View, type ScrollViewInstance } from 'rea
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { destacar } from '@/busca/motor';
-import { metaGuia } from '@/components/CartaoGuia';
+import { useMetaGuia } from '@/components/CartaoGuia';
 import { ImagemPasso } from '@/components/ImagemPasso';
 import { Screen } from '@/components/Screen';
 import { TextoDestacado } from '@/components/TextoDestacado';
-import { obterGuia, type Passo } from '@/conteudo';
+import { useConteudo, type Passo } from '@/conteudo';
 import { cores } from '@/tema';
 
 type Params = {
@@ -21,6 +21,8 @@ type Params = {
 
 export default function TelaGuia() {
   const { id, passo, termos } = useLocalSearchParams<Params>();
+  const { obterGuia } = useConteudo();
+  const meta = useMetaGuia();
   const guia = obterGuia(id);
   const insets = useSafeAreaInsets();
   const scroll = useRef<ScrollViewInstance>(null);
@@ -48,7 +50,7 @@ export default function TelaGuia() {
         contentContainerStyle={[styles.conteudo, { paddingBottom: insets.bottom + 24 }]}
       >
         <TextoDestacado partes={d(guia.titulo)} style={styles.titulo} />
-        <Text style={styles.meta}>{metaGuia(guia)}</Text>
+        <Text style={styles.meta}>{meta(guia)}</Text>
         <TextoDestacado partes={d(guia.resumo)} style={styles.resumo} />
 
         {guia.materiais?.length ? (

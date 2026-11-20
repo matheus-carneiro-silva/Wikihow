@@ -1,5 +1,5 @@
 import type { ReactElement } from 'react';
-import { FlatList, StyleSheet, Text } from 'react-native';
+import { FlatList, RefreshControl, StyleSheet, Text } from 'react-native';
 
 import type { Guia } from '@/conteudo';
 import { cores } from '@/tema';
@@ -10,9 +10,12 @@ type Props = {
   guias: Guia[];
   cabecalho?: ReactElement;
   vazio?: string;
+  /** Puxar a lista para baixo chama esta função (ex.: sincronizar). */
+  aoAtualizar?: () => void;
+  atualizando?: boolean;
 };
 
-export function ListaGuias({ guias, cabecalho, vazio = 'Nenhum guia encontrado.' }: Props) {
+export function ListaGuias({ guias, cabecalho, vazio = 'Nenhum guia encontrado.', aoAtualizar, atualizando = false }: Props) {
   return (
     <FlatList
       data={guias}
@@ -23,6 +26,11 @@ export function ListaGuias({ guias, cabecalho, vazio = 'Nenhum guia encontrado.'
       contentContainerStyle={styles.conteudo}
       keyboardShouldPersistTaps="handled"
       keyboardDismissMode="on-drag"
+      refreshControl={
+        aoAtualizar ? (
+          <RefreshControl refreshing={atualizando} onRefresh={aoAtualizar} colors={[cores.primaria]} />
+        ) : undefined
+      }
     />
   );
 }

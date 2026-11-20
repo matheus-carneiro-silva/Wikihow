@@ -1,12 +1,18 @@
 import { Link } from 'expo-router';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
-import { NOMES_DIFICULDADE, obterCategoria, type Guia } from '@/conteudo';
+import { NOMES_DIFICULDADE, useConteudo, type Guia } from '@/conteudo';
 import { cores } from '@/tema';
 
-export function metaGuia(guia: Guia): string {
+/** Linha de metadados: "Categoria · 10 min · Fácil · 5 passos". */
+export function useMetaGuia() {
+  const { obterCategoria } = useConteudo();
+  return (guia: Guia) => metaGuia(guia, obterCategoria(guia.categoria)?.nome);
+}
+
+function metaGuia(guia: Guia, nomeCategoria: string | undefined): string {
   return [
-    obterCategoria(guia.categoria)?.nome,
+    nomeCategoria,
     guia.tempoMinutos ? `${guia.tempoMinutos} min` : undefined,
     guia.dificuldade ? NOMES_DIFICULDADE[guia.dificuldade] : undefined,
     `${guia.passos.length} ${guia.passos.length === 1 ? 'passo' : 'passos'}`,
@@ -16,6 +22,7 @@ export function metaGuia(guia: Guia): string {
 }
 
 export function CartaoGuia({ guia }: { guia: Guia }) {
+  const meta = useMetaGuia();
   return (
     <Link href={{ pathname: '/guia/[id]', params: { id: guia.id } }} asChild>
       <Pressable android_ripple={{ color: cores.primariaSuave }} style={styles.cartao}>
@@ -24,7 +31,7 @@ export function CartaoGuia({ guia }: { guia: Guia }) {
           {guia.resumo}
         </Text>
         <View>
-          <Text style={styles.meta}>{metaGuia(guia)}</Text>
+          <Text style={styles.meta}>{meta(guia)}</Text>
         </View>
       </Pressable>
     </Link>
