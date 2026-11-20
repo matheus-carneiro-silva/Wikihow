@@ -1,0 +1,115 @@
+{
+  "id": "usar-antibioticos-orais-comuns",
+  "titulo": "Como usar os antibióticos orais mais comuns sem médico por perto",
+  "resumo": "Amoxicilina, clavulanato, cefalexina, sulfametoxazol-trimetoprima, doxiciclina e azitromicina: para que servem, doses por peso, duração e cuidados.",
+  "categoria": "medicacoes",
+  "tags": [
+    "antibiótico",
+    "infecção",
+    "amoxicilina",
+    "cefalexina",
+    "Bactrim",
+    "doxiciclina",
+    "azitromicina",
+    "Clavulin",
+    "febre maculosa",
+    "dor de garganta"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Guia para quando NÃO há médico nem serviço de saúde ao alcance. Havendo, procure-o: antibiótico errado ou desnecessário faz mal e cria resistência. As doses são referências de diretrizes para adultos e crianças sem doenças nos rins ou no fígado; confira sempre a bula e a concentração do produto. Infecção grave (confusão, falta de ar, pressão baixa, criança muito abatida) exige evacuação, não só antibiótico oral.",
+  "materiais": [
+    "Balança para pesar a criança",
+    "Seringa dosadora ou copo-medida (para suspensões)",
+    "Bula do medicamento",
+    "Papel para anotar horários e doses"
+  ],
+  "passos": [
+    {
+      "titulo": "Antes de dar qualquer antibiótico",
+      "texto": "Antibiótico só trata bactéria. Não serve para gripe, resfriado nem para a maioria das diarreias, que melhoram sozinhas com hidratação.\n\nPergunte sempre por alergia. Quem já teve placas na pele, inchaço ou falta de ar com penicilina não deve tomar amoxicilina nem amoxicilina-clavulanato; se a reação foi grave (anafilaxia), evite também a cefalexina.\n\nEm criança, pese e calcule a dose por quilo (veja o guia de cálculo de dose pelo peso). A dose da criança nunca deve passar a dose de adulto.",
+      "avisos": [
+        "Gravidez: amoxicilina e cefalexina são consideradas seguras. Evite doxiciclina (exceto na suspeita de febre maculosa) e evite sulfametoxazol-trimetoprima no 1º e no 3º trimestres."
+      ]
+    },
+    {
+      "titulo": "Amoxicilina",
+      "texto": "Dor de garganta bacteriana (estreptococo), em criança ou adulto: 50 mg/kg uma vez ao dia (no máximo 1.000 mg) ou 25 mg/kg de 12 em 12 horas (no máximo 500 mg por dose), por 10 dias.\n\nPneumonia em adulto saudável, sem doenças crônicas: 1 g de 8 em 8 horas por 5 dias, reavaliando ao final.\n\nExemplo: criança de 18 kg com faringite = 900 mg uma vez ao dia por 10 dias.",
+      "dicas": [
+        "A maioria das dores de garganta é viral. Antibiótico ajuda quando há suspeita forte de estreptococo (febre, placas de pus nas amígdalas, ínguas doloridas no pescoço, sem tosse nem coriza)."
+      ]
+    },
+    {
+      "titulo": "Amoxicilina com clavulanato",
+      "texto": "Indicada em mordida de animal (veja o guia de mordida de animal), impetigo e, junto com azitromicina ou doxiciclina, em pneumonia de adulto com doença crônica (coração, pulmão, fígado, rins, diabetes, alcoolismo, câncer ou sem baço).\n\nAdulto: 875/125 mg de 12 em 12 horas.\n\nCriança: no impetigo, 25 mg/kg por dia de amoxicilina divididos em 2 doses; na mordida de animal, 45 mg/kg por dia divididos em 2 doses.",
+      "avisos": [
+        "Calcule a dose da criança pela quantidade de amoxicilina, não pela soma com o clavulanato."
+      ]
+    },
+    {
+      "titulo": "Cefalexina",
+      "texto": "Indicada em infecção de pele sem pus (celulite, erisipela) e impetigo, e como alternativa para dor de garganta bacteriana em quem tem alergia leve à penicilina.\n\nCelulite em adulto: 500 mg de 6 em 6 horas. Impetigo em adulto: 250 mg de 6 em 6 horas. Criança: 25 a 50 mg/kg por dia divididos em 4 doses.\n\nDuração na celulite: 5 dias, prolongando se ainda não houver melhora.\n\nDor de garganta em alérgico leve à penicilina: 20 mg/kg por dose, de 12 em 12 horas (no máximo 500 mg por dose), por 10 dias.",
+      "dicas": [
+        "Marque com caneta a borda da vermelhidão no primeiro dia para ver se está regredindo."
+      ]
+    },
+    {
+      "titulo": "Sulfametoxazol-trimetoprima",
+      "texto": "Útil em infecção de pele com pus ou abscesso, inclusive pelo estafilococo resistente (MRSA), depois de drenar (veja o guia de drenagem de abscesso).\n\nAdulto: 1 a 2 comprimidos de 800/160 mg (o comprimido \"F\" ou \"forte\") de 12 em 12 horas.\n\nCriança: 8 a 12 mg/kg por dia da trimetoprima (o número menor do rótulo), divididos em 2 doses.",
+      "dicas": [
+        "Exemplo: criança de 20 kg com 8 mg/kg por dia = 160 mg de trimetoprima por dia, ou 80 mg a cada 12 horas."
+      ],
+      "avisos": [
+        "Não protege bem contra o estreptococo: em celulite sem pus, prefira cefalexina.",
+        "Pare se surgirem manchas, bolhas ou feridas na pele e na boca: pode ser reação grave."
+      ]
+    },
+    {
+      "titulo": "Doxiciclina",
+      "texto": "Adulto: 100 mg de 12 em 12 horas. Serve para infecção de pele com pus (MRSA), pneumonia em adulto saudável e como alternativa em mordida de animal para alérgicos à penicilina.\n\nFebre maculosa (febre, dor de cabeça e dor no corpo dias depois de picada de carrapato, com ou sem manchas na pele): comece na suspeita, sem esperar exames, e evacue. Criança com menos de 45 kg: 2,2 mg/kg de 12 em 12 horas. Duração: até 3 dias depois que a febre passar, no mínimo 5 a 7 dias.",
+      "dicas": [
+        "Tome com um copo cheio de água, sem se deitar logo em seguida, e proteja-se do sol: a doxiciclina pode irritar o esôfago e causar queimadura solar."
+      ],
+      "avisos": [
+        "Em menores de 8 anos, não use para infecções comuns. Na suspeita de febre maculosa, use em qualquer idade: o risco da doença é muito maior, e cursos curtos não mancharam os dentes nos estudos."
+      ]
+    },
+    {
+      "titulo": "Azitromicina",
+      "texto": "Dor de garganta bacteriana em quem tem alergia grave à penicilina: 12 mg/kg uma vez ao dia (no máximo 500 mg) por 5 dias.\n\nPneumonia em adulto: 500 mg no 1º dia e 250 mg do 2º ao 5º dia. Use sozinha apenas onde a resistência do pneumococo for baixa (menos de 25%); fora isso, prefira amoxicilina ou doxiciclina, ou combine com amoxicilina-clavulanato.",
+      "avisos": [
+        "A resistência à azitromicina é comum. Se a pessoa piorar durante o tratamento, troque de antibiótico ou evacue."
+      ]
+    },
+    {
+      "titulo": "Acompanhe a resposta e evite resistência",
+      "texto": "Dê nos horários certos e pela duração indicada para cada infecção. Não guarde sobras, não divida o antibiótico com outra pessoa e não use \"para prevenir\" sem indicação.\n\nSe a pessoa piorar apesar do antibiótico, ou não melhorar em alguns dias, desconfie de abscesso que precisa ser drenado, de antibiótico errado ou de doença mais grave, e procure atendimento.",
+      "avisos": [
+        "Placas na pele, inchaço no rosto ou falta de ar depois de uma dose: pare o antibiótico e veja o guia de anafilaxia."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Practice Guidelines for Skin and Soft Tissue Infections — IDSA, 2014",
+      "url": "https://academic.oup.com/cid/article/59/2/e10/2895845"
+    },
+    {
+      "titulo": "Clinical Practice Guideline for Group A Streptococcal Pharyngitis — IDSA, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22965026/"
+    },
+    {
+      "titulo": "Community-Acquired Pneumonia: Updated Recommendations from the ATS and IDSA — Am Fam Physician, 2020",
+      "url": "https://www.aafp.org/pubs/afp/issues/2020/0715/p121.html"
+    },
+    {
+      "titulo": "Dog and Cat Bites: Rapid Evidence Review — Am Fam Physician, 2023",
+      "url": "https://www.aafp.org/pubs/afp/issues/2023/1100/dog-cat-bites.html"
+    },
+    {
+      "titulo": "Clinical Care of Rocky Mountain Spotted Fever — CDC",
+      "url": "https://www.cdc.gov/rocky-mountain-spotted-fever/hcp/clinical-care/index.html"
+    }
+  ]
+}

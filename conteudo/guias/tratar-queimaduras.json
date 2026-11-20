@@ -1,0 +1,101 @@
+{
+  "id": "tratar-queimaduras",
+  "titulo": "Como tratar queimaduras",
+  "resumo": "Queimadura por fogo, água quente ou produto químico: resfriar 20 minutos, medir a área pela palma da mão, curativo, hidratação e quando evacuar.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "queimado",
+    "queimou",
+    "bolha",
+    "água fervente",
+    "óleo quente",
+    "fogo",
+    "queimadura química",
+    "regra dos nove",
+    "pasta de dente",
+    "escaldadura"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Queimaduras grandes, profundas, elétricas, químicas, no rosto, mãos, pés, genitais ou articulações, ou com fumaça inalada, precisam de hospital: chame o SAMU (192) ou evacue assim que possível. Em queimadura elétrica, desligue a energia antes de tocar na vítima.",
+  "materiais": [
+    "Água corrente limpa e fria (não gelada)",
+    "Gaze vaselinada ou outro curativo que não grude",
+    "Gaze e atadura limpas",
+    "Cobertor para manter a pessoa aquecida",
+    "Paracetamol, dipirona ou ibuprofeno",
+    "Sais de reidratação oral (SRO)"
+  ],
+  "passos": [
+    {
+      "titulo": "Interrompa a queimadura",
+      "texto": "Afaste a pessoa da fonte de calor e apague as chamas (abafe com cobertor ou role a pessoa no chão). Tire logo anéis, relógios, pulseiras e roupas apertadas da área, antes que inche. Tire também a roupa queimada, exceto a que estiver grudada na pele.\n\nEm produto químico: proteja suas mãos, tire a roupa contaminada, escove o pó seco e lave com bastante água corrente.",
+      "avisos": [
+        "Não puxe o que estiver grudado na ferida."
+      ]
+    },
+    {
+      "titulo": "Resfrie com água corrente por 20 minutos",
+      "texto": "Coloque a queimadura sob água corrente fria da torneira (entre 8 °C e 25 °C) por pelo menos 20 minutos. O benefício é maior quando começa nos primeiros 30 minutos, mas ainda ajuda até 3 horas depois.\n\nResfrie só a queimadura e mantenha o resto do corpo aquecido, principalmente em bebês, idosos e queimaduras grandes.",
+      "avisos": [
+        "Não use gelo nem água gelada: piora a lesão. Pano molhado parado sobre a ferida não resfria direito.",
+        "Não passe manteiga, óleo, pasta de dente, borra de café, clara de ovo nem outros produtos caseiros."
+      ]
+    },
+    {
+      "titulo": "Avalie a profundidade",
+      "texto": "Superficial (1º grau): vermelha, seca, dolorida, sem bolhas, embranquece ao apertar. Cura em 3 a 6 dias.\n\nEspessura parcial superficial (2º grau): úmida, com bolhas, muito dolorida. Cura em até cerca de 3 semanas.\n\nEspessura parcial profunda: mais seca, não embranquece ao apertar; leva mais de 3 semanas e precisa de cirurgião.\n\nEspessura total (3º grau): branca, cor de cera ou de couro, com pouca dor. Precisa sempre de centro de queimados.",
+      "dicas": [
+        "A queimadura pode se aprofundar nas primeiras 24 a 72 horas. Reavalie nos dias seguintes."
+      ]
+    },
+    {
+      "titulo": "Calcule a área queimada",
+      "texto": "Conte só as queimaduras de 2º e 3º grau; a vermelhidão de 1º grau não entra.\n\nPalma da mão: a mão da própria vítima, com os dedos juntos, equivale a cerca de 1% da superfície do corpo. Serve bem para queimaduras pequenas ou espalhadas e para crianças.\n\nRegra dos nove (adultos): cabeça 9%; cada braço 9%; frente do tronco 18%; costas 18%; cada perna 18%; região genital 1%.\n\nExemplo: adulto com bolhas em todo o braço direito (9%) e em metade da frente do tronco (9%) tem 18% de área queimada.",
+      "dicas": [
+        "Em crianças, a cabeça é proporcionalmente maior e as pernas menores: prefira o método da palma da mão."
+      ]
+    },
+    {
+      "titulo": "Decida se precisa evacuar",
+      "texto": "Procure hospital ou centro de queimados se houver: queimadura de 2º grau em mais de 10% do corpo; qualquer queimadura de 3º grau; queimadura no rosto, mãos, pés, genitais, períneo ou sobre grandes articulações; queimadura elétrica ou química; suspeita de inalação de fumaça; outros ferimentos junto; ou em crianças e pessoas com doenças crônicas.",
+      "avisos": [
+        "Queimadura no rosto ou no pescoço, ou fogo em lugar fechado, aumentam o risco de lesão da via aérea: vigie a respiração de perto e evacue com urgência se houver falta de ar."
+      ]
+    },
+    {
+      "titulo": "Faça o curativo",
+      "texto": "Lave com cuidado com água potável para tirar sujeira e pele solta. Não estoure as bolhas de propósito.\n\nCubra com gaze vaselinada (ou outro curativo que não grude), gaze seca por cima e atadura sem apertar. Troque a cada 12 a 24 horas, olhando se há sinais de infecção (pus, vermelhidão que se espalha, febre). Queimadura de 1º grau não precisa de curativo.\n\nPara a dor, use paracetamol, dipirona ou ibuprofeno nas doses habituais (veja o guia de analgésicos comuns).",
+      "dicas": [
+        "Antibiótico por boca não é indicado para prevenir infecção em queimadura: só se houver infecção.",
+        "Em queimadura de 2º ou 3º grau, confira o tétano: a pessoa está protegida com 3 doses e reforço há menos de 5 anos."
+      ]
+    },
+    {
+      "titulo": "Hidrate quem tem queimadura grande",
+      "texto": "Queimaduras extensas fazem o corpo perder muito líquido. Até cerca de 20% da superfície do corpo, a hidratação por boca costuma bastar; acima disso, o ideal é soro na veia, em hospital.\n\nSem hospital, dê solução de reidratação oral (veja o guia de soro de reidratação oral) em goles frequentes. Adultos e crianças maiores de 2 anos: a meta é cerca de 250 a 300 mL a cada 10 a 15 minutos, conforme a pessoa tolerar. Menores de 2 anos: 1 colher de chá (5 mL) a cada 1 a 2 minutos.\n\nUm vômito ocasional não é motivo para parar: espere alguns minutos e continue mais devagar.",
+      "avisos": [
+        "Pessoa sonolenta, confusa ou que não consegue engolir não deve receber líquido pela boca: precisa de soro na veia."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Burns — Organização Mundial da Saúde (fact sheet)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/burns"
+    },
+    {
+      "titulo": "Outpatient Burn Care: Prevention and Treatment — Am Fam Physician, 2020",
+      "url": "https://www.aafp.org/pubs/afp/issues/2020/0415/p463.html"
+    },
+    {
+      "titulo": "Burn Referral Guidelines — American Burn Association",
+      "url": "https://ameriburn.org/burnreferral"
+    },
+    {
+      "titulo": "Patient Care Priorities for the First 24 Hours in Burn Mass Casualty — resumo das Guidelines for Burn Care Under Austere Conditions, American Burn Association",
+      "url": "https://static1.squarespace.com/static/625f47c7c516853b6bf783fe/t/6317548506ac7f472f43b221/1662473350417/Austere+Burn+JITT.pdf"
+    }
+  ]
+}

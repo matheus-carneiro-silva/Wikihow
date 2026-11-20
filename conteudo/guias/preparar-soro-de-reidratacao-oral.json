@@ -1,0 +1,99 @@
+{
+  "id": "preparar-soro-de-reidratacao-oral",
+  "titulo": "Como preparar e dar soro de reidratação oral",
+  "resumo": "Soro caseiro e SRO de pacote para diarreia e vômitos: receita, quanto dar por idade e peso e sinais de desidratação grave.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "soro caseiro",
+    "SRO",
+    "diarreia",
+    "desidratação",
+    "vômito",
+    "sais de reidratação",
+    "cólera",
+    "virose",
+    "gastroenterite",
+    "criança desidratada"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Desidratação grave (pessoa muito sonolenta ou desacordada, que não consegue beber, com pulso muito fraco) precisa de soro na veia: leve a um serviço de saúde imediatamente. Bebês e crianças pequenas desidratam em poucas horas.",
+  "materiais": [
+    "Envelope de SRO (sais de reidratação oral), se houver",
+    "1 litro de água potável (fervida, filtrada ou tratada)",
+    "Sal de cozinha e açúcar",
+    "Colher de chá e uma jarra ou garrafa limpa de 1 litro",
+    "Copo e colher para dar aos goles"
+  ],
+  "passos": [
+    {
+      "titulo": "Avalie o grau de desidratação",
+      "texto": "Sem desidratação: alerta, olhos normais, com lágrimas, bebe normalmente, a prega da pele da barriga se desfaz rápido.\n\nCom desidratação (2 ou mais sinais): irritado ou inquieto, olhos fundos, sem lágrimas, com muita sede (bebe rápido e com vontade), prega da pele se desfaz devagar, pulso rápido e fraco.\n\nDesidratação grave (2 ou mais sinais, sendo pelo menos um dos marcados com *): muito sonolento ou desacordado e mole*, olhos muito fundos e secos, bebe mal ou não consegue beber*, prega da pele leva mais de 2 segundos para se desfazer, pulso muito fraco ou ausente*.",
+      "dicas": [
+        "Para testar a prega, belisque a pele da barriga entre dois dedos, solte e conte quanto tempo ela leva para voltar."
+      ]
+    },
+    {
+      "titulo": "Prefira o SRO de pacote",
+      "texto": "O envelope de SRO (distribuído nos postos de saúde) já tem a quantidade certa de sais e glicose. Dissolva 1 envelope no volume de água indicado na embalagem, geralmente 1 litro, usando água potável fervida (e resfriada) ou tratada.\n\nNão acrescente açúcar, sal nem suco. Guarde tampado e prepare uma nova solução todo dia.",
+      "avisos": [
+        "Refrigerante, isotônico e suco adoçado não substituem o soro: o excesso de açúcar pode piorar a diarreia."
+      ]
+    },
+    {
+      "titulo": "Prepare o soro caseiro se não houver SRO",
+      "texto": "Em 1 litro de água potável, misture:\n\n• meia colher de chá rasa de sal;\n• 6 colheres de chá rasas de açúcar.\n\nMexa até dissolver tudo. Também pode ser feito com água de arroz levemente salgada no lugar da água.",
+      "dicas": [
+        "Se tiver a colher-medida de plástico distribuída nos postos de saúde, siga as medidas impressas nela."
+      ],
+      "avisos": [
+        "Use colher de chá (pequena), nunca de sopa, e sempre rasa: sal a mais é perigoso, principalmente para bebês. Na dúvida, é melhor o soro ficar um pouco mais diluído do que mais concentrado."
+      ]
+    },
+    {
+      "titulo": "Previna a desidratação em casa",
+      "texto": "Quando ainda não há sinais de desidratação, ofereça soro (ou líquidos caseiros como água, chá, água de coco e sopas, sem adoçar) depois de cada evacuação líquida:\n\n• menores de 1 ano: 50 a 100 mL;\n• de 1 a 10 anos: 100 a 200 mL;\n• maiores de 10 anos e adultos: o quanto aceitarem.\n\nDê em pequenos goles, com copo ou colher, várias vezes. Se vomitar, espere 10 minutos e continue mais devagar.",
+      "dicas": [
+        "Continue amamentando e mantenha a alimentação habitual. No bebê em aleitamento exclusivo, o único líquido além do leite materno deve ser o SRO.",
+        "Para crianças, o Ministério da Saúde recomenda zinco 1 vez ao dia por 10 a 14 dias: 10 mg por dia até 6 meses de idade e 20 mg por dia acima de 6 meses."
+      ]
+    },
+    {
+      "titulo": "Trate a desidratação com volume calculado",
+      "texto": "Se houver sinais de desidratação (sem ser grave), dê de 50 a 100 mL de soro por quilo de peso ao longo de 4 a 6 horas, em goles frequentes, e reavalie os sinais durante esse tempo. O ideal é fazer isso num serviço de saúde; sem acesso, faça em casa.\n\nExemplo: criança de 12 kg recebe de 600 a 1.200 mL em 4 a 6 horas, ou cerca de 100 a 300 mL por hora.\n\nQuando os sinais de desidratação sumirem, volte para as quantidades do passo anterior.",
+      "avisos": [
+        "Se a desidratação piorar ou ficar grave durante a reidratação, a pessoa precisa de soro na veia: evacue."
+      ]
+    },
+    {
+      "titulo": "Saiba quando procurar ajuda",
+      "texto": "Leve a um serviço de saúde se não melhorar em 2 dias ou se aparecer: piora da diarreia, vômitos repetidos, muita sede, recusa de alimentos, sangue nas fezes ou diminuição da urina.\n\nAntibiótico só é indicado em diarreia com sangue e estado geral comprometido, ou em cólera grave. Remédios para parar a diarreia ou o vômito não devem ser usados em crianças sem orientação médica.",
+      "avisos": [
+        "Desidratação grave não se trata só pela boca: a pessoa precisa de soro na veia com urgência."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manejo do paciente com diarreia — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2021/habitos-saudaveis/acesse%20as%20pecas/MS_Habitos_SAUDAVEIS_LAMINAS_20x14cm.pdf/@@download/file"
+    },
+    {
+      "titulo": "AIDPI e diarreia na infância — Portal de Boas Práticas, Fiocruz",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/wp-content/uploads/2026/08/AIDPI_e_Diarreia_na_Infancia_leve.pdf"
+    },
+    {
+      "titulo": "Cholera: what is ORS? — Organização Mundial da Saúde, Escritório Regional do Mediterrâneo Oriental",
+      "url": "https://applications.emro.who.int/docs/WHOEMCSR594E-eng.pdf"
+    },
+    {
+      "titulo": "Cholera — MSD Manual (versão profissional)",
+      "url": "https://www.msdmanuals.com/professional/infectious-diseases/gram-negative-bacilli/cholera"
+    },
+    {
+      "titulo": "Travelers' Diarrhea — CDC Yellow Book",
+      "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html"
+    }
+  ]
+}

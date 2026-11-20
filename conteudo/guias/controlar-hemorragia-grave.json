@@ -1,0 +1,97 @@
+{
+  "id": "controlar-hemorragia-grave",
+  "titulo": "Como controlar uma hemorragia grave com compressão e torniquete",
+  "resumo": "Sangramento que ameaça a vida: compressão direta, tamponamento da ferida, torniquete comercial ou improvisado e sinais de choque.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "sangramento",
+    "sangrando muito",
+    "hemorragia",
+    "garrote",
+    "tamponamento",
+    "gaze hemostática",
+    "choque hemorrágico",
+    "corte profundo",
+    "amputação",
+    "Stop the Bleed"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Sangramento grave pode matar em minutos. Comprima a ferida primeiro e peça ajuda ao mesmo tempo (SAMU 192 ou Bombeiros 193, se houver sinal). Toda pessoa com torniquete ou em choque precisa ser levada a um hospital o quanto antes.",
+  "materiais": [
+    "Torniquete comercial (tipo CAT ou SOF-T Wide), se houver",
+    "Gaze hemostática, gaze comum ou pano limpo",
+    "Atadura ou faixa para curativo compressivo",
+    "Luvas (ou sacos plásticos nas mãos)",
+    "Caneta para anotar o horário"
+  ],
+  "passos": [
+    {
+      "titulo": "Garanta sua segurança e ache o sangramento",
+      "texto": "Só se aproxime se o local for seguro. Use luvas, se tiver. Abra ou corte a roupa sobre a ferida para enxergar de onde vem o sangue: a roupa pode esconder outras feridas.\n\nTrate como sangramento que ameaça a vida quando o sangue: sai em jato; não para; forma poça no chão; encharca a roupa ou os curativos; vem de um braço ou perna amputados, total ou parcialmente; ou quando a pessoa que sangra está confusa ou inconsciente."
+    },
+    {
+      "titulo": "Comprima com as duas mãos",
+      "texto": "Cubra a ferida com um pano limpo (uma camiseta serve) e empurre direto sobre ela, com as duas mãos e com toda a força.\n\nNão alivie a pressão para espiar se parou. Mantenha até o sangramento parar e o socorro assumir. Se a ferida for grande e funda, empurre o pano para dentro dela (veja o próximo passo).",
+      "dicas": [
+        "Em bebês e crianças muito pequenas, em que o torniquete não serve, a compressão direta resolve quase todos os sangramentos."
+      ]
+    },
+    {
+      "titulo": "Tampone a ferida funda",
+      "texto": "Use o tamponamento em feridas fundas no pescoço, ombro, axila e virilha, onde não dá para usar torniquete, e em braço ou perna quando não houver torniquete.\n\nLimpe o sangue acumulado para ver o fundo. Encha a ferida com gaze hemostática (a melhor opção), gaze comum ou pano limpo, empurrando com os dedos até o fundo e apertando bem, até não caber mais. Depois, comprima por cima com as duas mãos, com força, sem soltar.\n\nSe o sangramento parou e você precisa liberar as mãos, mantenha a pressão mais um tempo e então prenda tudo com uma atadura bem apertada por cima (curativo compressivo).",
+      "avisos": [
+        "Não retire a gaze já colocada para olhar: isso desfaz o coágulo."
+      ]
+    },
+    {
+      "titulo": "Aplique o torniquete comercial no braço ou na perna",
+      "texto": "Se o sangramento é de braço ou perna e não para com a compressão, ou se é uma amputação, aplique o torniquete sem demora:\n\n1. Passe a fita em volta do membro 5 a 7 cm (2 a 3 dedos) acima da ferida, entre a ferida e o tronco. Nunca sobre o cotovelo ou o joelho: se a ferida estiver logo abaixo de uma articulação, coloque acima dela.\n2. Puxe a ponta da fita até ficar o mais apertada possível e prenda no velcro.\n3. Gire o bastão até o sangramento parar e trave-o no suporte.\n4. Anote o horário (por exemplo, na própria fita ou na testa: \"TQ 14h35\").\n\nPode ser colocado por cima da roupa, em você mesmo ou em outra pessoa. Dói muito, e isso é esperado.",
+      "dicas": [
+        "Na maioria das crianças, exceto as muito pequenas, o mesmo torniquete de adulto pode ser usado."
+      ],
+      "avisos": [
+        "Se o sangue não parar, aperte mais o bastão. Se ainda assim continuar, coloque um segundo torniquete logo acima do primeiro, mais perto do tronco."
+      ]
+    },
+    {
+      "titulo": "Improvise um torniquete se não houver um pronto",
+      "texto": "Use uma tira de pano com pelo menos 5 cm de largura e cerca de 1 m de comprimento (lenço triangular dobrado, manga de camisa) e um bastão rígido de 0,5 a 2,5 cm de diâmetro e 10 a 15 cm de comprimento (pedaço de galho firme, cabo de ferramenta).\n\nDê uma volta com a tira 5 a 7 cm acima da ferida e dê um nó. Coloque o bastão sobre o nó e dê um segundo nó por cima dele. Gire o bastão sempre no mesmo sentido até o sangramento parar, prenda-o para não desenrolar e anote o horário.",
+      "avisos": [
+        "Não use fio, cordão, cadarço, abraçadeira plástica nem cinto fino: materiais com menos de 5 cm de largura concentram a pressão, machucam nervos e músculos e não são recomendados.",
+        "Torniquetes improvisados falham com frequência. Confira de tempos em tempos se voltou a sangrar e troque por um comercial assim que possível."
+      ]
+    },
+    {
+      "titulo": "Não afrouxe o torniquete por conta própria",
+      "texto": "Não solte o torniquete \"para o sangue circular\". Reavalie se voltou a sangrar depois de cada vez que a pessoa for movida ou transportada. O risco de lesão no membro aumenta depois de 2 horas, por isso organize a evacuação imediatamente.\n\nSem chance de chegar a um hospital, uma pessoa treinada pode tentar trocar o torniquete por tamponamento, de preferência nas primeiras 2 horas: com o sangramento controlado e a pessoa estável, tampone a ferida, comprima, faça o curativo compressivo e desenrole o bastão devagar, deixando o torniquete frouxo no lugar. Se voltar a sangrar, reaperte na hora. Se não der certo, pode tentar de novo 1 a 2 horas depois.",
+      "avisos": [
+        "Passadas 6 horas da aplicação, não tente mais afrouxar nem retirar: só em hospital, pelo risco de complicações graves e até amputação.",
+        "Nunca corte nem solte o torniquete de uma vez."
+      ]
+    },
+    {
+      "titulo": "Reconheça e trate o choque",
+      "texto": "Depois de perder muito sangue, a pessoa pode entrar em choque. Sinais: pele fria, suada, pálida ou azulada; pulso rápido e fraco; respiração rápida; sonolência ou confusão; tontura ou desmaio ao tentar sentar; pouca urina.\n\nContinue controlando o sangramento, deite a pessoa, eleve as pernas e aqueça-a com cobertor ou roupas, isolando do chão. Choque é emergência: evacue com a maior urgência possível."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Save a Life: What Everyone Should Know to Stop Bleeding After an Injury — American College of Surgeons (Stop the Bleed), 2017",
+      "url": "https://police.ucsd.edu/_files/Stop-the-Bleed.pdf"
+    },
+    {
+      "titulo": "Stop the Bleed Course v2.0 — apresentação para o público leigo, ACS",
+      "url": "https://stopthebleed.org/media/qk5jgpgs/lay-public-stop-the-bleed-presentation-pdf.pdf"
+    },
+    {
+      "titulo": "Tourniquet Use — Clinical Guidelines for Operations, Ministério da Defesa do Reino Unido",
+      "url": "https://cgo.mod.uk/clinical-guidelines-for-operations/treatment-guidelines/emergency-procedures/tourniquet-use/"
+    },
+    {
+      "titulo": "Shock — MSD Manual (versão para o público)",
+      "url": "https://www.msdmanuals.com/home/heart-and-blood-vessel-disorders/low-blood-pressure/shock"
+    }
+  ]
+}

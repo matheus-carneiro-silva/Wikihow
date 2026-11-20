@@ -1,0 +1,93 @@
+{
+  "id": "agir-em-picada-de-cobra-ou-escorpiao",
+  "titulo": "Como agir em picada de cobra ou de escorpião",
+  "resumo": "Jararaca, cascavel, coral, surucucu e escorpião-amarelo: primeiros socorros, o que não fazer, sinais de gravidade e por que evacuar para o soro.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "picada de cobra",
+    "serpente",
+    "veneno",
+    "peçonhento",
+    "jararaca",
+    "cascavel",
+    "coral",
+    "surucucu",
+    "escorpião amarelo",
+    "soro antiofídico"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "O único tratamento específico é o soro antiveneno, aplicado só em serviço de saúde. A prioridade máxima é levar a pessoa ao hospital o mais rápido possível: chame o SAMU (192) ou os Bombeiros (193) e o Centro de Informação e Assistência Toxicológica (CIATox) da região. Criança picada por escorpião precisa de atendimento imediato.",
+  "materiais": [
+    "Água e sabão",
+    "Celular para fotografar o animal (de longe) e pedir socorro",
+    "Tala ou pano para manter o membro parado"
+  ],
+  "passos": [
+    {
+      "titulo": "Afaste-se e reconheça o animal",
+      "texto": "Afaste a pessoa do animal e não tente pegá-lo. Se for seguro, fotografe de longe: isso ajuda a escolher o soro.\n\nNo Brasil, as cobras peçonhentas são de quatro grupos. Jararacas (e jararacuçu, urutu, caiçaca) causam a maioria dos acidentes: dor, inchaço e manchas roxas no local, que podem subir pelo membro, bolhas e sangramentos (gengiva, urina, pele). Surucucu (Amazônia e Mata Atlântica): parecido com a jararaca, mais vômitos, cólica, diarreia e pressão baixa. Cascavel (chocalho na cauda): pouca dor e inchaço, mas pálpebras caídas, visão dupla ou turva, dor muscular e urina escura, cor de refrigerante de cola. Coral-verdadeira (anéis coloridos): pouca reação local e fraqueza muscular, pálpebras caídas e dificuldade para engolir e respirar.",
+      "dicas": [
+        "Jiboia e sucuri não têm veneno. Mas, na dúvida, trate qualquer picada de cobra como perigosa."
+      ]
+    },
+    {
+      "titulo": "Faça os primeiros socorros da picada de cobra",
+      "texto": "Lave o local com água e sabão. Deixe a pessoa em repouso, com o membro picado elevado, estendido e imóvel (se possível, carregue-a em vez de deixá-la andar). Tire anéis, pulseiras, relógio e calçado e afrouxe as roupas, porque o membro pode inchar muito.\n\nSe a pessoa estiver acordada e sem náusea ou vômito, dê água aos poucos, conforme a sede: ajuda a proteger os rins. Para a dor, use dipirona ou paracetamol.",
+      "avisos": [
+        "Não use ibuprofeno, diclofenaco nem outros anti-inflamatórios: aumentam o risco de lesão nos rins."
+      ]
+    },
+    {
+      "titulo": "Não faça isto",
+      "texto": "Não faça torniquete nem garrote: piora a lesão e pode levar a necrose e amputação. Não corte, não fure, não esprema e não chupe o local. Não coloque gelo, álcool, querosene, pó de café, folhas, fumo nem qualquer outra substância. Não dê bebida alcoólica.\n\nNão aplique injeções no músculo nem anestesia no local, porque o veneno pode impedir a coagulação e causar hematomas.",
+      "avisos": [
+        "Nenhum remédio caseiro, chá ou \"soro\" improvisado neutraliza o veneno."
+      ]
+    },
+    {
+      "titulo": "Evacue para o soro antiveneno",
+      "texto": "O soro antiofídico existe para cada tipo de cobra e é distribuído pelo SUS a hospitais e pontos estratégicos de cada estado. O médico decide se a pessoa precisa e quantas ampolas, conforme o tipo e a gravidade. Quanto mais cedo, melhor.\n\nMesmo sem sintomas, a pessoa deve ser observada no hospital por pelo menos 6 horas depois de picada de jararaca. Em picadas de cascavel e coral, os sintomas podem demorar a aparecer: observação de pelo menos 24 horas.",
+      "avisos": [
+        "Sinais de gravidade, que pedem a maior urgência: sangramento pela boca, nariz, urina ou vômito; inchaço que se espalha rápido; tontura, desmaio ou pressão baixa; pálpebras caídas ou visão dupla; dificuldade para engolir ou respirar; urina escura ou em pouca quantidade."
+      ]
+    },
+    {
+      "titulo": "Em picada de escorpião, lave e alivie a dor",
+      "texto": "O escorpião-amarelo (Tityus serrulatus) é o que causa os casos mais graves no Brasil. Lave o local com água e sabão. Compressa morna ajuda a aliviar a dor, que costuma ser forte, e a dipirona pode ser usada.\n\nCaso leve, só com dor, vermelhidão, formigamento e suor no local, não precisa de soro, mas deve ser observado. Em casos moderados e graves o soro antiescorpiônico é necessário, em qualquer idade, o quanto antes.",
+      "avisos": [
+        "Também no escorpião: não faça torniquete, não corte nem aperte o local e não passe substâncias."
+      ]
+    },
+    {
+      "titulo": "Leve a criança picada por escorpião imediatamente",
+      "texto": "Crianças de até 10 anos, sobretudo as menores de 7, correm mais risco de envenenamento grave, que pode se instalar em poucas horas. Leve ao serviço de saúde sem esperar sintomas: mesmo nos casos leves, a observação recomendada é de 6 a 12 horas.\n\nSinais de gravidade: vômitos repetidos, suor intenso, salivação, agitação alternando com sonolência, respiração rápida ou difícil, tremores, convulsões. Pessoas com pressão alta, diabetes, doença do coração ou dos rins também correm mais risco.",
+      "avisos": [
+        "Vômitos repetidos depois de picada de escorpião são sinal de alarme: evacue com urgência máxima."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Protocolo Clínico e Diretrizes Terapêuticas dos Acidentes Ofídicos — Ministério da Saúde, 2026",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/acidentes-ofidicos"
+    },
+    {
+      "titulo": "PCDT Acidentes Escorpiônicos (versão resumida) — Conitec/Ministério da Saúde, 2025",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/2026/pcdt-resumido/pcdt_acidentes-escopionicos_f.pdf/@@display-file/file"
+    },
+    {
+      "titulo": "Acidentes ofídicos — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/acidentes-ofidicos"
+    },
+    {
+      "titulo": "Acidente ofídico e escorpionismo — Guia de Vigilância em Saúde, Ministério da Saúde (reprodução municipal)",
+      "url": "https://web.arapiraca.al.gov.br/wp-content/uploads/2025/01/AcidenteofdicoInformaesGuiadeVigilnciaemSadeMinistriodaSade.pdf"
+    },
+    {
+      "titulo": "Commentary: Pressure Bandaging for North American Snake Bite? No! — J Med Toxicol, 2011",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550186"
+    }
+  ]
+}
