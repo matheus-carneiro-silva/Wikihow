@@ -52,7 +52,7 @@
     },
     {
       "titulo": "Clore com a dose certa",
-      "texto": "Dose do Ministério da Saúde: 2 gotas de hipoclorito 2,5% (ou água sanitária) para cada litro de água coada. Misture e espere 30 minutos antes de beber.\n\nPara volumes maiores (2 gotas ≈ 0,1 mL por litro):\n\n• 20 L: 1 colher de chá;\n• 200 L: 1 colher de sopa;\n• 1.000 L (caixa d'água): 2 copinhos de café descartáveis, cerca de 100 mL.\n\nSe a água continuar turva e não houver outra saída, dobre a dose (4 gotas por litro), como orienta o CDC para água turva.\n\nTeste: depois dos 30 minutos, a água deve ter um leve cheiro de cloro. Se não tiver, repita a dose e espere mais 15 minutos. Se ainda não tiver cheiro, descarte e procure outra fonte.",
+      "texto": "Dose do Ministério da Saúde: 2 gotas de hipoclorito 2,5% (ou água sanitária) para cada litro de água coada. Misture e espere 30 minutos antes de beber.\n\nPara volumes maiores, use as medidas caseiras da tabela do Ministério da Saúde (arredondadas para colheres e copinhos):\n\n• 20 L: 1 colher de chá;\n• 200 L: 1 colher de sopa;\n• 1.000 L (caixa d'água): 2 copinhos de café descartáveis, cerca de 100 mL.\n\nSe a água continuar turva e não houver outra saída, dobre a dose (4 gotas por litro), como orienta o CDC para água turva.\n\nTeste: depois dos 30 minutos, a água deve ter um leve cheiro de cloro. Se não tiver, repita a dose e espere mais 15 minutos. Se ainda não tiver cheiro, descarte e procure outra fonte.",
       "dicas": [
         "Água tratada com cloro em casa deve ser consumida no mesmo dia. Mantenha tampada."
       ],

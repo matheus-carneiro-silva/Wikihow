@@ -1,0 +1,104 @@
+{
+  "id": "controlar-ratos-e-mosquitos",
+  "titulo": "Como controlar ratos e mosquitos da dengue em casa",
+  "resumo": "Tirar abrigo e comida dos ratos, ratoeiras, raticida com segurança, limpar fezes de rato sem pegar hantavírus e acabar com criadouros do Aedes aegypti.",
+  "categoria": "higiene-e-saude-publica",
+  "tags": [
+    "rato",
+    "ratazana",
+    "camundongo",
+    "ratoeira",
+    "raticida",
+    "hantavírus",
+    "dengue",
+    "Aedes aegypti",
+    "pernilongo",
+    "repelente"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca varra nem aspire a seco fezes, urina ou ninhos de rato: a poeira pode transmitir hantavírus, que mata quase metade dos doentes graves. Raticida é veneno para crianças e animais: use só produto registrado, em porta-isca, seguindo o rótulo. Em intoxicação, ligue para o Disque-Intoxicação 0800-722-6001.",
+  "materiais": [
+    "Potes de plástico grosso, vidro ou metal com tampa para comida e ração",
+    "Lixeira sem furos e com tampa",
+    "Palha de aço, cimento, tela de arame ou chapa de metal para fechar buracos",
+    "Ratoeiras de mola (tamanho para rato ou camundongo)",
+    "Luvas de borracha e sacos plásticos",
+    "Água sanitária 2,5%",
+    "Tela de janela, mosquiteiro e repelente registrado na Anvisa"
+  ],
+  "passos": [
+    {
+      "titulo": "Tire a comida e a água dos ratos",
+      "texto": "Rato fica onde acha comida, água e abrigo. Comece pela comida:\n\n• Guarde comida, grãos e ração em potes de plástico grosso, vidro ou metal com tampa, sobre prateleiras ou estrados a pelo menos 40 cm do chão.\n• Não deixe ração de animais exposta: à noite, recolha as sobras.\n• Use lixeira sem furos e com tampa.\n• Enterre o lixo orgânico, se não houver coleta, a pelo menos 30 m de qualquer construção.",
+      "dicas": [
+        "Para o estoque de grãos, veja também \"Como armazenar grãos e conservar a colheita\"."
+      ]
+    },
+    {
+      "titulo": "Tire o abrigo e feche as entradas",
+      "texto": "• Vede frestas e buracos maiores que 0,5 cm, que já dão passagem a um camundongo. Buracos pequenos: palha de aço presa com massa ou cimento. Buracos grandes: tela de arame, chapa de metal ou cimento.\n• Tire entulho e objetos sem uso de dentro e de volta da casa.\n• Mantenha o mato baixo num raio de pelo menos 40 m das construções (casa, paiol, galinheiro).\n• Lenha a pelo menos 30 m da casa e a 30 cm do chão; composteira também a 30 m."
+    },
+    {
+      "titulo": "Use ratoeira de mola",
+      "texto": "A ratoeira de mola é a forma mais segura de reduzir os ratos.\n\n• Isca: um pouco de pasta de amendoim ou gordura no gatilho.\n• Posição: no chão, encostada na parede, com o lado da isca tocando a parede (formando um T). Rato anda junto às paredes.\n• Onde: onde viu fezes ou roeduras, atrás do fogão e da geladeira, no fundo de armários, no forro e no porão.\n• Ratazana desconfia de coisa nova: deixe a isca na ratoeira desarmada por alguns dias e só arme quando ela começar a comer.\n\nOlhe as ratoeiras todo dia. Se passar 1 semana sem pegar nada e sem sinais novos, os ratos provavelmente acabaram.",
+      "avisos": [
+        "Evite ratoeira de cola e gaiola: o rato assustado urina mais, o que aumenta o risco de doença.",
+        "Mantenha ratoeiras e iscas longe de crianças e animais."
+      ]
+    },
+    {
+      "titulo": "Raticida só com segurança",
+      "texto": "Se as ratoeiras não resolverem, use raticida registrado (com registro na Anvisa ou no Ministério da Agricultura no rótulo), sempre dentro de porta-isca fechado e seguindo o rótulo: dose, lugar e cuidados.\n\nAnote o nome do produto e guarde a embalagem: em caso de intoxicação, o atendimento precisa saber o que foi engolido.",
+      "avisos": [
+        "Nunca use \"chumbinho\": é um agrotóxico proibido, muito tóxico para pessoas e animais, vendido sem rótulo nem antídoto informado, e nem funciona bem contra ratos.",
+        "Nunca coloque veneno em comida de gente ou perto de onde crianças e animais alcançam."
+      ]
+    },
+    {
+      "titulo": "Limpe fezes e ninhos de rato sem levantar poeira",
+      "texto": "1. Abra portas e janelas e saia do local por pelo menos 30 minutos antes de começar, principalmente em galpão, paiol ou casa que ficou fechada.\n2. Ponha luvas de borracha.\n3. Prepare a solução: 1 L de água sanitária 2,5% em 9 L de água.\n4. Molhe bem o chão, as paredes, as fezes, a urina e os ninhos com a solução e deixe agir. O manual do Ministério da Saúde indica até 60 minutos de contato.\n5. Recolha com pano ou papel molhado, sem varrer, e ponha em saco plástico.\n6. Lave as luvas na solução antes de tirá-las e depois lave as mãos com água e sabão.\n\nRato morto: borrife com a solução, coloque num saco, feche com nó, ponha dentro de um segundo saco também fechado e jogue no lixo com tampa.",
+      "avisos": [
+        "Febre, dor no corpo e falta de ar de 1 a 8 semanas depois de limpar lugar com rato podem ser hantavírus: procure atendimento e conte do contato."
+      ]
+    },
+    {
+      "titulo": "Acabe com os criadouros do mosquito da dengue",
+      "texto": "O Aedes aegypti, que transmite dengue, zika e chikungunya, põe ovos em água parada e limpa, e os ovos aguentam mais de 1 ano secos, esperando a próxima chuva.\n\nToda semana, reserve pelo menos 10 minutos para:\n\n• tampar bem caixas d'água, tambores, baldes e galões de água guardada;\n• lavar com bucha e sabão os recipientes ao esvaziar e guardá-los de boca para baixo;\n• pôr areia nos pratos de vasos de planta ou lavá-los;\n• limpar calhas e tirar folhas que juntam água;\n• guardar pneus cobertos e garrafas de boca para baixo.",
+      "dicas": [
+        "No apagão, a água guardada em casa vira o principal criadouro: tampe tudo ou cubra com tela fina presa com elástico."
+      ]
+    },
+    {
+      "titulo": "Proteja-se das picadas",
+      "texto": "• Telas nas janelas e mosquiteiro na cama, principalmente para bebês, doentes e quem dorme de dia.\n• Roupa de manga comprida e calça quando possível.\n• Repelente registrado na Anvisa, seguindo o rótulo e a idade mínima indicada nele.",
+      "avisos": [
+        "Bebês com menos de 6 meses não devem usar repelente na pele: proteja com mosquiteiro e roupa.",
+        "Repelente com DEET não é permitido para menores de 2 anos."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manual de vigilância, prevenção e controle das hantaviroses — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hantavirose/publicacoes/anexo5.pdf/"
+    },
+    {
+      "titulo": "Aedes aegypti — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/aedes-aegypti"
+    },
+    {
+      "titulo": "How to Trap Up to Remove Rodents — CDC",
+      "url": "https://www.cdc.gov/healthy-pets/rodent-control/trap-up.html"
+    },
+    {
+      "titulo": "How to Clean Up After Rodents — CDC",
+      "url": "https://www.cdc.gov/healthy-pets/rodent-control/clean-up.html"
+    },
+    {
+      "titulo": "Chumbinho: perguntas frequentes — Anvisa",
+      "url": "https://www.gov.br/anvisa/pt-br/acessoainformacao/perguntasfrequentes/agrotoxicos/chumbinho"
+    }
+  ]
+}

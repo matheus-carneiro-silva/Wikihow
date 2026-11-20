@@ -1,0 +1,111 @@
+{
+  "id": "imobilizar-fraturas-e-entorses",
+  "titulo": "Como imobilizar fraturas, luxações e entorses",
+  "resumo": "Osso quebrado, junta deslocada ou torção: como diferenciar, cuidar da fratura exposta, improvisar tala e tipoia, checar a circulação e quando evacuar.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "osso quebrado",
+    "fratura exposta",
+    "tala improvisada",
+    "tipoia",
+    "torção",
+    "pé torcido",
+    "tornozelo torcido",
+    "deslocou o ombro",
+    "lesão na coluna",
+    "gelo"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Suspeita de lesão na cabeça, pescoço, costas, quadril, bacia ou coxa, osso para fora da pele, sangramento forte ou membro frio, pálido ou azulado abaixo da lesão: chame o SAMU (192) ou os Bombeiros (193) se houver sinal, e organize a evacuação. Sangramento forte vem antes de tudo: veja o guia de hemorragia.",
+  "materiais": [
+    "Tala rígida: tábua, papelão grosso, revista enrolada, galho reto, bastão de caminhada",
+    "Panos, roupas ou espuma para acolchoar",
+    "Tiras de pano, ataduras ou fita para amarrar",
+    "Lenço grande ou camiseta para tipoia",
+    "Gelo ou compressa fria e um pano fino",
+    "Atadura elástica",
+    "Gaze ou pano limpo e água potável (fratura exposta)"
+  ],
+  "passos": [
+    {
+      "titulo": "Avalie e diferencie fratura, luxação e entorse",
+      "texto": "Primeiro veja se a pessoa responde, respira e se há sangramento forte. Mantenha-a parada e calma e procure outras lesões.\n\n- Fratura (osso quebrado): deformidade visível, inchaço, roxo, dor forte, dormência ou formigamento, osso saindo pela pele, não consegue mexer ou apoiar o peso.\n- Luxação (junta deslocada): a articulação parece fora do lugar ou deformada, dói muito ao tentar usar e quase não se mexe.\n- Entorse (torção de ligamento): dor, inchaço e roxo na junta, mas sem deformidade, e a pessoa ainda consegue mexer um pouco.\n\nNa dúvida, trate como fratura. Em criança pequena que não apoia o pé ou não mexe o braço, considere fratura.",
+      "avisos": [
+        "Não peça para a pessoa testar se o osso mexe nem force a junta para ver se funciona."
+      ]
+    },
+    {
+      "titulo": "Suspeita de lesão na coluna: não mova",
+      "texto": "Suspeite de lesão na coluna depois de queda, batida de carro ou pancada forte, se houver: cabeça em posição estranha, dor ou rigidez no pescoço ou nas costas, formigamento ou fraqueza que desce pelos braços ou pernas, paralisia, perda de controle da urina ou fezes, ou pessoa desacordada ou confusa.\n\nSegure a cabeça e o pescoço na posição em que estavam, sem deixar dobrar ou torcer, e não deixe a pessoa se levantar. Só mova se for indispensável (fogo, perigo, para ela respirar). Se ela vomitar ou engasgar com sangue, role-a de lado em bloco: uma pessoa segura a cabeça, outra o corpo, e todos giram juntos mantendo cabeça, pescoço e costas alinhados.",
+      "avisos": [
+        "Se a pessoa não respira, faça só compressões no peito (veja o guia de RCP), sem mexer no pescoço para ventilar."
+      ]
+    },
+    {
+      "titulo": "Fratura exposta: limpe a sujeira grossa e cubra",
+      "texto": "Se o osso rompeu a pele, controle o sangramento com pano limpo e pressão em volta do osso. Remova a sujeira grossa da ferida lavando com água potável em abundância e cubra com gaze ou pano limpo umedecido, presos sem apertar. Não sopre nem mexa dentro da ferida.\n\nNão tente empurrar o osso para dentro. Imobilize como nos próximos passos.\n\nFratura exposta infecciona com facilidade e precisa de antibiótico o quanto antes (o ideal é na primeira hora) e de cirurgia. Se tiver antibiótico, veja o guia de antibióticos orais e comece logo. Evacue sempre, mesmo que seja difícil. Confira se a vacina antitetânica está em dia.",
+      "avisos": [
+        "Fratura exposta é emergência, mesmo que a dor pareça controlada."
+      ]
+    },
+    {
+      "titulo": "Imobilize a junta acima e a junta abaixo",
+      "texto": "A tala deve prender o osso quebrado e também as duas articulações vizinhas: para o antebraço, punho e cotovelo; para a perna (canela), joelho e tornozelo. Em luxação ou lesão de junta, imobilize o osso acima e o abaixo da junta.\n\n1. Imobilize na posição em que encontrou, sem endireitar.\n2. Acolchoe a tala com pano, principalmente nas saliências ósseas.\n3. Coloque tala dos dois lados, se possível, um pouco mais comprida que as juntas.\n4. Amarre com tiras acima e abaixo da lesão, nunca em cima dela, firme mas sem apertar.\n5. Sem material, prenda a perna machucada na perna boa, ou o braço no tronco, com acolchoamento entre eles.\n\nDepois de imobilizado, aplique gelo envolto em pano e eleve o membro para reduzir dor e inchaço.",
+      "dicas": [
+        "Braço, punho ou clavícula: faça uma tipoia com um lenço grande ou camiseta, com o antebraço dobrado junto ao peito, e prenda o braço ao tronco com uma faixa por cima."
+      ],
+      "avisos": [
+        "Não mova quem tem suspeita de fratura de quadril, bacia ou coxa, a não ser que seja indispensável: essas fraturas sangram muito por dentro."
+      ]
+    },
+    {
+      "titulo": "Confira a circulação antes e depois",
+      "texto": "Depois de imobilizar, e de novo a cada vez que mexer na pessoa, olhe a mão ou o pé do membro machucado. Aperte uma unha ou a pele até ficar branca e solte: a cor deve voltar em poucos segundos. Compare com o outro lado.\n\nSinais de má circulação: pele pálida, fria ou azulada, dormência, formigamento que piora, falta de pulso. Primeiro afrouxe as amarras e veja se melhora.",
+      "avisos": [
+        "Se a circulação continuar ruim e não houver ninguém treinado por perto, você pode alinhar o membro com cuidado, puxando devagar, para uma posição natural de repouso. Fora isso, nunca tente endireitar o osso."
+      ]
+    },
+    {
+      "titulo": "Luxação: não tente recolocar",
+      "texto": "Não tente endireitar nem recolocar a junta deslocada. Imobilize-a na posição em que está (ou na mais confortável para a pessoa), com tala ou tipoia, aplique gelo envolto em pano e confira a circulação.\n\nRecolocar uma junta pode quebrar o osso ou lesar nervos e vasos e não é técnica de primeiros socorros. Evacue para atendimento: quanto antes for recolocada por quem sabe, mais fácil.",
+      "avisos": [
+        "Não dê nada para a pessoa comer ou beber se ela puder precisar de procedimento ou cirurgia em breve."
+      ]
+    },
+    {
+      "titulo": "Entorse leve: repouso, gelo, compressão e elevação",
+      "texto": "Se não há sinal de fratura e a pessoa ainda mexe a junta:\n\n- Repouso: evite apoiar o peso ou usar a junta enquanto doer, sem imobilizar totalmente por muito tempo.\n- Gelo: 15 a 20 minutos de cada vez, de 4 a 8 vezes por dia, nas primeiras 48 horas ou até o inchaço baixar, sempre com um pano entre o gelo e a pele.\n- Compressão: enrole uma atadura elástica a partir da parte mais distante (dos dedos para cima), firme sem apertar. Afrouxe se formigar, doer mais ou os dedos ficarem frios ou azulados.\n- Elevação: deixe a junta acima do nível do coração quando estiver deitado ou sentado.",
+      "avisos": [
+        "Nunca coloque gelo direto na pele."
+      ]
+    },
+    {
+      "titulo": "Previna o choque e decida a evacuação",
+      "texto": "Para ajudar a prevenir o choque, deite a pessoa e eleve os pés cerca de 30 cm, exceto se houver lesão na cabeça, pescoço, costas, quadril ou perna. Mantenha-a aquecida (veja o guia de hemorragia para os sinais de choque).\n\nEvacue com urgência: lesão na coluna, cabeça, quadril, bacia ou coxa; fratura exposta; membro frio, pálido ou azulado; sangramento forte; pessoa confusa ou desacordada; ou qualquer fratura que você não consiga imobilizar bem. Outras fraturas e luxações também precisam de atendimento assim que possível. Entorse que não melhora em alguns dias ou em que não dá para apoiar o peso deve ser avaliada, pois pode ser fratura."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Broken bone — MedlinePlus (NIH), 2026",
+      "url": "https://medlineplus.gov/ency/article/000001.htm"
+    },
+    {
+      "titulo": "Dislocation — MedlinePlus (NIH), 2026",
+      "url": "https://medlineplus.gov/ency/article/000014.htm"
+    },
+    {
+      "titulo": "Spinal injury — MedlinePlus (NIH), 2025",
+      "url": "https://medlineplus.gov/ency/article/000029.htm"
+    },
+    {
+      "titulo": "Sprain: First aid — Mayo Clinic",
+      "url": "https://www.mayoclinic.org/first-aid/first-aid-sprain/basics/art-20056622"
+    },
+    {
+      "titulo": "Open Fractures — Clinical Guidelines for Operations, Ministério da Defesa do Reino Unido",
+      "url": "https://cgo.mod.uk/clinical-guidelines-for-operations/treatment-guidelines/musculoskeletal/open-fractures/"
+    }
+  ]
+}
