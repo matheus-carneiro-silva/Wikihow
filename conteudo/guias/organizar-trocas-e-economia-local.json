@@ -1,0 +1,97 @@
+{
+  "id": "organizar-trocas-e-economia-local",
+  "titulo": "Como organizar trocas e economia local",
+  "resumo": "Escambo, feira de trocas, banco de tempo e caderno de créditos para a comunidade negociar sem dinheiro, evitar preços abusivos e voltar ao real depois.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "escambo",
+    "troca",
+    "feira de trocas",
+    "banco de tempo",
+    "moeda social",
+    "economia solidária",
+    "fiado",
+    "sem dinheiro",
+    "preço abusivo",
+    "Banco Palmas"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Troca é voluntária: ninguém pode ser obrigado a trocar, nem receber menos do que o mínimo de água, comida ou remédio por não ter o que oferecer. Ajuda humanitária e doações recebidas de graça não devem ser vendidas nem trocadas.",
+  "materiais": [
+    "Caderno de contas (um para a feira ou o banco de tempo)",
+    "Canetas e etiquetas ou papel para preços em troca",
+    "Mesas ou lonas para a feira",
+    "Balança ou medidas padrão (lata, copo, saco de 1 kg)"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba o que tem valor num colapso",
+      "texto": "Sem energia e abastecimento, valem mais as coisas que mantêm a vida e o trabalho:\n\n• água tratada, filtros, cloro, galões;\n• comida não perecível, sal, açúcar, óleo, sementes, mudas, ovos e animais de criação;\n• remédios comuns, curativos, sabão, absorventes, fraldas;\n• fósforos, isqueiros, velas, pilhas, lanternas, carga de celular ou bateria;\n• ferramentas, pregos, arame, lonas, cordas;\n• trabalho especializado: consertos, costura, cuidados de saúde, aulas, cuidado de crianças.\n\nHabilidade não acaba e não estraga: quem não tem bens ainda tem tempo e saber para trocar.",
+      "avisos": [
+        "Não troque remédio de uso controlado (antibióticos, tarja preta) como mercadoria: encaminhe ao grupo de saúde da comunidade."
+      ]
+    },
+    {
+      "titulo": "Combine trocas diretas justas (escambo)",
+      "texto": "Na troca direta, cada lado diz o que oferece e o que precisa. Para evitar mal-entendido:\n\n• use medidas padrão (1 kg, 1 litro, 1 dúzia, 1 hora);\n• combine na hora, na frente de alguém, e anote se a entrega for depois;\n• compare com uma referência que todos conhecem, por exemplo \"quanto tempo leva para produzir\" ou o preço de antes do apagão em reais.\n\nExemplo: 1 dúzia de ovos por 1 hora de conserto de bicicleta; 2 kg de mandioca por 1 sabão em barra e um maço de couve.",
+      "dicas": [
+        "Quando um lado não tem agora o que o outro quer, anote como crédito no caderno (passo 4) em vez de forçar uma troca ruim."
+      ]
+    },
+    {
+      "titulo": "Monte uma feira comunitária de trocas",
+      "texto": "Escolha dia fixo da semana, horário curto (ex.: sábado, 8h às 11h) e local coberto e seguro. Regras simples, lidas na abertura:\n\n1. Só entra produto em bom estado; comida com data ou dia de produção à vista.\n2. Cada banca mostra o que quer em troca.\n3. Os primeiros 30 minutos são para quem tem prioridade (idosos, gestantes, pessoas com deficiência).\n4. Uma mesa de \"doação livre\" para quem não tem o que trocar.\n5. Duas pessoas da organização circulam para ajudar e resolver dúvidas.\n\nA feira também é ponto de encontro: aproveite para afixar o mural de avisos.",
+      "dicas": [
+        "Alimentos prontos e carne exigem cuidado de higiene: veja os guias de conservação de alimentos antes de oferecer."
+      ]
+    },
+    {
+      "titulo": "Crie um banco de tempo",
+      "texto": "No banco de tempo, a moeda é a hora de trabalho: quem ajuda alguém por 1 hora ganha 1 hora de crédito e pode usá-la para receber 1 hora de ajuda de qualquer outra pessoa. Toda hora vale o mesmo, seja de capina, aula, costura ou conserto elétrico.\n\nComo começar:\n\n• uma lista com o nome de cada participante, o que oferece e o que precisa;\n• um caderno com colunas: data | quem fez | para quem | serviço | horas;\n• cada participante começa com saldo zero e pode ficar até, por exemplo, 10 horas negativo enquanto não tem como retribuir.\n\nA organização da lista e do caderno também conta horas, para quem cuida.",
+      "dicas": [
+        "Idosos e pessoas com deficiência participam oferecendo o que podem: contar histórias para crianças, ensinar receitas, costurar, fazer companhia."
+      ]
+    },
+    {
+      "titulo": "Mantenha um caderno de créditos e dívidas",
+      "texto": "Para trocas a prazo, um único caderno da comunidade, guardado por 2 pessoas, com colunas: data | devedor | credor | o quê | quanto | prazo | quitado em.\n\nExemplo: \"20/11 | Casa 7 | Casa 15 | feijão | 2 kg | até a colheita | —\".\n\nLeia os saldos em voz alta uma vez por mês na assembleia e corrija erros na hora. Dívida é registrada, nunca cobrada com ameaça; quem não puder pagar pode quitar com trabalho ou prazo maior.",
+      "avisos": [
+        "Juros sobre comida ou água em emergência levam famílias à dependência: a comunidade pode combinar que dívidas de itens essenciais não têm juros."
+      ]
+    },
+    {
+      "titulo": "Evite exploração e preços abusivos",
+      "texto": "Mesmo numa crise, o Código de Defesa do Consumidor proíbe ao fornecedor elevar sem justa causa o preço de produtos ou serviços e exigir vantagem manifestamente excessiva (art. 39).\n\nNa prática da comunidade:\n\n• combine em assembleia uma tabela de referência para itens essenciais (água, comida básica, remédio comum);\n• dê visibilidade: preços ou trocas pedidas ficam escritos na banca;\n• quem cobrar muito acima da tabela recebe primeiro conversa, depois perde a banca na feira;\n• trabalho de criança não é moeda; troca de favor sexual ou exigência de favores pessoais em troca de comida é exploração e deve ser denunciada.",
+      "avisos": [
+        "Fique atento a quem acumula grande estoque de itens essenciais para revender: leve o assunto à assembleia antes que vire conflito."
+      ]
+    },
+    {
+      "titulo": "Planeje a volta ao dinheiro",
+      "texto": "Quando bancos e comércio voltarem, faça a transição aos poucos:\n\n1. Converta os créditos do caderno para reais usando a tabela de referência e acerte as contas em assembleia.\n2. Dê prazo para quitar dívidas, sem juros sobre o período da crise.\n3. Mantenha o que funcionou: a feira e o banco de tempo podem continuar.\n\nUm exemplo brasileiro: o Banco Palmas, criado em 1998 pela associação de moradores do Conjunto Palmeira, em Fortaleza (CE), lançou a moeda social palmas, que vale 1 real e circula no comércio do bairro para o dinheiro ficar na comunidade; comerciantes chegaram a dar desconto para quem pagava em palmas. A economia solidária, baseada em autogestão e cooperação, inclui bancos comunitários, fundos rotativos e cooperativas de crédito.",
+      "dicas": [
+        "Não emita \"vales\" sem a comunidade saber quem garante a troca por reais depois."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Banco Palmas — Wikipédia",
+      "url": "https://en.wikipedia.org/wiki/Banco_Palmas"
+    },
+    {
+      "titulo": "Economia solidária — Ministério do Trabalho e Emprego",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/economia-solidaria"
+    },
+    {
+      "titulo": "TimeBanks.org — o que é banco de tempo",
+      "url": "https://timebanks.org/"
+    },
+    {
+      "titulo": "Código de Defesa do Consumidor, art. 39 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "tratar-hipotermia-e-insolacao",
+  "titulo": "Como tratar hipotermia e insolação",
+  "resumo": "Frio e calor extremos: estágios da hipotermia e como reaquecer, exaustão pelo calor x insolação, resfriamento rápido em água fria e prevenção.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "insolação",
+    "intermação",
+    "golpe de calor",
+    "onda de calor",
+    "exaustão pelo calor",
+    "hipotermia",
+    "frio extremo",
+    "tremedeira",
+    "desidratação",
+    "afogamento em água fria"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Insolação (golpe de calor) com confusão, convulsão ou desmaio e hipotermia em quem parou de tremer ou está sonolento são emergências: comece a tratar na hora e chame o SAMU (192) se houver sinal. Na insolação, resfrie primeiro e transporte depois.",
+  "materiais": [
+    "Termômetro, se houver",
+    "Cobertores, sacos de dormir, roupas secas e gorro",
+    "Plástico ou lona (barreira contra umidade e vento)",
+    "Bolsas de água morna ou compressas quentes",
+    "Banheira, caixa d'água, tambor ou lona com água fria e gelo",
+    "Toalhas, panos e água para molhar; abanador ou ventilador",
+    "Água e bebida ou alimento com sal"
+  ],
+  "passos": [
+    {
+      "titulo": "Reconheça o estágio da hipotermia",
+      "texto": "Hipotermia é o corpo abaixo de 35 °C. Sem termômetro confiável, guie-se pelo tremor e pela consciência:\n\n- Só frio (acima de 35 °C): treme, se mexe e raciocina normalmente.\n- Leve (35 a 32 °C): treme, está alerta, mas os movimentos ficam desajeitados.\n- Moderada (32 a 28 °C): o tremor diminui ou para, está confusa ou sonolenta, mas ainda consciente.\n- Grave (abaixo de 28 °C): não treme nem se mexe e não responde.\n\nO tremor diminui por volta de 32 °C e para perto de 30 °C: pessoa gelada que parou de tremer está piorando, não melhorando."
+    },
+    {
+      "titulo": "Hipotermia leve: proteja e reaqueça",
+      "texto": "Leve a pessoa para um abrigo, longe de vento e chuva. Isole do chão e cubra bem, inclusive cabeça e pescoço. Use um plástico ou lona como barreira contra a umidade. Troque a roupa molhada por seca quando estiver abrigado; ao relento, deixe a roupa e envolva com plástico e cobertores por cima.\n\nAplique calor (bolsas de água morna, compressas quentes) nas axilas, no peito e nas costas, com um pano entre a bolsa e a pele, e confira a pele a cada 20 a 30 minutos para não queimar.\n\nDê bebida morna e doce ou comida calórica só se a pessoa estiver alerta, tremendo e conseguindo engolir bem. Mantenha-a sentada ou deitada por pelo menos 30 minutos, observando.",
+      "avisos": [
+        "Se não melhorar em 30 minutos, organize a evacuação."
+      ]
+    },
+    {
+      "titulo": "Hipotermia moderada ou grave: manuseie com cuidado",
+      "texto": "Mantenha a pessoa deitada e mexa nela o mínimo e com delicadeza: movimentos bruscos podem disparar arritmia. Não dê comida nem bebida. Isole, cubra com barreira contra umidade e aqueça só o tronco (peito, axilas, costas), com bolsas grandes. Evacue com cuidado, mantendo a pessoa deitada.\n\nSe ela não responde e parece não respirar, procure respiração e pulso por 1 minuto inteiro, pois podem estar muito lentos. Se não houver, comece a RCP (veja o guia de RCP). Se for preciso parar as compressões para transportar, faça pelo menos 5 minutos de RCP e pausas de no máximo 5 minutos.",
+      "avisos": [
+        "Não esfregue nem aqueça braços e pernas, e não coloque em banho quente: o sangue frio das extremidades volta ao coração e pode piorar o quadro.",
+        "Pupilas dilatadas, corpo rígido e manchas roxas não provam a morte em quem está gelado: só desista depois de reaquecer."
+      ]
+    },
+    {
+      "titulo": "Diferencie exaustão pelo calor de insolação",
+      "texto": "Exaustão pelo calor: muito suor, sede, fraqueza, tontura, dor de cabeça, náusea, irritação, pouca urina e temperatura elevada, mas abaixo de 40 °C, e a pessoa continua lúcida.\n\nInsolação (golpe de calor, intermação): temperatura acima de 40 °C com alteração do cérebro: confusão, fala enrolada, comportamento estranho, convulsão ou desmaio. A pele pode estar quente e seca ou ainda suando. É uma emergência que mata.\n\nSem termômetro, confusão em quem está no calor ou fez esforço já basta para tratar como insolação.",
+      "dicas": [
+        "Cãibras no calor: beba água e coma ou beba algo com sal e açúcar a cada 15 a 20 minutos. Não use comprimidos de sal. Procure ajuda se não passarem em 1 hora."
+      ]
+    },
+    {
+      "titulo": "Exaustão pelo calor: sombra, deitar e líquidos",
+      "texto": "Leve para a sombra ou lugar fresco, tire o excesso de roupa, sapatos e meias. Deite a pessoa com as pernas elevadas acima do coração. Resfrie com panos molhados frios na cabeça, rosto e pescoço e com ventilação.\n\nDê goles frequentes de água fria ou bebida com sais (veja o guia de soro de reidratação oral).",
+      "avisos": [
+        "Se não melhorar bem em 30 minutos, se piorar ou se surgir confusão, trate como insolação e organize a evacuação."
+      ]
+    },
+    {
+      "titulo": "Insolação: resfrie imediatamente em água fria",
+      "texto": "O mais eficaz é a imersão em água fria, começando o quanto antes:\n\n1. Ponha o corpo inteiro (tronco, braços e pernas) em água bem fria, abaixo de 15 °C (com gelo, se houver), numa banheira, caixa d'água, tambor ou lona segurada pelas pontas. Mantenha a cabeça fora: alguém segura a pessoa pelas axilas com um pano passado pelo peito.\n2. Mexa a água sem parar e ponha toalha com gelo ou molhada na cabeça e no pescoço.\n3. Com termômetro retal, tire da água quando chegar a 38,9 °C. Sem ele, resfrie por 10 a 15 minutos e depois transporte.\n\nSem como fazer imersão: tire a roupa, molhe a pessoa inteira com água fria e abane sem parar, troque toalhas geladas pelo corpo todo e ponha gelo ou panos frios no pescoço, axilas e virilhas.",
+      "avisos": [
+        "Resfrie primeiro e transporte depois: quanto antes o resfriamento começa, menor o dano. Mesmo melhorando, a pessoa precisa de avaliação médica.",
+        "Não dê nada pela boca a quem está confuso ou desacordado."
+      ]
+    },
+    {
+      "titulo": "Previna o calor e o frio",
+      "texto": "Calor:\n- Faça trabalho pesado no início da manhã ou no fim da tarde e fique em lugar fresco ou na sombra nas horas mais quentes.\n- Use roupas leves, claras e que deixem o suor evaporar.\n- Beba água com regularidade, mesmo sem sede, e evite álcool e cafeína. No esforço longo, inclua alimentos ou bebidas com sal.\n- O corpo se adapta ao calor: cerca de 80% da adaptação acontece em 7 dias de esforço moderado de 1 a 2 horas por dia. Aumente o esforço aos poucos.\n- Queimadura de sol atrapalha o suor por 7 dias. Proteja-se do sol.\n- Idosos, crianças e gestantes precisam de líquidos e lugar fresco com mais frequência.\n\nFrio: mantenha-se seco, abrigado do vento, com camadas de roupa e cabeça coberta, e coma e beba o suficiente."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Accidental Hypothermia: Guidelines from the Wilderness Medical Society — Am Fam Physician, 2020",
+      "url": "https://www.aafp.org/pubs/afp/issues/2020/1101/p571.html"
+    },
+    {
+      "titulo": "Prevention and Treatment of Heat Illness: Guidelines From the Wilderness Medical Society — Am Fam Physician, 2025",
+      "url": "https://www.aafp.org/pubs/afp/issues/2025/1200/practice-guidelines-heat-illness.html"
+    },
+    {
+      "titulo": "National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses — J Athl Train, 2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4639891/"
+    },
+    {
+      "titulo": "Heat-related Illnesses — CDC/NIOSH",
+      "url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html"
+    },
+    {
+      "titulo": "Ondas de calor — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calor"
+    }
+  ]
+}

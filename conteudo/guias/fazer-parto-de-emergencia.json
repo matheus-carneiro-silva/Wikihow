@@ -1,0 +1,104 @@
+{
+  "id": "fazer-parto-de-emergencia",
+  "titulo": "Como fazer um parto de emergência",
+  "resumo": "Parto sem médico: sinais de que o bebê vai nascer, como amparar sem puxar, cordão no pescoço, aquecer o bebê, cortar o cordão, placenta e hemorragia.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "parto em casa",
+    "parto normal",
+    "bebê nascendo",
+    "trabalho de parto",
+    "bolsa estourou",
+    "contrações",
+    "cortar o cordão umbilical",
+    "placenta",
+    "hemorragia pós-parto",
+    "recém-nascido"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Sempre que possível, o parto deve ser feito por profissional treinado, com hospital a menos de 30 minutos. Se houver sinal, ligue 192 (SAMU): o atendente orienta e ajuda a decidir se ainda dá tempo de chegar ao hospital. Sangramento forte da mãe, bebê que não respira ou bebê saindo de nádegas ou pés são emergências.",
+  "materiais": [
+    "Sabão e água para lavar bem as mãos; luvas, se houver",
+    "Lençóis, toalhas e panos limpos e secos (vários)",
+    "Cobertor ou manta para mãe e bebê; gorro para o bebê",
+    "2 barbantes ou tiras limpas, fervidos, para amarrar o cordão",
+    "Tesoura ou lâmina nova ou fervida",
+    "Bacia ou saco para a placenta",
+    "Absorventes ou panos limpos para a mãe"
+  ],
+  "passos": [
+    {
+      "titulo": "Reconheça o trabalho de parto e o parto iminente",
+      "texto": "Sinais de que o trabalho de parto começou: contrações na parte de baixo da barriga em intervalos regulares (às vezes com dor nas costas), saída de um pouco de muco com sangue, ou a bolsa estourar (saída de líquido pela vagina). Procure o serviço de saúde quando a bolsa estourar ou quando, por 1 hora, as contrações durarem pelo menos 30 segundos e vierem a cada 6 minutos ou menos.\n\nNo primeiro filho, o trabalho de parto costuma durar de 12 a 18 horas; nos seguintes, de 6 a 8 horas. A fase de fazer força dura em média 2 horas no primeiro filho e 1 hora nos seguintes.\n\nO parto está muito próximo quando a mulher sente vontade forte de fazer força e a cabeça do bebê aparece na vagina e não volta para dentro entre as contrações. Nesse ponto, não tente viajar: prepare-se para o parto onde estão."
+    },
+    {
+      "titulo": "Prepare o lugar e as mãos",
+      "texto": "Escolha um lugar aquecido e protegido. Forre o chão ou a cama com lençóis limpos. Deixe panos e cobertor à mão para o bebê.\n\nLave bem as mãos e os antebraços com água e sabão e use luvas, se tiver. Ela pode beber líquidos e comer algo leve no começo do trabalho de parto."
+    },
+    {
+      "titulo": "Ampare a saída do bebê sem puxar",
+      "texto": "Quando a cabeça aparecer, apoie-a com a palma da mão, com delicadeza, e oriente a mulher a fazer força e a parar quando você pedir, para a cabeça sair devagar e rasgar menos.\n\nDepois que a cabeça sair, passe o dedo em volta do pescoço do bebê para ver se o cordão está enrolado (acontece em cerca de 1 a cada 3 partos). Se estiver frouxo, passe-o por cima da cabeça. Se estiver apertado, mantenha a cabeça do bebê junto à coxa da mãe, deixe ela fazer força e desenrole o cordão depois que o corpo sair.\n\nA cabeça gira de lado sozinha. Os ombros e o corpo costumam sair na contração seguinte: apenas ampare, segurando bem, porque o bebê é escorregadio.",
+      "avisos": [
+        "Nunca puxe o bebê pela cabeça nem pelos braços.",
+        "Não corte nem amarre o cordão antes de o bebê nascer por inteiro: é o maior risco para o bebê."
+      ]
+    },
+    {
+      "titulo": "Seque, aqueça e veja se respira",
+      "texto": "Logo depois de nascer, seque o bebê inteiro com um pano, troque o pano molhado por um seco e coloque-o pelado sobre o peito da mãe (pele a pele), de bruços, coberto com manta e com gorro. O contato pele a pele mantém o bebê aquecido, ajuda a amamentar e ajuda a placenta a sair, reduzindo o sangramento da mãe. Mantenha-o pelo menos na primeira hora.\n\nO bebê deve chorar ou respirar bem no primeiro minuto. Se não respirar, deite-o de costas numa superfície firme e cubra a boca e o nariz dele com a sua boca, soprando só o bastante para o peito subir, de 30 a 60 vezes por minuto. Se não houver sinal de vida, faça a RCP de bebê (veja o guia de RCP).",
+      "dicas": [
+        "Só limpe a boca e o nariz do bebê se houver secreção atrapalhando a respiração."
+      ]
+    },
+    {
+      "titulo": "Espere para amarrar e cortar o cordão",
+      "texto": "Não há pressa: espere pelo menos 1 minuto (o ideal é de 1 a 3 minutos, ou até o cordão parar de pulsar) com o bebê no peito da mãe. Isso passa mais sangue e ferro para o bebê.\n\nDepois, amarre o cordão bem apertado com um barbante limpo a cerca de 2 a 3 cm (dois dedos) da barriga do bebê, e com outro barbante dois dedos mais adiante. Corte entre os dois nós com tesoura ou lâmina nova ou fervida.",
+      "avisos": [
+        "Confira de vez em quando se o coto do cordão não está sangrando. Se sangrar, amarre de novo, mais apertado."
+      ]
+    },
+    {
+      "titulo": "Deixe a placenta sair sem puxar",
+      "texto": "A placenta costuma sair em alguns minutos, até cerca de 30 minutos depois do bebê. Sinais de que descolou: sai um jato de sangue, o cordão parece mais comprido e o útero fica firme e arredondado na parte de baixo da barriga. Peça para a mulher fazer força nessa hora e receba a placenta numa bacia.\n\nGuarde a placenta para um profissional examinar: pedaços que ficam dentro causam sangramento e infecção.",
+      "avisos": [
+        "Nunca puxe o cordão com força: pode virar o útero do avesso, uma emergência grave.",
+        "Se a placenta não sair em 30 minutos, peça para a mulher urinar e continue esperando sem puxar. Se não sair em 1 hora, ou se houver sangramento forte, evacue com urgência."
+      ]
+    },
+    {
+      "titulo": "Previna e trate a hemorragia depois do parto",
+      "texto": "Depois da placenta, palpe a barriga logo abaixo do umbigo: o útero deve estar firme como uma bola dura. Se estiver mole ou se a mulher sangrar muito, massageie o útero com movimentos circulares firmes até endurecer, e repita sempre que amolecer. Coloque o bebê para mamar: a sucção ajuda o útero a contrair.\n\nNas primeiras horas, confira o sangramento, o útero e o estado da mãe a cada 15 minutos. As primeiras 4 horas depois da placenta são quando mais acontece hemorragia.\n\nSangramento acima de 500 mL, ou a partir de 300 mL com tontura, palidez, pulso acelerado ou desmaio, é hemorragia pós-parto: continue massageando, deite a mulher com as pernas elevadas, aqueça e evacue com a maior urgência possível (veja os sinais de choque no guia de hemorragia).",
+      "avisos": [
+        "Hemorragia pós-parto pode matar em pouco tempo. Não espere para ver se para sozinha."
+      ]
+    },
+    {
+      "titulo": "Saiba quando evacuar",
+      "texto": "Evacue com urgência se houver: sangramento forte antes ou depois do parto; bebê que não respira bem ou fica roxo ou mole; placenta que não sai em 1 hora; ombros do bebê que não saem com a força da mãe.\n\nSe aparecerem primeiro as nádegas ou os pés (parto pélvico), peça ajuda imediatamente. Não puxe: mantenha as mãos afastadas e deixe as nádegas, as pernas e o corpo saírem sozinhos, apenas amparando.\n\nMesmo num parto que correu bem, mãe e bebê devem ser avaliados por um profissional de saúde assim que possível."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Management of Spontaneous Vaginal Delivery — MSD Manual (versão profissional)",
+      "url": "https://www.msdmanuals.com/professional/gynecology-and-obstetrics/normal-labor-and-delivery/management-of-normal-delivery"
+    },
+    {
+      "titulo": "Labor — MSD Manual (versão para o público), 2024",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/normal-labor-and-delivery/labor"
+    },
+    {
+      "titulo": "Global health agencies issue new recommendations to help end deaths from postpartum haemorrhage — OMS, 2025",
+      "url": "https://www.who.int/news/item/05-10-2025-global-health-agencies-issue-new-recommendations-to-help-end-deaths-from-postpartum-haemorrhage"
+    },
+    {
+      "titulo": "Nota Técnica nº 124/2026 — Contato pele a pele imediatamente após o nascimento, Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2026/nota-tecnica-no-124-2026-dahud-saes-ms.pdf"
+    },
+    {
+      "titulo": "Updated CPR guidelines released for pediatric and neonatal emergency care and resuscitation — American Heart Association, 2025",
+      "url": "https://newsroom.heart.org/news/updated-cpr-guidelines-released-for-pediatric-and-neonatal-emergency-care-and-resuscitation"
+    }
+  ]
+}

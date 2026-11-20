@@ -1,0 +1,93 @@
+{
+  "id": "gerir-recursos-comuns",
+  "titulo": "Como gerir recursos comuns da comunidade",
+  "resumo": "Água, lenha, sementes e ferramentas compartilhadas: regras para não esgotar, cotas, rodízio, caderno de entradas e saídas e cálculo de racionamento da caixa-d'água.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "racionamento",
+    "cota de água",
+    "caixa-d'água comunitária",
+    "bens comuns",
+    "Elinor Ostrom",
+    "estoque",
+    "rodízio",
+    "partilha",
+    "ferramentas emprestadas",
+    "divisão justa"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Água de reservatório comunitário só deve ser bebida depois de tratada (fervura, filtro ou cloro). A regra de divisão nunca pode deixar alguém sem o mínimo para beber: em caso de doença, calor extremo ou gestantes e bebês, a necessidade aumenta.",
+  "materiais": [
+    "Caderno de registro (um por recurso) e caneta",
+    "Régua ou fita métrica e marcador à prova d'água",
+    "Baldes ou galões de volume conhecido",
+    "Cadeado e chave guardada por 2 pessoas"
+  ],
+  "passos": [
+    {
+      "titulo": "Use os princípios que fazem bens comuns durarem",
+      "texto": "A cientista política Elinor Ostrom estudou comunidades que mantêm por gerações florestas, pesca e irrigação compartilhadas e descreveu 8 princípios no livro Governing the Commons (1990):\n\n1. Limites claros: quem pode usar e qual é o recurso.\n2. Regras adaptadas ao lugar e ao recurso.\n3. Quem usa participa de fazer as regras.\n4. Monitoramento, por pessoas que prestam contas aos usuários.\n5. Sanções graduais: primeiro um aviso, depois medidas maiores.\n6. Jeito simples e acessível de resolver conflitos.\n7. Direito reconhecido de a comunidade se organizar.\n8. Ligação com redes maiores (bairros vizinhos, Defesa Civil) quando o recurso é dividido com outros.\n\nOs passos abaixo aplicam cada princípio.",
+      "dicas": [
+        "Regras feitas pelos próprios usuários são mais respeitadas do que regras impostas: aprove as cotas em assembleia (veja \"Como organizar a comunidade depois de um colapso\")."
+      ]
+    },
+    {
+      "titulo": "Defina o recurso e quem tem direito",
+      "texto": "Para cada recurso comum, escreva numa folha:\n\n• o que é e onde fica (ex.: \"caixa de 10.000 L da escola\", \"lenha do terreno da rua 3\", \"banco de sementes da igreja\");\n• quem tem direito (as 25 famílias cadastradas da rua);\n• quem é responsável (2 pessoas, com rodízio mensal);\n• quanto há hoje e quanto entra (chuva, doação, colheita).\n\nAnote também o que é de uso comum e o que é só emprestado por um morador, que pode pedir de volta.",
+      "dicas": [
+        "Para ferramentas, pinte uma marca e um número em cada uma. Fica fácil saber se voltou."
+      ]
+    },
+    {
+      "titulo": "Calcule a cota de água da caixa comunitária",
+      "texto": "O padrão humanitário Esfera usa como meta pelo menos 15 litros por pessoa por dia para beber, cozinhar e higiene; só para sobreviver (beber e comida), 2,5 a 3 litros; higiene básica, 2 a 6 litros; cozinha básica, 3 a 6 litros.\n\nExemplo: caixa com 10.000 L, 100 pessoas, sem previsão de reabastecimento.\n\n• Separe uma reserva de 10% para saúde e emergências: 1.000 L. Sobram 9.000 L.\n• A 15 L por pessoa: 100 × 15 = 1.500 L por dia → 9.000 ÷ 1.500 = 6 dias.\n• A 10 L por pessoa: 100 × 10 = 1.000 L por dia → 9 dias.\n\nA assembleia escolhe a cota sabendo quantos dias ela garante. Família de 4 pessoas com cota de 10 L recebe 40 L por dia (2 galões de 20 L).\n\nRefaça a conta a cada chuva ou reabastecimento: com mais água, aumente a cota.",
+      "dicas": [
+        "Para saber quanto há na caixa de paredes retas: divida a capacidade pela altura útil em centímetros. Caixa de 10.000 L com 200 cm de altura útil = 50 L por centímetro. Marque uma régua por dentro ou por fora."
+      ],
+      "avisos": [
+        "Em calor forte, com doentes (principalmente diarreia), gestantes, mães que amamentam e bebês, a necessidade de água aumenta: dê a essas casas cota maior."
+      ]
+    },
+    {
+      "titulo": "Organize cotas, horários e rodízio",
+      "texto": "Distribua em horário fixo (ex.: 7h às 9h e 17h às 18h), com 2 pessoas presentes, e anote cada entrega. Fila de no máximo 15 minutos é a referência do padrão Esfera: se a fila passa disso, abra mais um ponto ou divida a rua em horários.\n\nPara lenha, use cota por semana e uma regra de reposição (quem corta também planta ou ajuda a secar). Para ferramentas, prazo de empréstimo (ex.: 2 dias) e fila escrita. Para sementes, quem pega um punhado devolve o dobro depois da colheita (veja \"Como guardar sementes para o próximo plantio\").",
+      "dicas": [
+        "Leve a água até quem não pode buscar: acamados, idosos sozinhos e pessoas com deficiência entram na rota de entrega."
+      ]
+    },
+    {
+      "titulo": "Registre todas as entradas e saídas",
+      "texto": "Um caderno por recurso, com colunas: data | entrada | saída | quem | saldo | assinatura.\n\nExemplo:\n\n20/11 | — | 40 L | Casa 12 (Maria) | 8.960 L | M.\n20/11 | 600 L (chuva) | — | medição | 9.560 L | J.\n\nTodo dia, à noite, confira o saldo do caderno com a medição da régua. Diferença grande é sinal de vazamento ou retirada sem registro: investigue antes de acusar alguém.",
+      "dicas": [
+        "Leia o resumo do caderno em toda assembleia: transparência evita boatos de que alguém está levando mais."
+      ]
+    },
+    {
+      "titulo": "Dê prioridade a quem é mais vulnerável",
+      "texto": "Combine em assembleia uma lista de prioridade que vale quando o recurso aperta: pessoas doentes, bebês e crianças pequenas, gestantes e lactantes, idosos, pessoas com deficiência e quem depende de remédio ou cuidado especial.\n\nPrioridade quer dizer receber primeiro e, se preciso, um pouco mais; não quer dizer que os outros fiquem sem o mínimo. Revise a lista toda semana com o grupo de saúde."
+    },
+    {
+      "titulo": "Fiscalize e aplique sanções graduais",
+      "texto": "Os próprios usuários fiscalizam, em rodízio, e prestam contas à assembleia. Quando alguém descumpre:\n\n1. Conversa particular e aviso.\n2. Devolver o que tirou a mais ou compensar com trabalho comunitário.\n3. Cota supervisionada por algumas semanas (retira na presença do responsável).\n4. Caso grave ou repetido: vai para a assembleia, com direito de defesa.\n\nNunca se corta o mínimo para beber nem se usa humilhação ou violência. Conflitos sobre o uso vão para mediação (veja \"Como mediar conflitos na comunidade\").",
+      "avisos": [
+        "Castigo desproporcional gera revolta e roubo escondido. Sanção leve, aplicada de forma igual para todos, funciona melhor."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Elinor Ostrom & 8 rules for managing the commons — Fundação Heinrich Böll",
+      "url": "https://tn.boell.org/en/node/1513"
+    },
+    {
+      "titulo": "Ostrom Design Principles — Ostrom Workshop, Indiana University",
+      "url": "https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/ostrom-design/index.html"
+    },
+    {
+      "titulo": "Water supply standard 1: access and water quantity — Sphere Project (Projeto Esfera)",
+      "url": "https://sphereprototype.conted.ox.ac.uk/standards/watersupply/accessAndWaterQuantity.html"
+    }
+  ]
+}

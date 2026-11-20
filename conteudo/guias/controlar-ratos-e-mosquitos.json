@@ -18,7 +18,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Nunca varra nem aspire a seco fezes, urina ou ninhos de rato: a poeira pode transmitir hantavírus, que mata quase metade dos doentes graves. Raticida é veneno para crianças e animais: use só produto registrado, em porta-isca, seguindo o rótulo. Em intoxicação, ligue para o Disque-Intoxicação 0800-722-6001.",
+  "alerta": "Nunca varra nem aspire a seco fezes, urina ou ninhos de rato: a poeira pode transmitir hantavírus, que no Brasil mata cerca de 4 em cada 10 doentes. Raticida é veneno para crianças e animais: use só produto registrado, em porta-isca, seguindo o rótulo. Em intoxicação, ligue para o Disque-Intoxicação 0800-722-6001.",
   "materiais": [
     "Potes de plástico grosso, vidro ou metal com tampa para comida e ração",
     "Lixeira sem furos e com tampa",
@@ -50,17 +50,17 @@
     },
     {
       "titulo": "Raticida só com segurança",
-      "texto": "Se as ratoeiras não resolverem, use raticida registrado (com registro na Anvisa ou no Ministério da Agricultura no rótulo), sempre dentro de porta-isca fechado e seguindo o rótulo: dose, lugar e cuidados.\n\nAnote o nome do produto e guarde a embalagem: em caso de intoxicação, o atendimento precisa saber o que foi engolido.",
+      "texto": "Se as ratoeiras não resolverem, use raticida registrado na Anvisa (o número de registro vem no rótulo), sempre dentro de porta-isca fechado e seguindo o rótulo: dose, lugar e cuidados.\n\nOs raticidas legais são anticoagulantes: matam devagar, em alguns dias, e por isso os outros ratos da colônia continuam comendo a isca. Tenha paciência e não aumente a dose por conta própria.\n\nAnote o nome do produto e guarde a embalagem: em caso de intoxicação, o atendimento precisa saber o que foi engolido.",
       "avisos": [
-        "Nunca use \"chumbinho\": é um agrotóxico proibido, muito tóxico para pessoas e animais, vendido sem rótulo nem antídoto informado, e nem funciona bem contra ratos.",
+        "Nunca use \"chumbinho\": é um produto clandestino (comprar e vender é crime), muito tóxico para pessoas e animais, sem rótulo nem antídoto informado. E não resolve: os outros ratos percebem as mortes rápidas e só mudam de lugar.",
         "Nunca coloque veneno em comida de gente ou perto de onde crianças e animais alcançam."
       ]
     },
     {
       "titulo": "Limpe fezes e ninhos de rato sem levantar poeira",
-      "texto": "1. Abra portas e janelas e saia do local por pelo menos 30 minutos antes de começar, principalmente em galpão, paiol ou casa que ficou fechada.\n2. Ponha luvas de borracha.\n3. Prepare a solução: 1 L de água sanitária 2,5% em 9 L de água.\n4. Molhe bem o chão, as paredes, as fezes, a urina e os ninhos com a solução e deixe agir. O manual do Ministério da Saúde indica até 60 minutos de contato.\n5. Recolha com pano ou papel molhado, sem varrer, e ponha em saco plástico.\n6. Lave as luvas na solução antes de tirá-las e depois lave as mãos com água e sabão.\n\nRato morto: borrife com a solução, coloque num saco, feche com nó, ponha dentro de um segundo saco também fechado e jogue no lixo com tampa.",
+      "texto": "1. Abra portas e janelas e saia do local por pelo menos 30 minutos antes de começar, principalmente em galpão, paiol ou casa que ficou fechada.\n2. Ponha luvas de borracha.\n3. Prepare a solução: 1 L de água sanitária 2,5% em 9 L de água.\n4. Molhe bem o chão, as paredes, as fezes, a urina e os ninhos com a solução e deixe agir. O manual do Ministério da Saúde indica até 60 minutos de contato.\n5. Recolha com pano ou papel molhado, sem varrer, e ponha em saco plástico.\n6. Lave as luvas na solução antes de tirá-las e depois lave as mãos com água e sabão.\n\nRato morto: molhe com a solução, recolha de luvas num saco plástico, feche bem e jogue no lixo com tampa ou enterre.",
       "avisos": [
-        "Febre, dor no corpo e falta de ar de 1 a 8 semanas depois de limpar lugar com rato podem ser hantavírus: procure atendimento e conte do contato."
+        "Febre, dor nas juntas, dor de cabeça e depois falta de ar, de 3 dias a 2 meses (em geral 1 a 5 semanas) depois de contato com lugar de rato, podem ser hantavírus: procure atendimento e conte do contato."
       ]
     },
     {
@@ -72,10 +72,9 @@
     },
     {
       "titulo": "Proteja-se das picadas",
-      "texto": "• Telas nas janelas e mosquiteiro na cama, principalmente para bebês, doentes e quem dorme de dia.\n• Roupa de manga comprida e calça quando possível.\n• Repelente registrado na Anvisa, seguindo o rótulo e a idade mínima indicada nele.",
+      "texto": "• Telas nas janelas e mosquiteiro na cama, principalmente para bebês, doentes e quem dorme de dia.\n• Roupa de manga comprida e calça quando possível.\n• Repelente registrado na Anvisa, seguindo o rótulo e a idade mínima indicada nele. Passe só na pele exposta ou por cima da roupa, nunca por baixo dela.\n\nIdade mínima: IR3535 30% a partir de 6 meses; icaridina 25% a partir de 2 anos; DEET só acima de 2 anos. Gestantes podem usar repelente.",
       "avisos": [
-        "Bebês com menos de 6 meses não devem usar repelente na pele: proteja com mosquiteiro e roupa.",
-        "Repelente com DEET não é permitido para menores de 2 anos."
+        "Para bebês com menos de 6 meses, nenhum desses repelentes é liberado: proteja com mosquiteiro e roupa."
       ]
     }
   ],
@@ -93,8 +92,8 @@
       "url": "https://www.cdc.gov/healthy-pets/rodent-control/trap-up.html"
     },
     {
-      "titulo": "How to Clean Up After Rodents — CDC",
-      "url": "https://www.cdc.gov/healthy-pets/rodent-control/clean-up.html"
+      "titulo": "Orientações sobre o uso de repelentes — Conselho Federal de Farmácia",
+      "url": "https://site.cff.org.br/noticia/noticias-do-cff/01/03/2024/orientacoes-sobre-o-uso-de-repelentes"
     },
     {
       "titulo": "Chumbinho: perguntas frequentes — Anvisa",
