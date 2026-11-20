@@ -80,20 +80,19 @@ A versão instalada aparece na aba Início.
 
 ### Configuração inicial (uma vez só)
 
-1. Crie uma conta em [expo.dev](https://expo.dev).
-2. No computador, dentro do projeto:
-   ```bash
-   npx eas-cli@latest login
-   npx eas-cli@latest init          # liga o projeto à sua conta (grava projectId e owner no app.json)
-   npx eas-cli@latest credentials -p android
-   ```
-   No `credentials`, escolha o perfil `production` e gere uma nova keystore. A Expo
-   guarda essa chave; todas as versões serão assinadas com ela, o que permite
-   atualizar o app sem desinstalar.
-3. Faça commit e push do `app.json` alterado pelo `init`.
-4. Em expo.dev, vá em **Account settings → Access tokens** e crie um token.
-5. No GitHub, em **Settings → Secrets and variables → Actions**, crie o secret
+Tudo pode ser feito pelo navegador, inclusive no celular:
+
+1. Crie uma conta em [expo.dev](https://expo.dev) e, em **Account settings → Access tokens**,
+   crie um token.
+2. No GitHub, em **Settings → Secrets and variables → Actions**, crie o secret
    `EXPO_TOKEN` com esse token.
+3. Em **Actions → Configurar EAS → Run workflow**, rode o workflow na `master`. Ele
+   liga o projeto à sua conta Expo (equivale a `eas init`) e faz commit do `app.json`
+   com o `projectId`.
+
+A chave de assinatura é gerada pela Expo no primeiro build de Release e guardada
+na sua conta; todas as versões seguintes usam a mesma chave, o que permite
+atualizar o app sem desinstalar.
 
 ### Gerar uma versão
 

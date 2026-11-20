@@ -1,0 +1,76 @@
+# Liga o projeto à conta Expo dona do EXPO_TOKEN (equivale a `eas init`) e
+# grava o app.json atualizado (extra.eas.projectId e owner) na branch atual.
+#
+# Rode uma vez: Actions → Configurar EAS → Run workflow.
+# A chave de assinatura não é criada aqui: o primeiro build de Release gera
+# uma automaticamente e a Expo a guarda para os builds seguintes.
+name: Configurar EAS
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit do app.json
+
+concurrency:
+  group: configurar-eas
+
+jobs:
+  init:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Verificar se já está configurado
+        id: estado
+        run: |
+          ID=$(jq -r '.expo.extra.eas.projectId // empty' app.json)
+          if [ -n "$ID" ]; then
+            echo "Projeto já ligado ao EAS: $ID"
+            echo "### Nada a fazer: projeto já ligado ao EAS (\`$ID\`)" >> "$GITHUB_STEP_SUMMARY"
+            echo "configurado=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v7
+        if: steps.estado.outputs.configurado != 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+        if: steps.estado.outputs.configurado != 'true'
+
+      - uses: expo/expo-github-action@v9
+        if: steps.estado.outputs.configurado != 'true'
+        with:
+          eas-version: latest
+          packager: npm
+          token: ${{ secrets.EXPO_TOKEN }}
+
+      - name: eas init
+        if: steps.estado.outputs.configurado != 'true'
+        run: |
+          eas whoami
+          eas init --non-interactive --force
+          git diff -- app.json
+
+      - name: Gravar o app.json
+        if: steps.estado.outputs.configurado != 'true'
+        run: |
+          if git diff --quiet -- app.json; then
+            echo "::error::O eas init não alterou o app.json."
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app.json
+          git commit -m "Liga o projeto ao EAS (eas init)"
+          git push
+          ID=$(jq -r '.expo.extra.eas.projectId' app.json)
+          OWNER=$(jq -r '.expo.owner // "-"' app.json)
+          {
+            echo "### Projeto ligado ao EAS"
+            echo "- projectId: \`$ID\`"
+            echo "- owner: \`$OWNER\`"
+          } >> "$GITHUB_STEP_SUMMARY"
