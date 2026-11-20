@@ -2,12 +2,14 @@ import { Link } from 'expo-router';
 import { Pressable, StyleSheet, Text } from 'react-native';
 
 import type { ResultadoBusca } from '@/busca/motor';
-import { cores } from '@/tema';
+import { useEstilos, useTema, type Cores } from '@/tema';
 
 import { useMetaGuia } from './CartaoGuia';
 import { TextoDestacado } from './TextoDestacado';
 
 export function CartaoResultado({ resultado }: { resultado: ResultadoBusca }) {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   const { guia, titulo, trecho, termos } = resultado;
   const meta = useMetaGuia();
   const params: { id: string; passo?: string; termos?: string } = { id: guia.id };
@@ -26,7 +28,8 @@ export function CartaoResultado({ resultado }: { resultado: ResultadoBusca }) {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   cartao: { backgroundColor: cores.superficie, borderRadius: 12, padding: 16, gap: 6, overflow: 'hidden' },
   titulo: { fontSize: 17, fontWeight: '700', color: cores.texto },
   rotulo: { fontSize: 13, fontWeight: '600', color: cores.dicaTexto },

@@ -6,7 +6,7 @@
     "scheme": "wikihow",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "platforms": [
       "android"
     ],

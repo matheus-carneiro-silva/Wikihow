@@ -3,7 +3,7 @@ import { Image, StyleSheet, View } from 'react-native';
 
 import type { Parte } from '@/busca/motor';
 import { useConteudo, type ImagemPasso as Dados } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, type Cores } from '@/tema';
 
 import { TextoDestacado } from './TextoDestacado';
 
@@ -14,6 +14,7 @@ type Props = {
 };
 
 export function ImagemPasso({ imagem, destacar }: Props) {
+  const styles = useEstilos(criarEstilos);
   const { obterImagem } = useConteudo();
   const fonte = obterImagem(imagem.arquivo);
   // Proporção real da imagem, para ocupar a largura sem cortar nem distorcer.
@@ -44,7 +45,8 @@ export function ImagemPasso({ imagem, destacar }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   container: { gap: 6 },
   imagem: { width: '100%', borderRadius: 10, backgroundColor: cores.superficie },
   legenda: { fontSize: 13, color: cores.textoSecundario, textAlign: 'center', lineHeight: 18 },

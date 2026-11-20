@@ -67,19 +67,23 @@ src/
 │   ├── (tabs)/             # grupo de abas (não aparece na URL)
 │   │   ├── _layout.tsx     # abas nativas (Material 3 no Android)
 │   │   ├── index.tsx       # aba Início: todos os guias, mais recentes primeiro
-│   │   └── explorar.tsx    # aba Explorar: busca com trechos destacados e filtro por categoria
+│   │   ├── explorar.tsx    # aba Explorar: busca com trechos destacados e filtro por categoria
+│   │   └── ajustes.tsx     # aba Ajustes: tema (sistema, claro, escuro) e informações do app
 │   ├── guia/[id].tsx       # rota /guia/<id>: o guia com seus passos (rola até ?passo=N)
 │   └── +not-found.tsx      # rota inexistente
 ├── busca/motor.ts          # motor de busca (MiniSearch + stemming em português)
 ├── conteudo/               # tipos, validação, conteúdo embutido e sincronização com o GitHub
 ├── components/             # componentes reutilizáveis
-└── tema.ts                 # cores
+└── tema.tsx                # paletas clara e escura, preferência de tema e useEstilos
 ```
 
 - **Conteúdo**: `src/conteudo/index.ts` carrega todos os arquivos de `conteudo/guias/` com `require.context`, então basta criar o arquivo — não há lista para manter.
 - **Busca**: detalhes de como funciona e de como escrever conteúdo que a busca encontra bem em [`conteudo/README.md`](conteudo/README.md#como-a-busca-usa-o-conteúdo). Testes em `testes/`.
 - **Abas**: usam `NativeTabs` de `expo-router/native-tabs`, que renderiza a barra de navegação nativa do Android. Ícones são [Material Symbols](https://fonts.google.com/icons) passados no `md`. Para adicionar uma aba, crie o arquivo em `src/app/(tabs)/` e um `NativeTabs.Trigger` com o mesmo `name` (máximo de 5 abas).
 - **Navegação**: `<Link href={{ pathname: '/guia/[id]', params: { id } }}>` ou `router.push(...)`. Rotas tipadas estão ativas (`experiments.typedRoutes`); os tipos são gerados em `.expo/types` ao rodar `npm start`.
+- **Tema**: o padrão segue o tema do Android; a escolha em Ajustes fica salva no aparelho. Componentes
+  pegam as cores com `useTema()` e criam estilos com `useEstilos(criarEstilos)`, em que
+  `criarEstilos = (cores: Cores) => StyleSheet.create({...})` fica fora do componente.
 - Imports com o alias `@/` apontam para `src/`.
 - Deep links usam o scheme `wikihow://` (ex.: `adb shell am start -a android.intent.action.VIEW -d "wikihow://guia/fazer-cafe-coado"`).
 

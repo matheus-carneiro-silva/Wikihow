@@ -2,7 +2,7 @@ import type { ReactElement } from 'react';
 import { FlatList, RefreshControl, StyleSheet, Text } from 'react-native';
 
 import type { Guia } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, useTema, type Cores } from '@/tema';
 
 import { CartaoGuia } from './CartaoGuia';
 
@@ -16,6 +16,8 @@ type Props = {
 };
 
 export function ListaGuias({ guias, cabecalho, vazio = 'Nenhum guia encontrado.', aoAtualizar, atualizando = false }: Props) {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   return (
     <FlatList
       data={guias}
@@ -35,7 +37,8 @@ export function ListaGuias({ guias, cabecalho, vazio = 'Nenhum guia encontrado.'
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   conteudo: { padding: 16, gap: 12 },
   vazio: { textAlign: 'center', color: cores.textoSecundario, marginTop: 32, fontSize: 15 },
 });

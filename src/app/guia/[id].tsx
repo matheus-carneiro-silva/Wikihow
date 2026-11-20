@@ -9,7 +9,7 @@ import { ImagemPasso } from '@/components/ImagemPasso';
 import { Screen } from '@/components/Screen';
 import { TextoDestacado } from '@/components/TextoDestacado';
 import { useConteudo, type Passo } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, useTema, type Cores } from '@/tema';
 
 type Params = {
   id: string;
@@ -20,6 +20,7 @@ type Params = {
 };
 
 export default function TelaGuia() {
+  const styles = useEstilos(criarEstilos);
   const { id, passo, termos } = useLocalSearchParams<Params>();
   const { obterGuia } = useConteudo();
   const meta = useMetaGuia();
@@ -86,6 +87,7 @@ export default function TelaGuia() {
 type Destacador = (texto: string) => ReturnType<typeof destacar>;
 
 function BlocoPasso({ numero, passo, destacado, d }: { numero: number; passo: Passo; destacado: boolean; d: Destacador }) {
+  const styles = useEstilos(criarEstilos);
   return (
     <View style={[styles.passo, destacado && styles.passoDestacado]}>
       <View style={styles.passoTopo}>
@@ -109,6 +111,8 @@ function BlocoPasso({ numero, passo, destacado, d }: { numero: number; passo: Pa
 }
 
 function Caixa({ tipo, texto, d }: { tipo: 'dica' | 'aviso'; texto: string; d: Destacador }) {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   const dica = tipo === 'dica';
   return (
     <View style={[styles.caixa, { backgroundColor: dica ? cores.dicaFundo : cores.avisoFundo }]}>
@@ -125,7 +129,8 @@ function formatarData(iso: string) {
   return `${dia}/${mes}/${ano}`;
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   tela: { flex: 1, backgroundColor: cores.fundo },
   conteudo: { padding: 20, gap: 16 },
   titulo: { fontSize: 26, fontWeight: '700', color: cores.texto },
@@ -153,7 +158,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  numeroTexto: { color: '#fff', fontWeight: '700', fontSize: 15 },
+  numeroTexto: { color: cores.sobrePrimaria, fontWeight: '700', fontSize: 15 },
   passoTitulo: { flex: 1, fontSize: 18, fontWeight: '700', color: cores.texto },
   paragrafo: { fontSize: 16, color: cores.texto, lineHeight: 24 },
   caixa: { borderRadius: 10, padding: 12 },

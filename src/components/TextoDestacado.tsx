@@ -1,12 +1,13 @@
 import { StyleSheet, Text, type TextProps } from 'react-native';
 
 import type { Parte } from '@/busca/motor';
-import { cores } from '@/tema';
+import { useEstilos, type Cores } from '@/tema';
 
 type Props = TextProps & { partes: Parte[] };
 
 /** Texto com as palavras encontradas pela busca marcadas. */
 export function TextoDestacado({ partes, ...props }: Props) {
+  const styles = useEstilos(criarEstilos);
   return (
     <Text {...props}>
       {partes.map((p, i) =>
@@ -22,6 +23,7 @@ export function TextoDestacado({ partes, ...props }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   destaque: { backgroundColor: cores.destaque, color: cores.texto, fontWeight: '700' },
 });

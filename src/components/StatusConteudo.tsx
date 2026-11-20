@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { useConteudo } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, type Cores } from '@/tema';
 
 const dataHora = (d: Date) =>
   `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')} às ` +
@@ -10,6 +10,7 @@ const dataHora = (d: Date) =>
 
 /** Origem do conteúdo e estado da sincronização com o GitHub. */
 export function StatusConteudo() {
+  const styles = useEstilos(criarEstilos);
   const { origem, sincronizacao, sincronizar } = useConteudo();
   const [mostrarErros, setMostrarErros] = useState(false);
 
@@ -62,7 +63,8 @@ export function StatusConteudo() {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   container: { gap: 8 },
   linha: { fontSize: 13, color: cores.textoSecundario },
   erro: { backgroundColor: cores.avisoFundo, borderRadius: 10, padding: 12, gap: 6 },

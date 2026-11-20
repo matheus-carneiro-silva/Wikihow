@@ -5,9 +5,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { ListaGuias } from '@/components/ListaGuias';
 import { StatusConteudo } from '@/components/StatusConteudo';
 import { useConteudo } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, type Cores } from '@/tema';
 
 export default function Inicio() {
+  const styles = useEstilos(criarEstilos);
   const { guias, sincronizacao, sincronizar } = useConteudo();
   return (
     <SafeAreaView edges={['top']} style={styles.tela}>
@@ -31,7 +32,8 @@ export default function Inicio() {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   tela: { flex: 1, backgroundColor: cores.fundo },
   cabecalho: { gap: 4, marginBottom: 4 },
   titulo: { fontSize: 28, fontWeight: '700', color: cores.texto },

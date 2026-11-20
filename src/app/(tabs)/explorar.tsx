@@ -4,9 +4,11 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { CartaoResultado } from '@/components/CartaoResultado';
 import { useConteudo } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, useTema, type Cores } from '@/tema';
 
 export default function Explorar() {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   const { categorias, motor } = useConteudo();
   const [termo, setTermo] = useState('');
   const [categoria, setCategoria] = useState<string>();
@@ -86,6 +88,8 @@ export default function Explorar() {
 }
 
 function Chip({ rotulo, ativo, onPress }: { rotulo: string; ativo: boolean; onPress: () => void }) {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   return (
     <Pressable
       onPress={onPress}
@@ -99,7 +103,8 @@ function Chip({ rotulo, ativo, onPress }: { rotulo: string; ativo: boolean; onPr
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   tela: { flex: 1, backgroundColor: cores.fundo },
   topo: { paddingHorizontal: 16, paddingTop: 16, gap: 12 },
   titulo: { fontSize: 28, fontWeight: '700', color: cores.texto },

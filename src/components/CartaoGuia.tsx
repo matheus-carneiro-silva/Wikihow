@@ -2,7 +2,7 @@ import { Link } from 'expo-router';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { NOMES_DIFICULDADE, useConteudo, type Guia } from '@/conteudo';
-import { cores } from '@/tema';
+import { useEstilos, useTema, type Cores } from '@/tema';
 
 /** Linha de metadados: "Categoria · 10 min · Fácil · 5 passos". */
 export function useMetaGuia() {
@@ -22,6 +22,8 @@ function metaGuia(guia: Guia, nomeCategoria: string | undefined): string {
 }
 
 export function CartaoGuia({ guia }: { guia: Guia }) {
+  const { cores } = useTema();
+  const styles = useEstilos(criarEstilos);
   const meta = useMetaGuia();
   return (
     <Link href={{ pathname: '/guia/[id]', params: { id: guia.id } }} asChild>
@@ -38,7 +40,8 @@ export function CartaoGuia({ guia }: { guia: Guia }) {
   );
 }
 
-const styles = StyleSheet.create({
+const criarEstilos = (cores: Cores) =>
+  StyleSheet.create({
   cartao: {
     backgroundColor: cores.superficie,
     borderRadius: 12,
