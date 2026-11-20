@@ -29,6 +29,25 @@ npm run android    # inicia e abre direto no emulador/dispositivo conectado
 | `npm run build:apk` | Build de APK na nuvem (perfil `preview`, para testes internos) |
 | `npm run build:aab` | Build de AAB na nuvem (perfil `production`, para a Play Store) |
 
+## Navegação (Expo Router)
+
+As rotas ficam em `src/app/` — cada arquivo é uma tela:
+
+```
+src/
+├── app/
+│   ├── _layout.tsx     # navegador raiz (Stack)
+│   ├── index.tsx       # rota /
+│   ├── sobre.tsx       # rota /sobre
+│   └── +not-found.tsx  # rota inexistente
+└── components/         # código que não é rota (componentes, hooks, utils)
+```
+
+- Navegue com `<Link href="/sobre">` ou `router.push('/sobre')` (importados de `expo-router`).
+- Rotas tipadas estão ativas (`experiments.typedRoutes`): um `href` inválido gera erro de TypeScript. Os tipos são gerados em `.expo/types` ao rodar `npm start`.
+- Imports com o alias `@/` apontam para `src/` (ex.: `import { Screen } from '@/components/Screen'`).
+- Deep links usam o scheme `wikihow://` (ex.: `adb shell am start -a android.intent.action.VIEW -d "wikihow://sobre"`).
+
 ## Configuração Android
 
 - `app.json`: `platforms: ["android"]`, pacote `com.wikihow.app`, ícone adaptativo e splash screen.
