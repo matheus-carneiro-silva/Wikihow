@@ -18,7 +18,7 @@ import { stemmer } from '@orama/stemmers/portuguese';
 import { stopwords } from '@orama/stopwords/portuguese';
 import MiniSearch, { type Query, type SearchOptions, type SearchResult } from 'minisearch';
 
-import type { Categoria, Guia } from '../conteudo/tipos';
+import type { Categoria, Guia, Passo } from '../conteudo/tipos';
 
 // ---------------------------------------------------------------------------
 // Texto
@@ -210,6 +210,13 @@ const PESOS_GUIA = {
 const CORTE = 0.08;
 const CORTE_PARCIAL = 0.15;
 
+/** Textos secundários de um passo: dicas, avisos e a descrição/legenda da imagem. */
+const extrasPasso = (p: Passo) => [
+  ...(p.dicas ?? []),
+  ...(p.avisos ?? []),
+  ...(p.imagem ? [p.imagem.descricao, p.imagem.legenda ?? ''] : []),
+];
+
 const indexar = (texto: string) => tokenizar(texto).flatMap((t) => formas(t.palavra));
 
 export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinonimos: string[][] = []) {
@@ -236,7 +243,7 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
       resumo: g.resumo,
       materiais: (g.materiais ?? []).join(' '),
       passosTitulos: g.passos.map((p) => p.titulo).join(' '),
-      passosTexto: g.passos.map((p) => [p.texto, ...(p.dicas ?? []), ...(p.avisos ?? [])].join(' ')).join(' '),
+      passosTexto: g.passos.map((p) => [p.texto, ...extrasPasso(p)].join(' ')).join(' '),
     })),
   );
 
@@ -253,7 +260,7 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
         indice: i,
         titulo: p.titulo,
         texto: p.texto,
-        extras: [...(p.dicas ?? []), ...(p.avisos ?? [])].join(' '),
+        extras: extrasPasso(p).join(' '),
       })),
     ),
   );
@@ -377,7 +384,7 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
       if (melhor && (melhor.terms.some((t) => !visivel(t)) || !resumo.some((p) => p.destaque))) {
         const passo = guia.passos[melhor.indice as number];
         // Trecho em uma linha só: parágrafos viram espaços.
-        const corpo = [passo.texto, ...(passo.dicas ?? []), ...(passo.avisos ?? [])].join(' ').replace(/\s+/g, ' ');
+        const corpo = [passo.texto, ...extrasPasso(passo)].join(' ').replace(/\s+/g, ' ');
         const partesCorpo = destacar(corpo, termos);
         trecho = {
           passo: melhor.indice as number,

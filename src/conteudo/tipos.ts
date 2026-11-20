@@ -13,10 +13,21 @@ export type Categoria = {
   descricao?: string;
 };
 
+export type ImagemPasso = {
+  /** Caminho dentro de conteudo/imagens/ (ex.: "trocar-pneu-furado/aperto-em-cruz.png"). */
+  arquivo: string;
+  /** O que a imagem mostra: lido por leitores de tela e usado pela busca. */
+  descricao: string;
+  /** Texto curto exibido embaixo da imagem. */
+  legenda?: string;
+};
+
 export type Passo = {
   titulo: string;
   /** Parágrafos separados por linha em branco ("\n\n"). */
   texto: string;
+  /** Imagem exibida entre o título e o texto do passo. */
+  imagem?: ImagemPasso;
   dicas?: string[];
   avisos?: string[];
 };

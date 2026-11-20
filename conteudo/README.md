@@ -8,6 +8,8 @@ no build, então o app funciona sem internet. Os tipos ficam em
 conteudo/
 ├── categorias.json      # lista de categorias
 ├── sinonimos.json       # grupos de palavras equivalentes para a busca
+├── imagens/
+│   └── <id-do-guia>/    # imagens dos passos de cada guia (.png, .jpg, .webp)
 └── guias/
     └── <id>.json        # um arquivo por guia
 ```
@@ -51,6 +53,11 @@ na tela. Em um build de produção, só o guia inválido é ignorado.
   "passos": [
     {
       "titulo": "Aqueça a água",
+      "imagem": {
+        "arquivo": "fazer-cafe-coado/temperatura.png",
+        "descricao": "Chaleira com termômetro marcando 94 °C.",
+        "legenda": "Entre 90 °C e 96 °C."
+      },
       "texto": "Primeiro parágrafo.\n\nSegundo parágrafo.",
       "dicas": ["Dica opcional."],
       "avisos": ["Aviso opcional."]
@@ -73,10 +80,25 @@ na tela. Em um build de produção, só o guia inválido é ignorado.
 | `passos` | sim | ao menos um passo |
 | `passos[].titulo` | sim | título do passo |
 | `passos[].texto` | sim | parágrafos separados por linha em branco (`\n\n`) |
+| `passos[].imagem` | não | imagem exibida entre o título e o texto do passo (ver abaixo) |
+| `passos[].imagem.arquivo` | sim | caminho dentro de `imagens/`, na pasta do guia: `<id-do-guia>/<nome>.png` |
+| `passos[].imagem.descricao` | sim | o que a imagem mostra; lida por leitores de tela e usada pela busca |
+| `passos[].imagem.legenda` | não | texto curto exibido embaixo da imagem |
 | `passos[].dicas` | não | caixas azuis "Dica" |
 | `passos[].avisos` | não | caixas laranja "Atenção" |
 
 Campos fora dessa lista são recusados pela validação, para pegar erros de digitação.
+
+## Imagens
+
+- Ficam em `imagens/<id-do-guia>/` e entram no app no build, como o resto do conteúdo.
+- Formatos: `.png` (ilustrações e diagramas), `.jpg` ou `.webp` (fotos).
+- Tamanho recomendado: 1200 px de largura, proporção 16:10, até ~150 KB. A imagem
+  ocupa a largura da tela mantendo a proporção.
+- A validação recusa imagem inexistente e os testes recusam imagem sem uso ou fora
+  da pasta do guia.
+- As ilustrações atuais foram desenhadas em SVG; as fontes ficam em
+  `design/ilustracoes/`.
 
 ## sinonimos.json
 
@@ -98,7 +120,7 @@ O motor fica em `src/busca/motor.ts` e roda todo no aparelho.
 
 - **Onde procura**, do maior para o menor peso: `titulo` (5), `tags` (3),
   nome da categoria e `resumo` (2), `materiais` e títulos dos passos (1,5),
-  texto, dicas e avisos dos passos (1).
+  texto, dicas, avisos e descrição/legenda das imagens dos passos (1).
 - **Ranking BM25**: palavras raras pesam mais que palavras comuns a muitos guias.
 - **Ignora** maiúsculas, acentos e palavras vazias ("como", "de", "para"…).
   "sem" e "não" continuam valendo.

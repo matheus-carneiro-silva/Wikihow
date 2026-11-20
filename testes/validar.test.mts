@@ -6,6 +6,7 @@ import type { Categoria } from '../src/conteudo/tipos.ts';
 import { validarCategorias, validarGuia, validarSinonimos } from '../src/conteudo/validar.ts';
 
 const categorias: Categoria[] = [{ id: 'casa', nome: 'Casa' }];
+const imagens = new Set(['limpar-forno/pasta.png']);
 const ARQUIVO = 'guias/limpar-forno.json';
 
 const guiaValido = (): Record<string, unknown> => ({
@@ -18,15 +19,24 @@ const guiaValido = (): Record<string, unknown> => ({
   tempoMinutos: 30,
   atualizadoEm: '2026-11-20',
   materiais: ['Bicarbonato'],
-  passos: [{ titulo: 'Aplique a pasta', texto: 'Espalhe.', dicas: ['Use luvas.'], avisos: ['Forno frio.'] }],
+  passos: [
+    {
+      titulo: 'Aplique a pasta',
+      imagem: { arquivo: 'limpar-forno/pasta.png', descricao: 'Pasta branca espalhada no fundo do forno.', legenda: 'Camada fina.' },
+      texto: 'Espalhe.',
+      dicas: ['Use luvas.'],
+      avisos: ['Forno frio.'],
+    },
+  ],
 });
 
 /** Valida o guia com `alterar` aplicado e devolve os erros. */
 const errosCom = (alterar: (g: Record<string, unknown>) => void) => {
   const g = guiaValido();
   alterar(g);
-  return validarGuia(g, ARQUIVO, categorias);
+  return validarGuia(g, ARQUIVO, categorias, imagens);
 };
+const passo0 = (g: Record<string, unknown>) => (g.passos as Record<string, unknown>[])[0];
 
 /** Afirma que há exatamente um erro e que ele contém `trecho`. */
 const umErro = (erros: string[], trecho: string) => {
@@ -36,13 +46,13 @@ const umErro = (erros: string[], trecho: string) => {
 
 describe('validarGuia', () => {
   it('aceita um guia completo', () => {
-    assert.deepEqual(validarGuia(guiaValido(), ARQUIVO, categorias), []);
+    assert.deepEqual(validarGuia(guiaValido(), ARQUIVO, categorias, imagens), []);
   });
 
   it('aceita um guia só com os campos obrigatórios', () => {
     const { id, titulo, resumo, categoria, atualizadoEm } = guiaValido();
     const minimo = { id, titulo, resumo, categoria, atualizadoEm, passos: [{ titulo: 'a', texto: 'b' }] };
-    assert.deepEqual(validarGuia(minimo, ARQUIVO, categorias), []);
+    assert.deepEqual(validarGuia(minimo, ARQUIVO, categorias, imagens), []);
   });
 
   it('aceita $schema', () => {
@@ -67,7 +77,7 @@ describe('validarGuia', () => {
 
   it('exige nome de arquivo em kebab-case', () => {
     const g = { ...guiaValido(), id: 'Limpar_Forno' };
-    umErro(validarGuia(g, 'guias/Limpar_Forno.json', categorias), 'kebab-case');
+    umErro(validarGuia(g, 'guias/Limpar_Forno.json', categorias, imagens), 'kebab-case');
   });
 
   it('exige categoria existente', () => {
@@ -110,6 +120,25 @@ describe('validarGuia', () => {
     umErro(errosCom((g) => (g.passos = [{ texto: 'a' }])), 'passos[0].titulo');
     umErro(errosCom((g) => (g.passos = [{ titulo: 'a', texto: 'b', dicas: 'x' }])), 'passos[0].dicas');
     umErro(errosCom((g) => (g.passos = [{ titulo: 'a', texto: 'b', avisos: [''] }])), 'passos[0].avisos');
+  });
+
+  it('aceita imagem sem legenda', () => {
+    assert.deepEqual(errosCom((g) => delete (passo0(g).imagem as Record<string, unknown>).legenda), []);
+  });
+
+  it('valida a imagem do passo', () => {
+    const img = (g: Record<string, unknown>) => passo0(g).imagem as Record<string, unknown>;
+    umErro(errosCom((g) => (passo0(g).imagem = 'limpar-forno/pasta.png')), 'imagem: deve ser um objeto');
+    umErro(errosCom((g) => delete img(g).arquivo), 'imagem.arquivo: obrigatório');
+    umErro(errosCom((g) => (img(g).arquivo = 'limpar-forno/outra.png')), '"limpar-forno/outra.png" não existe');
+    umErro(errosCom((g) => (img(g).arquivo = 'limpar-forno/pasta.gif')), 'use .png, .jpg ou .webp');
+    umErro(errosCom((g) => delete img(g).descricao), 'imagem.descricao: obrigatória');
+    umErro(errosCom((g) => (img(g).legenda = '')), 'imagem.legenda');
+    umErro(errosCom((g) => (img(g).alt = 'x')), 'imagem: campo desconhecido "alt"');
+  });
+
+  it('sem a lista de imagens, qualquer imagem é recusada', () => {
+    assert.match(validarGuia(guiaValido(), ARQUIVO, categorias).join(), /não existe em conteudo\/imagens/);
   });
 
   it('acumula vários erros de uma vez', () => {

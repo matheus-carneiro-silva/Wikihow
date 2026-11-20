@@ -10,6 +10,11 @@
   "passos": [
     {
       "titulo": "Descubra a pressão correta",
+      "imagem": {
+        "arquivo": "calibrar-pneus/onde-ver-a-pressao.png",
+        "descricao": "Carro visto de lado indicando a etiqueta de pressão dos pneus na coluna da porta do motorista e a tampa do tanque, onde alguns modelos trazem a mesma informação.",
+        "legenda": "A pressão recomendada fica na coluna da porta, na tampa do tanque ou no manual."
+      },
       "texto": "A pressão recomendada está no manual do carro e, em muitos modelos, numa etiqueta na coluna da porta do motorista ou na tampa do tanque. Ela vem em psi (libras) e costuma ter um valor para o carro vazio e outro para carregado.",
       "avisos": ["Não use o número gravado na lateral do pneu: aquela é a pressão máxima suportada, não a recomendada."]
     },

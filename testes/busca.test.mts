@@ -27,6 +27,11 @@ const guias: Guia[] = [
   guia('trocar-pneu', 'carro', 'Como trocar o pneu do carro', 'Troca do pneu furado pelo estepe.', [
     { titulo: 'Afrouxe os parafusos', texto: 'Com a chave de roda, afrouxe os parafusos antes de levantar o carro.' },
     { titulo: 'Levante o carro', texto: 'Posicione o macaco no ponto indicado no manual.', avisos: ['Nunca fique embaixo do veículo.'] },
+    {
+      titulo: 'Aperte',
+      texto: 'Aperte bem.',
+      imagem: { arquivo: 'trocar-pneu/ordem.png', descricao: 'Parafusos numerados em estrela.', legenda: 'Ordem de aperto.' },
+    },
   ]),
   guia('desentupir-pia', 'casa', 'Como desentupir a pia da cozinha', 'Métodos caseiros para entupimentos leves.', [
     { titulo: 'Use água fervente', texto: 'Despeje água fervente no ralo.' },
@@ -126,6 +131,13 @@ describe('busca', () => {
     assert.equal(r.guia.id, 'trocar-pneu');
     assert.equal(r.trecho.passo, 1);
     assert.ok(r.trecho.partes.some((p) => p.destaque && p.texto === 'macaco'));
+  });
+  it('encontra pela descrição e pela legenda da imagem', () => {
+    const [r] = motor.buscar('estrela').resultados;
+    assert.equal(r.guia.id, 'trocar-pneu');
+    assert.equal(r.trecho.passo, 2);
+    assert.ok(r.trecho.partes.some((p) => p.destaque && p.texto === 'estrela'));
+    assert.equal(primeiro('ordem de aperto'), 'trocar-pneu');
   });
   it('encontra texto de avisos', () => {
     assert.equal(primeiro('embaixo'), 'trocar-pneu');

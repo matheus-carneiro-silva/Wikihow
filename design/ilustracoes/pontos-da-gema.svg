@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="Inter, sans-serif">
+  <rect width="800" height="500" fill="#f4f6f9"/>
+  <text x="400" y="52" text-anchor="middle" font-size="26" font-weight="700" fill="#1b1f24">Tempo contado a partir da água fervendo</text>
+  <!-- mole -->
+  <g>
+    <ellipse cx="150" cy="240" rx="88" ry="115" fill="#fff" stroke="#dadce0" stroke-width="3"/>
+    <path d="M104 222 Q100 182 140 178 Q188 174 196 212 Q202 238 190 258 Q198 278 178 286 Q160 296 146 280 Q120 292 108 268 Q96 248 104 222 Z" fill="#f9ab00"/>
+    <ellipse cx="136" cy="204" rx="14" ry="9" fill="#fde293"/>
+    <text x="150" y="405" text-anchor="middle" font-size="34" font-weight="800" fill="#1a73e8">6 min</text>
+    <text x="150" y="440" text-anchor="middle" font-size="22" font-weight="600" fill="#5c6670">gema mole</text>
+  </g>
+  <!-- cremosa -->
+  <g>
+    <ellipse cx="400" cy="240" rx="88" ry="115" fill="#fff" stroke="#dadce0" stroke-width="3"/>
+    <circle cx="400" cy="230" r="46" fill="#fbbc04"/>
+    <circle cx="400" cy="230" r="30" fill="#f29900"/>
+    <ellipse cx="389" cy="219" rx="10" ry="6" fill="#fdd663"/>
+    <text x="400" y="405" text-anchor="middle" font-size="34" font-weight="800" fill="#1a73e8">8 min</text>
+    <text x="400" y="440" text-anchor="middle" font-size="22" font-weight="600" fill="#5c6670">gema cremosa</text>
+  </g>
+  <!-- dura -->
+  <g>
+    <ellipse cx="650" cy="240" rx="88" ry="115" fill="#fff" stroke="#dadce0" stroke-width="3"/>
+    <circle cx="650" cy="230" r="46" fill="#fdd663"/>
+    <circle cx="650" cy="230" r="46" fill="none" stroke="#f6c343" stroke-width="3"/>
+    <text x="650" y="405" text-anchor="middle" font-size="34" font-weight="800" fill="#1a73e8">10–12 min</text>
+    <text x="650" y="440" text-anchor="middle" font-size="22" font-weight="600" fill="#5c6670">gema dura</text>
+  </g>
+</svg>

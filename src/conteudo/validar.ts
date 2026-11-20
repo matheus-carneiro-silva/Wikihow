@@ -7,6 +7,8 @@ import type { Categoria, Guia } from './tipos';
 const ID = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const DATA = /^\d{4}-\d{2}-\d{2}$/;
 const DIFICULDADES = ['facil', 'media', 'dificil'];
+/** Formatos de imagem que o app embute (assets do Metro). */
+export const EXTENSOES_IMAGEM = /\.(png|jpe?g|webp)$/i;
 
 const ehObjeto = (v: unknown): v is Record<string, unknown> =>
   typeof v === 'object' && v !== null && !Array.isArray(v);
@@ -49,7 +51,15 @@ export function validarSinonimos(dados: unknown): string[] {
   return erros;
 }
 
-export function validarGuia(dados: unknown, arquivo: string, categorias: Categoria[]): string[] {
+/**
+ * @param imagens caminhos disponíveis em conteudo/imagens/ (ex.: "guia/foto.png")
+ */
+export function validarGuia(
+  dados: unknown,
+  arquivo: string,
+  categorias: Categoria[],
+  imagens: ReadonlySet<string> = new Set(),
+): string[] {
   const erros: string[] = [];
   if (!ehObjeto(dados)) return [`${arquivo}: deve ser um objeto`];
   const g = dados as Partial<Record<keyof Guia, unknown>> & Record<string, unknown>;
@@ -83,12 +93,23 @@ export function validarGuia(dados: unknown, arquivo: string, categorias: Categor
     g.passos.forEach((p, i) => {
       const local = `${arquivo}.passos[${i}]`;
       if (!ehObjeto(p)) return void erros.push(`${local}: deve ser um objeto`);
-      verificarChaves(p, ['titulo', 'texto', 'dicas', 'avisos'], local, erros);
+      verificarChaves(p, ['titulo', 'texto', 'imagem', 'dicas', 'avisos'], local, erros);
       if (!ehTexto(p.titulo)) erros.push(`${local}.titulo: obrigatório`);
       if (!ehTexto(p.texto)) erros.push(`${local}.texto: obrigatório`);
       if (p.dicas !== undefined && !ehListaDeTextos(p.dicas)) erros.push(`${local}.dicas: lista de textos`);
       if (p.avisos !== undefined && !ehListaDeTextos(p.avisos)) erros.push(`${local}.avisos: lista de textos`);
+      if (p.imagem !== undefined) validarImagem(p.imagem, `${local}.imagem`, imagens, erros);
     });
   }
   return erros;
+}
+
+function validarImagem(img: unknown, local: string, imagens: ReadonlySet<string>, erros: string[]) {
+  if (!ehObjeto(img)) return void erros.push(`${local}: deve ser um objeto { arquivo, descricao, legenda? }`);
+  verificarChaves(img, ['arquivo', 'descricao', 'legenda'], local, erros);
+  if (!ehTexto(img.arquivo)) erros.push(`${local}.arquivo: obrigatório`);
+  else if (!EXTENSOES_IMAGEM.test(img.arquivo)) erros.push(`${local}.arquivo: use .png, .jpg ou .webp`);
+  else if (!imagens.has(img.arquivo)) erros.push(`${local}.arquivo: "${img.arquivo}" não existe em conteudo/imagens/`);
+  if (!ehTexto(img.descricao)) erros.push(`${local}.descricao: obrigatória (descreve a imagem para acessibilidade e busca)`);
+  if (img.legenda !== undefined && !ehTexto(img.legenda)) erros.push(`${local}.legenda: deve ser texto`);
 }

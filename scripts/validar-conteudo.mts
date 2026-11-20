@@ -1,10 +1,10 @@
 // Valida conteudo/ fora do app. Uso: npm run conteudo:validar (Node 22.18+).
 import { lerConteudo } from './ler-conteudo.mts';
 
-const { erros, categorias, totalArquivos } = lerConteudo();
+const { erros, categorias, totalArquivos, imagens } = lerConteudo();
 
 if (erros.length) {
   console.error(`✖ ${erros.length} problema(s):\n- ${erros.join('\n- ')}`);
   process.exit(1);
 }
-console.log(`✔ ${categorias.length} categoria(s) e ${totalArquivos} guia(s) válidos.`);
+console.log(`✔ ${categorias.length} categoria(s), ${totalArquivos} guia(s) e ${imagens.length} imagem(ns) válidos.`);

@@ -5,6 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { destacar } from '@/busca/motor';
 import { metaGuia } from '@/components/CartaoGuia';
+import { ImagemPasso } from '@/components/ImagemPasso';
 import { Screen } from '@/components/Screen';
 import { TextoDestacado } from '@/components/TextoDestacado';
 import { obterGuia, type Passo } from '@/conteudo';
@@ -91,6 +92,7 @@ function BlocoPasso({ numero, passo, destacado, d }: { numero: number; passo: Pa
         </View>
         <TextoDestacado partes={d(passo.titulo)} style={styles.passoTitulo} />
       </View>
+      {passo.imagem ? <ImagemPasso imagem={passo.imagem} destacar={d} /> : null}
       {passo.texto.split(/\n\s*\n/).map((p, i) => (
         <TextoDestacado key={i} partes={d(p.trim())} style={styles.paragrafo} />
       ))}

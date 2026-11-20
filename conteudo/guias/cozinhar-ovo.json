@@ -20,6 +20,11 @@
     },
     {
       "titulo": "Conte o tempo do ponto",
+      "imagem": {
+        "arquivo": "cozinhar-ovo/pontos-da-gema.png",
+        "descricao": "Três ovos cortados ao meio: com 6 minutos a gema está mole e escorrendo, com 8 minutos cremosa no centro e com 10 a 12 minutos dura e amarelo-clara.",
+        "legenda": "6 min: mole · 8 min: cremosa · 10 a 12 min: dura."
+      },
       "texto": "Marque o tempo a partir do momento em que os ovos entram na água:\n\n6 minutos para gema mole, 8 minutos para gema cremosa e 10 a 12 minutos para gema dura.",
       "avisos": ["Passar muito do tempo deixa a gema com um anel esverdeado e cheiro forte."]
     },

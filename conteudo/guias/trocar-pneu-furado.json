@@ -30,6 +30,11 @@
     },
     {
       "titulo": "Abaixe e aperte em cruz",
+      "imagem": {
+        "arquivo": "trocar-pneu-furado/aperto-em-cruz.png",
+        "descricao": "Duas rodas vistas de frente com os parafusos numerados na ordem de aperto: na de 4 parafusos, cima, baixo, direita e esquerda; na de 5, em estrela, sempre pulando um parafuso.",
+        "legenda": "Aperte sempre o parafuso oposto ao anterior, em cruz ou em estrela."
+      },
       "texto": "Abaixe o carro e retire o macaco. Com a roda no chão, aperte os parafusos com firmeza em ordem cruzada (em estrela), para a roda assentar por igual."
     },
     {

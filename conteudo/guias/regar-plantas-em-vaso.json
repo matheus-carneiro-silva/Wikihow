@@ -11,6 +11,11 @@
   "passos": [
     {
       "titulo": "Faça o teste do dedo",
+      "imagem": {
+        "arquivo": "regar-plantas-em-vaso/teste-do-dedo.png",
+        "descricao": "Corte de um vaso com um dedo enfiado de 2 a 3 cm na terra: a camada de cima está seca e clara e a de baixo, úmida e escura.",
+        "legenda": "Terra seca na ponta do dedo: regue. Úmida: espere."
+      },
       "texto": "Enfie o dedo uns 2 a 3 cm na terra. Se estiver seca nessa profundidade, é hora de regar. Se ainda estiver úmida, espere mais um ou dois dias.",
       "dicas": ["Regar pelo calendário fixo é o erro mais comum: a necessidade muda com o calor, a luz e o tamanho do vaso."]
     },

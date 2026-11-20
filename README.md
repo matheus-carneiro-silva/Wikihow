@@ -40,7 +40,9 @@ As rotas ficam em `src/app/` — cada arquivo é uma tela:
 conteudo/                   # páginas offline em JSON (formato em conteudo/README.md)
 ├── categorias.json
 ├── sinonimos.json
-└── guias/<id>.json
+├── guias/<id>.json
+└── imagens/<id>/           # imagens dos passos
+design/ilustracoes/         # fontes SVG das ilustrações
 src/
 ├── app/
 │   ├── _layout.tsx         # pilha raiz (Stack)
