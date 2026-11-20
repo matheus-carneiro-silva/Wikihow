@@ -28,7 +28,9 @@
       "titulo": "Confirme o peso atual",
       "texto": "Use o peso medido no dia, em quilos. Em crianças, usar um peso estimado ou antigo é uma das causas mais comuns de erro de dose.",
       "dicas": [
-        "Peso em libras: divida por 2,2 para ter o valor em quilos."
+        "Peso em libras: divida por 2,2 para ter o valor em quilos.",
+        "Sem balança de pessoa: pese um adulto sozinho e depois segurando a criança; a diferença é o peso dela.",
+        "Sem nenhuma balança, para crianças de 1 a 10 anos, estime: peso ≈ (3 × idade em anos) + 7. Fórmulas por idade erram bastante: arredonde para baixo e prefira a menor dose da faixa."
       ]
     },
     {
@@ -76,6 +78,10 @@
     {
       "titulo": "Bulário Eletrônico — Anvisa",
       "url": "https://consultas.anvisa.gov.br/#/bulario/"
+    },
+    {
+      "titulo": "Weight estimation in paediatrics — Luscombe e Owens, Arch Dis Child, 2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20659877/"
     }
   ]
 }

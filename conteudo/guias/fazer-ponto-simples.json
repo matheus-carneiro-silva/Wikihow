@@ -15,7 +15,7 @@
   "dificuldade": "media",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Porta-agulha",
     "Pinça com dente ou gancho de pele",
@@ -26,7 +26,11 @@
   "passos": [
     {
       "titulo": "Comece pelo meio",
-      "texto": "Dê o primeiro ponto no meio da ferida e os seguintes sempre no meio dos trechos que ficaram abertos. Assim a tensão se distribui e não sobra pele nas pontas."
+      "texto": "Dê o primeiro ponto no meio da ferida e os seguintes sempre no meio dos trechos que ficaram abertos. Assim a tensão se distribui e não sobra pele nas pontas.",
+      "dicas": [
+        "Sem material estéril: luvas de procedimento limpas e instrumentos de metal fervidos por 20 minutos (veja o guia de preparo da ferida). Agulhas, fios e lâminas são de uso único.",
+        "Feridas pequenas e sem tensão podem ser fechadas com cola de pele ou fitas adesivas, sem pontos."
+      ]
     },
     {
       "titulo": "Monte a agulha",
@@ -57,7 +61,7 @@
     },
     {
       "titulo": "Faça o curativo e oriente",
-      "texto": "Cubra com curativo seco e oriente a manter seco e no lugar. Revise em cerca de 2 dias se necessário. Volte antes se houver dor que piora, inchaço, vermelhidão, febre ou estrias vermelhas subindo pelo membro.\n\nFace: 3 a 5 dias. Couro cabeludo e braços: 7 a 10 dias. Tronco, pernas, mãos e pés: 10 a 14 dias. Sobre articulações: 14 dias. Palmas e plantas: 14 a 21 dias."
+      "texto": "Mantenha coberto nas primeiras 24 a 48 horas. Depois, pode lavar com água limpa e sabão; uma camada fina de pomada antibiótica e um curativo limpo mantêm a ferida úmida e ajudam a cicatrizar. Sem retorno possível, examine a ferida todo dia. Dor que piora, inchaço, vermelhidão que se espalha, pus, febre ou estrias vermelhas subindo pelo membro indicam infecção: retire alguns pontos para drenar e reavalie.\n\nFace: 3 a 5 dias. Couro cabeludo e braços: 7 a 10 dias. Tronco, pernas, mãos e pés: 10 a 14 dias. Sobre articulações: 14 dias. Palmas e plantas: 14 a 21 dias."
     }
   ],
   "fontes": [
@@ -76,6 +80,10 @@
     {
       "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
       "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    },
+    {
+      "titulo": "Wound Management in the Austere Environment — Wilderness Medical Society, 2014",
+      "url": "https://www.femecv.com/sites/default/files/uploads/files/WMS%20heridas_2014.pdf"
     }
   ]
 }

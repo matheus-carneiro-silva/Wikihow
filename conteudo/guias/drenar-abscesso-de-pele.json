@@ -16,7 +16,7 @@
   "dificuldade": "media",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Antisséptico (clorexidina ou PVPI)",
     "Lidocaína 1%, seringa de 10 mL, agulhas 21G e 25G",
@@ -28,9 +28,10 @@
   "passos": [
     {
       "titulo": "Confirme que é abscesso",
-      "texto": "Abscesso é uma coleção de pus: área dolorosa, avermelhada e endurecida, com um ponto amolecido (flutuação). Se houver dúvida entre abscesso e celulite, o ultrassom ajuda.\n\nAbscessos pequenos e superficiais podem começar com compressas mornas, com reavaliação em 24 a 48 horas.",
+      "texto": "Abscesso é uma coleção de pus: área dolorosa, avermelhada e endurecida, com um ponto amolecido (flutuação). Se houver dúvida entre abscesso e celulite, o ultrassom ajuda.\n\nAbscessos pequenos e superficiais podem começar com compressas mornas, com reavaliação em 24 a 48 horas.\n\nSem ultrassom, na dúvida, não corte: faça compressas mornas e reavalie em 24 a 48 horas. Marque com caneta a borda da vermelhidão para ver se ela avança.",
       "avisos": [
-        "Não drene à beira-leito: abscesso grande ou profundo, perto de grandes vasos ou nervos, massa pulsátil, na mão além da ponta do dedo, na face ou ao redor do ânus. Esses casos vão para centro cirúrgico ou especialista."
+        "Prefira não drenar sozinho: abscesso grande ou profundo, perto de grandes vasos ou nervos, massa que pulsa, na mão além da ponta do dedo, na face ou ao redor do ânus. Nesses casos, havendo como, evacue para atendimento cirúrgico.",
+        "Evacue, mesmo que seja difícil, se houver: osso exposto ou fratura exposta; lesão de tendão, articulação, nervo ou vaso; mordida de mamífero; corpo estranho grande, sobretudo de madeira ou vegetal; infecção que piora apesar do antibiótico; febre, confusão ou pressão baixa; estalido de gás sob a pele, pele escurecida ou com bolhas, ou dor muito maior do que a aparência da ferida (suspeita de infecção necrosante); estrias vermelhas subindo pelo membro."
       ]
     },
     {
@@ -38,6 +39,9 @@
       "texto": "Faça antissepsia e um bloqueio de campo: com agulha 25G, injete lidocaína 1% em forma de losango ao redor de todo o abscesso, reentrando sempre por pele já anestesiada.",
       "avisos": [
         "Não injete dentro da cavidade: dói e não anestesia."
+      ],
+      "dicas": [
+        "Sem material estéril: luvas de procedimento limpas e instrumentos de metal fervidos por 20 minutos (veja o guia de preparo da ferida). Agulhas, fios e lâminas são de uso único."
       ]
     },
     {
@@ -61,7 +65,10 @@
     },
     {
       "titulo": "Use antibiótico só em casos selecionados",
-      "texto": "A drenagem é o tratamento principal. Associe antibiótico que cubra estafilococo (incluindo MRSA) e estreptococo, por 5 a 7 dias, se houver: celulite extensa, abscesso profundo, abscessos múltiplos ou recorrentes, febre ou outros sinais no corpo todo, imunossupressão ou abscesso na face entre o lábio superior e a sobrancelha."
+      "texto": "A drenagem é o tratamento principal. Associe antibiótico, por 5 a 10 dias conforme a resposta, se houver: celulite extensa, abscesso profundo, abscessos múltiplos ou recorrentes, febre ou outros sinais no corpo todo, imunossupressão, ou abscesso na face entre o lábio superior e a sobrancelha. Em mão, genitais, diabéticos, bebês e idosos, a indicação é mais ampla.\n\nOpções para adultos, conforme o que houver: sulfametoxazol-trimetoprima 800/160 mg, 1 a 2 comprimidos de 12 em 12 horas (cobre MRSA); doxiciclina 100 mg de 12 em 12 horas; cefalexina 500 mg de 6 em 6 horas (não cobre MRSA); ou clindamicina 300 a 450 mg de 8 em 8 horas.",
+      "avisos": [
+        "Confira alergias antes. Doxiciclina não deve ser usada na gravidez nem em crianças pequenas; sulfametoxazol-trimetoprima exige cautela na gravidez."
+      ]
     }
   ],
   "fontes": [
@@ -72,6 +79,14 @@
     {
       "titulo": "Incision and Drainage — StatPearls",
       "url": "https://www.statpearls.com/point-of-care/23431"
+    },
+    {
+      "titulo": "Practice Guidelines for Skin and Soft Tissue Infections — IDSA, 2014",
+      "url": "https://academic.oup.com/cid/article/59/2/e10/2895845"
+    },
+    {
+      "titulo": "Wound Management in the Austere Environment — Wilderness Medical Society, 2014",
+      "url": "https://www.femecv.com/sites/default/files/uploads/files/WMS%20heridas_2014.pdf"
     }
   ]
 }

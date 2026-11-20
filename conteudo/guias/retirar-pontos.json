@@ -13,7 +13,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Pinça",
     "Tesoura de ponta fina ou lâmina de bisturi nº 12",
@@ -41,7 +41,10 @@
     },
     {
       "titulo": "Corte rente à pele",
-      "texto": "Levante o nó com a pinça e corte o fio de um lado só, rente à pele, entre o nó e a pele."
+      "texto": "Levante o nó com a pinça e corte o fio de um lado só, rente à pele, entre o nó e a pele.",
+      "dicas": [
+        "Sem tesoura fina, use uma lâmina de barbear nova ou um cortador de unha fervido."
+      ]
     },
     {
       "titulo": "Puxe em direção à ferida",
@@ -60,6 +63,10 @@
     {
       "titulo": "How To Repair a Laceration With Simple Interrupted Sutures — MSD Manual",
       "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-simple-interrupted-sutures"
+    },
+    {
+      "titulo": "Sterilisation of medical material — Médicos Sem Fronteiras",
+      "url": "https://unicat.msf.org/intros/21935"
     }
   ]
 }

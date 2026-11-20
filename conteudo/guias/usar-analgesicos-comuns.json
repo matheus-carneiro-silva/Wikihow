@@ -20,7 +20,10 @@
   "passos": [
     {
       "titulo": "Escolha pelo objetivo",
-      "texto": "Paracetamol e dipirona tratam dor e febre. O ibuprofeno também reduz a inflamação, o que ajuda em dor muscular, dental ou cólica menstrual, mas tem mais contraindicações."
+      "texto": "Paracetamol e dipirona tratam dor e febre. O ibuprofeno também reduz a inflamação, o que ajuda em dor muscular, dental ou cólica menstrual, mas tem mais contraindicações.",
+      "avisos": [
+        "Não dê AAS a menores de 16 anos com febre ou virose: risco de síndrome de Reye."
+      ]
     },
     {
       "titulo": "Paracetamol",
@@ -30,7 +33,8 @@
       ],
       "avisos": [
         "Acima da dose máxima, ou em uso prolongado, o paracetamol pode causar lesão grave no fígado.",
-        "Em quem consome álcool regularmente ou tem doença no fígado, o limite costuma ser 3.000 mg por dia ou menos, conforme orientação médica."
+        "Em quem consome álcool regularmente ou tem doença no fígado, o limite costuma ser 3.000 mg por dia ou menos, conforme orientação médica.",
+        "Se tomou bem acima do máximo, procure atendimento mesmo sem sintomas: existe antídoto (acetilcisteína), que funciona melhor nas primeiras 8 horas."
       ]
     },
     {
@@ -44,15 +48,19 @@
     },
     {
       "titulo": "Ibuprofeno",
-      "texto": "Adultos: 200 a 400 mg a cada 6 a 8 horas, de preferência após comer. Sem receita, o limite é 1.200 mg por dia; com prescrição, as bulas permitem até 2.400 mg por dia.",
+      "texto": "Adultos: 200 a 400 mg a cada 6 a 8 horas, de preferência após comer. Sem receita, o limite é 1.200 mg por dia; com prescrição, as bulas permitem até 2.400 mg por dia.\n\nCrianças a partir de 6 meses: 5 a 10 mg/kg por dose, a cada 6 a 8 horas, até 40 mg/kg por dia. Na solução em gotas de 50 mg/mL, 1 a 2 gotas por kg, sem passar de 40 gotas por dose.",
       "avisos": [
         "Evite em úlcera ou sangramento digestivo, doença nos rins, insuficiência cardíaca, alergia a AAS ou outros anti-inflamatórios e a partir do 3º trimestre da gravidez.",
-        "Uso por mais de uma semana só com orientação médica."
+        "Uso por mais de uma semana só com orientação médica.",
+        "Não use em quem está desidratado (diarreia, vômitos, calor intenso, pouca urina): aumenta o risco de lesão nos rins."
       ]
     },
     {
       "titulo": "Suspeita de dengue: nada de anti-inflamatório",
-      "texto": "Febre com dor no corpo em época de dengue pode ser dengue. Nesse caso, não use ibuprofeno, diclofenaco, nimesulida, AAS nem outros anti-inflamatórios, que aumentam o risco de sangramento.\n\nO Ministério da Saúde indica paracetamol ou dipirona para dor e febre, junto com bastante hidratação."
+      "texto": "Febre com dor no corpo em época de dengue pode ser dengue. Nesse caso, não use ibuprofeno, diclofenaco, nimesulida, AAS nem outros anti-inflamatórios, que aumentam o risco de sangramento.\n\nO Ministério da Saúde indica paracetamol ou dipirona para dor e febre, junto com bastante hidratação.\n\nHidratação oral no adulto: cerca de 60 mL por kg por dia, sendo 1/3 de soro de reidratação oral e o restante de água, sucos ou chás. Atenção redobrada quando a febre baixa, do 3º ao 7º dia: é quando aparecem os sinais de alarme.",
+      "avisos": [
+        "Sinais de alarme, que exigem evacuação mesmo difícil: dor abdominal forte e contínua, vômitos persistentes, sangramento de gengiva ou nariz, tontura ao ficar de pé, sonolência ou irritabilidade e pouca urina."
+      ]
     },
     {
       "titulo": "Saiba quando procurar atendimento",
@@ -87,6 +95,14 @@
     {
       "titulo": "Dengue: classificação de risco e manejo do paciente — Ministério da Saúde",
       "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/dengue/dengue_classificacao_risco_manejo_paciente.pdf"
+    },
+    {
+      "titulo": "Ibuprofeno gotas 50 mg/mL — bula",
+      "url": "https://consultaremedios.com.br/ibuprofeno/bula"
+    },
+    {
+      "titulo": "Reye Syndrome — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/pediatrics/miscellaneous-disorders-in-infants-and-children/reye-syndrome"
     }
   ]
 }

@@ -14,7 +14,7 @@
   "dificuldade": "media",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Anafilaxia é uma emergência: chame o SAMU (192) ou a equipe de emergência imediatamente. A adrenalina intramuscular é o tratamento de primeira linha e não deve ser adiada.",
+  "alerta": "Anafilaxia é uma emergência: aplique a adrenalina intramuscular sem demora e, se houver como, chame o SAMU (192). Se estiver sozinho ou sem socorro por perto, aplique primeiro e peça ajuda depois.",
   "materiais": [
     "Adrenalina 1 mg/mL (1:1.000) ou autoinjetor",
     "Seringa de 1 mL e agulha para injeção intramuscular",
@@ -23,17 +23,20 @@
   "passos": [
     {
       "titulo": "Reconheça a anafilaxia",
-      "texto": "Suspeite quando, minutos a horas depois de uma exposição (alimento, picada de inseto, medicamento), surgem sinais em dois ou mais sistemas: pele (placas, coceira, inchaço de lábios ou língua), respiração (falta de ar, chiado, rouquidão), circulação (tontura, desmaio, pressão baixa) ou intestino (vômitos, cólica).\n\nQueda de pressão logo após contato com algo a que a pessoa já sabe ser alérgica também é anafilaxia."
+      "texto": "Suspeite quando, minutos a horas depois de uma exposição (alimento, picada de inseto, medicamento), surgem sinais em dois ou mais sistemas: pele (placas, coceira, inchaço de lábios ou língua), respiração (falta de ar, chiado, rouquidão), circulação (tontura, desmaio, pressão baixa) ou intestino (vômitos, cólica).\n\nDepois de contato com algo a que a pessoa é ou provavelmente é alérgica, queda de pressão ou chiado, rouquidão ou dificuldade para respirar já bastam, mesmo sem nada na pele. Placas na pele sozinhas, sem outro sinal, não são anafilaxia: observe."
     },
     {
       "titulo": "Chame ajuda e retire o gatilho",
-      "texto": "Ligue 192 ou acione a equipe de emergência. Se a reação começou durante a aplicação de um medicamento, interrompa a infusão."
+      "texto": "Se houver socorro ao alcance, ligue 192 ou acione a equipe de emergência; se não, comece o tratamento já. Se a reação começou durante a aplicação de um medicamento, interrompa a infusão."
     },
     {
       "titulo": "Aplique adrenalina no músculo da coxa",
       "texto": "Use adrenalina 1 mg/mL (1:1.000) na dose de 0,01 mg/kg, o que equivale a 0,01 mL/kg. Aplique por via intramuscular no meio da face anterolateral da coxa.\n\nDose máxima por aplicação: 0,5 mg (0,5 mL) em adultos e 0,3 mg (0,3 mL) em crianças. Anote o horário.",
       "dicas": [
-        "Na anafilaxia não há contraindicação absoluta à adrenalina. Na dúvida, aplique."
+        "Na anafilaxia não há contraindicação absoluta à adrenalina. Na dúvida, aplique.",
+        "Exemplos com seringa de 1 mL: criança de 15 kg = 0,15 mL; criança de 25 kg = 0,25 mL; criança a partir de 30 kg = 0,3 mL; adolescente ou adulto = 0,5 mL.",
+        "Autoinjetor: 0,15 mg para 7,5 a 25 kg e 0,3 mg a partir de 25 kg. Pode aplicar por cima da roupa.",
+        "Se a única adrenalina estiver vencida, use mesmo assim, desde que a solução esteja incolor e sem partículas: ela mantém boa parte da potência meses após o vencimento."
       ],
       "avisos": [
         "Não aplique a adrenalina 1 mg/mL na veia: na veia, ela só é usada diluída e com monitorização."
@@ -51,8 +54,8 @@
       "texto": "Se os sintomas continuarem, repita a mesma dose a cada 5 a 15 minutos. A maioria das pessoas responde a 1 ou 2 doses. Ofereça oxigênio e, havendo pressão baixa, soro pela veia."
     },
     {
-      "titulo": "Observe e encaminhe",
-      "texto": "Mesmo com melhora, mantenha a pessoa em observação em um serviço de saúde, pois os sintomas podem voltar horas depois. Anti-histamínico e corticoide são complementares e não substituem a adrenalina.\n\nNa alta, oriente a evitar o gatilho e a procurar um alergista."
+      "titulo": "Observe e organize a evacuação",
+      "texto": "Mesmo com melhora, os sintomas podem voltar horas depois. Havendo serviço de saúde, mantenha a pessoa em observação lá.\n\nSem serviço de saúde: observe no mínimo 6 horas, ou 12 a 24 horas se houve tontura, desmaio ou pressão baixa (1 hora só basta em reação leve que melhorou rápido com uma dose). Se os sintomas voltarem, repita a mesma dose no músculo. Organize a evacuação em todos os casos, e com urgência se precisou de mais de 1 dose.\n\nAnti-histamínico e corticoide são complementares e não substituem a adrenalina. Depois, a pessoa deve evitar o gatilho, procurar um alergista e andar com adrenalina."
     }
   ],
   "fontes": [
@@ -63,6 +66,10 @@
     {
       "titulo": "WAO Anaphylaxis Guidelines (pôster)",
       "url": "https://www.worldallergy.org/media/PDFs/Anaphylaxis_Guidelines_Poster.pdf"
+    },
+    {
+      "titulo": "Wilderness Medical Society Clinical Practice Guidelines on Anaphylaxis — 2022",
+      "url": "https://doi.org/10.1016/j.wem.2021.11.009"
     }
   ]
 }

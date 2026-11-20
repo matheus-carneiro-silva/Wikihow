@@ -16,21 +16,32 @@
   "dificuldade": "facil",
   "tempoMinutos": 20,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "passos": [
+    {
+      "titulo": "Prepare o material",
+      "texto": "Lave bem as mãos. Luvas de procedimento limpas são suficientes para tratar feridas.\n\nSem material estéril, ferva os instrumentos de metal (pinça, tesoura, porta-agulha) em água coberta por 20 minutos, somando 5 minutos a cada 1.000 m de altitude. A fervura mata bactérias e vírus, incluindo hepatite e HIV, mas não esporos: não é esterilização completa.",
+      "avisos": [
+        "Agulhas, seringas, fios e lâminas são de uso único: nunca reutilize em outra pessoa."
+      ]
+    },
     {
       "titulo": "Avalie a ferida",
       "texto": "Controle o sangramento com compressão direta. Antes de anestesiar, teste a sensibilidade, o movimento e a circulação além da ferida. Procure corpos estranhos e exposição de tendão, osso ou articulação.",
       "avisos": [
-        "Encaminhe para avaliação especializada se houver lesão de tendão, nervo ou vaso, ferida que entra em articulação, suspeita de corpo estranho que não sai ou falta de circulação além da ferida."
+        "Evacue, mesmo que seja difícil, se houver: osso exposto ou fratura exposta; lesão de tendão, articulação, nervo ou vaso; mordida de mamífero; corpo estranho grande, sobretudo de madeira ou vegetal; infecção que piora apesar do antibiótico; febre, confusão ou pressão baixa; estalido de gás sob a pele, pele escurecida ou com bolhas, ou dor muito maior do que a aparência da ferida (suspeita de infecção necrosante); estrias vermelhas subindo pelo membro."
       ]
     },
     {
       "titulo": "Decida se ainda dá para fechar",
-      "texto": "Não existe um \"período de ouro\" bem definido. Feridas limpas e sem infecção podem ser fechadas até cerca de 18 horas após o trauma; na cabeça, até 24 horas.",
+      "texto": "Os prazos variam entre as fontes. Longe de um hospital, use o mais seguro: feche só feridas limpas com até 6 horas (até 10 horas na face e no couro cabeludo). Ferida com mais de 8 a 12 horas (24 horas na face) conta como contaminada.",
       "avisos": [
-        "Feridas infectadas ou muito contaminadas não devem ser fechadas na hora."
+        "Não feche na hora: mordida de animal ou humana (exceto na face), ferida com terra, lama, fezes ou água parada, ferida esmagada ou em estrela, com tecido morto que você não consegue retirar, perfurante profunda ou com risco de raiva."
       ]
+    },
+    {
+      "titulo": "Deixe aberta a ferida contaminada",
+      "texto": "Irrigue bem, cubra com gaze umedecida em soro ou em água fervida e resfriada, e troque 1 a 2 vezes por dia. Se, depois de cerca de 4 dias, estiver limpa, sem pus nem vermelhidão que se espalha, pode ser fechada (fechamento tardio). Se não, deixe fechar sozinha, de dentro para fora."
     },
     {
       "titulo": "Anestesie antes de limpar",
@@ -38,9 +49,12 @@
     },
     {
       "titulo": "Irrigue com bastante volume",
-      "texto": "Use de 50 a 100 mL de líquido por centímetro de ferida, com pressão de 5 a 8 psi: uma seringa de 35 mL com agulha 19G ou a ferida sob a água corrente da torneira.",
+      "texto": "Use de 50 a 100 mL de líquido por centímetro de ferida, no mínimo 1 litro em feridas grandes ou sujas, com pressão de 5 a 8 psi: uma seringa de 20 a 35 mL com agulha 19G, ou a ferida sob água corrente.\n\nSem soro, use água potável, fervida e resfriada, ou tratada (cloro ou filtro). Para dar pressão, fure a tampa de uma garrafa PET limpa com um alfinete quente e aperte a garrafa. Comece o quanto antes.",
       "dicas": [
         "Água potável da torneira não aumenta o risco de infecção em comparação com o soro fisiológico."
+      ],
+      "avisos": [
+        "Não coloque álcool, iodo, água oxigenada nem sabão dentro da ferida. Em feridas no mar, irrigue com água potável, não com água do mar."
       ]
     },
     {
@@ -53,7 +67,10 @@
     },
     {
       "titulo": "Verifique a vacina antitetânica",
-      "texto": "Ferida limpa e pequena: vacine se a última dose foi há mais de 10 anos. Ferida suja ou de alto risco: vacine se foi há mais de 5 anos e aplique também imunoglobulina antitetânica se a pessoa tiver menos de 3 doses ou não souber o histórico."
+      "texto": "Ferida limpa e pequena: vacine se a última dose foi há mais de 10 anos. Ferida suja ou de alto risco: vacine se foi há mais de 5 anos.\n\nMenos de 3 doses ou histórico desconhecido: vacine em qualquer ferida e complete o esquema; em ferida suja ou de alto risco, aplique também imunoglobulina antitetânica.",
+      "dicas": [
+        "Sem vacina ao alcance e com ferida de risco em pessoa não vacinada, a Wilderness Medical Society sugere antibiótico oral (por exemplo, penicilina) para retardar o tétano até a evacuação. Não substitui vacina e imunoglobulina."
+      ]
     }
   ],
   "fontes": [
@@ -68,6 +85,22 @@
     {
       "titulo": "How To Repair a Laceration With Simple Interrupted Sutures — MSD Manual",
       "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-simple-interrupted-sutures"
+    },
+    {
+      "titulo": "Wound Management in the Austere Environment — Wilderness Medical Society, 2014",
+      "url": "https://www.femecv.com/sites/default/files/uploads/files/WMS%20heridas_2014.pdf"
+    },
+    {
+      "titulo": "Sterilisation of medical material — Médicos Sem Fronteiras",
+      "url": "https://unicat.msf.org/intros/21935"
+    },
+    {
+      "titulo": "Practice Guidelines for Skin and Soft Tissue Infections — IDSA, 2014",
+      "url": "https://academic.oup.com/cid/article/59/2/e10/2895845"
+    },
+    {
+      "titulo": "Profilaxia do tétano — quadro SMS-Rio (Guia de Vigilância em Saúde)",
+      "url": "https://saude.prefeitura.rio/wp-content/uploads/sites/47/2023/06/Quadro_tetano_profilaxia_raiva.pdf"
     }
   ]
 }

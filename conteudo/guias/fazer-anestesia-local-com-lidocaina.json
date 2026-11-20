@@ -15,7 +15,7 @@
   "dificuldade": "media",
   "tempoMinutos": 15,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Lidocaína 1% ou 2%, com ou sem adrenalina",
     "Seringa de 10 mL",
@@ -25,9 +25,12 @@
   "passos": [
     {
       "titulo": "Calcule a dose máxima antes",
-      "texto": "Sem adrenalina: 4,5 mg/kg, no máximo 300 mg. Com adrenalina: 7 mg/kg, no máximo 500 mg.\n\nLidocaína 1% tem 10 mg/mL e lidocaína 2% tem 20 mg/mL. Exemplo: adulto de 70 kg com lidocaína 1% sem adrenalina: 4,5 × 70 = 315 mg, que passa do teto; o limite fica em 300 mg, ou seja, 30 mL.",
+      "texto": "Sem adrenalina: 4,5 mg/kg, no máximo 300 mg. Com adrenalina: 7 mg/kg, no máximo 500 mg.\n\nLidocaína 1% tem 10 mg/mL e lidocaína 2% tem 20 mg/mL. Exemplo: adulto de 70 kg com lidocaína 1% sem adrenalina: 4,5 × 70 = 315 mg, que passa do teto; o limite fica em 300 mg, ou seja, 30 mL. Com lidocaína 2%, os mesmos 300 mg são só 15 mL. Reparos simples raramente precisam de mais que 5 a 10 mL de lidocaína 1%.",
       "avisos": [
         "Use doses menores em idosos, crianças pequenas, pessoas com doença no coração ou no fígado e em áreas muito vascularizadas."
+      ],
+      "dicas": [
+        "Sem material estéril: luvas de procedimento limpas e instrumentos de metal fervidos por 20 minutos (veja o guia de preparo da ferida). Agulhas, fios e lâminas são de uso único."
       ]
     },
     {
@@ -57,7 +60,7 @@
     },
     {
       "titulo": "Reconheça a intoxicação",
-      "texto": "Sinais iniciais: dormência ao redor da boca, gosto metálico, zumbido, tontura, fala arrastada e agitação. Podem evoluir para convulsão, arritmia e parada cardíaca.\n\nSe acontecer: pare a injeção, chame ajuda, garanta via aérea e oxigênio, trate convulsão com benzodiazepínico e use emulsão lipídica 20%: 1,5 mL/kg em bolus, seguida de 0,25 mL/kg por minuto."
+      "texto": "Sinais iniciais: dormência ao redor da boca, gosto metálico, zumbido, tontura, fala arrastada e agitação. Podem evoluir para convulsão, arritmia e parada cardíaca.\n\nSe acontecer: pare a injeção, chame ajuda, garanta via aérea e oxigênio, trate convulsão com benzodiazepínico e, se houver, use emulsão lipídica 20%: até 70 kg, 1,5 mL/kg em 2 a 3 minutos e depois 0,25 mL/kg por minuto; acima de 70 kg, 100 mL em 2 a 3 minutos e depois 200 a 250 mL em 15 a 20 minutos. Sem emulsão: coloque a pessoa de lado se convulsionar e evacue."
     }
   ],
   "fontes": [
@@ -76,6 +79,10 @@
     {
       "titulo": "ASRA Checklist for Treatment of Local Anesthetic Systemic Toxicity — Reg Anesth Pain Med, 2012",
       "url": "https://rapm.bmj.com/content/rapm/37/1/16.full.pdf"
+    },
+    {
+      "titulo": "Third Practice Advisory on Local Anesthetic Systemic Toxicity — ASRA, 2018",
+      "url": "https://rapm.bmj.com/content/43/2/150"
     }
   ]
 }

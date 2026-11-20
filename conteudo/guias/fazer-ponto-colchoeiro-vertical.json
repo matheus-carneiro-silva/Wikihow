@@ -15,7 +15,7 @@
   "dificuldade": "dificil",
   "tempoMinutos": 30,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Porta-agulha",
     "Pinça com dente",
@@ -25,7 +25,10 @@
   "passos": [
     {
       "titulo": "Saiba quando usar",
-      "texto": "O colchoeiro vertical everte bem as bordas em áreas que tendem a se inverter, como a nuca e superfícies côncavas, e em feridas sob tensão. Ele aproxima o plano profundo e a superfície com um só ponto."
+      "texto": "O colchoeiro vertical everte bem as bordas em áreas que tendem a se inverter, como a nuca e superfícies côncavas, e em feridas sob tensão. Ele aproxima o plano profundo e a superfície com um só ponto.",
+      "dicas": [
+        "Sem material estéril: luvas de procedimento limpas e instrumentos de metal fervidos por 20 minutos (veja o guia de preparo da ferida). Agulhas, fios e lâminas são de uso único."
+      ]
     },
     {
       "titulo": "Faça a passada longe-longe",

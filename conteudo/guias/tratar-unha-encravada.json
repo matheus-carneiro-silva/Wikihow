@@ -16,7 +16,7 @@
   "dificuldade": "dificil",
   "tempoMinutos": 40,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Lidocaína 1% ou 2%, seringa de 10 mL e agulha fina",
     "Descolador (espátula de Freer) ou pinça hemostática",
@@ -29,21 +29,26 @@
   "passos": [
     {
       "titulo": "Tente primeiro o tratamento conservador",
-      "texto": "Em casos leves ou moderados, sem dor importante, vermelhidão intensa ou pus: banho morno com sabão por 10 a 20 minutos, depois corticoide tópico por 2 a 14 dias. Coloque algodão ou fio dental sob a borda da unha, ou uma calha feita de equipo cortado ao meio.\n\nMantenha até a unha crescer além da prega lateral, o que leva de 2 a 12 semanas."
+      "texto": "Em casos leves ou moderados, sem dor importante, vermelhidão intensa ou pus: banho morno com sabão por 10 a 20 minutos, depois corticoide tópico por 2 a 14 dias. Coloque algodão ou fio dental sob a borda da unha, ou uma calha feita de equipo cortado ao meio.\n\nMantenha até a unha crescer além da prega lateral, o que leva de 2 a 12 semanas.",
+      "dicas": [
+        "Longe de recursos, priorize este passo: ele resolve a maioria dos casos."
+      ]
     },
     {
       "titulo": "Indique a cirurgia",
       "texto": "A retirada parcial é indicada em casos moderados a graves: dor importante, infecção, tecido de granulação ou recorrência.",
       "avisos": [
         "Contraindicações: alergia ao anestésico ou ao fenol, doença vascular periférica, distúrbio de coagulação e paciente que não colabora.",
-        "Diabetes descompensado e doença vascular contraindicam relativamente o fenol. Não use fenol se a paciente ou alguém da equipe estiver grávida."
+        "Diabetes descompensado e doença vascular contraindicam relativamente o fenol. Não use fenol se a paciente ou alguém da equipe estiver grávida.",
+        "Diabéticos ou pessoas com má circulação nos pés: não operem em campo. Trate de forma conservadora e evacue se infeccionar."
       ]
     },
     {
       "titulo": "Faça o bloqueio digital",
       "texto": "Use lidocaína 1% ou 2%; adrenalina de 1:100.000 a 1:200.000 é segura. Infiltre de 1 a 2 mL descendo por um lado da base do dedo em direção à planta, passe pelo dorso e desça pelo outro lado. Espere de 5 a 10 minutos e teste a sensibilidade.",
       "dicas": [
-        "Garrote não é recomendado."
+        "Garrote não é recomendado.",
+        "Sem material estéril: luvas de procedimento limpas e instrumentos de metal fervidos por 20 minutos (veja o guia de preparo da ferida). Agulhas, fios e lâminas são de uso único."
       ]
     },
     {
@@ -59,6 +64,9 @@
       "texto": "Com uma haste de algodão levemente úmida de fenol 80% a 88%, aplique só na matriz (no sulco lateral, sob a prega proximal), de 2 a 3 vezes, por 30 a 60 segundos cada. Depois, enxágue bem com álcool 70% ou soro.",
       "avisos": [
         "Aplique o fenol só na matriz, nunca no leito da unha ou na pele ao redor: ele queima o tecido."
+      ],
+      "dicas": [
+        "Sem fenol, a retirada da borda sem destruir a matriz alivia, mas a unha volta a encravar com mais frequência."
       ]
     },
     {

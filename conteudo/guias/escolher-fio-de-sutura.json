@@ -17,8 +17,12 @@
   "dificuldade": "facil",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "passos": [
+    {
+      "titulo": "Considere não usar pontos",
+      "texto": "Feridas pequenas, retas e sem tensão podem ser fechadas com cola de pele (cianoacrilato cirúrgico) ou fitas adesivas: dói menos e não precisa retirar. No couro cabeludo, feridas pequenas podem ser fechadas torcendo mechas de cabelo dos dois lados e fixando com uma gota de cola. Ferida sob tensão pede pontos."
+    },
     {
       "titulo": "Absorvível ou não absorvível",
       "texto": "Fios não absorvíveis monofilamento, como nylon (mononylon) e polipropileno, são o padrão para pele: causam pouca reação e precisam ser retirados. Os absorvíveis, como a poliglactina 910 (Vicryl), são usados em planos profundos e quando a retirada seria difícil.",
@@ -57,6 +61,10 @@
     {
       "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
       "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    },
+    {
+      "titulo": "Wound Management in the Austere Environment — Wilderness Medical Society, 2014",
+      "url": "https://www.femecv.com/sites/default/files/uploads/files/WMS%20heridas_2014.pdf"
     }
   ]
 }

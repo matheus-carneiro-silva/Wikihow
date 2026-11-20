@@ -16,7 +16,7 @@
   "dificuldade": "media",
   "tempoMinutos": 15,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "alerta": "Conteúdo para estudo e para situações sem atendimento disponível. Havendo profissional ou serviço de saúde ao alcance, prefira-o. Procedimentos exigem treino prévio: pratique antes em material de treino, nunca pela primeira vez numa emergência real.",
   "materiais": [
     "Seringa de 3 ou 5 mL",
     "Agulha 40×12 para aspirar",
@@ -46,7 +46,7 @@
     },
     {
       "titulo": "Ou localize o deltoide",
-      "texto": "Com o paciente sentado e o braço relaxado, o ponto fica 2,5 a 5 cm (dois a três dedos) abaixo do acrômio, na parte mais espessa do músculo, sobre a linha axilar média."
+      "texto": "Com o paciente sentado e o braço relaxado, o ponto fica 2,5 a 5 cm (dois a três dedos) abaixo do acrômio, no centro do músculo, na face lateral do braço, acima do nível da axila."
     },
     {
       "titulo": "Aplique com a técnica em Z",
@@ -60,9 +60,12 @@
     },
     {
       "titulo": "Finalize e observe",
-      "texto": "Comprima de leve com algodão seco, sem massagear. Descarte a seringa com a agulha, sem reencapar, no coletor de perfurocortantes. Registre medicamento, dose, via, local e horário, e observe o paciente por alguns minutos.",
+      "texto": "Comprima de leve com algodão seco, sem massagear. Descarte a seringa com a agulha, sem reencapar, no coletor de perfurocortantes. Registre medicamento, dose, via, local e horário, e observe o paciente por pelo menos 15 minutos, e 30 minutos depois de antibióticos injetáveis como a penicilina benzatina. Tenha adrenalina à mão.",
       "avisos": [
         "Falta de ar, inchaço no rosto, placas vermelhas na pele ou tontura logo após a injeção: trate como anafilaxia."
+      ],
+      "dicas": [
+        "Sem coletor de perfurocortantes, use uma garrafa plástica rígida com tampa, identificada."
       ]
     }
   ],
@@ -74,6 +77,10 @@
     {
       "titulo": "Administração de medicamentos por via intramuscular — Coren-SP",
       "url": "https://portal.coren-sp.gov.br/sites/default/files/administracao_de_medicamentos_por_via_intramuscular.pdf"
+    },
+    {
+      "titulo": "Administering Vaccines: IM technique — CDC",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/administer-vaccines.html"
     }
   ]
 }
