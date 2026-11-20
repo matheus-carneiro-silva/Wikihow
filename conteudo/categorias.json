@@ -123,5 +123,10 @@
     "id": "comunicacao",
     "nome": "Comunicação",
     "descricao": "Rádio, radioamador e sinais de socorro"
+  },
+  {
+    "id": "reconstrucao-social",
+    "nome": "Reconstrução social",
+    "descricao": "Organização comunitária, conflitos, bens comuns, saúde pública, educação e memória"
   }
 ]
