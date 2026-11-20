@@ -23,5 +23,20 @@
   ["bitola", "seção"],
   ["off-grid", "isolado", "autônomo"],
   ["lítio", "LiFePO4"],
-  ["rio", "riacho", "córrego"]
+  ["rio", "riacho", "córrego"],
+  ["sangramento", "hemorragia"],
+  ["torniquete", "garrote"],
+  ["cobra", "serpente"],
+  ["peçonhento", "venenoso"],
+  ["mordida", "mordedura", "dentada"],
+  ["reboque", "guincho"],
+  ["macarrão", "plug"],
+  ["etanol", "álcool"],
+  ["sangria", "purga"],
+  ["tensor", "esticador"],
+  ["nobreak", "UPS"],
+  ["DPS", "supressor"],
+  ["surto", "sobretensão"],
+  ["enchente", "inundação", "alagamento"],
+  ["powerbank", "bateria"]
 ]
