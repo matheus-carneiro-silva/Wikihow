@@ -1,0 +1,96 @@
+{
+  "id": "forjar-e-temperar-aco",
+  "titulo": "Como forjar e temperar aço",
+  "resumo": "Forja a carvão, cores do aço quente, normalização, têmpera com teste do ímã, óleo ou água e revenimento pelas cores para fazer talhadeira, faca ou ponta.",
+  "categoria": "metais-e-forja",
+  "tags": [
+    "ferreiro",
+    "forja",
+    "têmpera",
+    "temperar",
+    "revenimento",
+    "revenir",
+    "tratamento térmico",
+    "ferramenta",
+    "aço de mola",
+    "ferro"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A cor do aço quente engana conforme a luz: trate toda peça como quente. A forja a carvão solta monóxido de carbono: só ao ar livre ou em galpão aberto. Óleo de têmpera pode pegar fogo: tenha tampa metálica e extintor ou areia à mão, e nunca jogue água em óleo em chamas. Use óculos, luvas de couro e roupas de algodão.",
+  "materiais": [
+    "Forja a carvão com soprador (fole, secador ou ventoinha)",
+    "Carvão vegetal",
+    "Bigorna ou bloco de aço pesado e martelo de 1 a 1,5 kg",
+    "Tenaz",
+    "Ímã",
+    "Balde de metal com óleo vegetal e tampa metálica",
+    "Lixa ou pedra para polir",
+    "Lima nova"
+  ],
+  "passos": [
+    {
+      "titulo": "Monte a forja e conheça as cores do aço",
+      "texto": "Uma forja simples é um leito de carvão vegetal com ar soprado por baixo, por um cano, até formar um núcleo de brasa forte onde a peça fica. Trabalhe à sombra ou com pouca luz: a precisão em julgar a temperatura pela cor depende da luz e da experiência.\n\nCores aproximadas do aço (tabela da Marinha dos EUA): vermelho fraco 480 °C; vermelho-sangue 565 °C; cereja-escuro 580 °C; cereja-médio 675 °C; cereja (vermelho pleno) 745 °C; vermelho-vivo 845 °C; salmão 900 °C; laranja 940 °C; amarelo-limão 1.000 °C; branco 1.200 °C."
+    },
+    {
+      "titulo": "Forje com o aço bem quente",
+      "texto": "Aqueça até laranja ou amarelo e martele enquanto a cor estiver viva; quando ela cair para o vermelho, volte ao fogo. Martelar aço já escuro pede força demais e pode trincar a peça.\n\nNão deixe o aço passar do amarelo para o branco nem ficar parado no fogo: no calor alto o grão do aço cresce rápido e a peça fica fraca. Para uma talhadeira, por exemplo, afine a ponta de uma barra de mola em cunha e deixe o acabamento do gume para o esmeril."
+    },
+    {
+      "titulo": "Normalize antes de temperar",
+      "texto": "Forjar deixa tensões e grão grosso. Para corrigir, normalize: aqueça a peça inteira por igual até cerca de 870 °C (vermelho-vivo a salmão) e deixe esfriar ao ar parado, sobre um tijolo, longe de vento e da umidade.\n\nDepois de fria, acerte a forma com lima ou esmeril, deixando o gume ainda um pouco grosso."
+    },
+    {
+      "titulo": "Aqueça para a têmpera e use o ímã",
+      "texto": "Para endurecer, o aço precisa passar do ponto crítico e se transformar por dentro (austenita). Em aços simples de carbono e de mola, isso coincide com o ponto em que o ímã deixa de grudar. Aqueça devagar e por igual, encoste o ímã a cada pouco e, quando ele não grudar mais, aqueça um tom acima e mantenha nessa cor por alguns minutos para a peça inteira chegar à temperatura.\n\nAço de mola SAE 5160 se transforma por volta de 765 °C, perto do ponto não magnético. Já o aço de rolamento (52100) precisa ir bem além: cerca de 840 °C. Passar muito do necessário engrossa o grão.",
+      "avisos": [
+        "O teste do ímã falha em aços com muito cromo (inox e aços-ferramenta): eles ficam não magnéticos antes de estarem prontos para temperar."
+      ]
+    },
+    {
+      "titulo": "Resfrie no óleo ou na água",
+      "texto": "Mergulhe a peça de uma vez, com a parte mais grossa entrando primeiro, e mexa para cima e para baixo para quebrar a camada de vapor. Nunca jogue a peça no banho. Tenha líquido em quantidade para a temperatura do banho não subir muito.\n\nÓleo: resfria bem mais devagar que a água e reduz muito o risco de trincar. O manual da Marinha indica óleo entre 27 e 65 °C. É a escolha para aço de mola e aços ligados. Peças grossas de aço carbono simples podem não endurecer por completo no óleo.\n\nÁgua: mais rápida, a até 18 °C; salmoura a 10% é mais rápida ainda. Água fria demais pode empenar ou trincar, e água quente pode não endurecer. Use só em aço carbono simples quando o óleo não endurecer.",
+      "avisos": [
+        "O óleo solta labaredas quando a peça entra: faça ao ar livre, longe de coisas inflamáveis, mergulhe a peça inteira (não deixe metade para fora) e tenha a tampa metálica ao lado para abafar fogo. Nunca deixe cair água no óleo."
+      ],
+      "dicas": [
+        "Logo depois da têmpera, passe uma lima nova num canto: se ela desliza sem morder, a têmpera pegou. Se morde, repita o aquecimento."
+      ]
+    },
+    {
+      "titulo": "Revenha logo em seguida",
+      "texto": "Aço recém-temperado é duro demais, quebradiço e cheio de tensões. Revena sempre e logo: o revenimento vem depois da têmpera, nunca antes. Quanto maior a temperatura, menos dureza e mais tenacidade.\n\nLixe um trecho até o metal brilhar e reaqueça devagar, vendo as cores do óxido (tabela da Marinha dos EUA): amarelo-pálido 220 °C; palha 230 °C; amarelo-dourado 243 °C; marrom 254 °C; marrom com manchas roxas 266 °C; roxo 277 °C; azul-escuro 288 °C; azul-vivo 297 °C; azul-pálido 321 °C. Quando aparecer a cor desejada, mergulhe para parar.",
+      "avisos": [
+        "Peça temperada não pode ser entortada a frio: ela quebra e lança estilhaços. Para desempenar, aqueça abaixo da temperatura de revenimento e endireite enquanto esfria."
+      ]
+    },
+    {
+      "titulo": "Exemplo: temperar uma talhadeira",
+      "texto": "Aqueça a ponta até a temperatura de têmpera e mergulhe só o gume (alguns centímetros), deixando o resto ao ar. Tire, lixe rápido a ponta e observe: o calor do corpo volta para o gume e as cores correm — amarelo-pálido, palha, até os azuis. Quando a cor azul certa chegar ao gume, mergulhe a talhadeira inteira para parar.\n\nResultado: gume duro e cabeça mais mole, que amassa em vez de lascar sob o martelo (o gume deve ficar mais de duas vezes mais duro que a cabeça). Para faca ou ponta que precisa de mais dureza, pare em cores mais claras e teste: se o gume lasca, revena mais quente; se amassa, a têmpera ou o aço são fracos."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Aviation Structural Mechanic: Table 6-1, Color chart for steel at various temperatures — U.S. Navy",
+      "url": "https://navyaviation.tpub.com/14315/Table-6-1-Color-Chart-For-Steel-At-Various-Temperatures-250.html"
+    },
+    {
+      "titulo": "Aviation Structural Mechanic: Table 6-2, Tempering colors of carbon steel — U.S. Navy",
+      "url": "https://navyaviation.tpub.com/14315/Table-6-2-Color-Chart-For-Various-Tempering-Temperatures-Of-Carbon-Steel-251.html"
+    },
+    {
+      "titulo": "Steelworker, vol. 1: tempering (color tempering de talhadeira) — U.S. Navy",
+      "url": "https://www.tpub.com/steelworker1/11.htm"
+    },
+    {
+      "titulo": "Steelworker, vol. 1: quenching media — U.S. Navy",
+      "url": "https://www.tpub.com/steelworker1/12.htm"
+    },
+    {
+      "titulo": "Austenitizing, Magnetism, and Heat Treating — Knife Steel Nerds",
+      "url": "https://knifesteelnerds.com/2019/03/18/magnet-heat-treating/"
+    }
+  ]
+}

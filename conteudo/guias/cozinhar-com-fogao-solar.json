@@ -1,0 +1,103 @@
+{
+  "id": "cozinhar-com-fogao-solar",
+  "titulo": "Como cozinhar com fogão solar",
+  "resumo": "Forno solar de caixa, painel (CooKit) e parabólico: como montar com papelão e alumínio, tempos de cozimento e como pasteurizar água ao sol a 65 °C.",
+  "categoria": "fogo-e-cozinha",
+  "tags": [
+    "forno solar",
+    "fogão solar",
+    "CooKit",
+    "cozinhar sem gás",
+    "parabólico",
+    "pasteurizar água",
+    "WAPI",
+    "energia solar",
+    "papelão"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fogões parabólicos concentram a luz num ponto que queima a pele e pode lesar os olhos: use óculos escuros e não olhe para o reflexo. Comida cozida que esfria abaixo de 52 °C por 3 a 4 horas deve ser descartada, mesmo sem cheiro ruim.",
+  "materiais": [
+    "Duas caixas de papelão ou uma folha de papelão grande",
+    "Papel-alumínio e cola branca ou grude de farinha",
+    "Panela escura com tampa (preta ou de cor escura)",
+    "Saco de assar resistente ao calor ou vidro",
+    "Tinta preta atóxica",
+    "Termômetro de cozinha ou indicador WAPI (para água)"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba quando e onde funciona",
+      "texto": "O fogão solar precisa de sol direto e contínuo: sombra e nuvens param o cozimento. Regra prática: dá para cozinhar quando a sua sombra no chão é mais curta que a sua altura. O sol é mais forte entre 10h e 14h, melhor horário para pães e bolos.\n\nEm geral dá para fazer duas refeições por dia (almoço e jantar), sem cozinhar de manhã cedo nem depois do pôr do sol. Para a noite e os dias nublados, combine com fogão a lenha e caixa térmica."
+    },
+    {
+      "titulo": "Escolha o tipo",
+      "texto": "• Caixa (forno solar): caixa isolada com tampa transparente e refletor. Cozinha várias panelas ao mesmo tempo, raramente precisa ser girada, assa pão e bolo. Modelos bem feitos chegam a 135 °C ou mais.\n• Painel (como o CooKit): papelão com alumínio que reflete o sol numa panela escura dentro de um saco plástico de assar. É o mais barato; cozinha devagar, em temperatura suave, para 5 a 6 pessoas.\n• Parabólico: espelho curvo que concentra a luz no fundo da panela, normalmente entre 120 °C e 230 °C. Frita e grelha, com tempos parecidos com os do fogão comum, mas precisa ser reapontado a cada 15 minutos e é o mais perigoso."
+    },
+    {
+      "titulo": "Monte um forno solar de caixa",
+      "texto": "Modelo Minimum Solar Box Cooker, da Solar Cookers International:\n\n1. Use uma caixa interna de pelo menos 38 × 38 cm e uma externa maior, com 1,5 cm ou mais de folga em volta.\n2. A caixa interna deve ter uns 2,5 cm a mais de altura que a sua maior panela.\n3. Forre por dentro as duas caixas com papel-alumínio colado.\n4. Encha o fundo da externa com jornal amassado até as abas da interna encostarem no topo da externa, e cole.\n5. Ponha no fundo um papelão com alumínio pintado de preto, onde as panelas vão ficar.\n6. Faça a tampa com papelão 4 a 8 cm maior que a caixa externa, com uma janela coberta por saco de assar ou vidro, e uma aba forrada de alumínio que funciona como refletor, apoiada por uma vareta.",
+      "dicas": [
+        "Para assar pão ou bolo, preaqueça o forno por pelo menos meia hora.",
+        "Tijolos ou pedras dentro do forno guardam calor; ao entardecer, baixe o refletor e cubra o forno com um cobertor."
+      ]
+    },
+    {
+      "titulo": "Ou monte um fogão de painel (CooKit)",
+      "texto": "O CooKit é uma folha de papelão de cerca de 122 × 91 cm, forrada de alumínio e dobrada em painéis que refletem o sol para o centro. A panela escura, tampada, vai dentro de um saco de assar fechado (ou de outra cobertura transparente), sobre um apoio no centro.\n\nAponte o painel para onde o sol estará uma hora depois: assim a maioria dos pratos cozinha sem precisar girar. Feijão ou dias de sol fraco pedem girar ao menos uma vez.",
+      "dicas": [
+        "Dois sacos de assar, um dentro do outro, podem aumentar a temperatura em até 20 °C."
+      ],
+      "avisos": [
+        "Use saco próprio para forno. Sacola plástica comum não aguenta o calor."
+      ]
+    },
+    {
+      "titulo": "Cozinhe: o que pôr e quanto tempo",
+      "texto": "Use panela escura e tampada, quase sem mexer. Comece cedo e não se preocupe em passar do ponto: a maioria dos pratos não queima. Tempos típicos em caixa ou painel, em dia de sol:\n\n• Arroz e outros grãos: 2 horas.\n• Feijão seco: 3 a 5 horas (deixe de molho antes).\n• Batata, cenoura, beterraba e outras raízes: 3 horas, sem água.\n• Verduras: 1 a 1,5 hora.\n• Frango: 2 horas em pedaços, 3 horas inteiro. Carne: 2 horas em pedaços, 3 a 5 horas peças grandes.\n• Ovos: 2 horas, sem água.\n• Pão: 3 horas; bolo: 1,5 hora.\n\nVárias panelas pequenas cozinham mais rápido que uma grande. Use um pouco menos de água que no fogão.",
+      "avisos": [
+        "Panela e tampa ficam muito quentes: use pegador.",
+        "Se o tempo fechar com a comida meio cozida, termine o cozimento em outro fogo ou resfrie rapidamente. Não deixe esquentando morno.",
+        "Comida cozida que fique mais de 3 a 4 horas entre 10 °C e 52 °C deve ser jogada fora; reaquecer não resolve, porque algumas toxinas resistem ao calor."
+      ]
+    },
+    {
+      "titulo": "Pasteurize água ao sol",
+      "texto": "A água não precisa ferver para ficar livre de germes: bactérias, vírus e parasitas morrem rapidamente entre 55 °C e 65 °C. Para ter margem, aqueça até pelo menos 65 °C; o mais seguro é esperar chegar a 70 °C, ponto em que derrete a cera do WAPI.\n\nO WAPI é um tubinho transparente com cera que derrete perto de 70 °C. Ponha-o no fundo de um pote escuro com a água, no fogão solar. Quando a cera descer para a outra ponta, a água está pasteurizada. Num CooKit, um pote preto de 1,4 L leva cerca de 1,5 a 2 horas; um de 3,7 L, de 3 a 4 horas. Dá para tratar uns 6 a 7 litros por dia.\n\nSem WAPI, use termômetro no fundo do pote. Sem nenhum dos dois, ferva.",
+      "avisos": [
+        "Pasteurizar mata germes, mas não remove produtos químicos, combustível ou metais.",
+        "Guarde a água tratada em recipiente limpo e fechado."
+      ]
+    },
+    {
+      "titulo": "Cuide da segurança",
+      "texto": "Ao pôr ou tirar a panela de um forno de caixa ou painel, fique entre o sol e o fogão, fazendo sombra nos refletores, ou gire o fogão para longe do sol por um momento.\n\nNo parabólico: prefira modelos com o foco dentro do prato (abaixo da borda), use-o em área cercada, longe de crianças e animais, e não se debruce sobre ele.",
+      "avisos": [
+        "Não olhe para o brilho do refletor e use óculos escuros, de preferência de montanhismo, com o parabólico."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Health and safety — Solar Cooking Wiki (Solar Cookers International)",
+      "url": "https://solarcooking.fandom.com/wiki/Health_and_safety"
+    },
+    {
+      "titulo": "Guidelines and cooking tips — Solar Cooking Wiki (Solar Cookers International)",
+      "url": "https://solarcooking.fandom.com/wiki/Guidelines_and_cooking_tips"
+    },
+    {
+      "titulo": "Minimum Solar Box Cooker — Solar Cooking Wiki (Solar Cookers International)",
+      "url": "https://solarcooking.fandom.com/wiki/Minimum_Solar_Box_Cooker"
+    },
+    {
+      "titulo": "Pasteurization of naturally contaminated water with solar energy — Ciochetti e Metcalf, Applied and Environmental Microbiology, 1984",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC239648/"
+    },
+    {
+      "titulo": "Enhancement of Solar Water Pasteurization with Reflectors — Safapour e Metcalf, Applied and Environmental Microbiology, 1999",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC91110/"
+    }
+  ]
+}

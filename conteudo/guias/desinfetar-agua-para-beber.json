@@ -1,0 +1,104 @@
+{
+  "id": "desinfetar-agua-para-beber",
+  "titulo": "Como desinfetar água para beber",
+  "resumo": "Fervura, cloro com água sanitária (gotas por litro e por caixa d'água) e garrafa PET ao sol (SODIS): doses, tempos e o que esses métodos não removem.",
+  "categoria": "agua",
+  "tags": [
+    "água potável",
+    "água sanitária",
+    "cloro",
+    "hipoclorito",
+    "ferver água",
+    "purificar água",
+    "SODIS",
+    "gotas por litro",
+    "tratar água"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fervura, cloro e sol matam micróbios, mas não removem agrotóxico, combustível, metais (como mercúrio de garimpo) nem sal: água com químicos continua perigosa. Use só água sanitária sem perfume e sem outros aditivos; guarde-a longe de crianças e nunca misture com outros produtos de limpeza (libera gases tóxicos).",
+  "materiais": [
+    "Pano limpo ou coador de papel",
+    "Panela com tampa e fogo",
+    "Água sanitária (2,0% a 2,5% de cloro ativo) sem perfume, ou hipoclorito de sódio 2,5% do posto de saúde",
+    "Conta-gotas, colher de chá e colher de sopa",
+    "Garrafas PET transparentes de até 2 L (para o método do sol)"
+  ],
+  "passos": [
+    {
+      "titulo": "Tire a sujeira antes",
+      "texto": "Desinfecção funciona mal em água suja. Primeiro coe a água num pano limpo ou coador de papel. Se estiver barrenta, deixe parada num vasilhame limpo até a sujeira descer, passe com cuidado a parte de cima para outra vasilha limpa e só então desinfete.\n\nPara água muito turva, veja o guia \"Como clarificar e filtrar água turva\".",
+      "dicas": [
+        "Filtro portátil comum não retém vírus e muitas bactérias: depois de filtrar, desinfete do mesmo jeito."
+      ]
+    },
+    {
+      "titulo": "Ferva: é o método mais seguro",
+      "texto": "A fervura elimina bactérias, vírus e parasitas. O Ministério da Saúde orienta ferver por 5 minutos, contados a partir do momento em que a água começa a borbulhar forte. Isso cobre com folga a regra do CDC (1 minuto; 3 minutos acima de 2.000 m de altitude).\n\nDeixe esfriar na própria panela tampada e guarde em recipiente limpo e tampado.",
+      "dicas": [
+        "Água fervida fica com gosto \"chato\". Passe várias vezes de um recipiente limpo para outro para arejar e melhorar o gosto."
+      ],
+      "avisos": [
+        "Cuidado com queimaduras: crianças longe do fogão e da panela."
+      ]
+    },
+    {
+      "titulo": "Escolha o produto de cloro certo",
+      "texto": "Use:\n\n• hipoclorito de sódio 2,5% distribuído pelos postos de saúde (frasco de 50 mL), feito para tratar água de beber; ou\n• água sanitária comum, que pela Anvisa tem 2,0% a 2,5% de cloro ativo e só pode conter hipoclorito, água e alguns sais.\n\nNão use água sanitária com perfume, nem alvejante \"com aditivos\", nem cloro de piscina, nem desinfetante. Confira a validade no rótulo (geralmente 6 meses a 1 ano): o cloro perde força com o tempo, o calor e o sol.",
+      "avisos": [
+        "Na embalagem deve estar escrito água sanitária ou hipoclorito de sódio. Na dúvida sobre o produto, ferva."
+      ]
+    },
+    {
+      "titulo": "Clore com a dose certa",
+      "texto": "Dose do Ministério da Saúde: 2 gotas de hipoclorito 2,5% (ou água sanitária) para cada litro de água coada. Misture e espere 30 minutos antes de beber.\n\nPara volumes maiores (2 gotas ≈ 0,1 mL por litro):\n\n• 20 L: 1 colher de chá;\n• 200 L: 1 colher de sopa;\n• 1.000 L (caixa d'água): 2 copinhos de café descartáveis, cerca de 100 mL.\n\nSe a água continuar turva e não houver outra saída, dobre a dose (4 gotas por litro), como orienta o CDC para água turva.\n\nTeste: depois dos 30 minutos, a água deve ter um leve cheiro de cloro. Se não tiver, repita a dose e espere mais 15 minutos. Se ainda não tiver cheiro, descarte e procure outra fonte.",
+      "dicas": [
+        "Água tratada com cloro em casa deve ser consumida no mesmo dia. Mantenha tampada."
+      ],
+      "avisos": [
+        "Não confunda com a dose de limpeza de caixa d'água (1 litro de água sanitária por 1.000 L): essa água não é para beber."
+      ]
+    },
+    {
+      "titulo": "Use pastilhas só conforme o rótulo",
+      "texto": "Pastilhas para tratar água de beber (de cloro ou de dióxido de cloro, vendidas em farmácias e lojas de camping) funcionam, mas cada marca tem dose e tempo próprios. Siga exatamente a embalagem: quantos litros cada pastilha trata e quanto tempo esperar.\n\nUse só pastilha cujo rótulo diga que é para água de beber.",
+      "dicas": [
+        "Pastilhas são leves e duram: boas para mochila de emergência."
+      ]
+    },
+    {
+      "titulo": "Sem fogo nem cloro: use o sol (SODIS)",
+      "texto": "1. Use garrafa PET transparente e incolor, de até 2 L, sem rótulo e sem muitos riscos (troque as muito arranhadas).\n2. Teste a turbidez: com a garrafa cheia em pé sobre uma manchete de jornal, olhe pelo gargalo. Se não conseguir ler as letras, a água precisa ser filtrada ou decantada antes.\n3. Feche a garrafa e deixe ao sol pleno por pelo menos 6 horas.\n4. Se mais da metade do céu estiver nublado, deixe 2 dias seguidos.\n5. Em dias de chuva contínua o método não funciona: capte a água da chuva.\n\nBeba direto da garrafa ou passe para um copo na hora de beber.",
+      "avisos": [
+        "O SODIS é menos confiável que a fervura e o cloro, principalmente contra alguns vírus. Use quando não houver outra opção."
+      ]
+    },
+    {
+      "titulo": "Saiba o que nenhum desses métodos resolve",
+      "texto": "Fervura, cloro, sol e filtros caseiros não removem:\n\n• agrotóxicos, combustível, solventes e outros químicos;\n• metais como chumbo e mercúrio;\n• sal (água do mar ou salobra).\n\nNesses casos, procure outra fonte. A destilação remove sal e metais, mas não todos os químicos (veja o guia \"Como destilar e dessalinizar água\")."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Nota Técnica 39/2023 e folder \"Orientações para o tratamento intradomiciliar da água\" do Ministério da Saúde — SES-MG",
+      "url": "https://www.saude.mg.gov.br/wp-content/uploads/2025/03/ANEXO-F-Nota-tcnica-39-2023_Orientaes-tratamento-intradomiciliar.pdf"
+    },
+    {
+      "titulo": "Orientações à população para uso da água — COVISA, Prefeitura de São Paulo",
+      "url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/orientacoes_agua_Covisa.pdf"
+    },
+    {
+      "titulo": "Água sanitária: conheça um pouco mais sobre esse saneante — Anvisa",
+      "url": "https://bibliotecadigital.anvisa.gov.br/jspui/bitstream/anvisa/168/1/Consumo%20e%20saude_agua%20sanitaria_conheca%20um%20pouco%20mais%20sobre%20esse%20saneante.pdf"
+    },
+    {
+      "titulo": "Make water safe during an emergency — CDC",
+      "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf"
+    },
+    {
+      "titulo": "SODIS: como aplicar o método — Eawag/Fundação SODIS",
+      "url": "https://www.sodis.ch/methode/anwendung/index_EN.html"
+    }
+  ]
+}

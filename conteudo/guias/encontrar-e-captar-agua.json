@@ -1,0 +1,98 @@
+{
+  "id": "encontrar-e-captar-agua",
+  "titulo": "Como encontrar e captar água sem rede de abastecimento",
+  "resumo": "Quanta água cada pessoa precisa por dia, fontes da mais segura à menos segura, captação de chuva com cálculo, nascente e poço raso protegidos.",
+  "categoria": "agua",
+  "tags": [
+    "água potável",
+    "falta d'água",
+    "poço",
+    "cacimba",
+    "nascente",
+    "mina d'água",
+    "água da chuva",
+    "cisterna",
+    "calha",
+    "quantos litros por pessoa"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nenhuma água de chuva, nascente, poço ou rio deve ser bebida sem tratamento: desinfete sempre (veja o guia de desinfecção). Água com combustível, agrotóxico, resíduo de garimpo ou de indústria não fica segura com fervura nem cloro. Nunca desça em poço ou cacimba: pode haver gás tóxico, falta de ar e desabamento. Para escavar poço fundo, procure orientação técnica (prefeitura, Emater ou vigilância sanitária).",
+  "materiais": [
+    "Recipientes limpos com tampa",
+    "Calha, cano e tela para folhas",
+    "Caixa d'água, tambor ou cisterna com tampa",
+    "Cimento, tijolo ou anéis de concreto (para proteger poço ou nascente)"
+  ],
+  "passos": [
+    {
+      "titulo": "Calcule quanta água a casa precisa",
+      "texto": "Pelas referências humanitárias (Sphere, usadas pela OMS), cada pessoa precisa por dia de:\n\n• beber e comida: 2,5 a 3 L;\n• higiene básica: 2 a 6 L;\n• cozinhar: 3 a 6 L.\n\nTotal para sobreviver: 7,5 a 15 L por pessoa por dia. A meta para manter a saúde é pelo menos 15 L por pessoa por dia; em calor forte, com doentes ou gestantes, mais.\n\nExemplo: família de 4 pessoas. Mínimo absoluto: 4 × 7,5 = 30 L por dia. Meta: 4 × 15 = 60 L por dia, ou 1.800 L por mês.",
+      "dicas": [
+        "Quando faltar, priorize na ordem: beber, cozinhar, lavar as mãos. Água de lavar chão ou dar descarga não precisa ser potável."
+      ]
+    },
+    {
+      "titulo": "Escolha a fonte mais segura que tiver",
+      "texto": "Da mais segura para a menos segura:\n\n1. Água engarrafada lacrada ou de caminhão-pipa regularizado.\n2. Chuva captada de telhado limpo, com descarte da primeira água.\n3. Nascente protegida (fechada, cercada, sem enxurrada entrando).\n4. Poço protegido (parede vedada, tampa, calçada).\n5. Cacimba ou poço aberto.\n6. Rio, córrego, lago ou açude.\n\nA vigilância em saúde não recomenda beber água de poço raso, mina ou bica sem tratamento: esgoto, matéria orgânica e poluentes chegam até elas. Toda água dessas fontes deve ser desinfetada antes de beber.",
+      "avisos": [
+        "Prefira pegar água de rio acima de casas, currais e lavouras, nunca logo abaixo deles."
+      ]
+    },
+    {
+      "titulo": "Capte a água da chuva para consumo",
+      "texto": "Conta básica (Embrapa): 1 mm de chuva sobre 1 m² de telhado dá 1 litro. Nem tudo chega à caixa: a Embrapa usa em média 85% (coeficiente 0,85); em telhado poroso ou velho pode ser bem menos.\n\nExemplo: telhado de 60 m² e chuva de 100 mm no mês → 60 × 100 × 0,85 = 5.100 L. Com a meta de 60 L por dia de uma família de 4, isso dá cerca de 85 dias.\n\nMonte: calha → tela ou pré-filtro para folhas → desvio da primeira água → caixa ou cisterna tampada.\n\nDescarte das primeiras águas: a primeira chuva lava fezes de pássaros, poeira e folhas do telhado. A Embrapa dimensiona o descarte em 2 mm de chuva × área do telhado. Exemplo: 60 m² × 2 mm = 120 L descartados no começo de cada chuva. Um tubo ou tambor que enche primeiro e só depois deixa a água seguir para a cisterna resolve; esvazie-o depois de cada chuva.",
+      "dicas": [
+        "Para regar a horta com água de chuva, veja o guia \"Como irrigar a horta com pouca água\".",
+        "Limpe calhas, telas e cisterna periodicamente e mantenha tudo tampado contra mosquito."
+      ],
+      "avisos": [
+        "Mesmo com descarte, água de chuva não é potável: desinfete antes de beber."
+      ]
+    },
+    {
+      "titulo": "Proteja a nascente",
+      "texto": "Uma nascente aberta recebe enxurrada, fezes de animais e sujeira de quem pega água. Para protegê-la:\n\n• Cerque a área em volta para animais não chegarem.\n• Cave uma valeta morro acima, desviando a enxurrada para longe do olho d'água.\n• Feche o ponto onde a água brota com uma caixa de alvenaria ou concreto tampada, e tire a água por um cano. Ninguém deve mergulhar balde ou mão na água.\n• Mantenha fossas, currais e chiqueiros longe e morro abaixo.",
+      "avisos": [
+        "Não aterre nem desmate a nascente: além de reduzir a água, pode ser área de preservação permanente."
+      ]
+    },
+    {
+      "titulo": "Faça e proteja o poço raso",
+      "texto": "Local: num ponto mais alto do terreno que fossas, currais e lixo, e a pelo menos 30 m de qualquer fossa ou latrina (Sphere). Em rocha rachada ou calcário, afaste mais. Detalhes de fossa e distâncias estão no guia \"Como tratar o esgoto de casa sem rede de esgoto\".\n\nProteção sanitária (OMS):\n\n• Parede impermeável (tijolo com argamassa ou anéis de concreto) pelo menos nos 3 m de cima, para a enxurrada não escorrer para dentro. Abaixo do nível da água a parede deve deixar a água entrar.\n• Mureta acima do chão e tampa de concreto bem ajustada.\n• Calçada de pelo menos 1 m em volta, inclinada para fora, com canaleta levando a água derramada para longe.\n• Cerca para animais, de preferência a 15 m do poço.\n• Bomba manual, ou balde e corda usados só para isso e que nunca encostam no chão.\n\nDesinfete o poço novo antes de usar e de novo depois de enchente.",
+      "avisos": [
+        "Escavação funda desmorona e pode acumular gás sem oxigênio: escore as paredes, nunca trabalhe sozinho e não desça para resgatar ninguém. Chame os bombeiros (193)."
+      ]
+    },
+    {
+      "titulo": "Reconheça água perigosa",
+      "texto": "Não use para beber (nem tratada) água com:\n\n• cheiro de combustível, solvente ou produto químico, mancha de óleo ou espuma;\n• cor estranha, peixes ou animais mortos por perto;\n• origem perto de lavoura com agrotóxico, garimpo, mineração, lixão, posto de combustível ou indústria;\n• contato com enchente.\n\nFervura, cloro e filtros caseiros matam micróbios, mas não tornam segura a água com químicos ou metais. Nesses casos, procure outra fonte; a destilação ajuda contra sal e metais (veja o guia de destilação).\n\nSe várias pessoas da casa tiverem diarreia, desconfie da fonte, trate toda a água e peça análise à vigilância sanitária.",
+      "dicas": [
+        "Para tirar a sujeira de água barrenta antes de desinfetar, veja o guia \"Como clarificar e filtrar água turva\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Water supply standard 1: access and water quantity — Sphere",
+      "url": "https://sphereprototype.conted.ox.ac.uk/standards/watersupply/accessAndWaterQuantity.html"
+    },
+    {
+      "titulo": "Aproveitamento da água da chuva na produção de suínos e aves (Documentos 157) — Embrapa Suínos e Aves",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/954008/1/Doc157.pdf"
+    },
+    {
+      "titulo": "Technical fact sheet: dug well with a hand pump — Organização Mundial da Saúde",
+      "url": "https://www.who.int/docs/default-source/wash-documents/sanitary-inspection-packages/2-tfs-dug-well-with-hand-pump-d-200506.pdf"
+    },
+    {
+      "titulo": "Orientações à população para uso da água — COVISA, Prefeitura de São Paulo",
+      "url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/orientacoes_agua_Covisa.pdf"
+    },
+    {
+      "titulo": "Make water safe during an emergency — CDC",
+      "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf"
+    }
+  ]
+}

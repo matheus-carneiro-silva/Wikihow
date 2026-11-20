@@ -1,0 +1,103 @@
+{
+  "id": "cozinhar-com-pouca-lenha",
+  "titulo": "Como cozinhar com pouca lenha",
+  "resumo": "Fogão foguete com medidas, fogão de tijolo eficiente, caixa térmica (fogão de feno) que poupa 20% a 80% e como evitar fumaça e monóxido em casa.",
+  "categoria": "fogo-e-cozinha",
+  "tags": [
+    "fogão a lenha",
+    "fogão foguete",
+    "rocket stove",
+    "caixa térmica",
+    "fogão de feno",
+    "panela de retenção",
+    "economizar lenha",
+    "sem gás",
+    "fumaça",
+    "monóxido de carbono"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fumaça de lenha dentro de casa adoece e mata: a OMS atribui 2,9 milhões de mortes por ano (2021) à poluição do ar doméstica. Fogão a lenha só dentro de casa com chaminé funcionando; sem ela, cozinhe ao ar livre. Dor de cabeça, tontura, náusea ou confusão perto do fogo: saia para o ar livre e ligue 192.",
+  "materiais": [
+    "Tijolos, latas grandes de metal ou balde de tinta metálico",
+    "Cinza de madeira, vermiculita ou perlita (isolante)",
+    "Panela larga com tampa",
+    "Caixa, cesto ou balde com cobertores, almofadas ou palha seca",
+    "Termômetro de cozinha (se tiver)"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda por que o fogo aberto desperdiça",
+      "texto": "Mesmo uma fogueira queima bem a lenha, mas só de 10% a 40% do calor chega à panela; o resto se perde no ar. Por isso, o que mais poupa lenha não é um fogo maior, e sim mandar o calor para a panela e mantê-lo lá.\n\nAs três frentes deste guia, juntas, cortam muito o consumo: um fogão que concentra o calor, a caixa térmica que termina o cozimento sem fogo e hábitos de cozinha econômicos."
+    },
+    {
+      "titulo": "Monte um fogão foguete",
+      "texto": "O fogão foguete é um tubo em L isolado: a lenha entra pela boca de baixo, queima na curva e a chama sobe por uma chaminé curta até a panela. Siga os princípios do Aprovecho Research Center:\n\n• Mesma área em todo o caminho: boca, câmara, chaminé e espaço sob a panela com a mesma seção. Para uma família, 12 × 12 cm basta.\n• Chaminé interna cerca de 3 vezes mais alta que a largura (uns 36 cm para 12 cm).\n• Isole em volta da câmara com material leve e cheio de ar: cinza de madeira, vermiculita, perlita ou pedra-pomes. Barro e areia não isolam; roubam calor.\n• Uma grelha ou prateleira na boca, para o ar passar por baixo da lenha.\n• Apoios que deixem um vão de cerca de 3 cm entre a boca da chaminé e o fundo da panela, para manter a mesma área de passagem.\n\nVersão simples: um balde ou lata metálica grande com um tubo metálico em L de uns 12 cm de lado dentro, e o espaço entre os dois cheio de cinza peneirada. Também dá para fazer com tijolos empilhados em L.",
+      "dicas": [
+        "Uma saia de metal em volta da panela, com folga de cerca de 1 cm, obriga a chama a lamber os lados e aumenta o aproveitamento.",
+        "Panela de metal larga aproveita mais calor que panela de barro estreita."
+      ],
+      "avisos": [
+        "Lata e chapa fina se desfazem com o calor, até inox. Confira a estrutura com frequência e troque antes de furar."
+      ]
+    },
+    {
+      "titulo": "Opere o fogão para fazer pouca fumaça",
+      "texto": "Use gravetos e lenha fina e seca. Empurre só a ponta para dentro da câmara e avance conforme queima: só a parte que está queimando deve esquentar. Mais lenha dentro dá fogo alto; menos, fogo baixo.\n\nChama viva e barulhenta é fogo limpo. Fumaça é gás que não queimou: sinal de lenha úmida, lenha demais ou ar de menos.",
+      "avisos": [
+        "Não feche a passagem de ar nem coloque abafador: o fogão perde tiragem e passa a soltar mais fumaça."
+      ]
+    },
+    {
+      "titulo": "Fogão de tijolo ou barro fixo",
+      "texto": "Num fogão fixo de cozinha, os mesmos princípios valem: câmara de combustão pequena e isolada, passagem do calor encostada nas panelas e chaminé saindo da casa. Revista a câmara com tijolo isolante leve (o manual do Aprovecho traz receitas de barro com serragem ou carvão moído, queimados em forno, que deixam poros de ar) e evite massas grossas de barro em volta do fogo: elas absorvem o calor que deveria ir para a comida.\n\nA chaminé deve levar a fumaça para fora da casa e ser verificada e limpa ao menos uma vez por ano.",
+      "dicas": [
+        "Uma segunda chapa ou panela perto da chaminé não ferve, mas aquece água para lavar louça e tomar banho."
+      ]
+    },
+    {
+      "titulo": "Termine o cozimento na caixa térmica",
+      "texto": "A caixa térmica (fogão de feno, panela de retenção) é qualquer recipiente isolado onde a panela fervendo termina de cozinhar sem fogo. Economiza de 20% a 80% do combustível; quanto mais demorado o alimento, maior a economia.\n\nComo fazer: forre uma caixa, cesto ou balde com 5 a 10 cm de isolante seco (cobertores, almofadas, palha, jornal amassado, papelão), deixando um espaço justo para a panela, e uma tampa também isolada. Um saco de dormir em volta da panela também serve.\n\nComo usar: ferva o alimento com a panela tampada, mantenha fervendo por alguns minutos (uns 5 minutos para arroz, 15 para feijão) e ponha a panela na caixa sem destampar. O tempo total costuma ficar entre 1 e 2 vezes o normal. Use cerca de 1/4 menos água, pois quase nada evapora.",
+      "dicas": [
+        "Panela cheia segura mais calor que meia panela.",
+        "Arroz, feijão, grãos, ensopados e sopas funcionam muito bem."
+      ],
+      "avisos": [
+        "Deixe no máximo 4 a 6 horas e confira se o alimento ainda está acima de 60 °C. Se esfriou abaixo disso, ferva de novo antes de comer ou descarte.",
+        "Pratos com carne devem ser fervidos de novo antes de servir.",
+        "Isopor e espuma precisam ficar cobertos por papel-alumínio; fibra de vidro, também."
+      ]
+    },
+    {
+      "titulo": "Adote hábitos que poupam combustível",
+      "texto": "Cozinhe sempre com a panela tampada. Deixe feijão e grãos de molho e escorra antes de cozinhar: ficam mais fáceis de cozinhar e de digerir. Corte os alimentos em pedaços menores. Cozinhe de uma vez a comida de dois dias e só reaqueça.\n\nCom um único fogo, dá para fazer vários pratos: ferva o feijão e guarde na caixa, depois o arroz, depois o restante."
+    },
+    {
+      "titulo": "Proteja-se da fumaça e do monóxido de carbono",
+      "texto": "A fumaça de lenha causa pneumonia em crianças, AVC, doença pulmonar crônica e câncer de pulmão. Fogão sem chaminé deve ficar ao ar livre, sob uma cobertura aberta ou, no mínimo, junto de uma janela grande aberta.\n\nNunca queime carvão ou lenha dentro de casa em fogareiro, churrasqueira ou fogão sem chaminé, nem para aquecer o ambiente.",
+      "avisos": [
+        "Monóxido de carbono não tem cheiro nem cor. Sintomas: dor de cabeça, tontura, fraqueza, enjoo, vômito, dor no peito e confusão. Leve todos para o ar livre e ligue 192.",
+        "Instale detector de monóxido a pilha perto dos quartos se usar fogão a lenha em casa."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Design Principles for Wood Burning Cook Stoves — Aprovecho Research Center / Shell Foundation / EPA (2005)",
+      "url": "https://files.peacecorps.gov/documents/M0091_ANNEX_Cookstoves_TP_ICS_4a_Improved-Cookstoves-Handbook.pdf"
+    },
+    {
+      "titulo": "Heat-retention cooking — Solar Cooking Wiki (Solar Cookers International)",
+      "url": "https://solarcooking.fandom.com/wiki/Heat-retention_cooking"
+    },
+    {
+      "titulo": "Household air pollution and health — Organização Mundial da Saúde",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    },
+    {
+      "titulo": "Carbon Monoxide Poisoning: Frequently Asked Questions — CDC",
+      "url": "https://www.cdc.gov/co/faqs.htm"
+    }
+  ]
+}

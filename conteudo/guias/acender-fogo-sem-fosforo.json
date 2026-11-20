@@ -1,0 +1,98 @@
+{
+  "id": "acender-fogo-sem-fosforo",
+  "titulo": "Como acender fogo sem fósforo nem isqueiro",
+  "resumo": "Isca, gravetos e lenha, ferrocério, lente ao sol e bateria com palha de aço; montar a fogueira, guardar brasa e apagar por completo.",
+  "categoria": "fogo-e-cozinha",
+  "tags": [
+    "fogueira",
+    "isqueiro",
+    "pederneira",
+    "ferrocério",
+    "palha de aço",
+    "lupa",
+    "acender fogo",
+    "fogo de chão",
+    "isca",
+    "queimada"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fogo fora de controle vira incêndio em minutos, sobretudo com vento e mato seco. Provocar incêndio em floresta ou outra vegetação é crime (Lei 9.605/1998, art. 41). Nunca faça fogo dentro de casa sem chaminé: a fumaça tem monóxido de carbono, que mata sem cheiro. Incêndio: ligue 193 (Bombeiros).",
+  "materiais": [
+    "Isca seca (algodão com vaselina, capim seco, palha, serragem)",
+    "Gravetos e lenha seca em vários tamanhos",
+    "Bastão de ferrocério (pederneira) ou lupa ou bateria de 9 V com palha de aço fina",
+    "Balde de água e pá ou enxada"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o triângulo do fogo",
+      "texto": "O fogo precisa de três coisas ao mesmo tempo: combustível, calor e ar (oxigênio). Para acender, você dá calor a um combustível bem fino com bastante ar em volta. Para apagar, tira um dos três: a água esfria e a terra abafa.\n\nA maioria das falhas vem de pular etapas: a faísca não acende graveto, só isca bem fina; e o graveto em chamas é que acende a lenha."
+    },
+    {
+      "titulo": "Escolha o local e prepare a segurança",
+      "texto": "Antes de tudo, deixe ao lado água, um balde ou galão e uma pá. Escolha chão de terra, longe pelo menos 5 m de barracas, mato e galhos baixos, e com espaço livre acima de pelo menos 3 vezes a altura das chamas. Limpe um círculo de uns 3 m de diâmetro, cave uns 30 cm e cerque com pedras.\n\nNão acenda fogo em tempo seco com vento. Queimada em vegetação só com autorização do órgão ambiental (Lei 14.944/2024); a fogueira serve para cozinhar e aquecer, nunca para limpar terreno."
+    },
+    {
+      "titulo": "Junte isca, gravetos e lenha antes de acender",
+      "texto": "Separe três montes, todos bem secos, antes de produzir a primeira faísca:\n\n• Isca: capim, folhas e palha secas, serragem, casca fina desfiada ou algodão com vaselina. Precisa pegar com uma faísca.\n• Gravetos: galhos secos mais finos que um dedo (menos de 2,5 cm).\n• Lenha: pedaços maiores, para manter o fogo.\n\nJunte o dobro do que acha que vai precisar: se o graveto acabar enquanto o fogo é pequeno, ele morre.",
+      "dicas": [
+        "Galho seco quebra com estalo; se dobrar, está verde ou úmido e vai fazer fumaça.",
+        "Algodão com vaselina guardado num pote fechado é uma isca à prova de umidade."
+      ]
+    },
+    {
+      "titulo": "Monte a fogueira",
+      "texto": "Para cozinhar rápido, faça a pirâmide (tenda): ponha a isca no centro e encoste os gravetos em volta, deixando uma abertura do lado de onde vem o vento para acender. Para fogo duradouro, faça a fogueira em quadrado: lenha cruzada em camadas em volta da pirâmide.\n\nDeixe espaço entre as peças: sem ar, o fogo sufoca e faz fumaça."
+    },
+    {
+      "titulo": "Acenda sem fósforo",
+      "texto": "Use o método que tiver, do mais fácil ao mais difícil:\n\n• Ferrocério (pederneira): encoste a ponta do bastão na isca e raspe com força com o raspador ou costas da faca. As faíscas chegam a cerca de 3.000 °C e o bastão funciona mesmo molhado.\n• Bateria + palha de aço: estique um chumaço de palha de aço bem fina e encoste os dois polos de uma bateria de 9 V. A palha brilha e queima; ponha-a na isca e sopre devagar.\n• Lente ao sol: lupa ou garrafa transparente redonda cheia de água concentram a luz num ponto. Com sol forte, mantenha o ponto menor possível parado sobre a isca escura até sair fumaça e sopre.\n• Arco de fricção: um eixo de madeira seca girado com um arco sobre uma tábua de madeira macia gera pó em brasa. Exige prática e muita força; deixe como último recurso e treine antes de precisar.",
+      "dicas": [
+        "Treine os métodos com tempo bom. Tenha sempre dois deles na mochila."
+      ],
+      "avisos": [
+        "Guarde baterias de 9 V com os polos tampados e longe de metal: encostar uma chave nos dois polos pode iniciar fogo dentro da bolsa.",
+        "A mesma lente que acende fogo pode incendiar coisas por acidente: não deixe garrafas de água transparentes ao sol sobre bancos, cortinas ou capim seco."
+      ]
+    },
+    {
+      "titulo": "Alimente o fogo e guarde a brasa",
+      "texto": "Quando a isca pegar, sopre de leve na base e vá pondo gravetos finos, depois mais grossos e só então a lenha. Mantenha o fogo pequeno: chama menor gasta menos lenha e é mais fácil de controlar.\n\nPara não precisar acender de novo, junte as brasas num monte e cubra com uma camada de cinza: elas se mantêm quentes por muito mais tempo do que expostas. Para reacender, afaste a cinza, ponha isca e gravetos finos em cima e sopre.",
+      "avisos": [
+        "Nunca deixe fogo sozinho e mantenha crianças e animais afastados.",
+        "Não queime lixo, plástico nem madeira pintada ou tratada: liberam fumaça tóxica."
+      ]
+    },
+    {
+      "titulo": "Apague por completo",
+      "texto": "Siga a sequência molhar, mexer, molhar, sentir: jogue bastante água até parar o chiado; revire as brasas e a cinza com a pá, raspando tocos e pedaços que ainda soltam fumaça; jogue mais água; e passe o dorso da mão perto da cinza, sem tocar. Se ainda estiver quente, repita.\n\nSó terra ou areia por cima não basta: a brasa pode ficar acesa por baixo e reacender depois.",
+      "avisos": [
+        "Se o fogo escapar para o mato e você não conseguir apagar com um balde, afaste-se e ligue 193."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to build your campfire — Smokey Bear (Serviço Florestal dos EUA)",
+      "url": "https://smokeybear.com/en/prevention-how-tos/campfire-safety/how-to-build-your-campfire"
+    },
+    {
+      "titulo": "How to maintain and extinguish your campfire — Smokey Bear",
+      "url": "https://smokeybear.com/en/prevention-how-tos/campfire-safety/how-to-maintain-and-extinguish-your-campfire"
+    },
+    {
+      "titulo": "Fire Starting Methods — Rutgers Recreation",
+      "url": "https://recreation.rutgers.edu/node/141"
+    },
+    {
+      "titulo": "Lei nº 14.944/2024 — Política Nacional de Manejo Integrado do Fogo (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14944.htm"
+    },
+    {
+      "titulo": "Firefighters warn: water bottles left in hot cars can ignite fires — CTIF",
+      "url": "https://www.ctif.org/news/firefighters-warn-water-bottles-left-hot-cars-can-ignite-fires"
+    }
+  ]
+}

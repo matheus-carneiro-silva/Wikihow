@@ -1,0 +1,110 @@
+{
+  "id": "preparar-as-primeiras-72-horas",
+  "titulo": "Como agir nas primeiras 72 horas de um apagão total",
+  "resumo": "Comece por aqui: o que fazer primeiro num blackout prolongado, em ordem de prioridade, com kit de emergência por pessoa e plano da família.",
+  "categoria": "preparacao-e-emergencia",
+  "destaque": 1,
+  "tags": [
+    "apagão",
+    "blackout",
+    "kit emergência",
+    "mochila de emergência",
+    "plano familiar",
+    "ponto de encontro",
+    "sem luz",
+    "Defesa Civil",
+    "comece por aqui",
+    "o que fazer primeiro"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca use gerador, fogareiro, churrasqueira ou carvão dentro de casa, na garagem ou perto de janelas: o monóxido de carbono não tem cheiro e mata. Em caso de ferido grave, incêndio ou risco de desabamento, ligue 193 (Bombeiros), 192 (SAMU) ou 199 (Defesa Civil) enquanto houver sinal.",
+  "materiais": [
+    "Água: cerca de 4 L por pessoa por dia (3 dias na mochila, 2 semanas em casa)",
+    "Comida que não precisa de geladeira: 3 dias na mochila, 2 semanas em casa",
+    "Remédios de uso contínuo para 7 dias, receitas e caixa de primeiros socorros",
+    "Lanterna para cada pessoa, pilhas extras e power bank carregado",
+    "Rádio a pilha ou a manivela",
+    "Apito, máscara contra poeira, lona plástica, fita adesiva larga e tesoura",
+    "Lenços umedecidos, sacos de lixo e abraçadeiras plásticas",
+    "Alicate ou chave para fechar o registro de água e o gás",
+    "Abridor de lata manual, mapa da região e lista de contatos em papel",
+    "Cobertor ou saco de dormir para cada pessoa",
+    "Documentos em saco plástico fechado"
+  ],
+  "passos": [
+    {
+      "titulo": "Na primeira hora, cuide da segurança",
+      "texto": "Antes de qualquer outra coisa, veja se alguém está ferido. Sangramento forte vem primeiro: veja o guia \"Como controlar uma hemorragia grave com compressão e torniquete\".\n\nDesligue da tomada (ou desligue no quadro) os aparelhos e eletrônicos: quando a energia volta, um surto pode queimá-los. Veja \"Como proteger os aparelhos contra surtos e raios\".\n\nUse lanterna em vez de vela (veja \"Como iluminar a casa e carregar o celular com pouca energia\"). Gerador, fogareiro e churrasqueira só ao ar livre, a pelo menos 6 m de portas e janelas: veja \"Como usar um gerador portátil com segurança\".",
+      "avisos": [
+        "Se houve enchente, não religue nada antes de ler \"Como religar a energia com segurança depois de uma enchente\"."
+      ]
+    },
+    {
+      "titulo": "Garanta a água",
+      "texto": "Sem energia, as bombas param e a água da rede pode acabar em pouco tempo. Encha garrafas, baldes com tampa e a banheira enquanto ainda sair água limpa.\n\nQuanto: uma pessoa precisa de 2,5 a 3 L por dia só para beber e comer, e de 7,5 a 15 L por dia somando higiene e cozinha. Para estoque, conte cerca de 4 L por pessoa por dia, e mais no calor.\n\nNão racione a água de beber: beba o que precisa hoje e procure mais para amanhã. Para economizar, reduza o esforço e fique na sombra.\n\nÁgua de origem duvidosa precisa de tratamento: filtre ou coe num pano limpo e ponha 2 gotas de hipoclorito de sódio 2,5% (ou água sanitária sem perfume) por litro, espere 30 minutos e consuma em até 24 horas. Sem cloro, filtre e ferva por 5 minutos. Mais detalhes nos guias da categoria Água.",
+      "dicas": [
+        "Exemplo: família de 4 pessoas para 3 dias precisa de cerca de 4 × 4 × 3 = 48 L."
+      ]
+    },
+    {
+      "titulo": "Organize a comida e conserve a geladeira",
+      "texto": "Mantenha geladeira e freezer fechados. A geladeira segura o frio por cerca de 4 horas; o freezer cheio, por cerca de 48 horas.\n\nDescarte o que ficou acima de 4 °C por mais de 2 horas e qualquer alimento com cheiro, cor ou textura estranhos.\n\nFaça um inventário: o que tem na geladeira, no freezer e na despensa, quantos dias dura para a família. Coma primeiro o que estraga mais rápido e deixe os secos e enlatados para depois.\n\nPara os dias seguintes, veja \"Como conservar carne sem geladeira\", \"Como secar e conservar alimentos colhidos\" e \"Como armazenar grãos e conservar a colheita\".",
+      "avisos": [
+        "Na dúvida, jogue fora. Nunca prove o alimento para saber se está bom."
+      ]
+    },
+    {
+      "titulo": "Confira remédios, equipamentos médicos e combustível",
+      "texto": "Liste os remédios de uso contínuo de cada pessoa e quantos dias ainda duram. A meta do kit é ter ao menos 7 dias.\n\nRemédios que ficam na geladeira: siga o que diz a bula ou o rótulo. Para insulina, oxigênio, CPAP e outros aparelhos, siga o plano do guia \"Como manter equipamentos médicos funcionando na falta de energia\".\n\nAnote também quanto combustível, gás de cozinha, pilhas e carga de bateria você tem. É isso que vai decidir quanto tempo dá para ficar em casa.",
+      "dicas": [
+        "Para doses, veja \"Como usar paracetamol, dipirona e ibuprofeno com segurança\" e \"Como calcular a dose de um medicamento pelo peso\"."
+      ]
+    },
+    {
+      "titulo": "Combine a comunicação e o ponto de encontro",
+      "texto": "Se a família está separada, combinem agora (ou relembrem):\n\n• um ponto de encontro conhecido e fácil de achar, perto de casa;\n• um segundo ponto fora do bairro, se o primeiro não der;\n• quem busca as crianças, os idosos e os animais.\n\nEscreva em papel os telefones importantes e deixe uma cópia com cada pessoa: a agenda do celular some quando a bateria acaba.\n\nUm rádio a pilha ou a manivela é a forma mais confiável de receber avisos da Defesa Civil quando a internet cai.",
+      "dicas": [
+        "Ensaie o plano com a família antes da emergência, inclusive o caminho até o ponto de encontro."
+      ]
+    },
+    {
+      "titulo": "Poupe a bateria do celular",
+      "texto": "Deixe o celular em modo avião ou economia de energia, com o brilho no mínimo, e ligue só em horários combinados para mandar e receber notícias.\n\nCarregue em power bank, com painel solar pequeno ou no carro: veja \"Como iluminar a casa e carregar o celular com pouca energia\" e \"Como usar o carro como fonte de energia de emergência\"."
+    },
+    {
+      "titulo": "Cuide da temperatura e da higiene da casa",
+      "texto": "Tenha um cobertor ou saco de dormir para cada pessoa. No calor, reduza o esforço e fique na sombra, porque o corpo perde mais água.\n\nSem descarga, monte um banheiro de emergência: veja \"Como montar um banheiro seco\". Lave as mãos com sabão depois de ir ao banheiro e antes de mexer em comida e água: veja \"Como manter a higiene e evitar epidemias sem água encanada\"."
+    },
+    {
+      "titulo": "Decida se fica ou se sai",
+      "texto": "Ficar em casa costuma ser melhor quando a casa é segura e há água, comida, remédios e jeito de manter a temperatura.\n\nPense em sair quando houver risco à vida (enchente subindo, estrutura danificada, incêndio), quando a água ou os remédios essenciais acabarem, ou quando a Defesa Civil mandar evacuar.\n\nSe sair, leve a mochila de emergência, os documentos e os remédios, feche gás e registro de água e deixe um bilhete dizendo para onde foi e quando.",
+      "avisos": [
+        "Não atravesse rua alagada a pé ou de carro: a correnteza e a água contaminada são perigosas. Veja \"Como prevenir doenças depois de uma enchente\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Build a Kit — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/kit"
+    },
+    {
+      "titulo": "Power Outages — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/power-outages"
+    },
+    {
+      "titulo": "Survival Kit Supplies — Cruz Vermelha Americana",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html"
+    },
+    {
+      "titulo": "Enchentes: cuidados com a água — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-a-agua"
+    },
+    {
+      "titulo": "Technical notes on drinking-water, sanitation and hygiene in emergencies — OMS/WEDC",
+      "url": "https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf"
+    }
+  ]
+}
