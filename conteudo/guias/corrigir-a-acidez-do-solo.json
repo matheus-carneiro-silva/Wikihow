@@ -1,0 +1,107 @@
+{
+  "id": "corrigir-a-acidez-do-solo",
+  "titulo": "Como corrigir a acidez do solo (calagem)",
+  "resumo": "pH do solo, coleta de amostra para análise, cálculo de calcário pela saturação por bases, dose segura sem análise e uso de cinza de madeira na horta.",
+  "categoria": "solo-e-adubacao",
+  "tags": [
+    "calagem",
+    "calcário",
+    "pH",
+    "acidez",
+    "solo ácido",
+    "terra ácida",
+    "análise de solo",
+    "calcário dolomítico",
+    "cinza de madeira",
+    "quanto calcário"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Calcário e cinza levantam pó que irrita olhos, pele e pulmões: aplique sem vento, com luvas, óculos, máscara contra pó e roupa de manga comprida. Cal hidratada e cal virgem são cáusticas e queimam a pele e os olhos. Calcário a mais também faz mal: deixa nutrientes indisponíveis e é difícil de desfazer, por isso não ultrapasse as doses deste guia.",
+  "materiais": [
+    "Pá, enxadão ou trado limpos (sem resto de calcário, adubo ou esterco)",
+    "Balde plástico limpo",
+    "Saco plástico limpo e caneta",
+    "Calcário (de preferência dolomítico), com o PRNT anotado da embalagem",
+    "Balança de cozinha ou copo medidor",
+    "Luvas, óculos e máscara contra pó"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o pH e por que corrigir",
+      "texto": "O pH mede a acidez do solo: abaixo de 7 é ácido, e quanto menor, mais ácido. Grande parte dos solos brasileiros é ácida, principalmente onde chove muito.\n\nEm solo muito ácido sobra alumínio solúvel, que é tóxico: as raízes crescem pouco ou morrem, a planta absorve mal o fósforo e falta cálcio e magnésio. A calagem (aplicação de calcário) eleva o pH, neutraliza o alumínio e fornece cálcio e magnésio.\n\nPara hortaliças, a faixa de pH mais indicada é de 6,0 a 6,5.",
+      "dicas": [
+        "Sinais que sugerem solo ácido: terra vermelha ou amarela de barranco, nunca corrigida, com plantas que crescem pouco mesmo adubadas. Só a análise confirma."
+      ]
+    },
+    {
+      "titulo": "Colete a amostra para análise",
+      "texto": "A análise de solo é barata e evita errar a dose. Procure a Emater ou o órgão de extensão rural do estado, a secretaria municipal de agricultura ou laboratórios de universidades e da Embrapa. Peça análise química com pH, P, K, Ca, Mg, Al, H+Al, matéria orgânica, CTC e saturação por bases (V%).\n\nColete cerca de 120 dias antes do plantio, para dar tempo de receber o resultado e de o calcário reagir:\n\n1. Separe áreas diferentes (cor da terra, baixada ou morro, uso anterior) e faça uma amostra para cada uma.\n2. Limpe a superfície (mato, palha) em cada ponto.\n3. Retire uma fatia de terra de 0 a 20 cm de profundidade em pelo menos 10 pontos, idealmente uns 20, andando em zigue-zague.\n4. Misture tudo no balde e separe de 300 a 500 g num saco plástico limpo, com data, local e profundidade.\n\nSe não puder enviar em até 12 horas, seque a terra à sombra, espalhada numa camada de 1 cm, e envie depois.",
+      "avisos": [
+        "Não colete perto de casas, galpões, caminhos, formigueiros, montes de esterco ou onde caiu adubo ou calcário: a amostra deixa de representar a horta."
+      ]
+    },
+    {
+      "titulo": "Calcule a dose pela saturação por bases",
+      "texto": "Com o laudo em mãos, use:\n\nCalcário (t/ha) = CTC × (V2 − V1) ÷ PRNT\n\n• CTC (ou T) a pH 7, em cmolc/dm³ (o mesmo que meq/100 cm³). Se o laudo vier em mmolc/dm³, divida por 10.\n• V1: saturação por bases atual, do laudo. Se não vier, V1 = (Ca + Mg + K) ÷ CTC × 100.\n• V2: saturação desejada. Para hortaliças fica entre 60 e 80%; use 70%, salvo se o laudo ou o manual do seu estado indicar outro valor.\n• PRNT do calcário, em %, impresso na embalagem.\n\nPara converter: 1 t/ha = 100 g/m².\n\nExemplo: Ca = 2,0, Mg = 0,6, K = 0,2 e H+Al = 5,2 cmolc/dm³. CTC = 2,0 + 0,6 + 0,2 + 5,2 = 8,0. V1 = 2,8 ÷ 8,0 × 100 = 35%. Com calcário de PRNT 80%: 8,0 × (70 − 35) ÷ 80 = 3,5 t/ha = 350 g/m². Uma horta de 20 m² precisa de 20 × 350 = 7.000 g, ou 7 kg.",
+      "avisos": [
+        "Se o resultado der zero ou negativo (V1 já igual ou acima de V2), não aplique calcário."
+      ]
+    },
+    {
+      "titulo": "Escolha o calcário",
+      "texto": "Prefira o calcário dolomítico (cerca de 13 a 20% de óxido de magnésio): corrige a acidez e fornece cálcio e magnésio. O calcítico (até cerca de 5% de óxido de magnésio) fornece quase só cálcio. Se só houver calcítico, use-o em 2/3 da dose e complete o restante com um corretivo rico em magnésio.\n\nO PRNT indica quanto do calcário reage em cerca de 3 anos. Calcário com PRNT de 80% ou mais é considerado bom. Quanto menor o PRNT, maior a quantidade necessária, como mostra a fórmula.",
+      "dicas": [
+        "Compare preços pelo custo efetivo: preço por tonelada × 100 ÷ PRNT. O mais barato por saco nem sempre é o mais barato por efeito."
+      ],
+      "avisos": [
+        "Cal hidratada corrige mais rápido e a dose é 60% da do calcário, mas é cáustica e fácil de exagerar. Em horta caseira, prefira o calcário."
+      ]
+    },
+    {
+      "titulo": "Aplique com antecedência",
+      "texto": "O calcário reage devagar e só por contato com a terra úmida. Aplique de 60 a 90 dias antes do plantio. Aplicado muito perto do plantio, o efeito aparece mais na cultura seguinte.\n\nEspalhe de forma uniforme em toda a área do canteiro, não só na cova: metade antes de revirar a terra e metade depois. Misture bem até uns 20 cm de profundidade e mantenha a terra úmida (regue se não chover).",
+      "dicas": [
+        "Para espalhar por igual, divida o canteiro em faixas de 1 m² e pese a dose de cada faixa."
+      ]
+    },
+    {
+      "titulo": "Sem análise, use a dose conservadora",
+      "texto": "Se não houver como fazer a análise, num solo que provavelmente é ácido e que não recebeu calcário nos últimos 4 a 5 anos, aplique em média 200 g de calcário por metro quadrado de canteiro, misturado na terra.\n\nExemplo: canteiro de 1 m × 5 m = 5 m² × 200 g = 1 kg de calcário.\n\nNão repita a dose todo ano às cegas. Faça a análise assim que puder e corrija pela fórmula.",
+      "avisos": [
+        "Não aplique calcário em terra que já recebeu calagem nos últimos anos ou onde a análise mostrou pH acima de 6,5."
+      ]
+    },
+    {
+      "titulo": "Use cinza de madeira com cuidado",
+      "texto": "Cinza de lenha também reduz a acidez e fornece potássio (até cerca de 5%) e cálcio (20% ou mais), mas corrige bem menos que o mesmo peso de calcário, e a composição varia com a madeira.\n\nLimite a no máximo cerca de 70 g de cinza por metro quadrado por ano, espalhada antes do plantio e misturada na terra. Exemplo: canteiro de 5 m² recebe no máximo 350 g por ano. Se usar cinza, desconte da dose de calcário ou faça análise antes.\n\nUse só cinza de madeira sem tinta, verniz ou tratamento, sem plástico, lixo ou óleo, e peneire para tirar carvão e brasas.",
+      "avisos": [
+        "Cinza é alcalina e irrita pele, olhos e pulmões: use luvas, óculos e máscara e não aplique com vento.",
+        "Não use cinza onde vai plantar batata: o pH mais alto favorece a sarna da batata."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Amostragem de solo para recomendação de calagem e adubação — Embrapa Mandioca e Fruticultura (2020)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1127971/1/folder-Amostragem-Solos-Calagem-2020-verificacao2.pdf"
+    },
+    {
+      "titulo": "Recomendações para o uso de corretivos, matéria orgânica e fertilizantes para hortaliças no Distrito Federal — Embrapa Hortaliças e Emater-DF",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/752594/1/CNPHRECOMEN.PARAOUSODECORRET.MATER.ORGAN.EFERTIL.PARAHORT.DF87.pdf"
+    },
+    {
+      "titulo": "Calagem — Embrapa (curso de heveicultura)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/674806/1/Calagem....pdf"
+    },
+    {
+      "titulo": "Hortas: recomendações para cultivo no estado do Pará — Embrapa Amazônia Oriental (2024)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1168224/1/CartilhaHortas.pdf"
+    },
+    {
+      "titulo": "Using wood ash in the home garden — University of Wisconsin–Madison Extension",
+      "url": "https://hort.extension.wisc.edu/articles/using-wood-ash-in-the-home-garden"
+    }
+  ]
+}

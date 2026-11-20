@@ -1,0 +1,106 @@
+{
+  "id": "usar-biogas-com-seguranca",
+  "titulo": "Como usar biogás com segurança",
+  "resumo": "Riscos do metano e do gás sulfídrico, filtro de palha de aço, dreno de água, canos e registros, adaptar o fogão, teste de vazamento e o que fazer com cheiro de ovo podre.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "biogás",
+    "gás de esterco",
+    "metano",
+    "biodigestor",
+    "fogão",
+    "gás sulfídrico",
+    "cheiro de ovo podre",
+    "vazamento de gás",
+    "filtro de biogás",
+    "explosão"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca entre num biodigestor, fossa ou caixa de esterco, nem para socorrer alguém: o ar lá dentro pode matar em minutos, e muitas vítimas são parentes que tentaram ajudar. Chame os bombeiros (193). Com cheiro forte de gás, não acenda fogo e afaste todos do local.",
+  "materiais": [
+    "Detergente e água (espuma para teste de vazamento)",
+    "Pincel",
+    "Palha de aço e vinagre",
+    "Registros de esfera de 1/2\"",
+    "Cano de PVC de 1/2\" (ou 3/4\" acima de 30 m), tês e uniões"
+  ],
+  "passos": [
+    {
+      "titulo": "Conheça os riscos",
+      "texto": "Fogo e explosão: o biogás tem de 40% a 70% de metano. Misturado ao ar na faixa de 5% a 15% de metano, pega fogo e, em lugar fechado, explode.\n\nGás sulfídrico (H2S): vem junto no biogás, tem cheiro de ovo podre, é tóxico e corrói metais. No biogás bruto pode passar de 100 a 10.000 ppm. De 15 a 50 ppm no ar irrita olhos e garganta e dá dor de cabeça, tontura e náusea. De 200 a 300 ppm pode parar a respiração. Acima de 100 a 150 ppm, o nariz deixa de sentir o cheiro: cheiro sumindo não quer dizer que o perigo passou.\n\nAsfixia: dentro do biodigestor, da fossa e de caixas de esterco falta oxigênio e sobram gases. O gás sulfídrico é mais pesado que o ar e se acumula no fundo.",
+      "avisos": [
+        "Mexer ou bombear esterco líquido solta de uma vez os gases presos nele."
+      ]
+    },
+    {
+      "titulo": "Instale canos, registros e o selo d'água certos",
+      "texto": "Use cano de PVC de 1/2\" para biodigestor de casa e 3/4\" se o cano passar de 30 m. O manual da GTZ recomenda cano em vez de mangueira: cerca de 60% das falhas vêm dos canos de gás. Se usar trecho flexível, prenda cada emenda com braçadeira e proteja de pancadas.\n\nRegistros: use os de esfera, próprios para gás. Ponha um registro logo depois do selo d'água e outro antes de cada aparelho. Não use registro de ferro fundido cinzento: o gás sulfídrico o corrói.\n\nO selo d'água (válvula de alívio) é obrigatório e fica fora de qualquer área coberta: quando a pressão sobe, o excesso de gás escapa por ali.",
+      "dicas": [
+        "Evite cotovelos: cada um deles diminui a pressão do gás no fogão."
+      ]
+    },
+    {
+      "titulo": "Monte o filtro de gás sulfídrico",
+      "texto": "O gás sulfídrico ataca o ferro. Por isso, um pedaço de palha de aço enferrujada segura o gás antes de ele chegar ao fogão.\n\n1. Deixe a palha de aço grossa (a mais barata) uma noite no vinagre para enferrujar.\n2. Coloque-a solta, sem apertar, num pedaço de cano de cerca de 30 cm (pode ser de 1\") entre duas uniões, de 1 a 2 m antes do fogão.\n3. Ponha um registro antes do filtro, para fechar o gás na hora da troca.\n4. Troque a palha quando sentir cheiro de ovo podre ou gosto de metal na boca ao abrir o registro do fogão antes de acender.",
+      "dicas": [
+        "Deixe sempre uma palha de aço já enferrujada pronta para a próxima troca."
+      ]
+    },
+    {
+      "titulo": "Drene a água do cano",
+      "texto": "O biogás sai do biodigestor cheio de vapor, que vira água nos trechos frios do cano. A água acumulada trava o gás.\n\nMonte o cano sempre em descida até pontos de dreno. Em cada ponto baixo, coloque um tê com um registro virado para baixo, sempre fechado. Abra de vez em quando para escorrer a água, e também quando o cano fizer barulho, quando a chama pulsar (sobe e desce) ou quando o biodigestor estiver cheio e o gás não chegar ao fogão."
+    },
+    {
+      "titulo": "Adapte o fogão",
+      "texto": "O fogão de botijão (GLP) tem um injetor (giglê) com furo muito fino, feito para gás de alta pressão. O biogás tem pressão baixa e cerca de 1/3 do poder de queima do GLP, então precisa de mais vazão.\n\nComo fazer: desrosqueie o injetor e alargue o furo com broca, aos poucos. Aumentar a área do furo de 2 a 4 vezes costuma bastar (furo cerca de 1,5 a 2 vezes mais largo); o manual da Redbiolac chega a cerca de 5 mm. Outra opção é tirar o injetor. Depois, feche a entrada de ar até 50% ou menos.\n\nRegule pela chama: ela deve ficar firme, compacta e azulada, com a ponta envolvendo o fundo da panela.\n- Chama amarelada e comprida: falta ar; abra a entrada de ar.\n- Chama que descola do queimador: saída rápida demais; use furo menor ou menos ar.\n- Chama que volta para dentro do queimador: furo pequeno demais; alargue mais.",
+      "dicas": [
+        "Proteja o fogão do vento e regule a chama com uma panela no fogo, testando aos poucos."
+      ]
+    },
+    {
+      "titulo": "Teste os vazamentos com espuma",
+      "texto": "Misture um pouco de detergente na água (cerca de 2%) e passe com pincel em todas as emendas, registros, roscas, no filtro, na saída de gás e no plástico do biodigestor. Bolhas indicam vazamento: aperte, refaça a vedação ou troque a peça.\n\nFaça o teste ao montar, depois de qualquer mexida e regularmente. Biodigestor que murcha por completo também indica vazamento: comece procurando pela saída de gás e pelo cano até o selo d'água."
+    },
+    {
+      "titulo": "Adote as regras de uso do dia a dia",
+      "texto": "- Nunca deixe chama acesa sozinha.\n- Feche o registro do fogão logo depois de usar.\n- Feche o registro geral à noite e quando sair de casa.\n- Cozinha bem ventilada, com janela ou abertura.\n- Não fume nem acenda fogo perto do biodigestor, do selo d'água e dos registros.\n- Ensine essas regras a todos da casa.\n\nAs duas primeiras enchidas de gás de um biodigestor novo ou que foi esvaziado devem ser soltas sem usar: misturadas ao oxigênio do ar que ficou dentro, podem explodir.",
+      "avisos": [
+        "Aparelhos que funcionam sozinhos, como geladeira ou aquecedor a biogás, só com válvula de segurança que corta o gás se a chama apagar."
+      ]
+    },
+    {
+      "titulo": "Saiba o que fazer com cheiro de gás ou de ovo podre",
+      "texto": "Cheiro só ao abrir o fogão, antes de acender: o filtro de palha de aço está saturado; troque.\n\nCheiro de gás no ambiente ou suspeita de vazamento:\n1. Não acenda fogo, não fume e não use celular nem nada que solte faísca no local.\n2. Feche o registro geral e os registros dos aparelhos.\n3. Abra portas e janelas e tire todos do local.\n4. Só volte quando o cheiro sumir de vez. Então procure o vazamento com espuma.\n\nSe alguém sentir dor de cabeça, tontura, náusea ou irritação nos olhos, leve a pessoa para o ar livre e ligue para o SAMU (192). Se alguém desmaiar dentro de biodigestor, fossa ou caixa de esterco, não entre: chame os bombeiros (193). Entrar nesses lugares exige ventilação forçada, medição do ar e resgate com cinto, corda e guincho.",
+      "avisos": [
+        "Em casos registrados pelo NIOSH (EUA), parentes que entraram para socorrer morreram junto com a primeira vítima."
+      ],
+      "dicas": [
+        "Para fossas e esgoto, veja também \"tratar esgoto sem rede\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Fundamentos da digestão anaeróbia, purificação do biogás, uso e tratamento do digestato, 2ª ed. — Embrapa Suínos e Aves, 2022",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1141618/1/final9894.pdf"
+    },
+    {
+      "titulo": "Biodigestores Tubulares: Guía de Diseño y Manual de Instalación — J. Martí-Herrero, Redbiolac, 2019",
+      "url": "https://repositorio.ikiam.edu.ec/jspui/bitstream/RD_IKIAM/351/1/L-IKIAM-000005.pdf"
+    },
+    {
+      "titulo": "Biogas plants in animal husbandry — GATE/GTZ, 1989",
+      "url": "https://www.lowimpact.org/wp-content/uploads/biogas-animal-husbandry.pdf"
+    },
+    {
+      "titulo": "Hydrogen Sulfide — Hazards — OSHA",
+      "url": "https://www.osha.gov/hydrogen-sulfide/hazards"
+    },
+    {
+      "titulo": "Preventing Deaths of Farm Workers in Manure Pits — NIOSH Alert 90-103",
+      "url": "https://stacks.cdc.gov/view/cdc/111477"
+    }
+  ]
+}

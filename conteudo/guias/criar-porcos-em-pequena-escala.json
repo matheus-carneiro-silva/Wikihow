@@ -1,0 +1,110 @@
+{
+  "id": "criar-porcos-em-pequena-escala",
+  "titulo": "Como criar porcos em pequena escala",
+  "resumo": "Engorda de porcos para a família: chiqueiro, água, ração, restos de comida sempre cozidos, cuidados com leitões e como evitar a cisticercose (solitária).",
+  "categoria": "caprinos-e-suinos",
+  "tags": [
+    "porco",
+    "suíno",
+    "leitão",
+    "chiqueiro",
+    "pocilga",
+    "engorda",
+    "lavagem",
+    "restos de comida",
+    "solitária",
+    "canjiquinha"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Porco solto que tem acesso a fezes humanas pega cisticercose, e quem come a carne mal cozida pega a solitária (teníase). Ovos da solitária causam cisticercose em pessoas, que pode atingir o cérebro e causar convulsões. Crie os porcos presos, use banheiro ou fossa, cozinhe bem a carne e ferva os restos de comida antes de dar aos porcos. Porca com leitões e cachaço podem morder: não entre na baia com crianças.",
+  "materiais": [
+    "Chiqueiro cercado e coberto, com parte na sombra",
+    "Bebedouro e comedouro",
+    "Ração balanceada ou concentrado e núcleo mineral-vitamínico",
+    "Panela grande ou tambor para cozinhar os restos",
+    "Balança ou fita de pesagem, se houver",
+    "Termômetro culinário para a carne"
+  ],
+  "passos": [
+    {
+      "titulo": "Planeje a engorda",
+      "texto": "O jeito mais simples para a família é comprar leitões desmamados e engordar. Na Embrapa, os leitões saem da creche com 60 a 70 dias e 25 a 30 kg, e daí vão para crescimento e terminação.\n\nPeso de abate: até cerca de 100 kg para machos castrados e até 110 kg para fêmeas. Segundo a Embrapa, cada semana a mais na terminação reduz em cerca de 1% a carne magra da carcaça.\n\nRaças melhoradas (Landrace, Large White, Duroc e mestiços) crescem mais rápido. Raças nacionais (Piau, Caruncho, Estrela, Nilo) são rústicas e muito usadas na criação de subsistência, mas fazem mais gordura e crescem menos.",
+      "dicas": [
+        "Compre leitões de criação conhecida e com saúde (ativos, sem diarreia, sem tosse) e engorde-os em lote de mesma idade e tamanho."
+      ]
+    },
+    {
+      "titulo": "Monte o chiqueiro",
+      "texto": "Crie os porcos presos em chiqueiro: porco solto come fezes humanas e lixo, pega doenças e as passa para a família.\n\nNa engorda, a Embrapa recomenda pelo menos 1 m² por animal, em lotes de mesma idade e peso, sem superlotação. Exemplo: 4 porcos precisam de no mínimo 4 m² de baia; mais espaço é melhor.\n\nPrevisão de cocho e bebedouro: 1 bebedouro para cada 10 animais e 1 boca de comedouro para cada 4. Deixe sombra o dia todo (cobertura ou árvores) e mantenha o chiqueiro limpo, com rotina de limpeza.\n\nEm piquetes ao ar livre (sistema Siscal da Embrapa), as áreas são bem maiores, por exemplo 70 m² por leitão depois do desmame, com rodízio para manter a vegetação.",
+      "avisos": [
+        "Plantas tóxicas para porcos citadas pela Embrapa: samambaia, mio-mio (vassourinha, alecrim), fedegoso (cafezinho) e cinamomo. Retire-as da área antes de soltar os animais em piquete."
+      ]
+    },
+    {
+      "titulo": "Dê água limpa à vontade",
+      "texto": "Água limpa e fresca à vontade, o dia inteiro, para todos os animais. Em estudos citados pela Embrapa, porcos em crescimento e terminação beberam de 2 litros (com 25 kg) a 6 litros por dia (com 110 kg), e outras referências chegam a 10 litros por dia na terminação, sem contar o calor.\n\nExemplo: para 4 porcos na terminação, garanta pelo menos 40 litros de água limpa por dia, repondo sempre.",
+      "avisos": [
+        "Falta de água com sal na comida intoxica: o porco fica apático, saliva e tem ataques parecidos com convulsão, e pode morrer em 36 a 48 horas. Nunca deixe o bebedouro secar."
+      ]
+    },
+    {
+      "titulo": "Calcule a comida",
+      "texto": "A Embrapa estima o consumo diário de ração pela fórmula: consumo (kg/dia) = 0,11 × peso^0,75. Exemplo: porco de 30 kg come cerca de 1,4 kg de ração por dia.\n\nNuma engorda bem conduzida, a conversão deve ser de no máximo 3 kg de ração para 1 kg de ganho. Exemplo: levar um leitão de 25 kg a 100 kg (75 kg de ganho) exige cerca de 225 kg de ração.\n\nRação feita em casa precisa seguir uma fórmula balanceada (a do saco de concentrado ou de um técnico): milho só não basta, falta proteína, minerais e vitaminas.\n\nAlternativas da Embrapa para economizar milho: mandioca fresca picada à vontade mais concentrado com 30% de proteína (1,1 kg por dia de 25 a 55 kg de peso; 1,5 kg por dia de 55 a 95 kg); ou batata-doce à vontade mais concentrado com 22% de proteína (1,35 kg por dia de 25 a 55 kg; 1,9 kg por dia de 55 kg até o abate).",
+      "avisos": [
+        "Mandioca fresca não deve ser dada a leitões na fase inicial nem a porcas em lactação."
+      ]
+    },
+    {
+      "titulo": "Use restos de comida só depois de cozidos",
+      "texto": "Restos de cozinha e de restaurante podem levar aos porcos peste suína clássica, salmonelose, tuberculose, erisipela e outras doenças. A Embrapa recomenda cozinhar os restos a 100 °C (fervendo) por 30 minutos antes de dar. Depois de cozidos, guarde-os tampados para não recontaminar.\n\nRestos de comida variam muito e não equilibram a dieta sozinhos: complete com concentrado proteico e núcleo mineral-vitamínico. Ponha pouca água no cozimento, porque comida muito aguada atrapalha o crescimento, principalmente até 50 kg.\n\nNunca dê:\n\n• restos de comida crus ou não fervidos, principalmente com carne de porco, linguiça, salame ou presunto (podem trazer a peste suína africana, que ainda não existe no Brasil);\n• carne, ossos, sangue ou vísceras crus (só depois de esterilizados);\n• lixo, ou porcos criados em lixão.",
+      "avisos": [
+        "Alguns estados têm regras próprias sobre restos de comida para porcos. Consulte o órgão estadual de defesa agropecuária ou a Emater da sua região."
+      ]
+    },
+    {
+      "titulo": "Cuide dos leitões, se tiver porca",
+      "texto": "Ao nascer: limpe o nariz e a boca e seque o leitão com pano limpo; amarre o umbigo a 3 a 4 cm da barriga, corte com tesoura desinfetada e mergulhe o coto por 3 a 5 segundos em tintura de iodo a 5 a 7%; deixe-o num canto aquecido (escamoteador) a cerca de 30 °C.\n\nColostro: o leitão deve mamar nas primeiras 10 horas. Com 12 horas de vida, ele já só absorve cerca de 10% dos anticorpos do colostro.\n\nFerro: leitão em chiqueiro de piso sem acesso à terra fica anêmico, porque o leite da porca tem pouco ferro. A Embrapa indica uma aplicação única de 200 mg de ferro dextrano entre o 3º e o 7º dia de vida (siga a bula do produto).\n\nÁgua limpa à disposição desde o primeiro dia. A castração pode ser feita entre o 5º e o 15º dia, e o desmame entre 25 e 35 dias.",
+      "dicas": [
+        "A maior parte das mortes de leitões na primeira semana vem de esmagamento pela porca, fome e frio, e não de doença."
+      ]
+    },
+    {
+      "titulo": "Evite a cisticercose e a solitária",
+      "texto": "O ciclo: uma pessoa com solitária (teníase) solta ovos nas fezes. O porco que come esses ovos fica com cistos na carne (cisticercose suína). Quem come essa carne crua ou mal cozida pega a solitária. E quem engole ovos da solitária, por mãos sujas, água ou verduras contaminadas, pega a cisticercose humana, que no cérebro causa dor de cabeça frequente, convulsões e confusão mental.\n\nPara quebrar o ciclo:\n\n• crie os porcos fechados no chiqueiro;\n• use banheiro ou fossa; ninguém faz as necessidades ao ar livre;\n• não molhe a horta com água de esgoto;\n• lave as mãos antes de comer e de preparar comida e depois de usar o banheiro.",
+      "avisos": [
+        "Quem tem dor de cabeça frequente, convulsões ou confusão sem causa conhecida, em lugar onde há porcos soltos, deve procurar atendimento médico."
+      ]
+    },
+    {
+      "titulo": "Cozinhe bem a carne",
+      "texto": "Coma carne de porco e embutidos (linguiça, chouriço) sempre bem cozidos, fritos ou assados, nunca crus ou malpassados.\n\nCom termômetro: a referência americana de segurança alimentar é 63 °C no centro, com 3 minutos de descanso, para cortes inteiros, e 71 °C para carne moída e linguiça. Para porco de criação caseira, sem inspeção, use 71 °C no centro de qualquer peça.\n\nSem termômetro: corte em pedaços menores, cozinhe bem e confira, cortando no meio dos pedaços mais grossos, que não sobrou nenhuma parte crua.",
+      "dicas": [
+        "Quando comprar carne, prefira a que tem selo de inspeção (SIF, SIE ou SIM)."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suínos: o produtor pergunta, a Embrapa responde — Embrapa Suínos e Aves",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/98828/1/SuinosoprodutorperguntaaEmbrapaResponde1.pdf"
+    },
+    {
+      "titulo": "Quantidade e qualidade da água na produção de suínos — Embrapa Suínos e Aves",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/863834/1/Quantidade-e-qualidade-da-agua-na-producao-de-suinos.pdf"
+    },
+    {
+      "titulo": "Teníase e cisticercose — Secretaria da Saúde do Paraná",
+      "url": "https://www.saude.pr.gov.br/Pagina/Teniose-e-Cisticercose"
+    },
+    {
+      "titulo": "Orientações para suinocultores para prevenção da peste suína africana — SENAR-MS (fonte: OIE e MAPA)",
+      "url": "https://senarms.org.br/sites/default/files/programa/PesteSuina_Produtores.pdf"
+    },
+    {
+      "titulo": "Safe Minimum Internal Temperatures — FoodSafety.gov (governo dos EUA)",
+      "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    }
+  ]
+}

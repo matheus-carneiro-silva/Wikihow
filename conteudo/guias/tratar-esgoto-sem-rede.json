@@ -1,0 +1,107 @@
+{
+  "id": "tratar-esgoto-sem-rede",
+  "titulo": "Como tratar o esgoto de casa sem rede de esgoto",
+  "resumo": "Fossa séptica biodigestora da Embrapa para o vaso, jardim filtrante ou círculo de bananeiras para a água cinza, e distância segura do poço.",
+  "categoria": "residuos-e-bioenergia",
+  "tags": [
+    "fossa",
+    "fossa séptica",
+    "fossa negra",
+    "sumidouro",
+    "esgoto",
+    "poço",
+    "água cinza",
+    "saneamento rural",
+    "biofertilizante",
+    "distância do poço"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 90,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Esgoto sem tratamento contamina o poço e transmite diarreias, hepatite, cólera e verminoses, principalmente em crianças. Nunca entre em fossa, poço ou caixa de esgoto, nem para socorrer alguém: o gás sulfídrico acumulado mata, e muitas vítimas são as pessoas que tentam o resgate. Chame os bombeiros (193). Obras com escavação funda ou alvenaria pedem orientação de um técnico (Emater, prefeitura ou engenheiro).",
+  "materiais": [
+    "Fossa biodigestora (até 5 moradores): 3 caixas d'água de fibra de vidro de 1.000 L com tampa",
+    "Tubos e conexões de PVC de esgoto de 100 mm, curvas 90° longas, tês de inspeção e 1 válvula de retenção de 100 mm",
+    "Tubo de PVC de 25 mm, flanges e caps de 25 mm para as chaminés",
+    "Borracha tipo guarnição esponjosa e cola de contato para vedar as tampas",
+    "Tinta preta ou emulsão asfáltica, estacas e tela de 1,20 m para cerca",
+    "Esterco bovino fresco: 10 L na partida e 5 L por mês",
+    "Jardim filtrante (5 moradores): geomembrana de EPDM de 7 × 4 m, 2 mantas geotêxteis, 2 m³ de brita nº 2 ou 3, 2,5 m³ de areia grossa, caixa de gordura e caixa de 50 a 100 L"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o risco e escolha o lugar",
+      "texto": "A fossa negra (um buraco onde o esgoto se infiltra na terra) leva fezes e micróbios até o lençol freático, de onde vem a água do poço. Por isso, a regra número um é distância e posição:\n\n• Poço sempre num ponto mais alto do terreno que a fossa e qualquer infiltração de esgoto.\n• Fossa ou tanque fechado: as recomendações vão de 15 m (ABNT NBR 7229) a mais de 30 m (instrução técnica do DAEE, de São Paulo, para poços escavados). Use pelo menos 30 m.\n• Qualquer coisa que infiltre esgoto no solo (fossa negra, sumidouro, vala de infiltração): há recomendação de 45 m. Use pelo menos 45 m.\n\nO lugar da fossa também não pode alagar, deve ficar fora da área de preservação permanente (APP) dos rios e nascentes, e o nível mais alto do lençol freático deve ficar pelo menos 1 m abaixo do fundo das caixas.",
+      "avisos": [
+        "A distância segura varia com o tipo de solo e não há consenso entre as normas: na dúvida, afaste mais e consulte a Emater ou a vigilância sanitária."
+      ]
+    },
+    {
+      "titulo": "Separe o esgoto do vaso da água cinza",
+      "texto": "A fossa séptica biodigestora da Embrapa trata só o esgoto do vaso sanitário (água negra). A água de pias, chuveiro, tanque e máquina de lavar (água cinza) tem sabão e detergente, que atrapalham a biodigestão, e precisa ir para outro sistema, como o jardim filtrante ou o círculo de bananeiras (passo 6).\n\nRefaça o encanamento para que o vaso tenha um cano só dele até a fossa. Se a casa tiver mais de um vaso, una os canos com conexões em Y, sem caixa intermediária.\n\nA fossa biodigestora foi feita para casa rural com água encanada e moradia permanente. Em chácara usada só no fim de semana, as bactérias morrem de fome e o esgoto não é tratado. Sem como separar os esgotos ou sem esterco bovino fresco, use o sistema da ABNT: tanque séptico, filtro anaeróbio e sumidouro ou vala de infiltração."
+    },
+    {
+      "titulo": "Monte a fossa séptica biodigestora",
+      "texto": "O sistema padrão tem 3 caixas de fibra de vidro de 1.000 L (cerca de 1,50 m de diâmetro por 0,60 m de altura) ligadas por PVC de 100 mm e atende até 5 pessoas. Não diminua mesmo para menos moradores: o esgoto precisa ficar pelo menos 20 dias fermentando. Para mais gente, acrescente 1 caixa de fermentação a cada 2,5 pessoas, até 10 moradores.\n\n• Cano do vaso até a 1ª caixa: no máximo 25 a 30 m, com caimento de 2 cm por metro.\n• Válvula de retenção antes da 1ª caixa: evita refluxo e é por ela que entra o esterco.\n• Caixas semienterradas, com a borda 10 cm acima do chão (o solo isola o calor e a enxurrada não entra), 50 cm entre elas e desnível de 2 a 4 cm de uma para a outra.\n• Ligação entre caixas em \"cachimbo invertido\" (curva longa de 100 mm), com a boca a cerca de 7 cm do fundo, e um tê de inspeção entre as caixas.\n• Nas 2 primeiras caixas, chaminé de alívio de gases: 50 cm de tubo de 25 mm preso na tampa com flange e fechado com cap com furinhos de 2 mm.\n• Tampas vedadas com guarnição esponjosa colada com cola de contato. As 2 primeiras pintadas de preto para esquentar (dispensável no Norte e no Nordeste).\n• Última caixa: guarda o efluente tratado, com registro ou bomba para retirada, bem tampada contra mosquitos.\n\nFaça uma cerca simples com tela de 1,20 m para ninguém pisar nas tampas.",
+      "avisos": [
+        "Não use caixas de polietileno nem bombonas: deformam com a pressão da terra e perdem a vedação.",
+        "Não enterre as caixas por inteiro: as tampas não aguentam o peso da terra e a água da chuva entra."
+      ]
+    },
+    {
+      "titulo": "Dê a partida e faça a manutenção",
+      "texto": "Na partida, coloque pela válvula de retenção 20 L de uma mistura de 10 L de esterco bovino fresco com 10 L de água. Depois, todo mês, coloque 10 L (5 L de esterco + 5 L de água). Para cada caixa de 1.000 L a mais, aumente 3 L de esterco por mês.\n\nO esterco tem de ser fresco, recolhido no curral ou na sala de ordenha; o do pasto já está velho. Esterco de ovelha rendeu menos nos testes da Embrapa, e fezes de cachorro, porco ou galinha não devem ir para a fossa.\n\nAs caixas enchem em cerca de 30 dias, e o sistema leva de 3 a 4 meses para chegar à eficiência máxima; nesse começo pode haver algum cheiro.\n\nNo dia a dia:\n\n• Limpe o vaso só com álcool e detergente, com moderação. Nada de água sanitária, desinfetante tipo pinho ou pastilha sanitária: eles matam as bactérias.\n• Papel higiênico, absorvente, fralda, comida, plástico e remédio vão para o lixo, nunca para o vaso.\n• Prefira descarga de 6 L; válvula de parede costuma gastar mais de 10 L e dilui demais o esgoto.\n• Mantenha o local capinado, para o mato não levantar as tampas.",
+      "dicas": [
+        "Ponha o esterco pela válvula de retenção, nunca pelo vaso: entope e suja o banheiro."
+      ]
+    },
+    {
+      "titulo": "Use o efluente como adubo com segurança",
+      "texto": "Retire o líquido só da última caixa: é ali que ele chega depois de pelo menos 20 dias de fermentação. Uma casa com 5 pessoas produz cerca de 100 L por dia. Deixe sempre uns 20 cm (cerca de 150 L) no fundo, como lastro, para a caixa não sair do lugar.\n\nAplique direto no solo, no pé de fruteiras, palmeiras e capineiras. Não use em hortaliças nem em nada que se come cru, não jogue nas folhas e não use aspersor, para não espalhar gotículas no ar. Não use como única água de rega, porque tem sais.\n\nQuantidade: o efluente tem em média 0,4 g de nitrogênio por litro. Exemplo: uma cultura que precisa de 100 kg de nitrogênio por hectare recebe cerca de 25 L por m² no ciclo da cultura. Para acertar a dose de cada cultura, consulte um agrônomo.\n\nSe não for usar o efluente, mande para uma vala de infiltração ou sumidouro (ABNT NBR 13969), respeitando a distância do poço.",
+      "avisos": [
+        "Mesmo tratado, o efluente não deve tocar pele e olhos: use botas, luvas de borracha, calça, camisa de manga e óculos.",
+        "A certificação orgânica não permite usar esgoto humano, nem tratado, como adubo."
+      ]
+    },
+    {
+      "titulo": "Trate a água cinza",
+      "texto": "Jardim filtrante (Embrapa), para pias, chuveiro e tanque:\n\n1. Antes do jardim, instale uma caixa de gordura e uma caixa de decantação de 50 a 100 L.\n2. Cave uma cova de cerca de 50 cm de profundidade com 2 m² por morador (10 m² para 5 pessoas), num ponto abaixo da saída de esgoto da casa.\n3. Forre fundo e laterais com geomembrana de EPDM protegida por manta geotêxtil. Lona preta comum não serve: rasga e deixa o esgoto vazar.\n4. Ponha a entrada e a saída em lados opostos, no sentido do comprimento.\n5. Encha com brita nº 2 ou 3 e areia grossa e encharque. A água deve ficar abaixo da superfície da areia, nunca formando espelho d'água (para não criar mosquito); o nível é controlado por um cano em forma de cachimbo na saída (o \"monge\").\n6. Plante plantas de brejo: taboa, papiro, inhame paisagístico, copo-de-leite, helicônia, lírio-do-brejo.\n\nA água que sai pode ser usada para irrigar e lavar galpões e máquinas.\n\nCírculo de bananeiras, alternativa mais simples: cave uma vala em forma de bacia com cerca de 1 m de profundidade e 2 m de diâmetro (modelo usado pela Emater). Encha com troncos jogados de forma desordenada, depois galhos finos e, por cima, folhas secas e restos de poda. Use a terra retirada para fazer uma borda em volta, plante as mudas de bananeira dentro dessa borda e leve a água cinza por um cano enterrado até o centro.",
+      "dicas": [
+        "Limpe a caixa de gordura e a de decantação com frequência e pode as plantas do jardim filtrante para não crescerem demais."
+      ],
+      "avisos": [
+        "O círculo de bananeiras infiltra água no solo: mantenha-o longe do poço e abaixo dele, como uma fossa. Esgoto do vaso nunca vai para ele."
+      ]
+    },
+    {
+      "titulo": "Saiba o que nunca fazer",
+      "texto": "• Fossa negra perto de poço, ou poço abaixo dela no terreno.\n• Esgoto, mesmo tratado, jogado em córrego, rio, açude ou lago de peixes: o excesso de nutrientes faz as algas crescerem, consumirem o oxigênio à noite e matarem os peixes. Esse descarte só com autorização do órgão ambiental e sem outra alternativa.\n• Fossa em área que alaga: na cheia, o esgoto se espalha.\n• Reusar o efluente da fossa no vaso, na casa ou em verduras.\n• Entrar em fossa ou poço de esgoto para limpar ou desentupir.\n\nPara desativar uma fossa negra: se puder, esvazie com caminhão limpa-fossa; jogue 1 saco de cal virgem (com luvas, óculos e máscara) e espere 24 horas; aterre com terra, completando conforme ela ceder; e desligue todos os canos que levavam esgoto para lá."
+    },
+    {
+      "titulo": "Reconheça sinais de problema",
+      "texto": "Com a manutenção certa, a fossa biodigestora não tem cheiro forte, não atrai ratos e baratas e não acumula lodo (não precisa de caminhão limpa-fossa).\n\n• Mau cheiro depois dos 4 primeiros meses: confira número de moradores, esterco mensal, produtos de limpeza, se entra água cinza, uso contínuo e vedação das tampas e canos.\n• Insetos dentro das caixas: falha na vedação das tampas ou válvula de retenção mal fechada.\n• Líquido não chega à última caixa: vazamento entre canos e caixas, ou sistema grande para o uso atual (espere encher).\n• Última caixa enchendo em menos de 10 dias: o sistema está pequeno; acrescente uma caixa de fermentação.\n• Enxurrada entrando: faça uma barreira de terra ou mureta em volta das caixas.\n• Jardim filtrante com água empoçada por cima ou cheiro: limpe as caixas de gordura e de decantação e ajuste o nível do monge.\n\nCaso alguém da casa tenha diarreia repetida, desconfie do poço: trate a água antes de beber e procure a vigilância sanitária para analisá-la."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Perguntas e respostas: fossa séptica biodigestora (Documentos 70, 2019) — Embrapa Instrumentação",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1118875/1/Fossabiodigestoraperguntaserespostas...doc70.pdf"
+    },
+    {
+      "titulo": "ABC da Agricultura Familiar: saneamento básico rural (fossa séptica biodigestora e jardim filtrante) — Embrapa",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1001853/1/ABCSaneamentobasicoruraled012014.pdf"
+    },
+    {
+      "titulo": "Fossa absorvente ou rudimentar aplicada ao saneamento rural: solução adequada ou alternativa precária? — Revista DAE",
+      "url": "https://revistadae.com.br/artigos/artigo_edicao_220_n_1824.pdf"
+    },
+    {
+      "titulo": "Círculo das bananeiras: uma alternativa socioambiental para o tratamento das águas cinzas — Cadernos de Agroecologia (UFGD)",
+      "url": "https://cadernos.aba-agroecologia.org.br/cadernos/article/download/6492/4717/28064"
+    },
+    {
+      "titulo": "Hydrogen sulfide: hazards in workplaces — OSHA (EUA)",
+      "url": "https://osha.gov/hydrogen-sulfide/hydrogen-sulfide-workplaces"
+    }
+  ]
+}

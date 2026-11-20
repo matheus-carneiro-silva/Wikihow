@@ -58,21 +58,21 @@
     },
     {
       "titulo": "Saiba o que não colocar",
-      "texto": "Fora da composteira:\n\n• fezes humanas, de cão e de gato, e areia de gato;\n• carnes, peixes, ossos, gorduras e laticínios: atraem ratos, cães e moscas;\n• plantas doentes e mato com sementes: a pilha caseira raramente esquenta o bastante para eliminá-los;\n• plástico, metal, vidro, madeira tratada ou envernizada e cinza de carvão de churrasqueira com resto de carne.\n\nResto de comida cozida com sal e muito tempero, em pouca quantidade, vai na pilha comum coberto com material seco, mas não no minhocário.",
+      "texto": "Fora da composteira:\n\n• fezes humanas, de cão e de gato, e areia de gato;\n• carnes, peixes, ossos, gorduras e laticínios: atraem ratos, cães e moscas;\n• plantas doentes e mato com sementes: a pilha caseira raramente esquenta o bastante para eliminá-los;\n• plástico, metal, vidro, madeira tratada ou envernizada.",
       "avisos": [
         "Restos expostos atraem ratos e baratas: sempre cubra com material seco ou terra."
       ]
     },
     {
       "titulo": "Saiba quando está pronto e como usar",
-      "texto": "A pilha fica pronta, em geral, entre 60 e 90 dias. Com reviramento esporádico, conte 90 a 120 dias. Ele está pronto quando:\n\n• não dá mais para reconhecer os materiais;\n• tem cor escura e cheiro de terra;\n• a temperatura do miolo ficou igual à do ambiente, mesmo depois de revirar.\n\nPara hortaliças, aplique de 1 a 3 kg de composto por metro quadrado de canteiro, misturado na terra antes do plantio. Exemplo: canteiro de 1 m × 5 m = 5 m², de 5 a 15 kg (cerca de 1 a 3 carrinhos de mão pequenos, conforme a umidade).",
+      "texto": "A maturação leva, em geral, de 60 a 90 dias; o manual do Ministério do Meio Ambiente conta cerca de 90 dias de fase ativa mais 30 de maturação, então, na dúvida, espere até 120 dias. O composto está pronto quando:\n\n• não dá mais para reconhecer os materiais;\n• tem cor escura e cheiro de terra;\n• a temperatura do miolo ficou igual à do ambiente, mesmo depois de revirar.\n\nPara hortaliças, aplique de 1 a 3 kg de composto por metro quadrado de canteiro, misturado na terra antes do plantio. Exemplo: canteiro de 1 m × 5 m = 5 m², de 5 a 15 kg de composto.",
       "dicas": [
         "Mantenha duas pilhas: uma recebendo material e outra maturando. Assim sempre há composto pronto."
       ]
     },
     {
       "titulo": "Opcional: monte um minhocário",
-      "texto": "As minhocas transformam restos de cozinha em húmus mais rápido, em 45 a 60 dias. Use a minhoca vermelha-da-califórnia, que vive bem em caixas.\n\n• Use caixas plásticas empilhadas (por exemplo, 3 com furos para os resíduos e 1 embaixo para o chorume), com tampa contra ratos e baratas, num lugar arejado e à sombra.\n• Comece com 100 a 200 minhocas para uma caixa de 40 a 80 litros, junto com um pouco de esterco curtido ou composto já frio.\n• Ponha restos de frutas e verduras todo dia ou a cada 2 dias, mudando o lugar dentro da caixa. A cada 2 dias, cubra com folhas secas picadas em volume igual ao dos restos.\n• Não ponha carne, fezes de cachorro, papel colorido nem cítricos e comidas temperadas em quantidade.\n\nA umidade certa é maior que a da pilha: ao apertar, devem escorrer poucas gotas. A temperatura ideal é perto de 25 °C; acima de 30 °C as minhocas sofrem.\n\nRetire o chorume 1 a 2 vezes por semana. Para regar no solo, dilua 1 litro de chorume em 4 litros de água; para borrifar nas folhas, coe e dilua 0,5 litro em 4,5 litros de água, uma vez por semana ou a cada 15 dias.",
+      "texto": "As minhocas transformam restos de cozinha em húmus mais rápido, em 45 a 60 dias. Use a minhoca vermelha-da-califórnia, que vive bem em caixas.\n\n• Use caixas plásticas empilhadas (por exemplo, 3 com furos para os resíduos e 1 embaixo para o chorume), com tampa contra ratos e baratas, num lugar arejado e à sombra.\n• Comece com 100 a 200 minhocas para uma caixa de 40 a 80 litros, junto com um pouco de esterco curtido ou composto já frio.\n• Ponha restos de frutas e verduras todo dia ou a cada 2 dias, mudando o lugar dentro da caixa. A cada 2 dias, cubra com folhas secas picadas em volume igual ao dos restos.\n• Não ponha carne, fezes de cachorro, papel colorido nem cítricos e comidas temperadas em quantidade.\n\nA umidade certa é maior que a da pilha: ao apertar, devem escorrer poucas gotas. A temperatura ideal é perto de 25 °C, e elas suportam até cerca de 30 °C.\n\nRetire o chorume 1 a 2 vezes por semana. Para regar no solo, dilua 1 litro de chorume em 4 litros de água; para borrifar nas folhas, coe e dilua 0,5 litro em 4,5 litros de água, uma vez por semana ou a cada 15 dias.",
       "dicas": [
         "Para separar as minhocas do húmus, coloque uma isca de casca de fruta num saco de cebola sobre a caixa: em 4 a 7 dias a maioria migra para ela."
       ]
@@ -85,7 +85,7 @@
     },
     {
       "titulo": "Produção de composto orgânico — Embrapa Amapá (2014)",
-      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1009568/1/CPAFAPFDRAdubacaoverde.pdf"
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1009568/1/CPAFAP2014Compostagemorganica.pdf"
     },
     {
       "titulo": "Compostagem doméstica, comunitária e institucional de resíduos orgânicos: manual de orientação — Ministério do Meio Ambiente (2017)",

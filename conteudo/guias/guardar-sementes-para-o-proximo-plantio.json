@@ -1,0 +1,100 @@
+{
+  "id": "guardar-sementes-para-o-proximo-plantio",
+  "titulo": "Como guardar sementes para o próximo plantio",
+  "resumo": "Sementes crioulas x híbridas, escolha das plantas-mãe, colheita, secagem, teste de germinação e armazenamento para plantar todo ano sem comprar semente.",
+  "categoria": "pragas-colheita-e-sementes",
+  "tags": [
+    "semente crioula",
+    "sementes",
+    "híbrido",
+    "polinização aberta",
+    "germinação",
+    "banco de sementes",
+    "casa de sementes",
+    "guardar semente",
+    "validade da semente",
+    "paiol"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Semente comprada costuma vir tratada com fungicida ou inseticida (geralmente tingida de cor forte): não coma e não dê a animais. Guarde as sementes separadas dos grãos de comer, em potes identificados.",
+  "materiais": [
+    "Potes de vidro ou latas com tampa bem vedada",
+    "Peneira, telas ou papel para secar",
+    "Papel toalha e sacos plásticos transparentes (teste de germinação)",
+    "Sílica-gel ou leite em pó novo e um pedaço de pano fino",
+    "Etiquetas e caneta"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha variedades que \"repetem\"",
+      "texto": "Variedades de polinização aberta (as crioulas, passadas de família em família, e as variedades melhoradas comuns) dão sementes que geram plantas parecidas com a mãe. Essas podem ser guardadas safra após safra.\n\nHíbridos (escrito \"híbrido\" ou \"F1\" no pacote) só têm todo o vigor na primeira geração. Segundo a Embrapa, plantar os grãos colhidos de milho híbrido (a geração F2) reduz a produtividade em 15% a 40%, com perda de vigor e plantas muito desiguais. Por isso, quem não quer depender de comprar semente deve começar com variedades crioulas.",
+      "dicas": [
+        "Procure sementes crioulas com vizinhos, feiras de troca, sindicatos rurais e casas ou bancos comunitários de sementes."
+      ]
+    },
+    {
+      "titulo": "Saiba quais plantas cruzam entre si",
+      "texto": "Mais fáceis para começar: feijão, ervilha, tomate e pimentão. As flores se autopolinizam e a semente quase não precisa de preparo.\n\nMilho cruza pelo vento, e abóbora, pepino e melão cruzam por insetos. Um milho-pipoca no vizinho pode polinizar seu milho comum num dia de vento, e a semente sai misturada. Se quiser manter uma variedade pura dessas plantas, cultive uma só variedade de cada por vez ou plante longe de outras da mesma espécie."
+    },
+    {
+      "titulo": "Escolha as plantas-mãe",
+      "texto": "Marque com fita ou estaca as plantas mais vigorosas, sadias e com frutos de melhor sabor, e tire a semente só delas.\n\nNão tire semente de planta fraca, doente ou diferente do tipo da variedade: os defeitos passam para a próxima safra."
+    },
+    {
+      "titulo": "Colha no ponto certo",
+      "texto": "• Feijão e ervilha: deixe as vagens no pé até ficarem secas e marrons, com os grãos chocalhando. Isso pode levar até 1 mês depois da colheita normal. Deixe secar mais 2 semanas antes de debulhar, ou guarde nas vagens até o plantio.\n• Pimentão e pimenta: deixe alguns frutos maduros no pé até começarem a enrugar; tire as sementes e seque.\n• Tomate: tire as sementes com a gosma, ponha num pote com um pouco de água e mexa 2 vezes ao dia. A mistura fermenta e as sementes boas vão para o fundo em até 5 dias. Escorra o líquido, enxágue e seque as sementes sobre papel."
+    },
+    {
+      "titulo": "Seque bem antes de guardar",
+      "texto": "Espalhe as sementes em camada fina sobre telas ou papel, à sombra e em local ventilado. Sol direto pode superaquecer e matar a semente. Semente grande, mais úmida ou em tempo frio demora mais.\n\nTeste: semente grande seca quebra quando dobrada; se ela entorta, ainda precisa secar. Sementes com menos de 8% de umidade, bem guardadas, chegam a durar uns 10 anos.",
+      "avisos": [
+        "Nunca seque semente no micro-ondas. No forno, só com a porta aberta e abaixo de 38 °C."
+      ]
+    },
+    {
+      "titulo": "Faça o teste de germinação",
+      "texto": "Teste caseiro que a Embrapa Pantanal comparou com o de laboratório e deu o mesmo resultado:\n\n1. Conte 50 sementes ao acaso.\n2. Arrume-as sobre duas folhas de papel toalha, enrole e molhe o rolinho.\n3. Ponha dentro de um saco plástico transparente fino e guarde num armário, à temperatura ambiente.\n4. Durante 10 dias, conte as sementes que soltaram raiz de pelo menos 1 cm.\n\nGerminação (%) = sementes germinadas ÷ 50 × 100. Exemplo: 40 germinadas = 80%.",
+      "dicas": [
+        "Faça o teste sempre que a semente estiver guardada há mais de 1 ano. Com germinação baixa, semeie mais sementes por cova ou renove o lote."
+      ]
+    },
+    {
+      "titulo": "Guarde em pote fechado, fresco, seco e escuro",
+      "texto": "Use vidro ou lata com tampa bem vedada: camundongos roem plástico. Saquinho plástico comum deixa entrar umidade.\n\nPara manter seco, ponha no pote sílica-gel ou 1 a 2 colheres de sopa de leite em pó novo embrulhado em pano fino ou papel; troque o leite a cada 6 meses. O melhor lugar é a geladeira, entre 0 °C e 5 °C. Sem geladeira, escolha o canto mais fresco, seco e escuro da casa, longe do fogão.\n\nRegra dos 100: temperatura em °F (°C × 1,8 + 32) mais a umidade relativa do ar (%) deve dar menos de 100. Na geladeira a 4 °C (39 °F), até 60% de umidade está bom; a 25 °C (77 °F) seria preciso menos de 23%, por isso o pote vedado com secante é tão importante no calor.",
+      "dicas": [
+        "Etiquete cada pote com planta, variedade e data da colheita."
+      ]
+    },
+    {
+      "titulo": "Saiba quanto tempo cada semente dura",
+      "texto": "Longevidade aproximada em boas condições (Universidade Estadual do Colorado):\n\n• 1 ano: alface, cebola, salsa;\n• 2 anos: milho-verde, pimentão, quiabo, alho-poró;\n• 3 anos: feijão, ervilha, cenoura, espinafre, aipo;\n• 4 anos: tomate, abóbora, melancia, berinjela, couve, repolho, beterraba, rabanete, nabo;\n• 5 anos: pepino, melão.\n\nNo calor e sem geladeira, o tempo cai: o mais seguro é replantar e renovar o estoque todo ano e manter uma reserva de 2 safras.",
+      "dicas": [
+        "Participe de uma casa ou banco comunitário de sementes crioulas: se a sua semente perder, há reserva com os vizinhos."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Cultivo do milho: cultivares — Embrapa Milho e Sorgo",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/748758/1/Milho-Cultivares.pdf"
+    },
+    {
+      "titulo": "Saving vegetable seeds — University of Minnesota Extension",
+      "url": "https://extension.umn.edu/planting-and-growing-guides/saving-vegetable-seeds"
+    },
+    {
+      "titulo": "Avaliação de teste alternativo para determinar a viabilidade de sementes — Embrapa Pantanal",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/973616/1/RE32.pdf"
+    },
+    {
+      "titulo": "Storing vegetable and flower seeds — Colorado State University Extension",
+      "url": "https://extension.colostate.edu/resource/storing-vegetable-and-flower-seeds/"
+    },
+    {
+      "titulo": "How long do seeds last? — Cornell Small Farms Program",
+      "url": "https://smallfarms.cornell.edu/?p=23815"
+    }
+  ]
+}
