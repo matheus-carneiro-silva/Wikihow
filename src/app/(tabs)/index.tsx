@@ -1,22 +1,32 @@
-import { Link } from 'expo-router';
-import { StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { Screen } from '@/components/Screen';
+import { ListaGuias } from '@/components/ListaGuias';
+import { guias } from '@/conteudo';
+import { cores } from '@/tema';
 
-export default function Home() {
+export default function Inicio() {
   return (
-    <Screen>
-      <Text style={styles.title}>Wikihow</Text>
-      <Text style={styles.subtitle}>Projeto Expo para Android com Expo Router.</Text>
-      <Link href="/sobre" style={styles.link}>
-        Ir para Sobre
-      </Link>
-    </Screen>
+    <SafeAreaView edges={['top']} style={styles.tela}>
+      <ListaGuias
+        guias={guias}
+        vazio="Nenhum guia ainda. Adicione arquivos em conteudo/guias."
+        cabecalho={
+          <View style={styles.cabecalho}>
+            <Text style={styles.titulo}>Guias</Text>
+            <Text style={styles.subtitulo}>
+              {guias.length} {guias.length === 1 ? 'guia disponível' : 'guias disponíveis'} offline
+            </Text>
+          </View>
+        }
+      />
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  title: { fontSize: 28, fontWeight: '700' },
-  subtitle: { fontSize: 16, color: '#555', textAlign: 'center' },
-  link: { fontSize: 16, color: '#1a73e8', paddingVertical: 8 },
+  tela: { flex: 1, backgroundColor: cores.fundo },
+  cabecalho: { gap: 4, marginBottom: 4 },
+  titulo: { fontSize: 28, fontWeight: '700', color: cores.texto },
+  subtitulo: { fontSize: 14, color: cores.textoSecundario },
 });

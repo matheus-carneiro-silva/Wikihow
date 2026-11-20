@@ -1,0 +1,36 @@
+{
+  "id": "desentupir-pia",
+  "titulo": "Como desentupir a pia da cozinha",
+  "resumo": "Métodos caseiros, do mais simples ao mais forte, para resolver entupimentos leves.",
+  "categoria": "casa",
+  "tags": ["encanamento", "limpeza", "pia"],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-19",
+  "materiais": ["Água fervente", "Bicarbonato de sódio", "Vinagre", "Desentupidor de pia", "Balde"],
+  "passos": [
+    {
+      "titulo": "Tire a água parada",
+      "texto": "Retire com um copo ou caneca a água acumulada na cuba, jogando-a num balde."
+    },
+    {
+      "titulo": "Use água fervente",
+      "texto": "Despeje uma chaleira de água fervente diretamente no ralo, em duas ou três etapas.\n\nResolve entupimentos causados por gordura.",
+      "avisos": ["Não use água fervente em encanamento de PVC antigo ou com cola fragilizada."]
+    },
+    {
+      "titulo": "Bicarbonato e vinagre",
+      "texto": "Coloque meia xícara de bicarbonato no ralo e, em seguida, uma xícara de vinagre. Tampe o ralo e espere 15 minutos. Depois, despeje mais água quente."
+    },
+    {
+      "titulo": "Use o desentupidor",
+      "texto": "Encha a cuba com alguns centímetros de água, posicione o desentupidor cobrindo todo o ralo e faça movimentos firmes para cima e para baixo por cerca de 20 segundos.",
+      "dicas": ["Em cubas duplas, tampe o outro ralo com um pano molhado para não perder pressão."]
+    },
+    {
+      "titulo": "Limpe o sifão",
+      "texto": "Se nada funcionou, coloque o balde embaixo da pia, desrosqueie o sifão e limpe os resíduos acumulados. Monte de volta e teste com água.",
+      "avisos": ["Se o entupimento estiver depois do sifão, na parede, chame um encanador."]
+    }
+  ]
+}

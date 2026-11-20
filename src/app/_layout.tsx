@@ -11,7 +11,7 @@ export default function RootLayout() {
         }}
       >
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="sobre" options={{ title: 'Sobre' }} />
+        <Stack.Screen name="guia/[id]" options={{ title: '' }} />
       </Stack>
       <StatusBar style="dark" />
     </>

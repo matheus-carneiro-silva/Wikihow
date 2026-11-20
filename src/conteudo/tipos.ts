@@ -1,0 +1,37 @@
+/**
+ * Formato das "páginas" offline do app. Cada guia é um arquivo JSON em
+ * conteudo/guias/<id>.json; as categorias ficam em conteudo/categorias.json.
+ * Documentação completa do formato: conteudo/README.md.
+ */
+
+export type Dificuldade = 'facil' | 'media' | 'dificil';
+
+export type Categoria = {
+  /** Identificador em kebab-case, referenciado por Guia.categoria. */
+  id: string;
+  nome: string;
+  descricao?: string;
+};
+
+export type Passo = {
+  titulo: string;
+  /** Parágrafos separados por linha em branco ("\n\n"). */
+  texto: string;
+  dicas?: string[];
+  avisos?: string[];
+};
+
+export type Guia = {
+  /** Igual ao nome do arquivo, sem .json (kebab-case). */
+  id: string;
+  titulo: string;
+  resumo: string;
+  categoria: string;
+  tags?: string[];
+  dificuldade?: Dificuldade;
+  tempoMinutos?: number;
+  /** Data no formato AAAA-MM-DD. */
+  atualizadoEm: string;
+  materiais?: string[];
+  passos: Passo[];
+};

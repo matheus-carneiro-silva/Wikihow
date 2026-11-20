@@ -1,11 +1,13 @@
 import { NativeTabs } from 'expo-router/native-tabs';
 
+import { cores } from '@/tema';
+
 export default function TabsLayout() {
   return (
     <NativeTabs
-      backgroundColor="#fff"
-      indicatorColor="#d0e2fc"
-      tintColor="#1a73e8"
+      backgroundColor={cores.fundo}
+      indicatorColor={cores.primariaSuave}
+      tintColor={cores.primaria}
       labelVisibilityMode="labeled"
     >
       <NativeTabs.Trigger name="index">
@@ -14,11 +16,7 @@ export default function TabsLayout() {
       </NativeTabs.Trigger>
       <NativeTabs.Trigger name="explorar">
         <NativeTabs.Trigger.Label>Explorar</NativeTabs.Trigger.Label>
-        <NativeTabs.Trigger.Icon md="explore" />
-      </NativeTabs.Trigger>
-      <NativeTabs.Trigger name="perfil">
-        <NativeTabs.Trigger.Label>Perfil</NativeTabs.Trigger.Label>
-        <NativeTabs.Trigger.Icon md="person" />
+        <NativeTabs.Trigger.Icon md="search" />
       </NativeTabs.Trigger>
     </NativeTabs>
   );

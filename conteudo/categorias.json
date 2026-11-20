@@ -1,0 +1,5 @@
+[
+  { "id": "cozinha", "nome": "Cozinha", "descricao": "Receitas e técnicas culinárias" },
+  { "id": "casa", "nome": "Casa", "descricao": "Manutenção, limpeza e organização" },
+  { "id": "tecnologia", "nome": "Tecnologia", "descricao": "Computadores, celulares e programas" }
+]
