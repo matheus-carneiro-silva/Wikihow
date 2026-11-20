@@ -1,11 +1,11 @@
 // Testes do conteúdo real em conteudo/: falham se algum JSON estiver inválido.
 import assert from 'node:assert/strict';
-import { cpSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { afterEach, beforeEach, describe, it } from 'node:test';
 
-import { lerConteudo, PASTA_CONTEUDO } from '../scripts/ler-conteudo.mts';
+import { lerConteudo } from '../scripts/ler-conteudo.mts';
 import { criarMotorDeBusca } from '../src/busca/motor.ts';
 
 const conteudo = lerConteudo();
@@ -15,8 +15,7 @@ describe('conteúdo real', () => {
     assert.deepEqual(conteudo.erros, []);
   });
 
-  it('tem guias e todos foram carregados', () => {
-    assert.ok(conteudo.guias.length > 0);
+  it('todos os arquivos de guias foram carregados', () => {
     assert.equal(conteudo.guias.length, conteudo.totalArquivos);
   });
 
@@ -47,21 +46,45 @@ describe('conteúdo real', () => {
   });
 });
 
+/** Pasta de conteúdo fictícia: 2 guias, 1 deles com imagem. */
+function criarPastaFicticia(): string {
+  const pasta = mkdtempSync(join(tmpdir(), 'conteudo-'));
+  mkdirSync(join(pasta, 'guias'));
+  mkdirSync(join(pasta, 'imagens', 'com-imagem'), { recursive: true });
+  writeFileSync(join(pasta, 'categorias.json'), JSON.stringify([{ id: 'casa', nome: 'Casa' }]));
+  writeFileSync(join(pasta, 'sinonimos.json'), JSON.stringify([['geladeira', 'refrigerador']]));
+  const guia = (id: string, passo: Record<string, unknown>) =>
+    JSON.stringify({ id, titulo: id, resumo: 'Resumo.', categoria: 'casa', atualizadoEm: '2026-11-20', passos: [passo] });
+  writeFileSync(join(pasta, 'guias', 'sem-imagem.json'), guia('sem-imagem', { titulo: 'P', texto: 'T' }));
+  writeFileSync(
+    join(pasta, 'guias', 'com-imagem.json'),
+    guia('com-imagem', { titulo: 'P', texto: 'T', imagem: { arquivo: 'com-imagem/foto.png', descricao: 'Foto.' } }),
+  );
+  writeFileSync(join(pasta, 'imagens', 'com-imagem', 'foto.png'), 'PNG');
+  return pasta;
+}
+
 describe('lerConteudo com arquivos quebrados', () => {
-  // Cada teste estraga uma cópia nova do conteúdo real.
+  // Cada teste estraga uma pasta fictícia nova (independe do conteúdo real).
   let pasta = '';
   beforeEach(() => {
-    pasta = mkdtempSync(join(tmpdir(), 'conteudo-'));
-    cpSync(PASTA_CONTEUDO, pasta, { recursive: true });
+    pasta = criarPastaFicticia();
   });
   afterEach(() => rmSync(pasta, { recursive: true, force: true }));
+
+  it('lê a pasta fictícia sem erros', () => {
+    const r = lerConteudo(pasta);
+    assert.deepEqual(r.erros, []);
+    assert.deepEqual(r.guias.map((g) => g.id).sort(), ['com-imagem', 'sem-imagem']);
+    assert.deepEqual(r.imagens, ['com-imagem/foto.png']);
+  });
 
   it('reporta JSON inválido sem interromper os outros arquivos', () => {
     writeFileSync(join(pasta, 'guias', 'quebrado.json'), '{ "id": ');
     const r = lerConteudo(pasta);
     assert.equal(r.erros.length, 1);
     assert.match(r.erros[0], /guias\/quebrado\.json: JSON inválido/);
-    assert.equal(r.guias.length, conteudo.guias.length);
+    assert.equal(r.guias.length, 2);
   });
 
   it('sinônimos quebrados viram erro, mas os guias continuam válidos', () => {
@@ -69,7 +92,7 @@ describe('lerConteudo com arquivos quebrados', () => {
     let r = lerConteudo(pasta);
     assert.deepEqual(r.erros, ['sinonimos.json[0]: grupo com ao menos 2 palavras']);
     assert.deepEqual(r.sinonimos, []);
-    assert.equal(r.guias.length, conteudo.guias.length);
+    assert.equal(r.guias.length, 2);
 
     writeFileSync(join(pasta, 'sinonimos.json'), 'nada');
     r = lerConteudo(pasta);
@@ -87,10 +110,9 @@ describe('lerConteudo com arquivos quebrados', () => {
     rmSync(join(pasta, 'imagens'), { recursive: true });
     const r = lerConteudo(pasta);
     assert.deepEqual(r.imagens, []);
-    const comImagem = conteudo.guias.filter((g) => g.passos.some((p) => p.imagem)).length;
-    assert.ok(comImagem > 0);
-    assert.equal(r.guias.length, conteudo.guias.length - comImagem);
-    assert.ok(r.erros.every((e) => e.includes('não existe em conteudo/imagens/')));
+    assert.deepEqual(r.guias.map((g) => g.id), ['sem-imagem']);
+    assert.equal(r.erros.length, 1);
+    assert.match(r.erros[0], /"com-imagem\/foto\.png" não existe em conteudo\/imagens/);
   });
 
   it('com categorias inválidas, os guias também são recusados', () => {

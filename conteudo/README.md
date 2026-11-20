@@ -99,8 +99,6 @@ Campos fora dessa lista são recusados pela validação, para pegar erros de dig
   ocupa a largura da tela mantendo a proporção.
 - A validação recusa imagem inexistente e os testes recusam imagem sem uso ou fora
   da pasta do guia.
-- As ilustrações atuais foram desenhadas em SVG; as fontes ficam em
-  `design/ilustracoes/`.
 
 ## sinonimos.json
 

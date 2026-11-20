@@ -272,6 +272,19 @@ describe('sincronizarConteudo', () => {
     }
   });
 
+  it('aceita conteúdo vazio e remove os guias que havia no aparelho', async () => {
+    const { github, armazenamento, sincronizar } = preparar();
+    await sincronizar();
+    for (const c of [...github.arquivos.keys()]) if (c.startsWith('conteudo/guias/') || c.startsWith('conteudo/imagens/')) github.arquivos.delete(c);
+    github.arquivos.set('conteudo/categorias.json', '[]');
+    github.arquivos.set('conteudo/sinonimos.json', '[]');
+    const r = await sincronizar();
+    assert.equal(r.tipo, 'atualizado');
+    if (r.tipo !== 'atualizado') return;
+    assert.deepEqual(r.conteudo.guias, []);
+    assert.deepEqual([...armazenamento.atual.keys()].sort(), ['categorias.json', 'sinonimos.json']);
+  });
+
   it('recusa pasta inexistente no repositório', async () => {
     const { sincronizar } = preparar(new GitHubFalso({ 'outra/categorias.json': '[]' }));
     await assert.rejects(sincronizar(), /pasta "conteudo" não foi encontrada/);

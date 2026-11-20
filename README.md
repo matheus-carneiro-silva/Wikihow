@@ -60,7 +60,6 @@ conteudo/                   # páginas offline em JSON (formato em conteudo/READ
 ├── sinonimos.json
 ├── guias/<id>.json
 └── imagens/<id>/           # imagens dos passos
-design/ilustracoes/         # fontes SVG das ilustrações
 src/
 ├── app/
 │   ├── _layout.tsx         # pilha raiz (Stack)
