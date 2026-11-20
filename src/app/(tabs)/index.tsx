@@ -1,3 +1,4 @@
+import Constants from 'expo-constants';
 import { StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -16,6 +17,7 @@ export default function Inicio() {
             <Text style={styles.titulo}>Guias</Text>
             <Text style={styles.subtitulo}>
               {guias.length} {guias.length === 1 ? 'guia disponível' : 'guias disponíveis'} offline
+              {Constants.expoConfig?.version ? ` · versão ${Constants.expoConfig.version}` : ''}
             </Text>
           </View>
         }

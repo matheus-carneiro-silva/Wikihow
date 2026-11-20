@@ -1,0 +1,88 @@
+# Gera o APK de uma nova versão quando uma Release é publicada no GitHub.
+#
+# A tag da Release define a versão do app: v1.2.0 → version "1.2.0".
+# O versionCode é incrementado automaticamente pelos servidores da Expo
+# (appVersionSource "remote" + autoIncrement no perfil production do eas.json).
+#
+# Pré-requisitos (uma vez só; ver "Versões e builds" no README):
+#   - secret EXPO_TOKEN no repositório
+#   - projeto ligado ao EAS (`eas init`) e chave de assinatura criada
+name: Release Android
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write # anexar o APK na Release
+
+concurrency:
+  group: release-${{ github.event.release.tag_name }}
+  cancel-in-progress: false
+
+jobs:
+  apk:
+    name: Build do APK
+    runs-on: ubuntu-latest
+    # O build roda na nuvem da Expo; no plano gratuito pode haver fila.
+    timeout-minutes: 180
+    env:
+      TAG: ${{ github.event.release.tag_name }}
+    steps:
+      - name: Validar a tag
+        run: |
+          if [[ ! "$TAG" =~ ^v?([0-9]+\.[0-9]+\.[0-9]+)$ ]]; then
+            echo "::error::A tag \"$TAG\" não é uma versão no formato v1.2.3."
+            exit 1
+          fi
+          echo "VERSAO=${BASH_REMATCH[1]}" >> "$GITHUB_ENV"
+
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Testes
+        run: npm test
+
+      - name: Tipos
+        run: npm run typecheck
+
+      - name: Aplicar a versão da tag no app.json
+        run: |
+          node -e '
+            const fs = require("fs");
+            const app = JSON.parse(fs.readFileSync("app.json", "utf8"));
+            app.expo.version = process.env.VERSAO;
+            fs.writeFileSync("app.json", JSON.stringify(app, null, 2) + "\n");
+          '
+          echo "Versão do app: $VERSAO"
+
+      - uses: expo/expo-github-action@v9
+        with:
+          eas-version: latest
+          packager: npm
+          token: ${{ secrets.EXPO_TOKEN }}
+
+      - name: Build na Expo
+        # O EAS envia o diretório atual, incluindo o app.json alterado acima.
+        run: eas build --platform android --profile production --non-interactive --wait --json > build.json
+
+      - name: Anexar o APK na Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          URL=$(jq -r '.[0].artifacts.buildUrl // .[0].artifacts.applicationArchiveUrl // empty' build.json)
+          if [ -z "$URL" ]; then
+            echo "::error::O build terminou sem APK. Resposta do EAS:"
+            cat build.json
+            exit 1
+          fi
+          ARQUIVO="wikihow-$TAG.apk"
+          curl -fsSL -o "$ARQUIVO" "$URL"
+          gh release upload "$TAG" "$ARQUIVO" --clobber
+          echo "### APK $TAG anexado à Release" >> "$GITHUB_STEP_SUMMARY"

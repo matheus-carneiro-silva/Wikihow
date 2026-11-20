@@ -33,10 +33,10 @@
     "typecheck": "tsc --noEmit",
     "doctor": "npx expo-doctor",
     "build:apk": "npx eas-cli@latest build --platform android --profile preview",
-    "build:aab": "npx eas-cli@latest build --platform android --profile production",
     "conteudo:validar": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/validar-conteudo.mts",
     "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --test \"testes/*.test.mts\"",
-    "test:cobertura": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-test-coverage --test \"testes/*.test.mts\""
+    "test:cobertura": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-test-coverage --test \"testes/*.test.mts\"",
+    "build:release": "npx eas-cli@latest build --platform android --profile production"
   },
   "private": true
 }

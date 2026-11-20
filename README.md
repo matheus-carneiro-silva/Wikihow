@@ -29,8 +29,8 @@ npm run android    # inicia e abre direto no emulador/dispositivo conectado
 | `npm test` | Testes da busca, da validação e do conteúdo real de `conteudo/` |
 | `npm run test:cobertura` | Testes com relatório de cobertura |
 | `npm run doctor` | Diagnóstico de configuração e dependências |
-| `npm run build:apk` | Build de APK na nuvem (perfil `preview`, para testes internos) |
-| `npm run build:aab` | Build de AAB na nuvem (perfil `production`, para a Play Store) |
+| `npm run build:apk` | Build de APK na nuvem da Expo (perfil `preview`, para testar) |
+| `npm run build:release` | Build de APK na nuvem da Expo (perfil `production`, o mesmo da Release) |
 
 ## Navegação (Expo Router)
 
@@ -62,6 +62,44 @@ src/
 - **Navegação**: `<Link href={{ pathname: '/guia/[id]', params: { id } }}>` ou `router.push(...)`. Rotas tipadas estão ativas (`experiments.typedRoutes`); os tipos são gerados em `.expo/types` ao rodar `npm start`.
 - Imports com o alias `@/` apontam para `src/`.
 - Deep links usam o scheme `wikihow://` (ex.: `adb shell am start -a android.intent.action.VIEW -d "wikihow://guia/fazer-cafe-coado"`).
+
+## Versões e builds
+
+Publicar uma **Release** no GitHub gera o APK daquela versão
+(`.github/workflows/release.yml`):
+
+1. Testes e checagem de tipos rodam primeiro; se falharem, não há build.
+2. A tag da Release vira a versão do app: `v1.2.0` → `1.2.0` (formato `v1.2.3` obrigatório).
+   O `version` do `app.json` no repositório não é usado nas Releases.
+3. O build roda na nuvem da Expo (EAS Build) com o perfil `production`. O `versionCode`
+   é incrementado pela Expo a cada build, então o Android aceita instalar por cima.
+4. O APK (`wikihow-v1.2.0.apk`) é anexado à Release. No celular, baixe e instale
+   (o Android pede para permitir instalação de fontes desconhecidas na primeira vez).
+
+A versão instalada aparece na aba Início.
+
+### Configuração inicial (uma vez só)
+
+1. Crie uma conta em [expo.dev](https://expo.dev).
+2. No computador, dentro do projeto:
+   ```bash
+   npx eas-cli@latest login
+   npx eas-cli@latest init          # liga o projeto à sua conta (grava projectId e owner no app.json)
+   npx eas-cli@latest credentials -p android
+   ```
+   No `credentials`, escolha o perfil `production` e gere uma nova keystore. A Expo
+   guarda essa chave; todas as versões serão assinadas com ela, o que permite
+   atualizar o app sem desinstalar.
+3. Faça commit e push do `app.json` alterado pelo `init`.
+4. Em expo.dev, vá em **Account settings → Access tokens** e crie um token.
+5. No GitHub, em **Settings → Secrets and variables → Actions**, crie o secret
+   `EXPO_TOKEN` com esse token.
+
+### Gerar uma versão
+
+No GitHub: **Releases → Draft a new release**, crie a tag (`v1.0.0`, `v1.1.0`…)
+e clique em **Publish release**. Acompanhe em **Actions**; no plano gratuito da Expo
+o build pode esperar alguns minutos na fila.
 
 ## Configuração Android
 
