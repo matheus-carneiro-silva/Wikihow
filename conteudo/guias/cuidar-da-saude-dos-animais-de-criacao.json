@@ -1,0 +1,110 @@
+{
+  "id": "cuidar-da-saude-dos-animais-de-criacao",
+  "titulo": "Como cuidar da saúde dos animais de criação",
+  "resumo": "Cabras, ovelhas, vacas e porcos: sinais de doença, febre, verme e método FAMACHA, cascos, carrapatos, vacinas do MAPA, notificação e carência de remédios.",
+  "categoria": "caprinos-e-suinos",
+  "tags": [
+    "verme",
+    "verminose",
+    "vermífugo",
+    "FAMACHA",
+    "vacina",
+    "raiva",
+    "aftosa",
+    "carrapato",
+    "animal doente",
+    "veterinário"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Várias doenças dos animais passam para pessoas, como raiva, brucelose e tuberculose. Use luvas em partos e abortos, não ponha a mão na boca de animal com sinais nervosos (babando, andando sem rumo, paralisado) e procure atendimento se for mordido ou se ferir com agulha de vacina (veja o guia sobre mordida de animal e raiva). Remédios veterinários deixam resíduo no leite e na carne: siga sempre a bula e o período de carência.",
+  "materiais": [
+    "Termômetro digital (de uso só para os animais)",
+    "Cartão FAMACHA, para cabras e ovelhas",
+    "Caderno para anotar tratamentos, vacinas e carências",
+    "Luvas descartáveis",
+    "Canivete ou tesoura de casco",
+    "Seringa dosificadora para vermífugo"
+  ],
+  "passos": [
+    {
+      "titulo": "Reconheça o animal doente",
+      "texto": "Observe o rebanho todo dia, de preferência na hora da comida. Fique atento a animal que:\n\n• se isola, fica deitado, triste ou de cabeça baixa;\n• não come ou bebe pouco;\n• emagrece, tem diarreia, tosse ou corrimento no nariz;\n• tem papeira (inchaço embaixo do queixo) ou mucosas pálidas (sinais típicos de verminose);\n• manca, baba, tem feridas ou bolhas na boca, no focinho, nos cascos ou nos tetos;\n• tem queda na produção de leite.\n\nSeparar o doente cedo protege o resto do rebanho.",
+      "dicas": [
+        "Anote no caderno qual animal, o que viu e a data: isso ajuda muito o veterinário."
+      ]
+    },
+    {
+      "titulo": "Meça a temperatura",
+      "texto": "Use termômetro digital no reto, com o animal contido, e espere o sinal. Faixas normais de temperatura retal (Manual Veterinário MSD):\n\n• cabra: 38,5 a 39,7 °C;\n• ovelha: 38,3 a 39,9 °C;\n• porco: 38,7 a 39,8 °C;\n• vaca leiteira: 38,0 a 39,3 °C;\n• vaca de corte: 36,7 a 39,1 °C.\n\nAcima da faixa é febre, principalmente se o animal também está triste e sem comer.",
+      "avisos": [
+        "Lave e desinfete o termômetro depois de cada animal, para não passar doença de um para outro."
+      ]
+    },
+    {
+      "titulo": "Controle a verminose com o método FAMACHA",
+      "texto": "Em cabras e ovelhas, o verme Haemonchus suga sangue e causa anemia. O método FAMACHA, recomendado pela Embrapa, compara a cor da mucosa da pálpebra de baixo com um cartão de 5 cores:\n\n• graus 1 e 2 (vermelho vivo): não vermifugar;\n• graus 3, 4 e 5 (cada vez mais pálido): vermifugar.\n\nComo fazer: com o polegar, puxe para baixo a pálpebra inferior e compare a cor no meio da mucosa com o cartão.\n\nFrequência: na caatinga, a cada 15 dias na época das chuvas e a cada 30 dias na seca; em pasto cultivado ou irrigado, toda semana ou no máximo a cada 10 dias. Cabritos e cordeiros: a partir da 3ª semana de pastejo.\n\nAnimal com grau 4 deve receber também comida melhor (verde e concentrado) e suplemento de ferro. Animal vermifugado só deve ser tratado de novo depois de 15 dias.",
+      "dicas": [
+        "Anote o grau de cada animal. A Embrapa recomenda descartar do rebanho quem precisar de vermífugo 8 vezes ou mais em 6 meses: são os mais sensíveis ao verme."
+      ]
+    },
+    {
+      "titulo": "Use vermífugo do jeito certo",
+      "texto": "Vermifugar todo o rebanho de rotina criou vermes resistentes: muitos vermífugos já não funcionam. Para evitar isso, a Embrapa recomenda:\n\n• tratar só os animais que precisam (FAMACHA ou exame de fezes com 1.000 ovos por grama ou mais) e os com sinais claros de verminose;\n• pesar o animal e dar a dose da bula, pela boca, com seringa ou pistola dosificadora;\n• vermifugar os animais comprados antes de juntar ao rebanho;\n• não vermifugar fêmeas nos primeiros 45 dias de prenhez;\n• deixar os animais presos por 12 horas antes e depois (vermifugue no fim da tarde);\n• trocar o grupo químico do vermífugo só depois de 1 ano de uso, e trocar para outro grupo, não só de marca.\n\nReduza a contaminação do pasto: evite superlotação, deixe o pasto descansar, separe jovens de adultos e deixe o esterco curtir pelo menos 60 dias na esterqueira antes de usar no pasto.",
+      "avisos": [
+        "Cabras e ovelhas podem precisar de doses diferentes do mesmo remédio, e alguns produtos não servem para as duas espécies. Leia a bula."
+      ]
+    },
+    {
+      "titulo": "Cuide de cascos e carrapatos",
+      "texto": "Cascos: mantenha o local de descanso seco e limpo e apare os cascos crescidos com canivete ou tesoura própria, com o animal bem contido. Casco com mau cheiro, ferida entre as unhas ou manqueira precisa de limpeza e tratamento; separe o animal em lugar seco.\n\nCarrapatos e piolhos: trate no começo da infestação, e não só quando o rebanho já está tomado. Use um produto que funcione na sua propriedade (peça orientação técnica sobre teste de resistência) e aplique exatamente como diz a bula, molhando bem o animal todo.",
+      "avisos": [
+        "Carrapaticidas e sarnicidas também têm carência no leite e na carne, e alguns não podem ser usados em animais em lactação. Confira na bula antes de aplicar em animal que dá leite."
+      ]
+    },
+    {
+      "titulo": "Vacine conforme as regras do MAPA",
+      "texto": "Brucelose: no Brasil, é obrigatório vacinar todas as bezerras bovinas e búfalas entre 3 e 8 meses de idade, em dose única, com a vacina B19 (ou a RB51, que pode substituí-la em bovinos). A vacinação é feita sob responsabilidade de veterinário cadastrado no serviço veterinário estadual, que emite o atestado; a bezerra vacinada é marcada no lado esquerdo da cara.\n\nRaiva dos herbívoros: transmitida principalmente pelo morcego-vampiro. O MAPA coordena vacinação estratégica de bovinos, cabras e ovelhas em focos e regiões de risco, com vacina inativada (dose padrão de 2 mL, imunidade de 12 meses). Pergunte ao órgão estadual de defesa agropecuária se sua região é área de risco.\n\nFebre aftosa: desde maio de 2025 o Brasil é reconhecido internacionalmente como livre de febre aftosa sem vacinação. Não se vacina mais de rotina; agora o essencial é avisar qualquer suspeita.\n\nClostridioses (enterotoxemia, tétano e outras): vacine cabras, ovelhas e bovinos conforme a bula e a orientação técnica.",
+      "avisos": [
+        "A vacina B19 de brucelose pode infectar pessoas que se espetam ou se respingam com ela: quem não é treinado não deve aplicá-la."
+      ]
+    },
+    {
+      "titulo": "Avise o serviço veterinário oficial",
+      "texto": "No Brasil, a suspeita ou ocorrência das doenças da lista oficial (Instrução Normativa MAPA nº 50/2013) deve ser comunicada ao serviço veterinário oficial por qualquer cidadão, não só por veterinários. Procure o escritório do órgão estadual de defesa agropecuária ou use o sistema e-Sisbravet do MAPA.\n\nAvise imediatamente se ver:\n\n• bolhas ou feridas na boca, focinho, cascos ou tetos, babeira e manqueira (suspeita de febre aftosa ou outra doença vesicular);\n• animal com sinais nervosos ou morte com sinais nervosos (suspeita de raiva);\n• animais mordidos por morcego, morcegos voando de dia ou animais mortos sem causa conhecida;\n• mortes de porcos sem explicação.",
+      "avisos": [
+        "Não abra, não coma e não venda animal morto com suspeita de doença: espere a orientação do serviço veterinário."
+      ]
+    },
+    {
+      "titulo": "Isole doentes e respeite a carência",
+      "texto": "Mantenha um lugar de isolamento afastado dos sadios para animais doentes e recém-comprados. Cuide dos sadios primeiro e dos doentes por último, lavando mãos e botas depois.\n\nCarência é o tempo depois do remédio em que leite e carne não podem ser consumidos. Exemplo da Embrapa: vermífugos do grupo da ivermectina deixam resíduo no leite da cabra durante toda a lactação; albendazol e levamisol, até cerca de 30 dias. Cada produto tem a sua: anote a data do tratamento e o fim da carência.\n\nNa dúvida sobre diagnóstico ou dose, procure veterinário, a Emater ou o serviço de extensão rural do seu estado.",
+      "avisos": [
+        "Use luvas em partos e abortos e lave bem as mãos depois de lidar com animal doente."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Normal Rectal Temperature Ranges — MSD Veterinary Manual",
+      "url": "https://www.msdvetmanual.com/multimedia/table/normal-rectal-temperature-ranges"
+    },
+    {
+      "titulo": "Recomendações para o controle integrado de verminose em caprinos e ovinos — Embrapa Caprinos e Ovinos",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1148919/1/CNPC-2023-Recomendacoes-para-o-controle-integrado.pdf"
+    },
+    {
+      "titulo": "Vacinação contra brucelose (PNCEBT) — Ministério da Agricultura e Pecuária",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/programas-de-saude-animal/pncebt/vacinacao-contra-brucelose"
+    },
+    {
+      "titulo": "Ficha técnica febre aftosa (set. 2025) — Ministério da Agricultura e Pecuária",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/programas-de-saude-animal/febre-aftosa/documentos-febre-aftosa/fichatcnica_febreaftosa_set_2025.pdf"
+    },
+    {
+      "titulo": "Programa Nacional de Controle da Raiva dos Herbívoros (PNCRH) — Ministério da Agricultura e Pecuária",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/cesesp/eventos/vigilancia-das-sindromes-neurologicas-em-animais/programa-nacional-de-controle-de-raiva-dos-herbivoros-pncrh.pdf"
+    }
+  ]
+}
