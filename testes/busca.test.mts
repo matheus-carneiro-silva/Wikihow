@@ -133,6 +133,12 @@ describe('busca', () => {
   it('filtra por categoria', () => {
     assert.deepEqual(ids('água', { categoria: 'casa' }).sort(), ['desentupir-pia', 'limpar-geladeira']);
   });
+  it('busca só com palavras genéricas ainda encontra', () => {
+    // Sem palavras obrigatórias, as genéricas viram a própria busca.
+    const r = motor.buscar('como fazer');
+    assert.equal(r.parcial, false);
+    assert.deepEqual(r.resultados.map((x) => x.guia.id), ['fazer-cafe-coado']);
+  });
   it('sem termos úteis lista tudo', () => {
     assert.equal(ids('').length, guias.length);
     assert.equal(ids('como de para').length, guias.length);
