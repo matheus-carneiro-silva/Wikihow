@@ -1,0 +1,129 @@
+{
+  "id": "orientar-se-sem-gps",
+  "titulo": "Como se orientar sem GPS: sol, Cruzeiro do Sul, bússola e mapa",
+  "resumo": "Achar o norte e o sul sem celular: método da sombra do bastão, Cruzeiro do Sul, bússola com a declinação magnética do Brasil, leitura básica de carta topográfica, contagem de passos e o que fazer quando estiver perdido (parar e ficar no lugar).",
+  "categoria": "orientacao",
+  "tags": [
+    "GPS",
+    "perdido",
+    "pontos cardeais",
+    "achar o norte",
+    "achar o sul",
+    "bússola",
+    "declinação magnética",
+    "Cruzeiro do Sul",
+    "estrelas",
+    "sombra do bastão",
+    "mapa topográfico",
+    "carta topográfica",
+    "curvas de nível",
+    "contar passos",
+    "navegação terrestre",
+    "trilha"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Se estiver perdido, a regra é parar: andar sem rumo afasta você de quem procura. À noite, ferido ou exausto, fique onde está, abrigue-se e faça sinais. Sol e estrelas dão só a direção aproximada; erros de alguns graus viram centenas de metros em poucos quilômetros.",
+  "materiais": [
+    "Bastão reto de cerca de 1 m e duas pedras ou gravetos para marcar",
+    "Bússola (de preferência com limbo giratório)",
+    "Carta topográfica da região (IBGE ou Exército, escala 1:50.000) ou mapa em papel",
+    "Lápis, papel e barbante com nós ou pedrinhas para contar distância",
+    "Apito e lanterna"
+  ],
+  "passos": [
+    {
+      "titulo": "Se estiver perdido, pare (P.A.R.E.)",
+      "texto": "Assim que perceber que se perdeu, siga a regra internacional STOP, que em português dá P.A.R.E.:\n\n• Pare: fique calmo e fique onde está. O pânico é o maior inimigo.\n• Analise: não dê um passo sem um motivo. Lembre como chegou ali e quais pontos de referência deveria estar vendo.\n• Reconheça o terreno: ache a direção com bússola, sol ou estrelas. Não ande a esmo. Se estiver numa trilha, fique nela.\n• Execute um plano: só se mova se tiver muita certeza do caminho. Se não tiver, ou se estiver anoitecendo, ferido ou exausto, fique onde está, monte abrigo e sinalize.\n\nQuem fica num lugar só é achado muito mais rápido, porque as equipes de busca nem sempre voltam a áreas que já vasculharam.",
+      "dicas": [
+        "Ensine às crianças a regra \"abrace uma árvore\": perdida, a criança escolhe uma árvore ou pedra grande, fica junto dela e responde aos chamados ou apita. Não deve se esconder de quem a procura.",
+        "Para sinais de socorro (apito, três sinais, espelho), veja \"Como pedir socorro com sinais visuais e sonoros\". Antes de sair, deixe avisado o caminho e a hora de volta."
+      ]
+    },
+    {
+      "titulo": "Use o sol sabendo os limites no Brasil",
+      "texto": "O sol nasce do lado leste e se põe do lado oeste, mas só exatamente no leste e no oeste perto dos equinócios (março e setembro). No resto do ano ele nasce e se põe deslocado para o norte (inverno) ou para o sul (verão).\n\nNo hemisfério sul, o sol do meio-dia costuma ficar para o norte e as sombras giram no sentido anti-horário. Mas atenção: entre o Equador e o Trópico de Capricórnio, que cortam quase todo o Brasil, por volta de dezembro o sol do meio-dia passa a pino ou até um pouco ao sul. Nessa época \"o sol do meio-dia aponta o norte\" engana. Use o método da sombra do bastão, que funciona em qualquer lugar e época.",
+      "avisos": [
+        "O método do relógio de ponteiros é pouco preciso perto do Equador e no verão tropical; não confie nele no Brasil."
+      ]
+    },
+    {
+      "titulo": "Ache o norte com a sombra de um bastão",
+      "texto": "1. Finque um bastão reto de cerca de 1 m em chão plano e limpo, onde faça sombra nítida.\n2. Marque a ponta da sombra com uma pedra. Essa primeira marca é sempre o oeste, em qualquer lugar da Terra.\n3. Espere 10 a 15 minutos, até a ponta andar alguns centímetros, e marque de novo.\n4. A linha entre as duas marcas é a linha oeste-leste.\n5. Fique com a primeira marca à sua esquerda e a segunda à sua direita: você está de frente para o norte. Atrás de você está o sul.\n\nMais preciso, se tiver tempo: de manhã, marque a ponta da sombra e, com um barbante preso no bastão, risque um arco passando por essa marca. À tarde, quando a sombra voltar a encostar no arco, marque. A linha entre as duas marcas é o oeste-leste exato.",
+      "dicas": [
+        "Quanto mais tempo entre as duas marcas e mais longo o bastão, menor o erro."
+      ]
+    },
+    {
+      "titulo": "Ache o sul pelo Cruzeiro do Sul",
+      "texto": "O Cruzeiro do Sul tem quatro estrelas brilhantes em forma de cruz inclinada, mais uma quinta menor. Ao lado dele ficam duas estrelas muito brilhantes, as \"guardas\" (Alfa e Beta do Centauro), que ajudam a reconhecê-lo. Há uma \"falsa cruz\" maior e mais apagada, sem essas duas estrelas ao lado: não confunda.\n\n1. Imagine o braço maior da cruz, da estrela de cima até a do pé (a mais brilhante).\n2. Prolongue essa linha a partir do pé por cerca de 4,5 a 5 vezes o comprimento do braço maior.\n3. Esse ponto no céu fica sobre o polo sul celeste. Desça uma linha reta dali até o horizonte: aí está o sul.\n4. Escolha uma árvore, morro ou outra referência nessa direção para seguir.\n\nSe for ficar no lugar, finque duas estacas alinhadas apontando o sul durante a noite: de dia elas continuam marcando a direção.",
+      "dicas": [
+        "Em algumas épocas e horas o Cruzeiro fica baixo ou abaixo do horizonte em boa parte do Brasil. Se não achar, use outro método.",
+        "Estrela perto do horizonte serve de guia por pouco tempo: confira a direção a cada 15 a 30 minutos."
+      ]
+    },
+    {
+      "titulo": "Use a bússola com a declinação do Brasil",
+      "texto": "A agulha aponta o norte magnético, que não é o norte verdadeiro dos mapas. A diferença se chama declinação magnética. Em todo o Brasil ela é para oeste e é grande. Valores aproximados para o fim de 2026 (modelo da NOAA):\n\nRio de Janeiro e Salvador: 23° O\nSão Paulo e Brasília: 22° O\nRecife: 21° O\nBelém e Fortaleza: 20° O\nCuiabá: 19° O\nPorto Alegre: 18° O\nManaus: 17° O\nRio Branco: 12° O\n\nConversão com declinação para oeste:\n• Do mapa para a bússola: some a declinação.\n• Da bússola para o mapa: subtraia a declinação.\n\nExemplo em São Paulo: no mapa, o destino está a 90° (leste verdadeiro). Na bússola, siga 90 + 22 = 112°. O norte verdadeiro fica 22° à direita de onde a agulha aponta.",
+      "dicas": [
+        "Sem corrigir 22° de declinação, a cada 1 km andado você chega cerca de 370 m fora do ponto. Sempre corrija.",
+        "A declinação muda um pouco a cada ano. O diagrama de declinação na margem de cartas com mais de 20 anos já pode estar desatualizado."
+      ],
+      "avisos": [
+        "Metal e eletricidade desviam a agulha. Afaste-se pelo menos 55 m de linhas de alta tensão, 18 m de carros e máquinas e 10 m de cercas de arame farpado e fios. Tire faca, celular e lanterna de perto da bússola na hora de ler."
+      ]
+    },
+    {
+      "titulo": "Improvise uma bússola com agulha",
+      "texto": "Esfregue uma agulha de costura ou um pedaço de arame de aço sempre no mesmo sentido num ímã, ou devagar num pano de seda ou no cabelo. Depois faça flutuar a agulha num pedacinho de folha, cortiça ou isopor numa vasilha com água parada, ou pendure pelo meio num fio que não seja de metal.\n\nA agulha vai se alinhar no eixo norte-sul magnético. Descubra qual ponta é o norte comparando com o sol ou com o método da sombra, e corrija a declinação como no passo anterior.",
+      "dicas": [
+        "Teste a agulha várias vezes; se ela parar em direções diferentes, magnetize de novo."
+      ]
+    },
+    {
+      "titulo": "Leia o básico de uma carta topográfica",
+      "texto": "Escala: na carta 1:50.000, 1 cm no papel são 50.000 cm no terreno, ou seja, 500 m. Exemplo: 6 cm medidos na carta = 3 km a pé.\n\nCurvas de nível são linhas que ligam pontos de mesma altitude. A distância vertical entre duas curvas (equidistância) vem escrita na legenda, na margem de baixo. Como ler:\n• Curvas juntas = subida íngreme; curvas espaçadas = terreno suave.\n• Círculos fechados um dentro do outro = morro (o menor é o topo).\n• Num vale, as curvas formam um V ou U cuja ponta aponta para cima, para a nascente. Isso mostra para onde a água corre.\n• Numa crista ou espigão, o V ou U aponta para baixo, para longe do alto.\n\nPara orientar a carta, gire o papel até o norte dele apontar para o norte verdadeiro (bússola corrigida pela declinação) e confira com rios, estradas e morros que você vê.",
+      "dicas": [
+        "Cartas topográficas do IBGE e da Diretoria de Serviço Geográfico do Exército podem ser impressas antes da emergência; guarde-as em saco plástico."
+      ]
+    },
+    {
+      "titulo": "Conte os passos para medir distância",
+      "texto": "Calibre seu passo: meça 100 m (com trena, ou entre postes de distância conhecida), caminhe no seu passo normal e conte. Repita em subida e em terreno parecido com o que vai andar. Uma pessoa que dá 120 passos em 100 m no plano pode precisar de 130 ou mais na subida.\n\nNão confie na memória: a cada 100 m, mude uma pedrinha de bolso, dê um nó num barbante ou faça um risco no papel.\n\nO passo encurta na subida, na areia, na lama, no mato, com chuva, vento de frente, carga pesada e no escuro; e alonga na descida. Faça uma calibragem separada para andar à noite.",
+      "dicas": [
+        "Para achar um ponto numa estrada ou rio (uma ponte, uma casa), mire de propósito uns 10° para um dos lados. Cada grau desvia cerca de 18 m por quilômetro: com 10° e 1 km, você chega cerca de 180 m ao lado e já sabe para que lado virar."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "TC 3-25.26 Map Reading and Land Navigation (2013) — Exército dos EUA",
+      "url": "https://armyrotc.mst.edu/media/academic/armyrotc/documents/manualsadpadrpfmetc/TC%203-25.26.pdf"
+    },
+    {
+      "titulo": "FM 21-76 US Army Survival Manual, cap. 18 (Field-Expedient Direction Finding) — Exército dos EUA",
+      "url": "https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf"
+    },
+    {
+      "titulo": "Magnetic Field Calculators (declinação, modelo WMM) — NOAA/NCEI",
+      "url": "https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml"
+    },
+    {
+      "titulo": "If You Get Lost — USDA Forest Service",
+      "url": "https://www.fs.usda.gov/visit/know-before-you-go/if-you-get-lost"
+    },
+    {
+      "titulo": "Hug-a-Tree and Survive: Lost Child Prevention Program — Office of Justice Programs (EUA)",
+      "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/hug-tree-and-survive-lost-child-prevention-program"
+    },
+    {
+      "titulo": "Astronomia (OpenStax), 4.2 As estações",
+      "url": "https://query.libretexts.org/Idioma_Portugues/Livro%3A_Astronomia_(OpenStax)/04%3A_Terra%2C_Lua_e_C%C3%A9u/4.02%3A_As_esta%C3%A7%C3%B5es"
+    },
+    {
+      "titulo": "Dicionário cartográfico — IBGE",
+      "url": "https://www.ibge.gov.br/geociencias/metodos-e-outros-documentos-de-referencia/vocabulario-e-glossarios/16496-dicionario-cartografico.html"
+    }
+  ]
+}

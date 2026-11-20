@@ -1,0 +1,187 @@
+{
+  "id": "dar-nos-e-amarrar-cargas",
+  "titulo": "Como dar nós e amarrar cargas",
+  "resumo": "Lais de guia, nó de escota, volta do fiel, volta redonda com dois cotes, nó de tensor para varal e lona, nó de caminhoneiro, nó direito, catau e amarra quadrada para estruturas, com a força que cada nó tira da corda e os cuidados com cordas.",
+  "categoria": "oficios",
+  "tags": [
+    "nó",
+    "nós",
+    "corda",
+    "cordas",
+    "amarrar",
+    "amarração",
+    "amarra",
+    "lais de guia",
+    "nó de escota",
+    "volta do fiel",
+    "nó de tensor",
+    "nó de barraca",
+    "nó de caminhoneiro",
+    "nó direito",
+    "catau",
+    "amarra quadrada",
+    "pioneiria",
+    "escotismo",
+    "marinharia",
+    "esticar lona",
+    "varal",
+    "amarrar carga",
+    "emendar corda",
+    "carga de trabalho",
+    "qual nó usar"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Todo nó enfraquece a corda, e corda velha, queimada de sol ou molhada de produto químico pode romper com bem menos carga do que a etiqueta diz. Nunca confie a vida de alguém (escalada, resgate, içar pessoas) a uma corda de procedência desconhecida ou a nós aprendidos aqui sem treino com quem sabe. Corda esticada que arrebenta chicoteia com violência: ninguém fica na linha da corda nem embaixo da carga.",
+  "materiais": [
+    "Um pedaço de corda de 2 a 3 m para treinar (de preferência de 6 a 10 mm)",
+    "Corda ou cordão mais fino para treinar o nó de escota (emenda de cordas diferentes)",
+    "Um cabo de vassoura, poste ou galho firme",
+    "Duas varas ou bambus para treinar a amarra quadrada",
+    "Faca e isqueiro (para cortar e selar pontas de corda sintética) ou barbante para falcaçar"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba os nomes e a regra de ouro",
+      "texto": "Chicote é a ponta livre da corda, a que você usa para fazer o nó. Firme (ou parte fixa) é o resto da corda, que leva a carga. Alça (ou seio) é uma dobra da corda em forma de U. Cote é meia-volta da corda em torno de si mesma ou de um objeto.\n\nRegra de ouro: todo nó tira força da corda. Nos testes reunidos pelo Cordage Institute (instituto da indústria de cordas dos EUA), a corda com nó guarda só de 43% a 75% da força original, conforme o nó. Na dúvida, conte que o nó corta a força pela metade.\n\nTreine cada nó até conseguir dar de olhos fechados. Na hora da necessidade (chuva, escuro, frio, pressa) só sai o nó que a mão já sabe.",
+      "dicas": [
+        "Deixe sempre uma sobra de chicote depois do nó. Uma regra de marinheiro citada pelo Animated Knots é deixar sobra de até 12 vezes a circunferência da corda; poucos fazem isso, mas sobra curta é a causa mais comum de nó que se desfaz."
+      ]
+    },
+    {
+      "titulo": "Lais de guia: alça fixa que não corre",
+      "texto": "Para que serve: fazer uma alça na ponta da corda que não aperta nem afrouxa com a carga. Prender a corda numa argola, num poste ou numa árvore, amarrar barco, fazer alça de puxar. Desamarra fácil depois, mesmo depois de muito esforço.\n\nComo fazer: (1) Na corda, a uma distância da ponta que dê o tamanho de alça que você quer, faça um pequeno anel, com a parte do chicote passando por cima do firme. (2) Passe o chicote de baixo para cima por dentro do anel (\"o coelho sai da toca\"). (3) Dê a volta por trás do firme (\"dá a volta na árvore\"). (4) Volte o chicote para dentro do anel, pelo mesmo lado por onde saiu (\"e volta para a toca\"). (5) Segure o chicote junto com o lado da alça e puxe o firme para apertar.\n\nResistência: guarda de 67% a 75% da força da corda (perde de um quarto a um terço).",
+      "avisos": [
+        "Sem carga, ou com puxões que vão e voltam, o lais de guia pode se soltar sozinho. Se ele vai ficar frouxo de vez em quando, dê um cote ou um nó de segurança com o chicote em volta da alça.",
+        "Não dá para desfazer o lais de guia enquanto a corda está sob carga. Se você vai precisar soltar com peso, use a volta redonda com dois cotes."
+      ]
+    },
+    {
+      "titulo": "Nó de escota: emendar duas cordas",
+      "texto": "Para que serve: unir duas cordas, principalmente de grossuras diferentes (corda grossa com cordinha, lençol com corda, cordas de material diferente).\n\nComo fazer: (1) Dobre a ponta da corda mais grossa formando uma alça em U e segure. (2) Passe a ponta da corda fina por dentro da alça, de baixo para cima. (3) Dê a volta com a corda fina por trás dos dois ramos da alça grossa. (4) Passe a ponta fina por baixo dela mesma (entre a corda fina e a alça grossa), sem passar de novo pela alça. (5) Aperte puxando as quatro pontas.\n\nConfira: as duas pontas soltas devem ficar do mesmo lado do nó. Se ficarem em lados opostos, o nó é menos seguro: desfaça e refaça. Se as cordas forem muito diferentes, dê duas voltas com a corda fina em volta da alça (escota dobrada).\n\nResistência: guarda de 48% a 58% da força da corda (perde cerca de metade).",
+      "avisos": [
+        "A corda grossa é sempre a que faz a alça. Ao contrário, o nó escorrega.",
+        "Para carga importante, deixe as pontas bem compridas."
+      ]
+    },
+    {
+      "titulo": "Volta do fiel: prender rápido num poste",
+      "texto": "Para que serve: prender rápido uma corda num poste, mourão, vara ou cano. É o nó que começa e termina a amarra quadrada. Fácil de ajustar e de soltar.\n\nComo fazer em volta de um poste: (1) Dê uma volta com o chicote em torno do poste. (2) Cruze o chicote por cima do firme e dê uma segunda volta ao lado da primeira. (3) Passe o chicote por baixo dessa segunda volta, saindo entre as duas voltas, no sentido oposto ao do firme. (4) Aperte. Visto de frente, forma um X com as duas pontas saindo pelo meio, em sentidos opostos.\n\nSe o topo do poste estiver livre, dá para fazer duas alças iguais na mão, sobrepor e encaixar no poste de uma vez.",
+      "avisos": [
+        "A volta do fiel sozinha é fraca: com puxões que vão e voltam, ou com o poste girando, ela escorrega e se solta. Para segurar carga, complete com dois cotes ou use a volta redonda com dois cotes."
+      ]
+    },
+    {
+      "titulo": "Volta redonda com dois cotes: prender carga num poste ou argola",
+      "texto": "Para que serve: amarrar corda que vai ficar sob carga num poste, árvore, argola ou viga, e que você pode precisar soltar com peso. É o nó de amarrar animal, de ancorar varal e de prender a ponta fixa de uma lona.\n\nComo fazer: (1) Passe o chicote em volta do poste ou argola e dê mais uma volta completa (o chicote abraça o objeto uma vez e meia). A volta inteira divide o esforço e segura a carga enquanto você termina. (2) Com o chicote, dê um cote em volta do firme: passe por cima, por trás e por dentro da volta que se formou. (3) Dê um segundo cote igual, no mesmo sentido, ao lado do primeiro. (4) Empurre os cotes contra o poste e aperte.\n\nResistência: dois cotes simples guardam de 60% a 75% da força da corda, conforme o diâmetro do objeto (quanto mais grosso o poste, melhor).",
+      "dicas": [
+        "Os dois cotes juntos formam, na verdade, uma volta do fiel em volta do firme. Se eles ficarem cruzados em sentidos opostos, o nó afrouxa: faça os dois no mesmo sentido."
+      ]
+    },
+    {
+      "titulo": "Nó de tensor: esticar varal, barraca e lona",
+      "texto": "Para que serve: fazer uma alça ajustável que você desliza para esticar ou afrouxar a corda, e que trava quando está sob carga. É o nó das cordas de barraca, de varal e de lona: quando a corda folga com a chuva ou o sol, basta deslizar o nó.\n\nComo fazer (método dos escoteiros): (1) Passe o chicote em volta da estaca, prego, galho ou ilhós. (2) Traga o chicote de volta e enrole uma vez em volta do firme, por dentro da alça que se formou. (3) Enrole uma segunda vez em volta do firme, ainda por dentro da alça, mais perto da estaca. (4) No mesmo sentido, dê um cote em volta do firme por fora da alça, do outro lado das duas voltas. (5) Tire a folga das voltas.\n\nPara esticar: segure o nó e deslize na direção contrária à da estaca. Para afrouxar: deslize na direção da estaca.",
+      "dicas": [
+        "Em corda sintética lisa e escorregadia, o nó pode deslizar sozinho. Dê uma terceira volta por dentro da alça antes do cote."
+      ]
+    },
+    {
+      "titulo": "Nó de caminhoneiro: amarrar carga e lona bem esticadas",
+      "texto": "Para que serve: esticar com muita força uma corda sobre carga (em carroça, carrinho, bagageiro, teto) ou uma lona de telhado provisório, como uma talha feita só com a corda.\n\nComo fazer: (1) Prenda uma ponta da corda num lado (lais de guia ou volta redonda com dois cotes) e passe a corda por cima da carga. (2) No meio do caminho, a uns 50 cm acima do gancho do outro lado, faça uma alça na própria corda: o jeito mais simples é um nó de correr (dobre a corda em U, faça um anel com a parte de cima, puxe uma dobra do U por dentro do anel) ou um nó em oito com alça. (3) Passe a ponta solta por baixo do gancho, argola ou travessa da carroceria. (4) Volte a ponta para cima e passe por dentro da alça. (5) Puxe a ponta para baixo: a corda estica. (6) Aperte a corda com os dedos onde ela passa pela alça para não perder a tensão e trave com dois cotes logo abaixo da alça.\n\nNa teoria, o nó multiplica sua força por 3; na prática, o atrito de corda contra corda reduz isso para cerca de 1,6 vez. Mesmo assim, estica muito mais do que puxar com a mão.",
+      "avisos": [
+        "Esse nó coloca muita força na corda: confira se a corda, o gancho e a carroceria aguentam. Corda que arrebenta sob essa tensão chicoteia: mantenha o rosto fora da linha da corda.",
+        "A corda raspa nela mesma dentro da alça e se desgasta ali. Mude o ponto da alça de vez em quando e confira o desgaste."
+      ]
+    },
+    {
+      "titulo": "Nó direito: amarrar pacote e atadura, nunca emendar corda de carga",
+      "texto": "Para que serve: amarrar um embrulho, um saco, um feixe de lenha ou de capim, uma atadura ou tala (primeiros socorros), o cordão de uma lona enrolada. Ele fica deitado e é fácil de desfazer.\n\nComo fazer: (1) Cruze a ponta da direita por cima da esquerda e dê um nó simples. (2) Agora cruze a ponta que ficou à esquerda por cima da da direita e dê outro nó simples. Resumo: direita sobre esquerda, depois esquerda sobre direita. (3) Confira: cada ponta sai pelo mesmo lado da alça de onde entrou, paralela ao seu próprio firme. Se as pontas saírem atravessadas, você deu o nó torto (\"nó de vovó\"), que é ainda pior: desfaça e refaça.\n\nResistência: guarda só de 43% a 47% da força da corda (perde mais da metade).",
+      "avisos": [
+        "Não use o nó direito para emendar duas cordas que vão levar carga: ele pode escorregar, virar e se desfazer. Para emendar, use o nó de escota ou dois lais de guia, um enlaçado no outro."
+      ]
+    },
+    {
+      "titulo": "Catau: encurtar corda só por pouco tempo",
+      "texto": "Para que serve: encurtar uma corda comprida sem cortar, ou isolar um trecho gasto no meio dela.\n\nComo fazer: (1) Dobre a corda em três partes, como um Z deitado, do comprimento que você quer encurtar. Ficam duas dobras (alças), uma em cada ponta do Z. (2) Num dos lados, faça um cote no firme (um anel simples) e encaixe esse anel sobre a alça vizinha, apertando. (3) Faça o mesmo do outro lado. (4) Ponha carga devagar.\n\nO trecho gasto, se houver, fica na parte do meio do Z, que não leva carga.",
+      "avisos": [
+        "O catau é pouco confiável: pode se soltar com pouca carga, principalmente em corda sintética lisa, e se desfaz quando a corda afrouxa. Use só para coisa sem risco e por pouco tempo, ou amarre as alças com barbante para travar. Na maioria dos casos é melhor desfazer o nó da ponta e refazer mais curto."
+      ]
+    },
+    {
+      "titulo": "Amarra quadrada: unir varas para estruturas",
+      "texto": "Para que serve: unir duas varas, bambus ou caibros que se cruzam em ângulo reto, para montar mesas de acampamento, cercas, estrados, jiraus, varal de secar alimentos, armação de abrigo ou de cobertura de lona. Funciona também com ângulos até cerca de 45°.\n\nComo fazer: (1) Cruze as varas. Dê uma volta do fiel na vara de baixo (a vertical), logo abaixo da vara de cima, e enrole o chicote curto no firme para não sobrar. (2) Voltas de amarração: leve a corda por cima da vara de cima, por trás da vara de baixo, por cima da vara de cima do outro lado e por trás da vara de baixo de novo, formando um quadrado em volta do cruzamento. Faça 3 a 4 voltas completas, cada uma por fora da anterior na vara de cima e por dentro na vara de baixo, bem justas e deitadas lado a lado, sem cruzar. (3) Voltas de arrocho: agora passe a corda entre as duas varas e dê 2 a 4 voltas em torno das voltas de amarração, apertando com toda a força. São essas voltas que travam a amarração. (4) Termine com uma volta do fiel (ou dois a três cotes) na outra vara.\n\nPara apertar mais as voltas de arrocho, enrole a corda num pedaço de pau e use as pernas, e não só os braços.",
+      "dicas": [
+        "Corda de sisal ou de fibra natural é ótima para amarras porque não escorrega; corda sintética lisa precisa de mais voltas de arrocho.",
+        "Bambu e madeira encolhem ao secar: reaperte as amarras de estruturas novas depois de alguns dias."
+      ],
+      "avisos": [
+        "Estrutura amarrada que vai sustentar gente (plataforma, torre, ponte) precisa de varas sem rachaduras nem podridão e de teste com carga aos poucos, com ninguém embaixo. Em caso de dúvida, não suba."
+      ]
+    },
+    {
+      "titulo": "Calcule quanto a corda aguenta",
+      "texto": "A etiqueta ou o catálogo da corda dá a carga de ruptura (a carga em que a corda nova arrebenta, em kg ou kN; 1 kN é cerca de 100 kg). Nunca trabalhe perto disso. O Cordage Institute manda dividir a ruptura por um fator de segurança de 5 a 12 para usos comuns, e usar fator maior quando há risco de vida, carga valiosa, tranco, carga parada por muito tempo ou vibração.\n\nExemplo: corda com ruptura de 1.000 kg. Com fator 5, a carga de trabalho é 1.000 ÷ 5 = 200 kg. Com fator 12, é 1.000 ÷ 12 ≈ 83 kg. Se a corda já é usada, de procedência desconhecida ou se vai levar trancos, fique com o valor menor.\n\nTranco multiplica a carga: um peso que cai e é segurado pela corda pode puxar várias vezes o próprio peso. Levante e baixe cargas devagar, sem sacudir.",
+      "avisos": [
+        "Corda sob carga que arrebenta volta como um chicote e pode ferir gravemente quem está na linha dela. Fique de lado, nunca na direção da corda esticada, e nunca embaixo da carga suspensa."
+      ]
+    },
+    {
+      "titulo": "Cuide das cordas para durarem",
+      "texto": "Conheça o material: náilon (poliamida) é a mais forte para a grossura e estica até 40%, o que absorve tranco mas faz a corda chicotear forte se romper. Poliéster estica menos. Polipropileno (a corda colorida barata) boia e é a mais barata, mas se estraga rápido no sol. Fibras naturais (sisal, manilha, algodão) apodrecem se guardadas molhadas e encolhem quando molham.\n\nNo dia a dia: (1) Guarde as cordas limpas, secas e longe do sol direto; o sol degrada as sintéticas, principalmente o polipropileno. (2) Mantenha longe de ácidos e soda cáustica (bateria de carro, produtos de limpeza fortes). (3) Proteja de quinas e cantos vivos com um pano, pedaço de mangueira ou papelão: o atrito corta a corda por dentro. (4) Arremate as pontas para não desfiarem: em corda sintética, corte e derreta a ponta com chama, com cuidado; em fibra natural, falcace (enrole bem apertado um barbante em volta da ponta e prenda). (5) Enrole a corda em voltas ou em zigue-zague e pendure, sem nós, para estar pronta na hora de usar.\n\nInspeção: abra os cordões torcendo ao contrário e olhe por dentro. Aposente a corda que tiver corte, trecho muito ralado, fios rompidos, partes duras, derretidas ou mofadas, ou pó por dentro das fibras. Ela ainda serve para amarrar coisas leves, mas não para carga.",
+      "avisos": [
+        "Corda queimada pelo sol, com cheiro de produto químico ou que já segurou um tranco forte pode ter perdido muita força sem mostrar por fora. Não use para carga suspensa nem para pessoas."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "High-Tech Rope Test (tabela de eficiência de nós do Cordage Institute) — Practical Sailor",
+      "url": "https://www.practical-sailor.com/sails-rigging-deckgear/high-tech-rope-test"
+    },
+    {
+      "titulo": "Fiber Rope General Information / Rope Safety — Certex",
+      "url": "https://www.certex.com/fiber-rope/general-information-rope-safety/"
+    },
+    {
+      "titulo": "Knots, Bends, and Hitches — U.S. Navy (Seaman)",
+      "url": "https://navyadvancement.tpub.com/14325/css/Knots-Bends-And-Hitches-189.htm"
+    },
+    {
+      "titulo": "Marlinspike Seamanship (tipos de corda e cuidados) — U.S. Army Corps of Engineers",
+      "url": "https://corpslakes.erdc.dren.mil/employees/motorboat/pdfs/MarlinspikeSeamanship.pdf"
+    },
+    {
+      "titulo": "Bowline (lais de guia) — Animated Knots",
+      "url": "https://www.animatedknots.com/bowline-knot"
+    },
+    {
+      "titulo": "Sheet Bend (nó de escota) — Animated Knots",
+      "url": "https://www.animatedknots.com/sheet-bend-knot"
+    },
+    {
+      "titulo": "Clove Hitch (volta do fiel) — Animated Knots",
+      "url": "https://www.animatedknots.com/clove-hitch-knot"
+    },
+    {
+      "titulo": "Square Knot (nó direito) — Animated Knots",
+      "url": "https://www.animatedknots.com/square-knot"
+    },
+    {
+      "titulo": "Sheepshank (catau) — Animated Knots",
+      "url": "https://www.animatedknots.com/sheepshank-knot"
+    },
+    {
+      "titulo": "Trucker's Hitch (nó de caminhoneiro) — Animated Knots",
+      "url": "https://www.animatedknots.com/truckers-hitch-knot"
+    },
+    {
+      "titulo": "Square Lashing (amarra quadrada) — Animated Knots",
+      "url": "https://www.animatedknots.com/square-lashing-knot"
+    },
+    {
+      "titulo": "How to Tie a Taut-Line Hitch (nó de tensor) — Scout Life (BSA)",
+      "url": "https://scoutlife.org/?p=147978"
+    }
+  ]
+}
