@@ -37,7 +37,7 @@ export default function TelaGuia() {
     return (
       <Screen edges={['bottom']}>
         <Stack.Screen options={{ title: 'Guia não encontrado' }} />
-        <Text style={styles.paragrafo}>Não existe guia com o id "{id}".</Text>
+        <Text style={styles.paragrafo}>Não existe guia com o id “{id}”.</Text>
       </Screen>
     );
   }

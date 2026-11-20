@@ -1,0 +1,179 @@
+{
+  "id": "manter-e-consertar-bicicleta",
+  "titulo": "Como manter e consertar a bicicleta",
+  "resumo": "Ferramentas mínimas, remendo de câmara furada, calibragem do pneu, lubrificação e troca da corrente com medida de desgaste, regulagem de freio V-brake e cantilever, regulagem básica do câmbio e transporte de carga com bagageiro e reboque.",
+  "categoria": "transporte",
+  "tags": [
+    "bike",
+    "magrela",
+    "pneu furado",
+    "câmara de ar",
+    "remendo",
+    "kit remendo",
+    "corrente pulando",
+    "corrente esticada",
+    "lubrificar corrente",
+    "freio de bicicleta",
+    "v-brake",
+    "cantilever",
+    "câmbio",
+    "marcha",
+    "desviador",
+    "calibrar pneu",
+    "psi",
+    "bagageiro",
+    "reboque de bicicleta",
+    "carga"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Sem combustível, a bicicleta vira o principal transporte, e freio ruim mata. Teste os freios antes de cada saída e nunca ande com a sapata desalinhada, cabo desfiado ou pneu com corte na lateral. Com carga, a distância de frenagem aumenta muito: desça devagar e use capacete se tiver.",
+  "materiais": [
+    "Bomba de ar com manômetro (o bico deve servir na válvula: Schrader, a de carro, ou Presta, a fina)",
+    "Kit de remendo: lixa, cola (solução vulcanizante) e remendos",
+    "2 espátulas de pneu (de plástico; colher de metal fura a câmara)",
+    "Jogo de chaves Allen (4, 5 e 6 mm) e chaves de boca de 8, 9, 10 e 15 mm",
+    "Chave de fenda e chave Phillips pequenas",
+    "Extrator de corrente (saca-pino) e elo rápido do mesmo número de velocidades da corrente",
+    "Régua ou trena de metal",
+    "Óleo próprio para corrente, pano e escova velha",
+    "Câmara de reserva e sapatas de freio de reserva"
+  ],
+  "passos": [
+    {
+      "titulo": "Monte o kit mínimo e faça a checagem rápida",
+      "texto": "Antes de cada saída, em 1 minuto: aperte as duas alavancas de freio (a roda não pode girar quando você empurra a bicicleta); aperte os pneus com o polegar; levante cada roda e gire para ver se ela não bate nem raspa; confira se as blocagens ou porcas das rodas estão firmes.\n\nUma vez por semana de uso pesado: limpe e lubrifique a corrente, confira a pressão com manômetro e olhe as sapatas de freio.\n\nNo kit de estrada, leve no mínimo: câmara de reserva ou kit de remendo, espátulas, bomba, chaves Allen e elo rápido.",
+      "dicas": [
+        "Anote a medida do pneu, gravada na lateral (ex.: 26 x 1.95, 700 x 38C ou 50-559). Câmara e pneu de reserva precisam bater com ela."
+      ]
+    },
+    {
+      "titulo": "Ache o furo e remende a câmara",
+      "texto": "Tire a roda, esvazie o que sobrou, encaixe as espátulas sob o talão do pneu a uns 10 cm uma da outra e solte um lado do pneu. Puxe a câmara.\n\nPara achar o furo (Park Tool): encha a câmara até ela ficar com o dobro da largura normal e passe-a perto do ouvido ou dos lábios para sentir o ar saindo. Se não achar, mergulhe-a numa bacia com água e procure as bolhas. Marque o furo com quatro riscos em volta, um pouco afastados.\n\nPara remendar: lixe de leve a área em volta (lixar demais faz sulcos e o remendo descola) e limpe. Passe uma camada fina de cola, um pouco maior que o remendo, sem empelotar, e espere secar: leva alguns minutos. Encaixe o remendo centrado sobre o furo e aperte com força, principalmente nas bordas, por mais de 1 minuto. Deixe o plástico transparente de cima no lugar.",
+      "dicas": [
+        "Remendo autoadesivo (sem cola) é provisório: troque a câmara assim que puder.",
+        "Furo duplo e paralelo, como uma mordida de cobra, é pneu murcho que bateu no aro: calibre mais alto da próxima vez."
+      ]
+    },
+    {
+      "titulo": "Elimine a causa antes de montar",
+      "texto": "Sem achar a causa, a câmara nova fura de novo. Compare a posição do furo da câmara com o pneu (deixe a válvula alinhada com a etiqueta do pneu para isso) e procure espinho, caco de vidro ou arame naquele ponto, por fora e por dentro. Passe os dedos devagar por dentro do pneu, com cuidado para não se cortar. Confira também se a fita do aro cobre todos os furos dos raios.\n\nSe o pneu tiver um rasgo, cole um reforço (manchão) por dentro, cobrindo o rasgo inteiro; um pedaço de câmara velha ou de pneu velho serve de emergência. Troque o pneu assim que puder.\n\nPara montar: coloque um pouco de ar na câmara para ela tomar forma, encaixe a válvula, acomode a câmara e empurre o talão para dentro do aro com as mãos, terminando perto da válvula. Encha um pouco e confira se a linha do talão aparece por igual dos dois lados, sem a câmara aparecendo por baixo. Só então encha até a pressão final.",
+      "avisos": [
+        "Pneu com corte grande na lateral ou com a trama de nylon aparecendo pode estourar: use só para chegar em casa, devagar."
+      ]
+    },
+    {
+      "titulo": "Calibre o pneu na pressão certa",
+      "texto": "A pressão máxima (e às vezes a mínima) vem gravada na lateral do pneu. Não passe do máximo. Dentro da faixa, quanto mais peso e mais estreito o pneu, mais pressão.\n\nPonto de partida de Sheldon Brown, em psi, conforme a largura real do pneu e o peso sobre aquela roda:\n• pneu de 50 mm (cerca de 2\"): 45 psi com 50 kg na roda; 35 psi com 35 kg;\n• 37 mm: 60 psi com 50 kg; 50 psi com 35 kg;\n• 32 mm: 75 psi com 50 kg; 65 psi com 35 kg;\n• 28 mm: 100 psi com 50 kg; 80 psi com 35 kg.\n\nPara converter psi em bar, divida por cerca de 14,5 (45 psi ≈ 3,1 bar). A roda traseira leva mais peso: use cerca de 10% a mais de pressão atrás do que na frente.\n\nExemplo: pessoa de 60 kg com bicicleta de 15 kg e 10 kg de carga no bagageiro (85 kg no total), pneu de 50 mm. Se uns 35 kg ficam na frente e 50 kg atrás, comece com 35 psi (2,4 bar) na dianteira e 45 psi (3,1 bar) na traseira, sem passar do máximo gravado no pneu.",
+      "dicas": [
+        "Sem manômetro: montado, o pneu deve se deformar um pouco sob o seu peso. Se não deforma nada, está cheio demais; se o aro bate em buracos, está vazio demais."
+      ],
+      "avisos": [
+        "Pneu murcho fura por beliscão, gasta mais esforço e pode sair do aro numa curva."
+      ]
+    },
+    {
+      "titulo": "Limpe e lubrifique a corrente",
+      "texto": "Corrente seca ou cheia de barro gasta a corrente, as catracas e as coroas. Limpe com um pano e uma escova; para limpeza pesada, tire a corrente e mergulhe-a num pote com desengraxante (Sheldon Brown prefere os cítricos), agite, enxágue e seque bem para não enferrujar.\n\nPara lubrificar (Sheldon Brown): pingue o óleo por dentro da corrente, no lado que encosta nas engrenagens, em cima do trecho de baixo, enquanto gira o pedal para trás, uma gota em cada rolete. Leva de 15 a 20 segundos. Gire mais um pouco e tire o excesso de fora com um pano: óleo do lado de fora só junta areia.",
+      "avisos": [
+        "Não use óleo de motor, óleo de máquina de costura tipo 3 em 1, WD-40 nem spray fino: eles não protegem a corrente (Sheldon Brown)."
+      ]
+    },
+    {
+      "titulo": "Meça o desgaste da corrente com uma régua",
+      "texto": "Com o uso, os pinos e roletes gastam e a corrente 'estica'. Corrente gasta come as catracas e coroas, que são mais caras e difíceis de achar.\n\nMétodo de Sheldon Brown com régua de metal, a corrente esticada na bicicleta: alinhe a marca 0 com o centro de um pino e veja onde cai o pino de 10 elos completos depois. Na corrente nova, ele cai exatamente em 25,4 cm.\n• até cerca de 25,5 cm: corrente boa;\n• um pouco além de 25,5 cm: troque a corrente agora; as catracas devem estar boas;\n• perto de 25,7 cm: rodou demais; as catracas provavelmente estão gastas e a corrente nova vai pular, principalmente nas menores.\n\nCom régua em polegadas, conte 12 polegadas (24 pinos): troque se o último pino passar 1/16\" (cerca de 1,6 mm) da marca.\n\nO limite exato depende do câmbio (Park Tool): 1% para bicicleta de uma marcha, 0,75% para 10 velocidades ou menos e 0,5% para 11 ou mais. Os 25,5 cm de Sheldon Brown ficam perto de 0,4%, o valor mais conservador: na dúvida, troque nele.",
+      "dicas": [
+        "Use régua de metal: régua de madeira, plástico ou fita de costura muda de tamanho."
+      ]
+    },
+    {
+      "titulo": "Troque a corrente",
+      "texto": "Compre corrente do mesmo número de velocidades (as de 9, 10 e 11 são cada vez mais finas). Para achar o tamanho, o jeito mais simples é igualar à corrente velha, elo a elo, deitadas lado a lado (Park Tool); lembre que a velha está um pouco mais comprida pelo desgaste.\n\nSe a velha estava errada, use o método da 'maior com maior' (Park Tool, para catraca de até 36 dentes): passe a corrente nova pela coroa maior e pela catraca maior, sem passar pelo câmbio traseiro, ache o ponto em que as pontas se encontram e acrescente 2 pinos (1 polegada). Corte com o extrator.\n\nFeche com elo rápido (confira a seta do sentido, se houver) e trave puxando os pedais com o freio traseiro apertado, ou com o pino de emenda próprio da marca. Confira: na coroa maior com a catraca maior, a corrente deve passar com duas leves curvas nas roldanas do câmbio; na menor com a menor, não pode sobrar folga.",
+      "avisos": [
+        "Feche só com elo rápido ou com o pino de emenda próprio daquela corrente: cada pino é específico da marca e do modelo (Park Tool). Corrente mal fechada pode abrir no esforço e derrubar você."
+      ]
+    },
+    {
+      "titulo": "Regule o freio V-brake",
+      "texto": "O V-brake tem dois braços compridos e o cabo chega pelo lado, num cano curvo (o 'macarrão').\n\n1. Altura da sapata: alinhe-a com a parte de cima da pista de frenagem do aro, sem nunca encostar no pneu (Park Tool). Com o desgaste, a sapata tende a descer.\n2. Convergência: a ponta da frente da sapata deve tocar o aro primeiro, para não chiar. Ponha um elástico dobrado atrás da sapata, aperte a sapata contra o aro, aperte o parafuso e tire o elástico: fica uma pequena folga atrás.\n3. Folga e tensão do cabo: ajuste pelo toque na alavanca. Se o freio está frouxo, gire o regulador (barril) da alavanca para fora; se pega cedo demais, gire para dentro. Para ajustes grandes, solte o parafuso que prende o cabo, puxe ou solte o cabo e reaperte.\n4. Centralização: se uma sapata fica mais perto do aro, aperte o parafuso de mola daquele lado, em pequenas voltas, até as duas ficarem à mesma distância.\n\nTeste: aperte a alavanca com força várias vezes para o cabo se acomodar e confira se o freio trava a roda bem antes de a alavanca encostar no guidão.",
+      "avisos": [
+        "Sapata que encosta no pneu corta o pneu e ele estoura. Sapata gasta até o metal destrói o aro: troque antes."
+      ]
+    },
+    {
+      "titulo": "Regule o freio cantilever",
+      "texto": "O cantilever tem dois braços curtos presos ao quadro e um cabo transversal que passa por um suporte no meio (cabo de ligação).\n\nAltura e convergência das sapatas: igual ao V-brake, no topo da pista de frenagem, com uma pequena folga atrás.\n\nCabo de ligação (Park Tool): ajuste até os dois braços ficarem paralelos. O suporte do cabo não pode ficar mais baixo que a borda de baixo do garfo (ou da ponte do quadro, atrás): baixo demais, ele engancha em lama ou no pneu.\n\nFolga e centralização: regule pela alavanca, com o barril ou o parafuso do cabo, e centralize com os parafusos de mola, como no V-brake. Com os braços abertos, as duas sapatas devem ficar à mesma distância do aro. Ajuste a traseira com o mesmo toque da dianteira.",
+      "avisos": [
+        "Suporte do cabo de ligação baixo demais pode enganchar no pneu e travar a roda. Confira a altura dele sempre que mexer no freio."
+      ]
+    },
+    {
+      "titulo": "Regule o câmbio traseiro",
+      "texto": "Antes, olhe a gancheira (a peça que prende o câmbio ao quadro): se estiver torta depois de uma queda, nenhuma regulagem funciona (Park Tool).\n\n1. Limite H (high, catraca menor): com a corrente na catraca menor, aperte o parafuso H até ouvir a corrente raspar na catraca vizinha e volte em quartos de volta até o barulho parar.\n2. Indexação: passe uma marcha. Se a corrente não sobe para a catraca seguinte, gire o barril do câmbio (ou do trocador) uma volta no sentido anti-horário; se pula duas, uma volta no horário. Refine até cada marcha entrar limpa e sem ruído.\n3. Limite L (low, catraca maior): passe para a maior. Se não entra ou entra devagar, o L está apertado demais; solte até entrar. Então empurre o trocador mais um pouco: o câmbio não pode ir além da catraca maior, senão a corrente cai nos raios.\n4. Parafuso B: com a corrente na coroa menor e na catraca maior, deixe de 5 a 6 mm entre a roldana de cima e a catraca.",
+      "dicas": [
+        "Os parafusos H e L costumam vir marcados com as letras. Gire sempre pouco de cada vez e teste."
+      ],
+      "avisos": [
+        "Câmbio que joga a corrente nos raios pode quebrar raios e travar a roda. Regule o limite L antes de andar."
+      ]
+    },
+    {
+      "titulo": "Leve carga com bagageiro ou reboque",
+      "texto": "Bagageiro: respeite a carga máxima gravada nele. Pela norma de bagageiros (ISO 11243), a classe 25 aguenta 25 kg; muitos bagageiros baratos são de classe menor. Ponha o peso baixo e dividido nos dois lados (alforjes), com o mais pesado embaixo e para a frente, e amarre tudo para não balançar nem cair nos raios.\n\nReboque (carretinha): exemplo de limites de um fabricante (manual do reboque Flatbed da Burley): carga máxima de 45 kg; até 24 km/h em reta lisa e até 8 km/h em curvas ou chão irregular; peso na ponta do engate entre 1 kg e 3,6 kg na versão europeia do manual (a americana aceita até 9 kg). Carga muito para trás deixa o engate leve e o reboque balança; muito para a frente sobrecarrega a roda traseira.\n\nRecalibre os pneus para o peso maior (veja o passo da pressão) e lembre que, carregada, a bicicleta precisa de muito mais distância para parar.",
+      "avisos": [
+        "Em descida com carga, vá devagar desde o começo e use os dois freios. Se os freios não seguram o conjunto, desça empurrando."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Patch a Tire and Tube — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/inner-tube-repair"
+    },
+    {
+      "titulo": "Tires (inflation and pressure) — Sheldon Brown",
+      "url": "https://www.sheldonbrown.com/tires.html"
+    },
+    {
+      "titulo": "Chains (lubrication and cleaning) — Sheldon Brown",
+      "url": "https://www.sheldonbrown.com/chains.html"
+    },
+    {
+      "titulo": "Chain wear — Sheldon Brown",
+      "url": "https://www.sheldonbrown.com/chain-wear.html"
+    },
+    {
+      "titulo": "When to replace a chain on a bicycle — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle"
+    },
+    {
+      "titulo": "Chain replacement: derailleur bikes — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/chain-replacement-derailleur-bikes"
+    },
+    {
+      "titulo": "Chain length sizing — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/chain-length-sizing"
+    },
+    {
+      "titulo": "Linear pull brake service — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/linear-pull-brake-service"
+    },
+    {
+      "titulo": "Cantilever brake service — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/cantilever-brake-service"
+    },
+    {
+      "titulo": "Rear derailleur adjustment — Park Tool",
+      "url": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment"
+    },
+    {
+      "titulo": "ISO 11243: Cycles — Luggage carriers for bicycles (classes de carga, ed. 1994)",
+      "url": "https://cdn.standards.iteh.ai/samples/19224/8ab01ef4fd1846f2b416e385d2fc9f43/ISO-11243-1994.pdf"
+    },
+    {
+      "titulo": "Manual do reboque de carga Flatbed — Burley",
+      "url": "https://burley.com/manual-flatbed"
+    }
+  ]
+}

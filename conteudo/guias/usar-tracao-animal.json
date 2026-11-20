@@ -1,0 +1,184 @@
+{
+  "id": "usar-tracao-animal",
+  "titulo": "Como usar tração animal com burro, cavalo ou boi",
+  "resumo": "Quanto um burro, cavalo ou boi consegue puxar e carregar, canga, coalheira e peitoral e como ajustar, cuidado com o casco e a ferradura, água, comida e descanso, sinais de exaustão e calor e uso seguro da carroça.",
+  "categoria": "transporte",
+  "tags": [
+    "carroça",
+    "carro de boi",
+    "junta de bois",
+    "canga",
+    "jugo",
+    "coalheira",
+    "peitoral",
+    "arreio",
+    "arreios",
+    "mula",
+    "jumento",
+    "jegue",
+    "jumenta",
+    "cavalo de carga",
+    "animal de carga",
+    "cangalha",
+    "ferradura",
+    "ferrar",
+    "casco",
+    "quanto peso o burro aguenta",
+    "arado de boi"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Animal de tração não é máquina: sobrecarga, arreio mal ajustado e calor causam feridas, manqueira, cólica e morte, e um animal ferido para de trabalhar por semanas. Os números deste guia são médias; cada animal varia mais de 20%, então observe o seu e pare ao primeiro sinal de sofrimento. Bois e equinos assustados matam e aleijam pessoas: nunca fique entre o animal e a carroça ou o implemento, e trabalhe com quem já tem experiência até ganhar a sua.",
+  "materiais": [
+    "Animal manso e acostumado ao trabalho (boi, burro, mula, jumento ou cavalo)",
+    "Canga (bois) ou coalheira ou peitoral (equinos), do tamanho do animal",
+    "Tirantes de corda resistente ou corrente, balancim e retranca (para frear a carroça)",
+    "Panos, couro macio ou feltro para forrar o arreio",
+    "Cabresto, cabo de condução e rédeas",
+    "Limpa-casco (ou um gancho de ferro sem ponta)",
+    "Baldes ou cocho para água e sal",
+    "Termômetro clínico (se tiver) e relógio para contar respiração e pulso"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha o animal para o trabalho",
+      "texto": "No Brasil, os mais usados para tração são o boi e o burro (mula); cavalo e jumento também servem, mas rendem menos (Embrapa). Os equinos andam mais rápido; os bois e búfalos têm mais força, porém são mais lentos e menos exigentes na comida (Embrapa Rondônia).\n\nVelocidade média de trabalho: cerca de 1,8 km/h para o boi e 3,6 km/h para o burro, com jornada efetiva de 6 horas por dia (Embrapa Milho e Sorgo).\n\nPara transporte rápido de pouca carga, use burro ou cavalo. Para arar, puxar tora ou carroça pesada devagar, use junta de bois.",
+      "dicas": [
+        "Prefira animais já domados para o serviço. Ensinar um animal xucro a puxar leva tempo e é a fase mais perigosa para quem conduz."
+      ]
+    },
+    {
+      "titulo": "Calcule quanto ele pode puxar",
+      "texto": "A força que um animal consegue manter ao longo do dia é uma fração do seu peso (FAO):\n• bois e búfalos: 10% a 12% do peso vivo;\n• cavalos, burros, mulas e jumentos: 12% a 14% do peso vivo.\n\nUse o valor mais baixo para planejar:\n• boi de 450 kg: 450 × 10% = 45 kgf de tração contínua (uma junta: cerca de 90 kgf);\n• burro de 350 kg: 350 × 12% = 42 kgf;\n• jumento de 175 a 200 kg: a FAO usou 20 a 25 kgf como meta para um dia inteiro de aração.\n\nEsforços bem maiores só são possíveis em arrancadas curtas. Num ensaio da FAO, um jumento puxando 70 kgf não aguentou um dia inteiro de arado.\n\nNa carroça, a força necessária é bem menor que o peso da carga, mas cresce muito em subida, areia, barro e roda mal lubrificada. Se o animal precisa de tranco e paradas a cada poucos metros, a carga está pesada demais: tire peso.",
+      "dicas": [
+        "Sem balança, estime o peso do animal pela fita de perímetro torácico (passada atrás da cernelha) usada para gado e cavalos, ou pergunte a quem cria."
+      ],
+      "avisos": [
+        "Animais de mesmo peso podem diferir mais de 20% em força (FAO). Planeje pelo animal mais fraco da junta."
+      ]
+    },
+    {
+      "titulo": "Respeite o limite de carga no lombo",
+      "texto": "Carga em cangalha, alforje ou montaria pesa mais no animal do que puxar a mesma carga em rodas.\n\nPara jumentos, a referência histórica britânica é de no máximo 50 kg, e mesmo isso só para um jumento em forma, maior que a média e com carga equilibrada (The Donkey Sanctuary, citada em estudo de 2022). Esse valor é cerca de 28% do peso de um jumento britânico típico e não tem base experimental; jumentos menores ou magros devem levar menos.\n\nSobrecarga é o peso que quebra o ritmo da passada e leva a manqueira e mudança de comportamento. Se o animal encurta o passo, tropeça, abaixa muito a cabeça ou para, tire peso.",
+      "avisos": [
+        "No estudo de 2022 no Paquistão, jumentos carregavam até 117% do próprio peso, causa conhecida de feridas, manqueira e morte precoce. Não repita esse erro por pressa."
+      ]
+    },
+    {
+      "titulo": "Ajuste a canga nos bois",
+      "texto": "A canga mais comum no Brasil é a de pescoço, simples (um boi) ou dupla (junta). É de madeira escavada para assentar no pescoço, presa por dois canzis e pela brocha (Embrapa).\n\n• Faça a brocha de couro ou corda, não de arame: assim dá para soltar os animais depressa numa emergência.\n• Largura da canga dupla: cerca de 0,80 m de centro a centro dos pescoços para arado de 8 polegadas; cerca de 1,50 m para trabalhar com dois arados ou plaina.\n• Na canga simples, use dois tirantes de corda resistente ou corrente presos a um balancim.\n• A madeira deve ser lisa e o vão ajustado ao pescoço do animal; forre com couro ou pano onde houver atrito.\n\nA canga é simples e barata, mas comprime a traqueia, fere o pescoço com frequência e concentra a força numa área pequena, causando calos (Embrapa). Por isso, examine o pescoço todo dia.",
+      "avisos": [
+        "Canga não serve para cavalo, burro ou jumento: a anatomia é diferente e ela fere (Embrapa). Use coalheira ou peitoral nos equinos."
+      ]
+    },
+    {
+      "titulo": "Ajuste a coalheira ou o peitoral nos equinos",
+      "texto": "Para cavalos, burros e jumentos, os arreios indicados são a coalheira (colar acolchoado com dois canzis) e o peitoral (faixa larga que passa no peito) (Embrapa). A coalheira distribui melhor a força, mas precisa ser feita para cada animal.\n\nCoalheira: mesmo com o animal puxando a carga toda, deve passar uma mão entre o pescoço e a almofada (Embrapa).\n\nPeitoral: nem alto nem baixo. Alto demais aperta a traqueia e sufoca; abaixo da ponta do ombro trava o movimento da paleta. Frouxo ou baixo demais prende as pernas e causa feridas; apertado demais dificulta a respiração (The Donkey Sanctuary).\n\nÂngulo de tração: com arreios comuns, os tirantes ficam entre 15° e 20° com o chão (FAO). Tirante quase na horizontal e da mesma altura dos dois lados é o ideal.\n\nAs áreas que mais se ferem são peito e ombro, cernelha e espinha, barrigueira e base da cauda (Brooke). Forre o arreio para que não toque a cernelha e troque correntes e barbantes que encostam no couro por material macio e largo.",
+      "dicas": [
+        "Antes de atrelar, passe a mão em todo o caminho do arreio. Depois de soltar, procure pelos falhados, pele quente, inchaço ou ferida nesses pontos."
+      ],
+      "avisos": [
+        "Animal com ferida de arreio não deve trabalhar com o arreio apoiado na ferida. Mude o ajuste, alivie a carga ou dê descanso até sarar."
+      ]
+    },
+    {
+      "titulo": "Cuide dos cascos e das ferraduras",
+      "texto": "Limpe os cascos todo dia com o limpa-casco, de trás para a frente, tirando pedras e barro (Extensão da Univ. de Minnesota).\n\nApare ou reponha as ferraduras pelo menos a cada 6 a 8 semanas no verão; no inverno, quando o casco cresce mais devagar, de 6 a 12 semanas. O casco inteiro leva de 9 a 12 meses para crescer de novo, então um erro de casqueamento demora a ser corrigido.\n\nSinais de problema: cheiro forte e secreção preta e pastosa em volta da ranilha (broca, ou podridão da ranilha), manqueira súbita (abscesso), cravo de ferradura mal colocado (cravo quente) e qualquer objeto enfiado na sola.\n\nAnimal que trabalha em estrada de pedra ou asfalto gasta o casco mais rápido que cresce e precisa de ferradura; em chão macio, muitos trabalham descalços com casqueamento regular.",
+      "avisos": [
+        "Prego ou ferro enfiado na sola: não puxe sem necessidade, chame um veterinário ou ferrador experiente. A ferida no casco também exige reforço da vacina antitetânica do animal.",
+        "Ferrar é ofício: cravo mal posto entra na parte sensível e manca o animal. Aprenda com um ferrador antes de fazer sozinho."
+      ]
+    },
+    {
+      "titulo": "Dê água, comida e sal",
+      "texto": "Água: um cavalo de 500 kg parado bebe de 38 a 45 litros por dia; em trabalho pesado, isso dobra pelo suor e pela respiração (eXtension). No calor, ofereça água a cada parada; não espere a jornada acabar.\n\nCom o animal quente logo depois do esforço, deixe-o andar até esfriar ou dê água à vontade em goles: ofereça alguns goles a cada poucos minutos. Grandes volumes de uma vez num animal superaquecido podem causar cólica e laminite.\n\nComida dos equinos: no mínimo 1% do peso vivo por dia em capim seco ou feno (matéria seca); o ideal é de 1,5% a 2%. Para um burro de 350 kg: de 5 a 7 kg de matéria seca por dia, mais se trabalha pesado (Merck; Extensão da Univ. da Geórgia). Mude a alimentação aos poucos.\n\nBois: num estudo no Níger, bois que trabalharam 2,5 ou 5 horas por dia só com palha emagreceram, porque não comem mais nos dias de serviço e queimam a reserva do corpo. Ofereça palha e capim à vontade, de sobra, para eles escolherem as melhores partes, e reforce com grão ou ração quando houver.\n\nDeixe sal à disposição de todos; para equinos que suam muito, sal solto é melhor que pedra (Extensão da Univ. de Minnesota).",
+      "avisos": [
+        "Animal magro não aguenta temporada de trabalho pesado. Se as costelas e a ponta do quadril estão aparecendo, reduza o serviço e aumente a comida antes de exigir mais."
+      ]
+    },
+    {
+      "titulo": "Organize jornada e descanso",
+      "texto": "Planeje cerca de 6 horas de trabalho efetivo por dia, que é a jornada usada pela Embrapa nos cálculos de tração animal. Divida em dois turnos, nas horas mais frescas da manhã e do fim da tarde, com pausas para água e sombra.\n\nMedida simples de calor da Extensão da Univ. de Minnesota, feita em graus Fahrenheit: some a temperatura (°F) com a umidade relativa (%). Acima de 150 o animal já não consegue se resfriar bem; acima de 180 pode ser fatal. Em °C: com 30 °C (86 °F), evite esforço quando a umidade passar de 64%; com 35 °C (95 °F), quando passar de 55%.\n\nAlterne animais quando tiver mais de um e dê ao menos um dia de folga quando eles mostrarem cansaço acumulado: comer menos, emagrecer, arrastar os pés.",
+      "dicas": [
+        "Comece a temporada com jornadas curtas e aumente aos poucos: animal que passou meses parado perde condicionamento, como gente."
+      ]
+    },
+    {
+      "titulo": "Reconheça exaustão e insolação",
+      "texto": "Sinais vitais normais de um cavalo adulto em repouso (Extensão da Univ. de Minnesota): temperatura retal de 37,5 °C a 38,6 °C (até 39,4 °C durante o exercício), pulso de 30 a 44 batimentos por minuto e 8 a 12 respirações por minuto.\n\nEstresse de calor: temperatura acima de 39,4 °C, coração e respiração acelerados, suor em excesso, orelhas caídas, cansaço, desidratação e falta de apetite. Em jumentos, também narinas dilatadas, suor demais ou nenhum suor, desinteresse em andar ou comer e deitar mais que o normal (The Donkey Sanctuary).\n\nInsolação (emergência): temperatura acima de 40,6 °C, pulso acima de 60 e respiração acima de 40 por minuto, que não baixam 20 minutos depois de parar, fraqueza, falta de coordenação ou queda.\n\nTeste de desidratação: belisque a pele do pescoço ou do ombro e solte. Se a dobra demora vários segundos para voltar, o animal está desidratado.\n\nO que fazer: pare o trabalho, solte o arreio, leve para a sombra e com vento, jogue água fresca sem parar na cabeça, pescoço, costas, garupa e pernas até ele esfriar, e ofereça alguns goles de água a cada poucos minutos. Não cubra o animal quente.",
+      "avisos": [
+        "Insolação mata. Se houver veterinário, chame. Animal que caiu ou não consegue andar reto não volta ao trabalho naquele dia nem nos seguintes sem avaliação."
+      ]
+    },
+    {
+      "titulo": "Use a carroça com segurança",
+      "texto": "O arreio precisa permitir frear e dar ré, não só puxar (Embrapa). Na carroça de varais, use retranca (a peça que passa atrás das coxas e segura a carroça na descida); sem ela, a carroça empurra o animal ladeira abaixo.\n\n• Distribua a carga sobre o eixo para que os varais não puxem o lombo do animal para cima nem pesem demais sobre ele. Amarre tudo.\n• Lubrifique o eixo e confira rodas, varais e engates antes de sair.\n• Desça devagar, em zigue-zague se o caminho permitir, e use o freio da carroça quando houver.\n• Em subida longa, faça paradas curtas em trecho plano, com a roda calçada.\n• Nunca prenda o animal à carroça só pela cabeça ou pelo cabresto.\n• Na via pública, conduza pela direita, junto ao meio-fio ou no acostamento, e siga as normas de circulação (Código de Trânsito, art. 52). À noite, ponha refletor ou lanterna na traseira.",
+      "avisos": [
+        "Nunca passe entre o animal e a carroça nem fique atrás de um equino sem avisar com a voz e a mão. Coice e esmagamento entre varal e muro são acidentes comuns e graves."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Matching tillage implements to draught animal capacity (F. Inns) — FAO",
+      "url": "https://www.fao.org/4/w0613t/w0613T0g.htm"
+    },
+    {
+      "titulo": "Tração animal: arreios — Embrapa/Embrater/CPATSA (1983)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/155947/1/Digitalizar0089.pdf"
+    },
+    {
+      "titulo": "Mecanização na cultura do milho utilizando a tração animal (Circular Técnica 9) — Embrapa Milho e Sorgo",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/895949/1/circ92.pdf"
+    },
+    {
+      "titulo": "Tração animal: vantagens do uso na pequena propriedade — Embrapa Rondônia",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/984088/1/Foldertracaoanimal.pdf"
+    },
+    {
+      "titulo": "Welfare concerns for mounted load carrying by working donkeys in Pakistan — Frontiers in Veterinary Science (2022)",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.886020/full"
+    },
+    {
+      "titulo": "Welfare Interpretation Manual, cap. 2: lesões no corpo — Brooke",
+      "url": "https://www.thebrooke.org/sites/default/files/Animal%20Welfare/Welfare%20Interpretation%20Manual-%20Chapter2%2C%20BodyLesions.pdf"
+    },
+    {
+      "titulo": "Donkey harness guide — The Donkey Sanctuary",
+      "url": "https://www.thedonkeysanctuary.org.uk/for-professionals/donkey-harness-guide"
+    },
+    {
+      "titulo": "Caring for your horse's hooves — University of Minnesota Extension",
+      "url": "https://extension.umn.edu/horse/caring-your-horses-hooves"
+    },
+    {
+      "titulo": "Caring for horses during hot weather — University of Minnesota Extension",
+      "url": "https://extension.umn.edu/horse/caring-horses-during-hot-weather"
+    },
+    {
+      "titulo": "Caring for donkeys through summer — The Donkey Sanctuary",
+      "url": "https://thedonkeysanctuary.org.uk/for-owners/owners-resources/caring-for-donkeys-through-summer"
+    },
+    {
+      "titulo": "Horses and water — eXtension Horses",
+      "url": "https://horses.extension.org/horses-and-water/"
+    },
+    {
+      "titulo": "Nutritional requirements of horses and other equids — Merck Veterinary Manual",
+      "url": "https://www.merckvetmanual.com/management-and-nutrition/nutrition-horses/nutritional-requirements-of-horses-and-other-equids"
+    },
+    {
+      "titulo": "Basic Horse Nutrition (B1355) — University of Georgia Extension",
+      "url": "https://fieldreport.caes.uga.edu/publications/B1355/"
+    },
+    {
+      "titulo": "Nutrition of draught oxen in semi-arid west Africa 2 (Fall et al., 1997) — ILRI/CTVM",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08db540f0b649740019da/R5198f.pdf"
+    },
+    {
+      "titulo": "Código de Trânsito Brasileiro, art. 52 (veículos de tração animal) — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    }
+  ]
+}

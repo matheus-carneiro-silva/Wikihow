@@ -67,6 +67,10 @@ describe('normalização', () => {
     assert.equal(raiz('troque'), raiz('trocar'));
     assert.equal(raiz('coloque'), raiz('colocar'));
   });
+  it('separa palavras que o stemmer juntaria por engano', () => {
+    assert.notEqual(raiz('calça'), raiz('calçado'));
+    assert.equal(raiz('calças'), raiz('calça'));
+  });
 });
 
 describe('busca', () => {

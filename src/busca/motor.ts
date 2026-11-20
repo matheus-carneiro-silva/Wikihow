@@ -87,11 +87,17 @@ export function singular(palavra: string): string {
 const cacheRaiz = new Map<string, string>();
 
 /** Radical sem acento, igual para "trocar", "trocando", "troca". */
+/**
+ * Raízes corrigidas à mão, para palavras que o stemmer junta com outras de
+ * sentido diferente (ex.: "calça" e "calçado" viram "calc").
+ */
+const RAIZES_FIXAS: Record<string, string> = { calca: 'calca', calcas: 'calca' };
+
 export function raiz(palavra: string): string {
   let r = cacheRaiz.get(palavra);
   if (r === undefined) {
     // "coloque" → "coloqu" vira "coloc", igual a "colocar" (troque/trocar, fique/ficar).
-    r = normalizar(stemmer(singular(palavra))).replace(/qu$/, 'c');
+    r = RAIZES_FIXAS[normalizar(palavra)] ?? normalizar(stemmer(singular(palavra))).replace(/qu$/, 'c');
     cacheRaiz.set(palavra, r);
   }
   return r;

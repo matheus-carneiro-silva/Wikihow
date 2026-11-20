@@ -1,0 +1,161 @@
+{
+  "id": "prever-o-tempo-sem-internet",
+  "titulo": "Como prever o tempo sem internet",
+  "resumo": "Ler nuvens (cúmulos, cumulonimbos, cirros), vento e pressão com barômetro caseiro para prever chuva e tempestade nas próximas horas, se proteger de raios, reconhecer a chegada de uma frente fria no Brasil e saber até onde os ditados populares valem.",
+  "categoria": "clima-e-calendario",
+  "tags": [
+    "previsão do tempo",
+    "vai chover",
+    "chuva",
+    "temporal",
+    "tempestade",
+    "trovoada",
+    "relâmpago",
+    "raio",
+    "regra 30-30",
+    "nuvem de chuva",
+    "bigorna",
+    "pressão atmosférica",
+    "barômetro",
+    "frente fria",
+    "massa de ar polar",
+    "geada",
+    "friagem",
+    "escala Beaufort",
+    "ditados populares",
+    "céu vermelho"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Previsão por observação vale para as próximas horas, no máximo um ou dois dias, e erra com frequência. Ela não substitui alertas oficiais: se tiver rádio, ouça os avisos da Defesa Civil e do Inmet. Se ouvir trovão, você já está ao alcance de um raio: abrigue-se na hora.",
+  "materiais": [
+    "Caderno e lápis para anotar as observações",
+    "Barômetro aneroide, se tiver; ou um pote de vidro, bexiga, canudo, elástico e papel para fazer um caseiro",
+    "Fita ou pano leve num mastro para ver a direção do vento",
+    "Bússola ou referência dos pontos cardeais",
+    "Relógio para contar segundos"
+  ],
+  "passos": [
+    {
+      "titulo": "Observe e anote três vezes por dia",
+      "texto": "Prever o tempo sem instrumentos é comparar: o que muda importa mais do que o valor de um momento. Anote de manhã, ao meio-dia e no fim da tarde:\n• tipo e quantidade de nuvens e para onde andam;\n• direção e força do vento;\n• leitura do barômetro (ou posição do ponteiro do caseiro);\n• temperatura (sensação ou termômetro) e se choveu.\n\nDepois de algumas semanas, você vai reconhecer o padrão da sua região: de que lado vêm as chuvas, que vento antecede a mudança, a que horas as pancadas de verão costumam cair."
+    },
+    {
+      "titulo": "Leia as nuvens baixas: cúmulos e cumulonimbos",
+      "texto": "Cúmulos são as nuvens de base reta e topo arredondado, como algodão. Pequenos e espalhados num dia de sol, indicam tempo bom (Met Office).\n\nCúmulos congestos (torres) são mais altos do que largos, como chaminés, e já podem dar pancadas leves. Se crescem rápido na manhã e no começo da tarde, há instabilidade e risco de tempestade.\n\nCumulonimbo é a nuvem de tempestade: enorme, de base escura e topo que se espalha em forma de bigorna, com aspecto fibroso. É a única nuvem que dá granizo, trovão e raio, além de aguaceiros fortes (Met Office). Uma célula isolada costuma se desfazer cerca de 1 hora depois que a chuva começa, mas tempestades com várias células podem durar muito mais.\n\nEstratos (camada cinza e lisa) e estratocúmulos (camada de flocos) dão no máximo garoa.",
+      "dicas": [
+        "Altocúmulos com torrinhas logo cedo indicam instabilidade no alto, que pode virar tempestade à tarde (Serviço Nacional de Meteorologia dos EUA)."
+      ]
+    },
+    {
+      "titulo": "Leia as nuvens altas: cirros e o véu que engrossa",
+      "texto": "Cirros são fiapos brancos e finos, como cabelo, feitos de cristais de gelo, bem alto no céu. Muitas vezes são o primeiro sinal de uma frente se aproximando (Serviço Nacional de Meteorologia dos EUA).\n\nA sequência que indica chuva chegando é o céu 'fechando de cima para baixo': cirros viram um véu fino e branco (cirrostratos), que forma um halo, anel em volta do Sol ou da Lua; o véu engrossa e baixa em uma camada cinza que esconde o Sol (altostratos); depois vêm nuvens baixas, escuras e contínuas, com chuva firme (nimbostratos).\n\nCirros isolados que não engrossam nem aumentam não querem dizer muita coisa sozinhos: confira com o barômetro e o vento."
+    },
+    {
+      "titulo": "Observe o vento",
+      "texto": "Estime a força do vento pelos efeitos em terra (escala Beaufort, Serviço Nacional de Meteorologia dos EUA; velocidades convertidas para km/h):\n• força 4 (20 a 30 km/h): levanta poeira e papel, mexe galhos finos;\n• força 5 (31 a 39 km/h): árvores pequenas com folhas começam a balançar;\n• força 6 (41 a 50 km/h): galhos grandes em movimento, fios assobiam, difícil usar guarda-chuva;\n• força 7 (52 a 61 km/h): árvores inteiras balançam, difícil andar contra o vento;\n• força 8 (63 a 74 km/h): quebra galhos finos;\n• força 9 (76 a 87 km/h): danos leves em telhados;\n• força 10 (89 a 102 km/h): arranca árvores e causa estragos grandes.\n\nMais importante que a força é a mudança: vento que muda de direção de repente, rajadas frias e cheiro de chuva indicam tempestade ou frente chegando.",
+      "avisos": [
+        "A partir da força 8, fique longe de árvores, muros altos, postes e telhados soltos. Não suba em telhado com vento forte."
+      ]
+    },
+    {
+      "titulo": "Use um barômetro, mesmo caseiro",
+      "texto": "Pressão caindo indica mau tempo chegando; pressão subindo, melhora. O que vale é quanto ela muda em 3 horas (classificação do Met Office, serviço meteorológico britânico; 1 hPa = 1 mbar):\n• caindo devagar: 0,1 a 1,5 hPa em 3 horas;\n• caindo: 1,6 a 3,5 hPa;\n• caindo rápido: 3,6 a 6 hPa;\n• caindo muito rápido: mais de 6 hPa.\nQueda rápida ou muito rápida é sinal de tempo ruim forte próximo.\n\nBarômetro caseiro de pote (Science Learning Hub; Science Notes): estique um pedaço de bexiga sobre a boca de um pote de vidro bem seco e prenda com elástico, sem vazar. Cole um canudo deitado, com uma ponta no centro da borracha e a outra para fora. Encoste um papel na parede atrás e marque a posição da ponta. Pressão subindo afunda a borracha e o canudo sobe; pressão caindo estufa a borracha e o canudo desce.\n\nO pote não dá valores em hPa, só a tendência. E ele reage à temperatura: o ar de dentro se expande quando esquenta. Deixe-o num lugar de temperatura estável, longe de sol, fogão e janela, e leia sempre à mesma hora.",
+      "dicas": [
+        "Se tiver um barômetro aneroide, de ponteiro, anote a leitura e a hora: a queda em 3 horas diz mais que o desenho de 'chuva' ou 'bom tempo' no mostrador."
+      ]
+    },
+    {
+      "titulo": "Proteja-se de raios",
+      "texto": "Toda trovoada tem raio. Se você ouve trovão, está ao alcance de um: vá para um abrigo na hora, sem esperar a chuva (NOAA). Raios podem cair a mais de 16 km de onde está chovendo.\n\nDistância do raio: conte os segundos entre o clarão e o trovão e divida por 3; o resultado é a distância em km (15 segundos = 5 km).\n\nA antiga 'regra 30-30' dizia para se abrigar quando o trovão viesse menos de 30 segundos depois do clarão (cerca de 10 km) e esperar 30 minutos depois do último trovão. A primeira metade caiu em desuso porque as pessoas só começavam a procurar abrigo nos 30 segundos, quando deveriam já estar abrigadas. A regra atual: ouviu trovão, abrigue-se; e só saia 30 minutos depois do último trovão.\n\nAbrigo seguro: construção fechada de alvenaria, de preferência com fiação e encanamento, ou veículo fechado de teto metálico com os vidros fechados. Não são seguros: barracas, galpões abertos, varandas, quiosques, debaixo de árvore, poste ou marquise precária.\n\nDentro de casa, fique longe de tomadas, aparelhos ligados à rede, telefone com fio, torneiras e encanamento, janelas e portas, e não se encoste em paredes e pisos de concreto.",
+      "avisos": [
+        "Pego no aberto, sem abrigo: não deite no chão, não fique sob árvore isolada nem em topo de morro, saia da água (rio, açude, piscina) e se afaste de cercas de arame, linhas de energia e objetos de metal. Um grupo deve se espalhar. Isso diminui o risco, mas nenhum lugar ao ar livre é seguro.",
+        "Pessoa atingida por raio não fica com carga elétrica: pode e deve ser socorrida na hora. Se não respira, comece a reanimação (veja o guia de reanimação cardiopulmonar)."
+      ]
+    },
+    {
+      "titulo": "Reconheça a chegada de uma frente fria",
+      "texto": "Frente fria é a borda de uma massa de ar frio que vem das regiões polares e avança sobre o ar quente (Inmet). No Brasil, o Sul é a porta de entrada; elas são mais frequentes do outono à primavera e mais fortes no outono e inverno.\n\nAntes: dias de calor fora do normal e abafamento, o 'aquecimento pré-frontal', com vento quente vindo do norte (Climatempo). O barômetro costuma cair nessa fase.\n\nNa passagem: nuvens carregadas, chuva às vezes forte, rajadas de vento e trovoadas.\n\nDepois: a pressão sobe, o vento muda de direção e fica frio, a temperatura cai rápido, em poucas horas, e o céu abre, com ar seco e madrugadas frias (Climatempo). No outono e inverno, a massa de ar polar que vem atrás favorece geadas no centro-sul do país e pode chegar até a Região Norte, na chamada friagem (Inmet).\n\nNa primavera, as frentes funcionam mais como gatilho de pancadas e temporais; no verão são menos frequentes, mas podem trazer temporais rápidos e fortes.",
+      "dicas": [
+        "Sinal clássico de geada: depois que a frente passa, noite de céu limpo e estrelado, sem vento e com ar seco (UFPR). O ar frio escorre e se acumula nas baixadas. Teste da UFPR: com termômetro a 10 cm das folhas, exposto ao céu, por volta das 18 h, cerca de 12 °C indica perto de 0 °C nas folhas de madrugada, o que já queima hortaliças. Nessas noites, cubra as mudas sensíveis e abrigue os animais jovens."
+      ],
+      "avisos": [
+        "Depois de uma frente forte, proteja crianças, idosos e animais do frio, principalmente de madrugada. Veja o guia de hipotermia e insolação."
+      ]
+    },
+    {
+      "titulo": "Saiba o que os ditados acertam e erram",
+      "texto": "Alguns ditados descrevem processos reais em lugares específicos; outros não têm valor nenhum.\n\n'Céu vermelho ao entardecer, bom tempo amanhã': o Met Office explica que ele funciona melhor onde o tempo chega quase sempre do oeste, como no Reino Unido, porque o pôr do sol vermelho indica ar seco e alta pressão vindo daquele lado. No Brasil, as frentes frias chegam pelo sul e as chuvas de verão se formam no próprio lugar, então ele vale pouco por aqui.\n\nPrevisões de longo prazo, como adivinhar o ano todo pelos primeiros dias de janeiro, foram testadas com dados de chuva de 257 locais de Portugal entre 1950 e 2003, e o resultado aponta que não passam de superstição.\n\nUse os ditados como lembrete para olhar o céu, nunca como previsão. O que funciona é sinal físico observado por você: nuvem crescendo, pressão caindo, vento virando.",
+      "dicas": [
+        "Anote os sinais que os mais velhos da sua região usam e confira no seu caderno se eles acertam. Fique com os que acertarem."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Low level clouds (cumulus, cumulonimbus, stratus) — Met Office",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/low-level-clouds"
+    },
+    {
+      "titulo": "Cloud classifications and characteristics — NWS Louisville (NOAA)",
+      "url": "https://www.weather.gov/media/lmk/soo/cloudchart.pdf"
+    },
+    {
+      "titulo": "Beaufort wind scale — NWS Miami (NOAA)",
+      "url": "https://www.weather.gov/mfl/beaufort"
+    },
+    {
+      "titulo": "Marine forecast glossary (pressure tendency) — Met Office",
+      "url": "https://weather.metoffice.gov.uk/guides/coast-and-sea/glossary"
+    },
+    {
+      "titulo": "Making a barometer — Science Learning Hub (Nova Zelândia)",
+      "url": "https://www.sciencelearn.org.nz/resources/2205-making-a-barometer"
+    },
+    {
+      "titulo": "How to make a homemade barometer — Science Notes",
+      "url": "https://sciencenotes.org/how-to-make-a-homemade-barometer-2-ways/"
+    },
+    {
+      "titulo": "Lightning safety — NOAA JetStream",
+      "url": "https://www.noaa.gov/jetstream/lightning/lightning-safety"
+    },
+    {
+      "titulo": "Lightning safety when working outdoors — OSHA/NOAA",
+      "url": "https://www.weather.gov/media/owlie/OSHA_FS-3863_Lightning_Safety_05-2016.pdf"
+    },
+    {
+      "titulo": "Overview: Lightning Safety (vítimas não ficam com carga elétrica) — NWS/NOAA",
+      "url": "https://www.weather.gov/safety/lightning-safety-overview"
+    },
+    {
+      "titulo": "Lightning safety: the 30-30 rule replaced (W. Roeder) — Vaisala",
+      "url": "https://www.vaisala.com/sites/default/files/documents/10.Roeder-Lightning%20Safety.pdf"
+    },
+    {
+      "titulo": "O que é e como se forma uma frente fria? — Inmet",
+      "url": "https://portal.inmet.gov.br/noticias/o-que-%C3%A9-e-como-se-forma-uma-frente-fria"
+    },
+    {
+      "titulo": "O que é uma frente fria, como se forma e efeitos — Climatempo",
+      "url": "https://www.climatempo.com.br/noticia/temporal/o-que-e-uma-frente-fria-como-se-forma-efeitos-e-como-identificar-nos-mapas"
+    },
+    {
+      "titulo": "Sol e calor no Sul do Brasil antes da chegada de nova frente fria — Climatempo",
+      "url": "https://www.climatempo.com.br/noticia/sul/sol-e-calor-no-sul-do-brasil-antes-da-chegada-de-nova-frente-fria"
+    },
+    {
+      "titulo": "Saiba como agir: geadas — Cenacid/UFPR",
+      "url": "https://cenacid.ufpr.br/portal/wp-content/uploads/2017/07/Saiba-como-agir-GEADAS.pdf"
+    },
+    {
+      "titulo": "Red sky at night — Met Office",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/red-sky-at-night"
+    },
+    {
+      "titulo": "Arremedas: superstição ou realidade? (C. Tereso) — Internet Latent Corpus Journal, Univ. de Aveiro",
+      "url": "https://proa.ua.pt/index.php/ilcj/article/download/28837/20797"
+    }
+  ]
+}

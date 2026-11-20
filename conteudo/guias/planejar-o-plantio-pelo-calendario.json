@@ -1,0 +1,158 @@
+{
+  "id": "planejar-o-plantio-pelo-calendario",
+  "titulo": "Como planejar o plantio pelo calendário de chuvas",
+  "resumo": "Estações e período chuvoso de cada região do Brasil, épocas de plantio de feijão, milho, mandioca e hortaliças por região, por que as fases da lua não têm evidência e como montar o seu próprio calendário com pluviômetro caseiro e caderno de campo.",
+  "categoria": "clima-e-calendario",
+  "tags": [
+    "calendário agrícola",
+    "calendário de plantio",
+    "época de plantio",
+    "quando plantar",
+    "mês de plantar",
+    "estação chuvosa",
+    "período das águas",
+    "quadra chuvosa",
+    "inverno amazônico",
+    "safra das águas",
+    "safra da seca",
+    "safrinha",
+    "zoneamento agrícola",
+    "ZARC",
+    "Plantio Certo",
+    "lua",
+    "fase da lua",
+    "calendário lunar",
+    "pluviômetro",
+    "geada",
+    "veranico",
+    "aipim",
+    "macaxeira"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "As épocas deste guia são médias regionais. Altitude, solo e o ano (El Niño, La Niña, veranicos) mudam tudo: confirme com a sua própria observação e, enquanto houver internet, com o Zoneamento Agrícola de Risco Climático (ZARC) do Ministério da Agricultura para o seu município. Plantar fora de época pode perder a semente inteira; guarde sempre uma reserva de sementes para replantar.",
+  "materiais": [
+    "Caderno de campo e lápis",
+    "Lata cilíndrica de paredes retas (de leite em pó, sem tampa), régua milimetrada e estaca de madeira para o pluviômetro",
+    "Termômetro, se tiver",
+    "Calendário do ano",
+    "Aplicativo Zarc Plantio Certo ou anotações das janelas do ZARC do seu município, feitas enquanto há internet"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda as estações do hemisfério sul",
+      "texto": "No Brasil, as estações são o contrário das do hemisfério norte. Em 2026, a primavera começou em 22 de setembro e termina em 21 de dezembro (Inmet). Nos outros anos, as datas mudam pouco: o verão começa por volta de 21 de dezembro, o outono por volta de 20 de março e o inverno por volta de 21 de junho.\n\nPara plantar, porém, o que manda na maior parte do país não é a estação do calendário, e sim a chuva. Só no Sul e nas serras do Sudeste o frio do inverno (geada) é o limite principal.",
+      "dicas": [
+        "No Nordeste, o povo chama de 'inverno' a estação das chuvas, que não coincide com o inverno do calendário. Pergunte sempre 'em que meses chove aqui?'."
+      ]
+    },
+    {
+      "titulo": "Saiba quando chove na sua região",
+      "texto": "O Brasil não tem uma estação chuvosa única (Climatempo, Inmet):\n• Sudeste e Centro-Oeste: chuvas de outubro a março, com pico em dezembro e janeiro; seca de abril a setembro. Na primavera, a umidade vinda da Amazônia começa a alimentar o período chuvoso.\n• Norte: a maior parte da chuva cai de janeiro a maio, o 'inverno amazônico'; no extremo norte da região, de março a julho é o período mais chuvoso.\n• Nordeste: o interior semiárido tem chuva escassa e irregular e estação seca longa. No Ceará, a quadra chuvosa vai de fevereiro a maio, com uma pré-estação em dezembro e janeiro (Funceme). A faixa leste (litoral da Bahia ao Rio Grande do Norte) tem o período úmido do outono ao inverno.\n• Sul: chuvas bem distribuídas no ano todo, verões quentes e invernos frios com geada; ali, o frio define a época de plantio mais do que a chuva.\n\nAbril costuma ser mês de transição para a seca no centro do país, e veranicos (semanas secas no meio da estação chuvosa) são comuns.",
+      "avisos": [
+        "No Ceará, 'uma boa pré-estação não garante uma boa estação chuvosa' (Funceme): chuva de dezembro não prova que o ano será bom. Não plante toda a semente na primeira chuva."
+      ]
+    },
+    {
+      "titulo": "Plante feijão nas três safras",
+      "texto": "O feijão tem três épocas no Brasil (Embrapa Arroz e Feijão):\n• safra das águas: de agosto a dezembro, principalmente no Sul;\n• safra da seca: de janeiro a abril, em todo o país;\n• safra de inverno: de maio a agosto, principalmente no Centro-Oeste e com irrigação.\n\nClima ideal: cerca de 29 °C de dia e 21 °C à noite. Perto de 35 °C, as flores e vagens caem e a produção cai, principalmente com pouca água. Frio logo depois da semeadura atrasa ou impede a germinação. A fase mais sensível à falta de água é a floração: escolha a data de plantio para que ela não caia num período de veranico.",
+      "dicas": [
+        "Feijão de ciclo curto (cerca de 75 dias) cabe melhor em janelas de chuva curtas, como a do semiárido."
+      ]
+    },
+    {
+      "titulo": "Plante milho no começo das chuvas",
+      "texto": "No Brasil Central (Cerrado), a melhor época do milho de verão é de setembro a novembro, conforme o início das chuvas; plantando em outubro, a produção costuma ser maior. Cada dia de atraso depois da época ideal pode custar até 30 kg de milho por hectare (Embrapa Milho e Sorgo).\n\nO milho consome de 500 a 800 mm de água no ciclo. Dois dias de falta de água na fase crítica (do início da floração até o enchimento dos grãos) podem cortar até 20% da produção; de 4 a 8 dias, mais de 50%.\n\nMilho safrinha (segunda safra): plantado de janeiro a abril, depois de outra cultura de verão, com risco alto de seca no fim do ciclo. As datas-limite da Embrapa ficam entre o fim de janeiro e o fim de março, conforme o estado e a altitude; quanto mais tarde, maior o risco.\n\nNo Paraná, no sul de Mato Grosso do Sul e no sudoeste de São Paulo, o risco de geada é alto acima de 600 m de altitude, mais em junho e julho; em São Paulo, de junho a agosto. Nesses lugares, o milho tardio deve ficar nas partes baixas e longe do inverno.",
+      "avisos": [
+        "Em sobrevivência, a safrinha só vale com sobra de semente: se a chuva parar cedo, ela se perde inteira."
+      ]
+    },
+    {
+      "titulo": "Plante mandioca com umidade nos primeiros meses",
+      "texto": "A mandioca (aipim, macaxeira) precisa de umidade no solo para brotar e enraizar; falta de água nos primeiros meses causa perdas sérias. A regra é plantar no início da estação chuvosa; em solo argiloso e mal drenado, um pouco depois do início das chuvas, para evitar podridão (Embrapa Mandioca e Fruticultura).\n\nÉpocas recomendadas pela Embrapa (exemplos):\n• Norte: Amazonas o ano todo (várzea de agosto a setembro); Amapá de dezembro a fevereiro; Pará de dezembro a janeiro ou de maio a junho;\n• Nordeste: Ceará de janeiro a março; Piauí de janeiro a fevereiro; Maranhão de dezembro a janeiro; Rio Grande do Norte de fevereiro a março; Paraíba de março a abril; Pernambuco e Alagoas de maio a junho; Sergipe de abril a julho; Bahia, Recôncavo de abril a julho e Barreiras e semiárido de outubro a dezembro; Tabuleiros Costeiros de abril a agosto;\n• Centro-Oeste: Goiás de outubro a março; Mato Grosso de outubro a fevereiro; Mato Grosso do Sul de abril a outubro;\n• Sudeste: Minas Gerais, Cerrado de outubro a dezembro e Zona da Mata de junho a setembro; Espírito Santo de outubro a março; Rio de Janeiro de março a julho; São Paulo de maio a agosto;\n• Sul: Paraná de junho a setembro; Santa Catarina de julho a outubro no litoral e de agosto a novembro no Alto Vale do Itajaí; Rio Grande do Sul de setembro a novembro.\n\nCom média mensal perto de 15 °C, a mandioca para de crescer e perde as folhas; isso acontece mais no Centro-Oeste, Sudeste e Sul de maio a agosto.",
+      "dicas": [
+        "Plante e colha na mesma época do ano: assim você tira as manivas da colheita e planta logo, sem precisar guardá-las."
+      ]
+    },
+    {
+      "titulo": "Separe hortaliças de inverno e de verão",
+      "texto": "Muitas hortaliças podem ser plantadas o ano todo, mas há dois grupos (Embrapa Hortaliças):\n\nHortaliças de inverno: na maior parte do Brasil, de junho a agosto. Ex.: alface, acelga, alho, beterraba, cenoura, couve, couve-flor, repolho, brócolis, espinafre, ervilha, rabanete, rúcula, salsa, batata e mandioquinha-salsa. Vão bem no inverno do Sul e Sudeste e nas regiões altas do Centro-Oeste e do Nordeste. Em clima tropical sem altitude, não devem ser plantadas.\n\nHortaliças de verão: na maior parte do Brasil, de novembro a abril. Ex.: abóbora, moranga, batata-doce, berinjela, cará, inhame, chuchu, quiabo, jiló, maxixe, pepino, pimenta, pimentão, melancia, melão, milho-verde, feijão-vagem, tomate, cebolinha e coentro. Algumas cultivares de alface e cenoura são próprias para o verão.\n\nNo Norte e Nordeste quentes, as mais fáceis são batata-doce, cará, cebolinha, chuchu, coentro, feijão-vagem, inhame, jiló, maxixe, pimenta, quiabo e taioba. No Pará, a Embrapa recomenda plantar abóbora, berinjela, jiló, maxixe, melancia e melão do fim do período chuvoso até agosto; folhas como alface, couve, coentro e jambu, o ano todo, protegidas da chuva forte no período chuvoso.",
+      "dicas": [
+        "Em região quente, procure o lugar mais fresco e alto do terreno ou da vizinhança para as hortaliças de inverno."
+      ]
+    },
+    {
+      "titulo": "Esqueça a fase da lua como regra",
+      "texto": "Plantar pela lua é tradição forte no campo, mas não há evidência científica consistente de que a fase da lua mude a germinação ou a colheita. Uma revisão da biblioteca de horticultura da Universidade de Washington não encontrou estudos científicos extensos que comprovem os benefícios do plantio pela lua.\n\nUm ensaio da Embrapa Mandioca e Fruticultura (2013) com coentro viu tendência de mais massa nas semeaduras de lua nova, mas os próprios autores associaram o resultado à chuva e à temperatura daqueles dias e disseram não haver explicação plausível. Um resultado isolado assim não vira regra.\n\nO que decide é a umidade do solo, a temperatura e a época certa da sua região. Se quiser seguir a lua por tradição, faça isso dentro da janela de chuva: nunca atrase o plantio esperando a fase 'certa' e perca a umidade."
+    },
+    {
+      "titulo": "Faça um pluviômetro caseiro",
+      "texto": "Medir a chuva é a base do seu calendário (cartilha A chuva no Sertão, da Embrapa):\n1. Finque uma estaca firme, com a ponta a 1,5 m do chão, longe de casas, postes, árvores e animais.\n2. Tire toda a tampa de uma lata de leite em pó, deixando a borda bem fina, e prenda a lata reta na ponta da estaca.\n3. Depois de cada chuva, enfie a régua milimetrada na lata, tire e veja até onde ela molhou: esse número é a chuva em milímetros. Esvazie a lata.\n\nA lata precisa ter paredes retas, com a boca do mesmo tamanho do fundo; garrafa ou balde que afunila dão leitura errada. Cada 1 mm de chuva equivale a 1 litro de água por metro quadrado.",
+      "dicas": [
+        "Leia sempre no mesmo horário, de manhã cedo, para a evaporação não comer parte da medida."
+      ]
+    },
+    {
+      "titulo": "Registre o seu próprio calendário",
+      "texto": "Num caderno, faça uma tabela com uma linha por dia do mês e uma coluna por mês e anote os milímetros de cada chuva; some o total do mês e do ano (Embrapa). Ao lado, anote:\n• data do plantio, cultura e variedade, e de onde veio a semente;\n• data da germinação, da floração e da colheita, e quanto colheu;\n• primeira e última geada, veranicos, pragas e enchentes;\n• o que deu errado e por quê.\n\nCom o tempo, compare os anos: em que semana a chuva 'firmou', quantos dias o feijão levou para florir no seu chão, quando cai a primeira geada. Planeje pelos anos ruins, não pela média: plante a maior parte na janela mais segura e uma parte menor no início e no fim dela, para não perder tudo num veranico ou numa geada.",
+      "dicas": [
+        "Antes de a internet acabar, anote no caderno as janelas de plantio do ZARC do seu município para cada cultura (aplicativo Zarc Plantio Certo, gratuito). Elas são calculadas com décadas de dados de chuva e servem de ponto de partida."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Primavera 2026: confira a previsão para a estação — Inmet",
+      "url": "https://portal.inmet.gov.br/noticias/primavera-2026-confira-a-previsao-para-a-estacao"
+    },
+    {
+      "titulo": "Outono 2026: confira a previsão para a estação — Inmet",
+      "url": "https://portal.inmet.gov.br/noticias/outono-2026-confira-a-previs%C3%A3o-para-a-esta%C3%A7%C3%A3o"
+    },
+    {
+      "titulo": "O que é o período chuvoso e como ele impacta o mercado brasileiro — Climatempo",
+      "url": "https://www.climatempo.com.br/noticia/negocios/o-que-e-o-periodo-chuvoso-e-como-ele-impacta-o-mercado-brasileiro"
+    },
+    {
+      "titulo": "Pré-estação chuvosa no CE termina abaixo da média (entrevista com a Funceme) — Diário do Nordeste",
+      "url": "https://diariodonordeste.verdesmares.com.br/ceara/pre-estacao-chuvosa-no-ce-termina-abaixo-da-media-mesmo-com-chuvas-no-fim-de-janeiro-veja-volumes-1.3739223"
+    },
+    {
+      "titulo": "Feijão: o produtor pergunta, a Embrapa responde (2ª ed.) — Embrapa Arroz e Feijão",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1011664/1/500-perguntas-feijao.pdf"
+    },
+    {
+      "titulo": "Cultivo do milho: zoneamento agrícola e época de plantio — Embrapa Milho e Sorgo",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/748750/1/Milho-Zoneamento-agricola.pdf"
+    },
+    {
+      "titulo": "Mandioca: o produtor pergunta, a Embrapa responde — Embrapa Mandioca e Fruticultura",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/120506/1/500perguntasmandioca.pdf"
+    },
+    {
+      "titulo": "Hortaliças: o produtor pergunta, a Embrapa responde — Embrapa Hortaliças",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/663403/1/500perguntashortas.pdf"
+    },
+    {
+      "titulo": "Hortas: recomendações para cultivo no estado do Pará — Embrapa Amazônia Oriental",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1168224/1/CartilhaHortas.pdf"
+    },
+    {
+      "titulo": "Lunar gardening — Elisabeth C. Miller Library, University of Washington",
+      "url": "https://depts.washington.edu/hortlib/pal/lunar-gardening/"
+    },
+    {
+      "titulo": "Influência do ciclo lunar no desenvolvimento e rendimento de coentro — Embrapa Mandioca e Fruticultura/UFRB (2013)",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/97489/1/Influencia-do-Ciclo-Lunar-no-Desenvolvimento-13759-62319-1-PB-ROMULO-CARVALHO.pdf"
+    },
+    {
+      "titulo": "A chuva no Sertão (ABC da Agricultura Familiar) — Embrapa",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/155876/1/A-chuva-no-sertao.pdf"
+    },
+    {
+      "titulo": "Programa Nacional de Zoneamento Agrícola de Risco Climático (ZARC) — Ministério da Agricultura",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/riscos-seguro/programa-nacional-de-zoneamento-agricola-de-risco-climatico"
+    }
+  ]
+}
