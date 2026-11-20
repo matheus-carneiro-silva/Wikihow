@@ -243,6 +243,13 @@ describe('sincronizarConteudo', () => {
     assert.equal(armazenamento.temporaria, null);
   });
 
+  it('aceita campos que esta versão do app não conhece', async () => {
+    const { github, sincronizar } = preparar();
+    github.arquivos.set('conteudo/guias/a.json', guia('a', { campoDoFuturo: { qualquer: 'coisa' } }));
+    const r = await sincronizar();
+    assert.equal(r.tipo, 'atualizado');
+  });
+
   it('falha no download descarta a temporária e mantém o atual', async () => {
     const { github, armazenamento, sincronizar } = preparar();
     await sincronizar();

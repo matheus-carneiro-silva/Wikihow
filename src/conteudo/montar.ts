@@ -6,7 +6,7 @@
  * Sem dependências e sem imports com alias (roda no app e no Node).
  */
 import type { Categoria, Guia } from './tipos.ts';
-import { validarCategorias, validarGuia, validarSinonimos } from './validar.ts';
+import { validarCategorias, validarGuia, validarSinonimos, type OpcoesValidacao } from './validar.ts';
 
 /** Arquivos de uma pasta de conteúdo, já lidos (JSON em objeto). */
 export type FonteConteudo = {
@@ -30,7 +30,8 @@ export type ConteudoMontado = {
   erros: string[];
 };
 
-export function montarConteudo(fonte: FonteConteudo): ConteudoMontado {
+/** `opcoes.estrito` (padrão true): ver OpcoesValidacao. */
+export function montarConteudo(fonte: FonteConteudo, opcoes: OpcoesValidacao = {}): ConteudoMontado {
   const erros = [...(fonte.errosLeitura ?? [])];
   const jaReportado = (arquivo: string) => erros.some((e) => e.startsWith(arquivo));
 
@@ -38,7 +39,7 @@ export function montarConteudo(fonte: FonteConteudo): ConteudoMontado {
   if (fonte.categorias === undefined) {
     if (!jaReportado('categorias.json')) erros.push('categorias.json: arquivo ausente');
   } else {
-    const errosCategorias = validarCategorias(fonte.categorias);
+    const errosCategorias = validarCategorias(fonte.categorias, opcoes);
     erros.push(...errosCategorias);
     if (!errosCategorias.length) categorias = fonte.categorias as Categoria[];
   }
@@ -53,7 +54,7 @@ export function montarConteudo(fonte: FonteConteudo): ConteudoMontado {
   const imagens = new Set(fonte.imagens);
   const guias: Guia[] = [];
   for (const { nome, dados } of fonte.guias) {
-    const errosGuia = validarGuia(dados, nome, categorias, imagens);
+    const errosGuia = validarGuia(dados, nome, categorias, imagens, opcoes);
     erros.push(...errosGuia);
     if (!errosGuia.length) guias.push(dados as Guia);
   }

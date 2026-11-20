@@ -13,6 +13,12 @@ export type Categoria = {
   descricao?: string;
 };
 
+export type Fonte = {
+  titulo: string;
+  /** Endereço https:// da referência. */
+  url: string;
+};
+
 export type ImagemPasso = {
   /** Caminho dentro de conteudo/imagens/ (ex.: "trocar-pneu-furado/aperto-em-cruz.png"). */
   arquivo: string;
@@ -43,6 +49,10 @@ export type Guia = {
   tempoMinutos?: number;
   /** Data no formato AAAA-MM-DD. */
   atualizadoEm: string;
+  /** Aviso importante exibido em destaque no topo do guia. */
+  alerta?: string;
   materiais?: string[];
   passos: Passo[];
+  /** Referências exibidas no fim do guia, com link. */
+  fontes?: Fonte[];
 };

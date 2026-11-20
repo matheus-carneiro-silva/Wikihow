@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 
 import type { Categoria, Guia } from '../src/conteudo/tipos.ts';
-import { criarMotorDeBusca, destacar, raiz, singular } from '../src/busca/motor.ts';
+import { criarMotorDeBusca, destacar, formas, raiz, singular } from '../src/busca/motor.ts';
 
 const categorias: Categoria[] = [
   { id: 'cozinha', nome: 'Cozinha' },
@@ -83,6 +83,11 @@ describe('busca', () => {
     assert.equal(primeiro('desentu'), 'desentupir-pia');
     assert.equal(primeiro('gelad'), 'limpar-geladeira');
   });
+  it('não usa prefixo em palavras de 1 ou 2 letras', () => {
+    // "ca" não deve casar "carro", "café" nem "casa" por prefixo.
+    assert.deepEqual(ids('ca'), []);
+    assert.equal(primeiro('car'), 'trocar-pneu');
+  });
   it('tolera erros de digitação', () => {
     assert.equal(primeiro('geladiera'), 'limpar-geladeira');
     assert.equal(primeiro('desentupri'), 'desentupir-pia');
@@ -103,6 +108,14 @@ describe('busca', () => {
   it('não exige palavras genéricas como "fazer"', () => {
     assert.equal(primeiro('como fazer pão'), 'pao-caseiro');
     assert.equal(motor.buscar('como fazer pão').parcial, false);
+  });
+  it('distingue palavra com acento de palavra vazia', () => {
+    assert.deepEqual(formas('no'), []);
+    assert.deepEqual(formas('nó').slice(0, 1), ['no']);
+    assert.deepEqual(formas('à'), []);
+    assert.deepEqual(formas('voce'), []);
+    assert.deepEqual(formas('você'), []);
+    assert.deepEqual(formas('não').slice(0, 1), ['nao']);
   });
   it('ignora palavras de pergunta', () => {
     assert.equal(primeiro('quanto tempo de forno pro pão'), 'pao-caseiro');

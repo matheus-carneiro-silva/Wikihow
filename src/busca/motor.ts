@@ -45,6 +45,20 @@ const MANTIDAS = new Set(['sem', 'nao']);
 /** Palavras de pergunta e formas coloquiais que a lista padrão não tem. */
 const STOPWORDS_EXTRAS = ['quanto', 'quanta', 'quantos', 'quantas', 'onde', 'porque', 'pq', 'pra', 'pras', 'pro', 'pros', 'q', 'vc'];
 const STOPWORDS = new Set([...stopwords.map(normalizar).filter((p) => !MANTIDAS.has(p)), ...STOPWORDS_EXTRAS]);
+/** As mesmas, com acento: "à" e "já" são vazias, mas "nó" (≠ "no") e "pé" não. */
+const STOPWORDS_ACENTUADAS = new Set(stopwords.map((p) => p.toLowerCase()));
+
+const temAcento = (palavra: string) => normalizar(palavra) !== palavra.toLowerCase();
+
+/**
+ * Palavra vazia? Com acento, só se a forma acentuada estiver na lista (assim
+ * "nó" fica e "no" sai). Sem acento, compara sem acentos ("voce" = "você").
+ */
+function ehVazia(palavra: string): boolean {
+  const crua = normalizar(palavra);
+  if (MANTIDAS.has(crua)) return false;
+  return temAcento(palavra) ? STOPWORDS_ACENTUADAS.has(palavra.toLowerCase()) : STOPWORDS.has(crua);
+}
 
 /**
  * Palavras genéricas de guias: não são exigidas na busca, só somam pontos.
@@ -85,8 +99,8 @@ export function raiz(palavra: string): string {
 
 /** Formas indexadas de uma palavra (vazio para stopwords). */
 export function formas(palavra: string): string[] {
+  if (ehVazia(palavra)) return [];
   const crua = normalizar(palavra);
-  if (STOPWORDS.has(crua)) return [];
   const r = raiz(palavra);
   return r === crua || r.length < 2 ? [crua] : [crua, r];
 }
@@ -292,7 +306,7 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
     if (!crua) return undefined;
     const queries: Query[] = [
       // Palavra como digitada; prefixo na última (o usuário ainda está digitando).
-      { queries: [crua], prefix: ultima || crua.length >= 4, fuzzy: crua.length >= 5 ? 0.2 : false },
+      { queries: [crua], prefix: (ultima && crua.length >= 3) || crua.length >= 4, fuzzy: crua.length >= 5 ? 0.2 : false },
     ];
     if (r) queries.push({ queries: [r], prefix: ultima, fuzzy: r.length >= 5 ? 0.2 : false });
     const sin = new Set([...(mapaSinonimos.get(crua) ?? []), ...(r ? (mapaSinonimos.get(r) ?? []) : [])]);

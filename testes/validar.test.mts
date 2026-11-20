@@ -18,6 +18,7 @@ const guiaValido = (): Record<string, unknown> => ({
   dificuldade: 'media',
   tempoMinutos: 30,
   atualizadoEm: '2026-11-20',
+  alerta: 'Use luvas e óculos.',
   materiais: ['Bicarbonato'],
   passos: [
     {
@@ -28,6 +29,7 @@ const guiaValido = (): Record<string, unknown> => ({
       avisos: ['Forno frio.'],
     },
   ],
+  fontes: [{ titulo: 'Manual do fabricante', url: 'https://exemplo.com/manual' }],
 });
 
 /** Valida o guia com `alterar` aplicado e devolve os erros. */
@@ -139,6 +141,28 @@ describe('validarGuia', () => {
 
   it('sem a lista de imagens, qualquer imagem é recusada', () => {
     assert.match(validarGuia(guiaValido(), ARQUIVO, categorias).join(), /não existe em conteudo\/imagens/);
+  });
+
+  it('valida alerta e fontes', () => {
+    umErro(errosCom((g) => (g.alerta = ' ')), '.alerta');
+    umErro(errosCom((g) => (g.fontes = 'https://x.com')), '.fontes: lista');
+    umErro(errosCom((g) => (g.fontes = ['https://x.com'])), 'fontes[0]: deve ser um objeto');
+    umErro(errosCom((g) => (g.fontes = [{ titulo: 'X', url: 'http://x.com' }])), 'fontes[0].url: endereço https://');
+    umErro(errosCom((g) => (g.fontes = [{ url: 'https://x.com' }])), 'fontes[0].titulo');
+    umErro(errosCom((g) => (g.fontes = [{ titulo: 'X', url: 'https://x.com', ano: 2020 }])), 'campo desconhecido "ano"');
+  });
+
+  it('no modo não estrito ignora campos desconhecidos, mas não erros de valor', () => {
+    const g = guiaValido();
+    g.campoDoFuturo = 1;
+    passo0(g).outroCampo = 'x';
+    (passo0(g).imagem as Record<string, unknown>).largura = 1200;
+    (g.fontes as Record<string, unknown>[])[0].ano = 2020;
+    assert.equal(validarGuia(g, ARQUIVO, categorias, imagens).length, 4);
+    assert.deepEqual(validarGuia(g, ARQUIVO, categorias, imagens, { estrito: false }), []);
+    g.titulo = '';
+    umErro(validarGuia(g, ARQUIVO, categorias, imagens, { estrito: false }), '.titulo: obrigatório');
+    assert.deepEqual(validarCategorias([{ id: 'casa', nome: 'Casa', icone: 'x' }], { estrito: false }), []);
   });
 
   it('acumula vários erros de uma vez', () => {

@@ -95,7 +95,7 @@ export function ConteudoProvider({ children }: { children: ReactNode }) {
       try {
         const baixado = await lerConteudoBaixado();
         if (baixado && !cancelado) {
-          const montado = montarConteudo(baixado.fonte);
+          const montado = montarConteudo(baixado.fonte, { estrito: false });
           if (!montado.erros.length) {
             setBase(baseBaixada(montado, baixado.manifesto.commit, baixado.manifesto.baixadoEm, new Set(baixado.fonte.imagens)));
           }

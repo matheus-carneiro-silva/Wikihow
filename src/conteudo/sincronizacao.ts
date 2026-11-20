@@ -117,8 +117,10 @@ export async function sincronizarConteudo(opcoes: {
   armazenamento: Armazenamento;
   buscar: Buscar;
   agora?: () => Date;
+  /** Padrão false: campos desconhecidos no repositório são ignorados (ver OpcoesValidacao). */
+  estrito?: boolean;
 }): Promise<ResultadoSincronizacao> {
-  const { config, armazenamento, buscar, agora = () => new Date() } = opcoes;
+  const { config, armazenamento, buscar, agora = () => new Date(), estrito = false } = opcoes;
 
   // 1. Commit atual do branch (resposta em texto puro com o sha).
   const commit = (
@@ -156,7 +158,7 @@ export async function sincronizarConteudo(opcoes: {
     }
 
     // 4. Valida antes de trocar.
-    const conteudo = montarConteudo(await armazenamento.lerTemporaria());
+    const conteudo = montarConteudo(await armazenamento.lerTemporaria(), { estrito });
     if (conteudo.erros.length) {
       await armazenamento.descartarTemporaria();
       return { tipo: 'invalido', commit, erros: conteudo.erros };

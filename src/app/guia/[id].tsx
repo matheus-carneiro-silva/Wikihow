@@ -1,6 +1,6 @@
 import { Stack, useLocalSearchParams } from 'expo-router';
 import { useMemo, useRef } from 'react';
-import { ScrollView, StyleSheet, Text, View, type ScrollViewInstance } from 'react-native';
+import { Linking, Pressable, ScrollView, StyleSheet, Text, View, type ScrollViewInstance } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { destacar } from '@/busca/motor';
@@ -8,7 +8,7 @@ import { useMetaGuia } from '@/components/CartaoGuia';
 import { ImagemPasso } from '@/components/ImagemPasso';
 import { Screen } from '@/components/Screen';
 import { TextoDestacado } from '@/components/TextoDestacado';
-import { useConteudo, type Passo } from '@/conteudo';
+import { useConteudo, type Fonte, type Passo } from '@/conteudo';
 import { useEstilos, useTema, type Cores } from '@/tema';
 
 type Params = {
@@ -54,6 +54,15 @@ export default function TelaGuia() {
         <Text style={styles.meta}>{meta(guia)}</Text>
         <TextoDestacado partes={d(guia.resumo)} style={styles.resumo} />
 
+        {guia.alerta ? (
+          <View style={styles.alerta} accessibilityRole="alert">
+            <Text style={styles.alertaTexto}>
+              <Text style={styles.alertaRotulo}>Importante: </Text>
+              {guia.alerta}
+            </Text>
+          </View>
+        ) : null}
+
         {guia.materiais?.length ? (
           <View style={styles.secao}>
             <Text style={styles.secaoTitulo}>Você vai precisar de</Text>
@@ -77,6 +86,8 @@ export default function TelaGuia() {
             <BlocoPasso numero={i + 1} passo={p} destacado={i === passoAlvo} d={d} />
           </View>
         ))}
+
+        {guia.fontes?.length ? <Fontes fontes={guia.fontes} /> : null}
 
         <Text style={styles.rodape}>Atualizado em {formatarData(guia.atualizadoEm)}</Text>
       </ScrollView>
@@ -124,6 +135,26 @@ function Caixa({ tipo, texto, d }: { tipo: 'dica' | 'aviso'; texto: string; d: D
   );
 }
 
+function Fontes({ fontes }: { fontes: Fonte[] }) {
+  const styles = useEstilos(criarEstilos);
+  return (
+    <View style={styles.secao}>
+      <Text style={styles.secaoTitulo}>Fontes</Text>
+      {fontes.map((f) => (
+        <Pressable
+          key={f.url}
+          onPress={() => Linking.openURL(f.url)}
+          hitSlop={4}
+          accessibilityRole="link"
+          accessibilityHint="Abre no navegador"
+        >
+          <Text style={styles.fonte}>{f.titulo}</Text>
+        </Pressable>
+      ))}
+    </View>
+  );
+}
+
 function formatarData(iso: string) {
   const [ano, mes, dia] = iso.split('-');
   return `${dia}/${mes}/${ano}`;
@@ -163,5 +194,15 @@ const criarEstilos = (cores: Cores) =>
   paragrafo: { fontSize: 16, color: cores.texto, lineHeight: 24 },
   caixa: { borderRadius: 10, padding: 12 },
   caixaTexto: { fontSize: 15, lineHeight: 22 },
+  alerta: {
+    backgroundColor: cores.avisoFundo,
+    borderLeftWidth: 4,
+    borderLeftColor: cores.avisoTexto,
+    borderRadius: 8,
+    padding: 12,
+  },
+  alertaTexto: { fontSize: 15, lineHeight: 22, color: cores.avisoTexto },
+  alertaRotulo: { fontWeight: '700' },
+  fonte: { fontSize: 15, lineHeight: 22, color: cores.primaria, textDecorationLine: 'underline', paddingVertical: 2 },
   rodape: { fontSize: 13, color: cores.textoSecundario, textAlign: 'center', marginTop: 8 },
 });
