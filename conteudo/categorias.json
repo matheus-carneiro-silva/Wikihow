@@ -53,5 +53,20 @@
     "id": "emergencias-na-estrada",
     "nome": "Emergências na estrada",
     "descricao": "Pneu furado, carro que não pega e reboque"
+  },
+  {
+    "id": "solo-e-adubacao",
+    "nome": "Solo e adubação",
+    "descricao": "Preparo do solo, compostagem, calagem e adubação orgânica"
+  },
+  {
+    "id": "cultivo-de-alimentos",
+    "nome": "Cultivo de alimentos",
+    "descricao": "O que plantar, plantio, irrigação e culturas básicas"
+  },
+  {
+    "id": "pragas-colheita-e-sementes",
+    "nome": "Pragas, colheita e sementes",
+    "descricao": "Controle de pragas sem agrotóxico, armazenamento e sementes"
   }
 ]
