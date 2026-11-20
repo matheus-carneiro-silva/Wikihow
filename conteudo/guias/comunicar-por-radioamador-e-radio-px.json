@@ -1,0 +1,105 @@
+{
+  "id": "comunicar-por-radioamador-e-radio-px",
+  "titulo": "Como se comunicar por radioamador, rádio PX e walkie-talkie",
+  "resumo": "Diferenças entre walkie-talkie de uso livre, rádio PX (faixa do cidadão) e radioamador: licença da Anatel, alcance, rede de emergência e como falar no rádio.",
+  "categoria": "comunicacao",
+  "tags": [
+    "radioamador",
+    "PX",
+    "rádio do cidadão",
+    "faixa do cidadão",
+    "walkie-talkie",
+    "rádio comunicador",
+    "HT",
+    "VHF",
+    "Anatel",
+    "alfabeto fonético"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Transmitir em rádio exige, em regra, autorização da Anatel; a exceção são os rádios certificados de uso livre. Não encontrei na regulamentação brasileira uma liberação para transmitir sem licença em emergência. Tire a licença ou o cadastro antes do apagão.",
+  "materiais": [
+    "Par de rádios comunicadores (walkie-talkie) certificados pela Anatel",
+    "Rádio PX ou de radioamador, se tiver cadastro ou licença",
+    "Pilhas ou baterias reserva",
+    "Caderno, lápis e relógio para registrar mensagens"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda as três opções",
+      "texto": "Walkie-talkie (rádio comunicador de uso geral): não precisa de licença. Alcance curto, bom para falar dentro do bairro.\n\nRádio PX (Serviço Rádio do Cidadão, faixa de 27 MHz, ou 11 metros): precisa de um cadastro simples e gratuito na Anatel, feito pelo sistema Mosaico. A Anatel descreve o serviço como voltado também a emergências, como catástrofes, incêndios, enchentes e acidentes.\n\nRadioamador: exige prova e licença da Anatel, mas dá acesso a muitas faixas, de alcance local a continental, e à rede de emergência da Defesa Civil.",
+      "dicas": [
+        "Para uma família ou um quarteirão, um par de walkie-talkies resolve. Para falar entre bairros ou cidades, só radioamador."
+      ]
+    },
+    {
+      "titulo": "Use walkie-talkie de uso livre dentro da regra",
+      "texto": "A Lei Geral de Telecomunicações dispensa de outorga os equipamentos de radiação restrita, desde que certificados pela Anatel (procure o selo e o número de homologação na caixa ou no rádio). Os rádios comunicadores de uso geral operam em 26 canais nas faixas de 462,53–462,74 MHz e 467,53–467,74 MHz, com potência máxima de 500 mW. Não têm proteção contra interferência e não podem atrapalhar outros serviços.\n\nAlcance: um modelo comum de 500 mW anuncia até 20 km em campo aberto com visada direta, mas só até 2 km em área urbana. Na prática, conte com algumas quadras a 2 km entre prédios; suba num ponto alto para ir mais longe.",
+      "avisos": [
+        "Rádios importados sem certificação (por exemplo, os de maior potência vendidos pela internet) não são de uso livre: transmitir com eles sem licença é irregular."
+      ],
+      "dicas": [
+        "Combine com o grupo o canal e o subcanal (código CTCSS/DCS). O subcanal só filtra o que você ouve: outras pessoas no mesmo canal ainda escutam a conversa."
+      ]
+    },
+    {
+      "titulo": "Tire o cadastro do PX e a licença de radioamador",
+      "texto": "PX: faça o cadastro no Mosaico (gov.br). É gratuito e libera o uso, desde que o equipamento seja homologado pela Anatel.\n\nRadioamador: há três classes (C, de entrada, B e A). O primeiro passo é passar na prova do Certificado de Operador de Estação de Radioamador (COER), marcada no sistema da Anatel; depois se pede a autorização do serviço e se licencia a estação. O serviço é gratuito, pede conta gov.br nível prata ou ouro e leva até 30 dias. Clubes de radioamador e a LABRE (Liga de Amadores Brasileiros de Rádio Emissão) dão cursos e ajudam com a prova.",
+      "dicas": [
+        "Dúvidas: Anatel pelo 1331, de segunda a sexta, das 8h às 20h, ligação gratuita."
+      ]
+    },
+    {
+      "titulo": "Escolha a faixa conforme a distância",
+      "texto": "VHF de 2 metros (144–148 MHz), com rádio portátil (HT): em terreno plano, alcança poucos quilômetros; do alto de um morro ou prédio, bem mais (a ARRL cita até 160 km do alto de uma montanha). Repetidoras ampliam muito o alcance, mas dependem de energia e podem cair num apagão longo: treine também em simplex, de rádio para rádio.\n\nHF de 40 metros (7 MHz), com antena de fio: um dipolo baixo, a cerca de 4 m do chão, joga o sinal para cima e ele volta da ionosfera cobrindo um raio de algumas centenas de quilômetros sem repetidora (técnica NVIS). É o que liga cidades vizinhas e regiões inteiras quando tudo cai.",
+      "dicas": [
+        "Para o HT, uma antena externa no alto do telhado rende mais que aumentar a potência."
+      ],
+      "avisos": [
+        "Monte antenas longe da rede elétrica: se a antena encostar num fio da rua, pode matar."
+      ]
+    },
+    {
+      "titulo": "Conheça a rede de emergência (RENER)",
+      "texto": "A Rede Nacional de Emergência de Radioamadores (RENER), criada pela Portaria nº 302/2001, faz parte do Sistema Nacional de Defesa Civil, com apoio da LABRE. Dela participam, como voluntários, radioamadores licenciados, acionados pela Defesa Civil estadual ou municipal quando os meios normais falham.\n\nO manual de procedimentos da RENER lista frequências de fonia como 7.080 kHz (prioritária) e 7.130 kHz em 40 m, e 146,520 MHz e repetidoras em 2 m, que podem mudar conforme a emergência. Nelas, mantenha silêncio 30 kHz acima e abaixo da frequência em uso.",
+      "dicas": [
+        "Procure a LABRE do seu estado ou a Defesa Civil do município antes do desastre para se cadastrar e treinar."
+      ]
+    },
+    {
+      "titulo": "Fale do jeito certo no rádio",
+      "texto": "Escute antes de transmitir: mensagem de emergência tem prioridade sobre todas as outras e, ao ouvir uma, fique em silêncio. Pense antes de apertar o botão, fale calmo e pausado, em mensagens curtas: quem chama, para quem, onde, o quê e o que precisa.\n\nSoletre nomes e endereços com o alfabeto fonético internacional: Alfa, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.\n\nNa aviação, MAYDAY (repetido três vezes) indica perigo de vida e impõe silêncio na frequência; PAN-PAN indica urgência sem perigo imediato. Use as mesmas palavras se precisar pedir socorro.",
+      "dicas": [
+        "Anote toda mensagem enviada e recebida com hora, origem e destino.",
+        "Recuse no canal de emergência mensagens pessoais, comerciais, políticas ou religiosas."
+      ]
+    },
+    {
+      "titulo": "Combine horários e poupe bateria",
+      "texto": "Com bateria limitada, ninguém pode ficar com o rádio ligado o dia inteiro. Combine com o grupo um canal principal, um reserva e horários fixos de escuta (por exemplo, 5 minutos a cada hora cheia, ou às 7h, 12h e 19h). Fora desses horários, desligue. Respeite com rigor os horários e as frequências combinados: é assim que quem está longe acha você.\n\nRecarregue as baterias com painel solar ou power bank (veja o guia de iluminar e carregar com pouca energia) e tenha pilhas reserva."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ato nº 14.448/2017 — requisitos de equipamentos de radiação restrita (cópia), Anatel",
+      "url": "https://www.thethingsnetwork.org/forum/uploads/default/original/2X/e/e75d7b1471333df4ddc7f8d4eff114e5a126b59c.pdf"
+    },
+    {
+      "titulo": "Obter autorização para Serviço de Radioamador — gov.br",
+      "url": "https://www.gov.br/pt-br/servicos/obter-autorizacao-para-servico-de-radioamador"
+    },
+    {
+      "titulo": "Obter Serviço Rádio do Cidadão — gov.br",
+      "url": "https://www.gov.br/pt-br/servicos/obter-servico-radio-do-cidadao"
+    },
+    {
+      "titulo": "Manual de Procedimentos da RENER — SEDEC e LABRE",
+      "url": "https://qsl.net/py1nt/rener/Manual_Procedimentos_RENER.pdf"
+    },
+    {
+      "titulo": "Find a High Spot for VHF — ARRL",
+      "url": "https://www.arrl.org/find-a-high-spot-for-vhf"
+    }
+  ]
+}

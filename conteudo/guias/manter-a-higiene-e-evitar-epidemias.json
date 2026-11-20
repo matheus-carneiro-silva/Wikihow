@@ -41,7 +41,7 @@
       "texto": "Lavar com a mão mergulhada numa bacia só espalha a sujeira. O ideal é água correndo, mesmo que pouca:\n\n• Galão com torneira: um galão de água com torneira apoiado numa mesa, com balde embaixo.\n• Torneira de garrafa (tippy tap): um galão ou garrafa pendurado numa trave, que se inclina ao puxar uma corda presa a um pedal de madeira. Você não encosta a mão suja no recipiente.\n\nDeixe o sabão pendurado num barbante ou numa tampinha com furos, para não virar uma papa no chão.",
       "dicas": [
         "Ponha um ponto de lavagem perto do banheiro e outro perto da cozinha.",
-        "Jogue a água usada num buraco com brita ou pedras, longe da casa, para não formar poça de lama e mosquito."
+        "Jogue a água usada longe da casa e sem deixar formar poça: água parada cria mosquito."
       ]
     },
     {
@@ -68,10 +68,7 @@
     },
     {
       "titulo": "Saiba quais doenças aparecem e como reduzi-las",
-      "texto": "• Diarreia, cólera, febre tifoide, hepatite A e verminoses: vêm de água e comida contaminadas e de fezes. Prevenção: os passos acima. Trate a diarreia com soro: veja \"Como preparar e dar soro de reidratação oral\".\n• Leptospirose: vem da urina de rato na água e na lama. Veja \"Como controlar ratos e mosquitos da dengue em casa\".\n• Gripe e outras doenças respiratórias: se espalham em casas cheias e fechadas. Mantenha janelas abertas e cubra tosse e espirro.\n• Sarna: passa pelo contato de pele e por roupa e cama. Trate todos da casa ao mesmo tempo e lave roupas e lençóis dos últimos 3 dias em água acima de 50 °C; o que não puder lavar, feche num saco plástico por pelo menos 1 semana.\n• Piolho: passa de cabeça para cabeça. Lave roupas, toalhas e roupa de cama dos últimos 2 dias em água quente; o que não puder lavar, feche num saco plástico por 2 semanas.",
-      "dicas": [
-        "Mantenha em dia as vacinas que conseguir, principalmente tétano e hepatite A, quando houver posto funcionando."
-      ]
+      "texto": "• Diarreia, cólera, febre tifoide, hepatite A e verminoses: vêm de água e comida contaminadas e de fezes. Prevenção: os passos acima. Trate a diarreia com soro: veja \"Como preparar e dar soro de reidratação oral\".\n• Leptospirose: vem da urina de rato na água e na lama. Veja \"Como controlar ratos e mosquitos da dengue em casa\".\n• Gripe e outras doenças respiratórias: se espalham em casas cheias e fechadas. Mantenha janelas abertas e cubra tosse e espirro.\n• Sarna: passa pelo contato de pele e por roupa e cama. Trate todos da casa ao mesmo tempo e lave roupas e lençóis dos últimos 3 dias em água acima de 50 °C; o que não puder lavar, feche num saco plástico por pelo menos 1 semana.\n• Piolho: passa de cabeça para cabeça. Lave roupas, toalhas e roupa de cama dos últimos 2 dias em água quente (cerca de 55 °C); o que não puder lavar, feche num saco plástico por 2 semanas."
     },
     {
       "titulo": "Isole o doente dentro de casa",

@@ -1,0 +1,105 @@
+{
+  "id": "fazer-reanimacao-cardiopulmonar",
+  "titulo": "Como fazer reanimação cardiopulmonar (RCP) em adulto, criança e bebê",
+  "resumo": "Parada cardíaca: como reconhecer, fazer compressões no peito e ventilações, usar o DEA, quando parar e como pôr na posição lateral de segurança.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "massagem cardíaca",
+    "parada cardíaca",
+    "parou de respirar",
+    "desmaiou e não acorda",
+    "boca a boca",
+    "desfibrilador",
+    "DEA",
+    "ressuscitação",
+    "posição lateral de segurança",
+    "afogamento"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Pessoa que não responde e não respira normalmente está em parada cardíaca até prova em contrário: comece as compressões na hora. Se houver sinal, ligue 192 (SAMU) no viva-voz enquanto faz a RCP. Cada minuto sem compressões reduz a chance de sobreviver.",
+  "materiais": [
+    "Superfície firme (chão)",
+    "Telefone no viva-voz, se houver sinal",
+    "DEA (desfibrilador externo automático), se houver",
+    "Máscara de bolso para ventilação, se houver"
+  ],
+  "passos": [
+    {
+      "titulo": "Veja se responde e se respira normalmente",
+      "texto": "Confira se o local é seguro. Toque nos ombros da pessoa e chame alto (no bebê, toque na sola do pé). Se não reagir, olhe o peito por alguns segundos.\n\nRespiração lenta e difícil, \"puxadas\" de ar espaçadas (gasping) ou arquejos NÃO são respiração normal: são sinais de parada cardíaca. Uma convulsão também pode aparecer no início; quando ela parar, olhe a respiração de novo. Na dúvida, considere que é parada e comece a RCP.",
+      "avisos": [
+        "Não perca tempo procurando pulso: leigo decide só por \"não responde\" e \"não respira normalmente\"."
+      ]
+    },
+    {
+      "titulo": "Peça ajuda sem largar a pessoa",
+      "texto": "Grite por ajuda. Se houver sinal, ligue 192 no viva-voz e siga as orientações do atendente. Se houver outra pessoa, mande-a ligar e buscar um DEA enquanto você começa as compressões.\n\nSem telefone nem sinal, grite por ajuda e comece a RCP: não abandone a pessoa para ir buscar socorro longe."
+    },
+    {
+      "titulo": "Faça compressões fortes e rápidas no adulto",
+      "texto": "Deite a pessoa de costas no chão. Ajoelhe-se ao lado. Coloque a base (calcanhar) de uma mão no centro do peito, na metade de baixo do osso do meio do peito (esterno), e a outra mão por cima, com os dedos entrelaçados.\n\nCom os braços esticados e os ombros bem em cima do peito, empurre:\n\n- Profundidade: pelo menos 5 cm e no máximo 6 cm.\n- Ritmo: 100 a 120 compressões por minuto (ritmo de \"Stayin' Alive\" ou \"Baby Shark\").\n- Deixe o peito voltar totalmente entre uma compressão e outra, sem se apoiar nele.\n- Pare o mínimo possível.",
+      "dicas": [
+        "Conte em voz alta para manter o ritmo. Se houver mais gente, revezem com frequência: o cansaço reduz a força das compressões sem você perceber."
+      ]
+    },
+    {
+      "titulo": "Ventile, se souber, ou faça só compressões",
+      "texto": "Se você não tem treinamento ou não quer fazer boca a boca, faça só compressões, sem parar, até a ajuda chegar. Isso já ajuda muito.\n\nSe souber ventilar: depois de 30 compressões, incline a cabeça para trás levantando o queixo, tape o nariz, cubra a boca da pessoa com a sua e dê 2 sopros, só o bastante para o peito começar a subir. Volte logo às compressões. Repita 30:2.\n\nSe o peito não subir depois de 2 tentativas, pode haver algo entalado: volte às compressões e olhe a boca antes das próximas ventilações (veja o guia de desengasgo).",
+      "avisos": [
+        "Não sopre forte nem muito ar: excesso de ventilação atrapalha."
+      ]
+    },
+    {
+      "titulo": "Adapte para criança e bebê",
+      "texto": "Bebê é quem tem menos de 1 ano; criança, de 1 ano até a puberdade. Em ambos, afunde o peito pelo menos um terço da altura dele: cerca de 4 cm no bebê e cerca de 5 cm na criança (nunca mais de 6 cm). Ritmo de 100 a 120 por minuto, no meio do peito, na metade de baixo do esterno.\n\n- Criança: use uma mão ou as duas.\n- Bebê: abrace o tórax com as duas mãos e comprima com os dois polegares, ou use a base de uma só mão se não conseguir abraçar o tórax.\n\nEm crianças e bebês a parada costuma vir de falta de ar, por isso as ventilações são importantes: se souber, comece com 5 sopros e siga com 30 compressões e 2 sopros. No bebê, cubra a boca e o nariz dele com a sua boca. Se não conseguir ventilar, faça só compressões.",
+      "dicas": [
+        "Profissionais treinados em RCP pediátrica usam 15:2 quando há dois socorristas. Para leigos, 30:2 serve para todas as idades."
+      ]
+    },
+    {
+      "titulo": "Use o DEA assim que chegar",
+      "texto": "Qualquer pessoa pode usar o DEA. Ligue o aparelho e siga as instruções de voz. Cole as pás no peito nu, na posição desenhada nelas (tire o sutiã se atrapalhar). Se houver outra pessoa, ela continua as compressões enquanto você cola as pás.\n\nNinguém deve tocar na pessoa durante a análise e o choque. Logo depois do choque, ou se o aparelho disser que não indica choque, volte imediatamente às compressões.",
+      "avisos": [
+        "Seque o peito se estiver molhado e afaste a pessoa de poças de água antes do choque."
+      ]
+    },
+    {
+      "titulo": "Saiba quando parar",
+      "texto": "Continue até: a pessoa dar sinais de vida (acordar, se mexer, abrir os olhos e respirar normalmente); uma equipe assumir; você ficar exausto a ponto de não conseguir continuar; ou o local ficar perigoso para você.\n\nSem socorro a caminho, em local isolado: diretrizes de medicina em áreas remotas (Wilderness Medical Society) admitem parar depois de cerca de 30 minutos de RCP sem nenhum sinal de vida. A grande exceção é a pessoa muito fria (hipotermia, pessoa resgatada da neve ou de água gelada): nela, sinais de morte enganam, a chance de recuperação é maior e a RCP deve continuar enquanto se tenta levá-la a um hospital (veja o guia de hipotermia).",
+      "avisos": [
+        "Na pessoa muito fria, procure pulso e respiração por 1 minuto inteiro antes de decidir, porque o pulso fica fraco e lento."
+      ]
+    },
+    {
+      "titulo": "Se voltar a respirar, coloque em posição lateral",
+      "texto": "Pessoa que não responde mas respira normalmente vai para a posição lateral de segurança, para a língua e o vômito não bloquearem a respiração:\n\n1. Ajoelhe-se ao lado, estique as pernas dela e tire óculos e objetos volumosos dos bolsos.\n2. Coloque o braço mais perto de você em ângulo reto, cotovelo dobrado, palma para cima.\n3. Traga o outro braço por cima do peito e apoie o dorso da mão dele na bochecha do lado de você.\n4. Dobre o joelho mais distante, com o pé no chão.\n5. Puxe esse joelho para rolar a pessoa para o seu lado, mantendo a mão na bochecha. Deixe a perna de cima dobrada em ângulo reto.\n6. Incline a cabeça para trás e levante o queixo para manter a via aérea aberta.\n\nVigie a respiração o tempo todo. Se parar de respirar normalmente, volte para a RCP. Depois de 30 minutos na mesma posição, vire para o outro lado. Organize a evacuação: quem teve parada precisa de hospital.",
+      "avisos": [
+        "Se houver suspeita de lesão na coluna (queda, batida forte) e a pessoa respira, só role se ela vomitar ou se for preciso para checar a respiração, girando cabeça, pescoço e tronco juntos."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "2025 BLS Science Summary Table — American Heart Association",
+      "url": "https://s3.amazonaws.com/lifesavers/wp-content/uploads/2025/10/22210342/BLS-Science-Summary-Table-PDF.pdf"
+    },
+    {
+      "titulo": "Adult basic life support guidelines 2025 — Resuscitation Council UK",
+      "url": "https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-basic-life-support-guidelines"
+    },
+    {
+      "titulo": "Paediatric basic life support guidelines 2025 — Resuscitation Council UK",
+      "url": "https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/paediatric-basic-life-support-guidelines"
+    },
+    {
+      "titulo": "Recovery position — St John Ambulance",
+      "url": "https://www.sja.org.uk/first-aid-advice/recovery-position/"
+    },
+    {
+      "titulo": "Wilderness Medical Society Practice Guidelines for Avalanche and Nonavalanche Snow Burial Accidents (resumo, critérios para parar a RCP)",
+      "url": "https://wms.imiscloud.com/magazine/1253/2019av-cpg/default.aspx"
+    }
+  ]
+}

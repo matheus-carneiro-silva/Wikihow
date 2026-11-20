@@ -1,0 +1,94 @@
+{
+  "id": "destilar-e-dessalinizar-agua",
+  "titulo": "Como destilar e dessalinizar água",
+  "resumo": "Destilador solar com cálculo de área por pessoa, destilação com panela e fogo, por que não beber água do mar nem urina e o que a destilação não remove.",
+  "categoria": "agua",
+  "tags": [
+    "água do mar",
+    "água salgada",
+    "água salobra",
+    "dessalinização",
+    "destilador solar",
+    "destilar",
+    "água contaminada",
+    "tirar o sal da água",
+    "sobrevivência no litoral"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca beba água do mar nem urina: elas desidratam mais do que hidratam. Vapor e panelas quentes causam queimaduras graves; mantenha crianças longe. Destilação não garante a remoção de combustível, solventes e outros químicos voláteis: água com esses produtos deve ser descartada.",
+  "materiais": [
+    "Plástico transparente ou vidro (destilador solar)",
+    "Bandeja ou bacia escura e rasa",
+    "Pedras, fita ou massa para vedar",
+    "Panela grande com tampa e uma caneca de metal",
+    "Barbante ou arame",
+    "Recipientes limpos com tampa para a água destilada"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba quando destilar",
+      "texto": "Destile quando a única água disponível for:\n\n• do mar ou salobra (de poço ou lagoa com gosto salgado);\n• suspeita de metais (chumbo, mercúrio de garimpo) ou de nitrato.\n\nA destilação remove mais de 99,9% dos sais e metais dissolvidos e o calor mata micróbios. Para água apenas suja ou com micróbios, ferver ou clorar é muito mais simples (veja o guia \"Como desinfetar água para beber\").",
+      "avisos": [
+        "Compostos voláteis (gasolina, solventes, alguns agrotóxicos) evaporam junto com a água e voltam no destilado. A destilação não é solução para eles."
+      ]
+    },
+    {
+      "titulo": "Entenda por que não beber água do mar nem urina",
+      "texto": "Os rins não conseguem produzir urina mais salgada que a água do mar (cerca de 3,5% de sal). Para eliminar o sal de um copo de água do mar, o corpo gasta mais água do que o copo trouxe: a sede e a desidratação pioram até a morte.\n\nA urina é o caminho que o corpo usa para jogar fora sal e resíduos. Bebê-la devolve esses resíduos e obriga os rins a gastar ainda mais água. Ela só serve como matéria-prima para destilar."
+    },
+    {
+      "titulo": "Monte um destilador solar de bacia",
+      "texto": "Funciona assim: o sol esquenta a água salgada numa bandeja escura, o vapor sobe, condensa no lado de dentro de uma cobertura transparente inclinada e escorre para uma canaleta que leva a um recipiente limpo.\n\n• Bandeja rasa e escura (pintada de preto ou forrada com plástico preto), com pouca água.\n• Cobertura de vidro ou plástico transparente bem vedada, inclinada (geralmente 15 a 30 graus), para as gotas escorrerem para a canaleta e não pingarem de volta.\n• Canaleta no lado baixo e mangueira até o recipiente de coleta, fora da área da bandeja.\n• Tudo vedado: vapor que escapa é água perdida.",
+      "dicas": [
+        "Limpe a bandeja e troque a água com frequência: crosta de sal e algas reduzem a produção. Deixe a água salgada no máximo dobrar de concentração; ou seja, para cada litro destilado, entra cerca de 2 L de água do mar."
+      ]
+    },
+    {
+      "titulo": "Calcule a área de que precisa",
+      "texto": "Destiladores solares simples rendem de 2 a 5 L por m² por dia, e até cerca de 8 L em sol muito forte. No inverno ou com nuvens, a produção pode cair para menos de 2 L. Para planejar, use 2 L por m² por dia.\n\nÁrea (m²) = pessoas × litros por pessoa por dia ÷ 2.\n\nExemplo só para beber (3 L por pessoa): 2 pessoas × 3 L = 6 L por dia → 6 ÷ 2 = 3 m² de destilador. Isso exige cerca de 12 L de água salgada por dia.\n\nO destilador de buraco no chão com plástico (\"solar still\" de sobrevivência) rende pouco: o manual de sobrevivência do Exército dos EUA fala em 0,5 a 1 L a cada 24 horas e pelo menos 3 deles por pessoa.",
+      "avisos": [
+        "Não conte só com o destilador solar no começo: até ele produzir, racione a água que tiver e procure chuva."
+      ]
+    },
+    {
+      "titulo": "Destile com panela e fogo",
+      "texto": "Método da FEMA/Cruz Vermelha americana:\n\n1. Encha a panela até a metade com a água a destilar.\n2. Amarre uma caneca na alça da tampa, de modo que, com a tampa virada de cabeça para baixo sobre a panela, a caneca fique pendurada em pé, sem encostar na água.\n3. Ferva por 20 minutos. O vapor condensa na tampa, escorre para o centro e pinga na caneca: essa é a água destilada.\n\nRende pouco por vez; repita quantas vezes for preciso. Colocar pano molhado frio ou gelo sobre a tampa ajuda o vapor a condensar.",
+      "avisos": [
+        "Abra a tampa afastando o rosto: o vapor queima. Use luva grossa ou pano seco para pegar a caneca.",
+        "Use só panela e caneca de metal ou vidro resistente ao fogo; plástico derrete e contamina a água.",
+        "Não deixe a panela secar no fogo: complete com água antes que ela acabe."
+      ]
+    },
+    {
+      "titulo": "Guarde e melhore o gosto",
+      "texto": "A água destilada sai praticamente sem sais e minerais, por isso tem gosto \"chato\". Para arejar, passe várias vezes de um recipiente limpo para outro.\n\nGuarde em recipiente limpo e tampado, porque micróbios podem voltar pela boca do recipiente ou pela mangueira. Os minerais que faltam na água vêm da comida; se for usar água destilada como única fonte por muito tempo, misture-a com água doce tratada assim que tiver.",
+      "dicas": [
+        "Para guardar com segurança, veja o guia \"Como armazenar água com segurança\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Water: how to make water safe (destilação) — Ready.gov / FEMA",
+      "url": "https://www.ready.gov/water"
+    },
+    {
+      "titulo": "Solar desalination for domestic applications — National Academies Press",
+      "url": "https://nap.nationalacademies.org/read/11241/chapter/6"
+    },
+    {
+      "titulo": "Why can't people drink seawater? — NOAA",
+      "url": "https://oceanservice.noaa.gov/facts/drinksw.html"
+    },
+    {
+      "titulo": "Distillation treatment of drinking water supplies — Healthy Drinking Waters for Massachusetts (UMass)",
+      "url": "https://www.umass.edu/agriculture-food-environment/sites/ag.umass.edu/files/fact-sheets/pdf/distillationpdf.pdf"
+    },
+    {
+      "titulo": "FM 21-76 US Army Survival Manual, capítulo 6 (obtenção de água)",
+      "url": "https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf"
+    }
+  ]
+}
