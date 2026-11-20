@@ -1,0 +1,68 @@
+{
+  "id": "dimensionar-cabos-e-fusiveis-cc",
+  "titulo": "Como dimensionar cabos e fusíveis em corrente contínua",
+  "resumo": "Fórmula da queda de tensão, exemplo para 12 V, verificação de capacidade do cabo e posição dos fusíveis.",
+  "categoria": "energia-solar",
+  "tags": [
+    "cabo",
+    "bitola",
+    "fio",
+    "queda de tensão",
+    "fusível",
+    "disjuntor CC",
+    "mm²",
+    "12V"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "materiais": [
+    "Cabos de cobre flexível",
+    "Terminais e alicate de crimpar",
+    "Fusíveis ou disjuntores CC",
+    "Calculadora"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda por que 12 V exige cabo grosso",
+      "texto": "Em baixa tensão, a corrente é alta e qualquer resistência do cabo vira perda e calor. Perder 1 V num sistema de 220 V é nada; num de 12 V, é mais de 8% da energia."
+    },
+    {
+      "titulo": "Use a fórmula da queda de tensão",
+      "texto": "Seção (mm²) = 2 × L × I × 0,0172 ÷ ΔV, em que L é a distância de ida em metros (o 2 conta ida e volta), I a corrente em ampères, 0,0172 a resistividade do cobre e ΔV a queda máxima aceita em volts. Mire em até 3% da tensão do sistema."
+    },
+    {
+      "titulo": "Faça o cálculo do exemplo",
+      "texto": "Sistema de 12 V, 20 A, a 5 m de distância, queda máxima de 3% (0,36 V): 2 × 5 × 20 × 0,0172 ÷ 0,36 ≈ 9,6 mm². Use o tamanho comercial acima: 10 mm².",
+      "dicas": [
+        "Com cobre mais quente (cerca de 50 °C), a resistividade sobe e o cabo deve ser um pouco maior. Na dúvida, suba uma bitola."
+      ]
+    },
+    {
+      "titulo": "Confira a capacidade de corrente",
+      "texto": "Além da queda de tensão, o cabo precisa suportar a corrente sem aquecer, conforme a tabela do fabricante e o modo de instalação (ao ar, em eletroduto, agrupado). Fique com o maior dos dois resultados."
+    },
+    {
+      "titulo": "Escolha e posicione os fusíveis",
+      "texto": "O fusível protege o CABO: deve ser maior que a corrente normal (cerca de 1,25 vez) e menor que a capacidade do cabo. Coloque-o no positivo, o mais perto possível da bateria, e um em cada ramo que sai dela.",
+      "avisos": [
+        "Um curto-circuito sem fusível perto da bateria faz o cabo virar uma resistência incandescente: é causa comum de incêndio em sistemas solares e de veículos."
+      ]
+    },
+    {
+      "titulo": "Use terminais e cabos certos",
+      "texto": "Prefira cabo flexível de cobre, terminais prensados com a ferramenta correta (não só torcidos), cores padronizadas (vermelho positivo, preto negativo) e proteja contra atrito e sol."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Queda de tensão no circuito CC segundo a NBR 16690 — Canal Solar",
+      "url": "https://canalsolar.com.br/nbr-16690-queda-de-tensao-circuito-cc/"
+    },
+    {
+      "titulo": "Calculadora de tamanho de fio CC — Omni Calculator",
+      "url": "https://www.omnicalculator.com/pt/fisica/calculadora-de-cc-tamanho-fio"
+    }
+  ]
+}

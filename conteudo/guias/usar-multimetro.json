@@ -1,0 +1,62 @@
+{
+  "id": "usar-multimetro",
+  "titulo": "Como usar um multímetro com segurança",
+  "resumo": "Medir tensão CC e CA, continuidade e corrente sem queimar o aparelho nem tomar choque.",
+  "categoria": "eletricidade",
+  "tags": [
+    "básico",
+    "multímetro",
+    "medir tensão",
+    "continuidade",
+    "corrente",
+    "teste",
+    "categoria CAT"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "materiais": [
+    "Multímetro digital (CAT III para rede elétrica)",
+    "Pontas de prova em bom estado"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha um multímetro adequado",
+      "texto": "Para mexer em tomadas e quadros, use um multímetro com categoria de segurança CAT III (pelo menos 300 V), de preferência com certificação independente, e pontas de prova com proteção para os dedos. Multímetros baratos sem categoria servem para pilhas e baterias, não para a rede."
+    },
+    {
+      "titulo": "Meça tensão contínua",
+      "texto": "Ponta preta no COM, vermelha no V. Selecione V⎓ (CC) numa escala acima do esperado (20 V para baterias de 12 V). Vermelha no positivo, preta no negativo. Valor negativo só indica pontas invertidas."
+    },
+    {
+      "titulo": "Meça tensão alternada",
+      "texto": "Selecione V~ (CA), escala acima de 220 V. Segure as pontas pelas partes isoladas, atrás das proteções, e encoste nos dois furos da tomada. Espere algo entre cerca de 115 e 135 V numa rede de 127 V, ou entre 200 e 230 V numa de 220 V.",
+      "avisos": [
+        "Teste antes num ponto conhecido para garantir que o multímetro está funcionando."
+      ]
+    },
+    {
+      "titulo": "Teste continuidade",
+      "texto": "Com o circuito DESLIGADO, selecione o símbolo de continuidade (bip) ou ohms. Bip ou valor perto de zero: o fio ou fusível está inteiro. Sem bip: está interrompido. Útil para achar fio partido e fusível queimado."
+    },
+    {
+      "titulo": "Meça corrente só em série",
+      "texto": "Para medir corrente, a ponta vermelha vai na entrada de A ou mA, e o multímetro precisa ficar no caminho da corrente: abra o circuito e ligue o multímetro entre as duas pontas.",
+      "avisos": [
+        "Nunca encoste as pontas numa tomada ou bateria com o multímetro em ampères: isso é um curto-circuito e pode explodir o fusível ou o aparelho.",
+        "Depois de medir corrente, volte a ponta vermelha para V. É o erro mais comum."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Guide to digital multimeter safety — Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/safety/multimeter-guide"
+    },
+    {
+      "titulo": "How to Measure Battery Voltage with a Multimeter — Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-test-a-battery-with-a-multimeter"
+    }
+  ]
+}

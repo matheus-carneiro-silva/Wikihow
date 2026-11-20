@@ -16,5 +16,12 @@
   ["chupeta", "jumper"],
   ["scanner", "OBD2", "OBD"],
   ["aditivo", "arrefecimento"],
-  ["veículo", "carro", "automóvel"]
+  ["veículo", "carro", "automóvel"],
+  ["painel", "placa", "módulo"],
+  ["inversor", "conversor"],
+  ["apagão", "blecaute"],
+  ["bitola", "seção"],
+  ["off-grid", "isolado", "autônomo"],
+  ["lítio", "LiFePO4"],
+  ["rio", "riacho", "córrego"]
 ]

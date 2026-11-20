@@ -1,0 +1,74 @@
+{
+  "id": "usar-inversor",
+  "titulo": "Como escolher e ligar um inversor",
+  "resumo": "Transformar os 12 V da bateria em 127/220 V: onda senoidal pura, potência contínua e de pico, consumo em vazio e ligação segura.",
+  "categoria": "energia-solar",
+  "tags": [
+    "inversor",
+    "senoidal pura",
+    "onda modificada",
+    "12V para 127V",
+    "12V para 220V",
+    "potência de pico",
+    "surto"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "materiais": [
+    "Inversor de onda senoidal pura",
+    "Cabos de bitola adequada, com terminais",
+    "Fusível ou disjuntor CC"
+  ],
+  "passos": [
+    {
+      "titulo": "Prefira onda senoidal pura",
+      "texto": "Inversores de onda senoidal pura entregam energia igual à da rede e funcionam com tudo. Os de onda modificada são mais baratos, mas motores (geladeira, bomba, ventilador) esquentam e gastam cerca de 20% a mais, e alguns eletrônicos e carregadores falham."
+    },
+    {
+      "titulo": "Dimensione a potência contínua e o pico",
+      "texto": "A potência contínua deve cobrir a soma dos aparelhos ligados ao mesmo tempo, com folga de 20 a 30%. A potência de pico (surto) precisa aguentar a partida do maior motor, que pode puxar de 3 a 7 vezes a potência nominal."
+    },
+    {
+      "titulo": "Considere o consumo em vazio",
+      "texto": "Mesmo sem nada ligado, o inversor consome energia (de poucos watts a dezenas). Num sistema pequeno isso pesa: desligue o inversor quando não precisar dele, ou escolha um com modo de economia."
+    },
+    {
+      "titulo": "Ligue com cabo curto e grosso",
+      "texto": "Instale o inversor perto da bateria, com cabos curtos e da bitola indicada no manual: em 12 V, um inversor de 1.000 W puxa cerca de 100 A. Coloque fusível ou disjuntor CC no cabo positivo, o mais perto possível da bateria.",
+      "avisos": [
+        "Cabo fino ou terminal frouxo aquece e pode causar incêndio."
+      ]
+    },
+    {
+      "titulo": "Respeite a polaridade e o aterramento",
+      "texto": "Ligue primeiro o negativo, depois o positivo, com o inversor desligado. Inverter a polaridade queima a maioria dos inversores. Aterre a carcaça conforme o manual."
+    },
+    {
+      "titulo": "Não ligue na tomada da casa",
+      "texto": "Use o inversor com aparelhos ligados direto nele ou numa extensão adequada. Alimentar a instalação da casa exige chave de transferência instalada por eletricista, para não mandar energia para a rede.",
+      "avisos": [
+        "Nunca ligue a saída do inversor numa tomada da casa com um cabo \"macho-macho\": os pinos do outro plugue ficam energizados e a energia pode voltar para a rede e eletrocutar quem estiver trabalhando nela."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Benefits of Pure Sine Wave vs Modified Sine Wave Inverters — Renogy",
+      "url": "https://www.renogy.com/blogs/buyers-guide/benefits-of-pure-sine-wave-vs-modified-sine-wave-inverters"
+    },
+    {
+      "titulo": "Selecting an Inverter — Northern Arizona Wind & Sun",
+      "url": "https://www.solar-electric.com/learning-center/inverters/inverter-basics-selection.html"
+    },
+    {
+      "titulo": "Inverter buying guide — Tripp Lite/Eaton",
+      "url": "https://tripplite.eaton.com/products/inverter-buying-guide"
+    },
+    {
+      "titulo": "Worker Safety in a Power Outage — CDC",
+      "url": "https://archive.cdc.gov/www_cdc_gov/disasters/poweroutage/workersafety.html"
+    }
+  ]
+}

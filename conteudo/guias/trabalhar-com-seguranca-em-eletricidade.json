@@ -1,0 +1,67 @@
+{
+  "id": "trabalhar-com-seguranca-em-eletricidade",
+  "titulo": "Como desligar e trabalhar num circuito com segurança",
+  "resumo": "O roteiro de desenergização da NR-10 adaptado para casa: desligar, impedir religamento, testar a ausência de tensão e só então mexer.",
+  "categoria": "eletricidade",
+  "tags": [
+    "básico",
+    "segurança",
+    "choque elétrico",
+    "disjuntor",
+    "NR-10",
+    "desenergizar",
+    "detector de tensão"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "materiais": [
+    "Detector de tensão ou multímetro",
+    "Fita isolante e aviso de \"não ligar\"",
+    "Ferramentas com cabo isolado"
+  ],
+  "passos": [
+    {
+      "titulo": "Identifique o circuito",
+      "texto": "No quadro de distribuição, descubra qual disjuntor alimenta o ponto em que vai trabalhar. Se os disjuntores não estiverem identificados, desligue o geral."
+    },
+    {
+      "titulo": "Desligue (seccionamento)",
+      "texto": "Desligue o disjuntor do circuito. Em sistemas com bateria ou painel solar, abra também os disjuntores ou fusíveis de corrente contínua e desconecte as fontes: um sistema pode ter mais de uma fonte de energia."
+    },
+    {
+      "titulo": "Impeça o religamento",
+      "texto": "Tranque o quadro, cubra o disjuntor com fita e coloque um aviso \"não ligar: manutenção\". Avise todos da casa."
+    },
+    {
+      "titulo": "Teste se a tensão sumiu",
+      "texto": "Teste o detector ou multímetro numa tomada que você sabe que está ligada, meça o ponto de trabalho e teste de novo na tomada ligada. Só assim você sabe que o aparelho funcionou e que a leitura zero é verdadeira.",
+      "avisos": [
+        "Nunca confie só no disjuntor: o quadro pode estar mal identificado ou o circuito ter duas alimentações."
+      ]
+    },
+    {
+      "titulo": "Trabalhe e proteja o que continua ligado",
+      "texto": "Mantenha distância de partes que continuam energizadas no mesmo local, use ferramentas isoladas e mãos secas, sobre piso seco. Não use anéis, relógio ou pulseiras metálicas."
+    },
+    {
+      "titulo": "Religue com o mesmo cuidado",
+      "texto": "Recolha ferramentas e materiais, feche as tampas, avise as pessoas e só então religue. Confira se o circuito funciona e não aquece."
+    },
+    {
+      "titulo": "Em caso de choque",
+      "texto": "Não toque na vítima enquanto ela estiver em contato com a eletricidade. Desligue a energia ou afaste a fonte com um objeto seco e isolante (madeira, plástico). Ligue para o SAMU (192) e inicie a reanimação se a pessoa não respirar."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "NR-10 — Segurança em instalações e serviços em eletricidade (Ministério do Trabalho)",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-10-atualizada-2019-1.pdf"
+    },
+    {
+      "titulo": "Guide to digital multimeter safety — Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/safety/multimeter-guide"
+    }
+  ]
+}

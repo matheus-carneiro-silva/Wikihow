@@ -21,12 +21,27 @@
   },
   {
     "id": "eletrica",
-    "nome": "Elétrica",
+    "nome": "Elétrica automotiva",
     "descricao": "Bateria, alternador e partida"
   },
   {
     "id": "freios",
     "nome": "Freios",
     "descricao": "Fluido, pastilhas e discos"
+  },
+  {
+    "id": "eletricidade",
+    "nome": "Eletricidade",
+    "descricao": "Fundamentos, medição, segurança e consumo de energia"
+  },
+  {
+    "id": "energia-solar",
+    "nome": "Energia solar e baterias",
+    "descricao": "Armazenamento, inversores, cabos e sistemas isolados"
+  },
+  {
+    "id": "geracao-de-energia",
+    "nome": "Geração de energia",
+    "descricao": "Geradores, carro como fonte de energia e microgeração"
   }
 ]

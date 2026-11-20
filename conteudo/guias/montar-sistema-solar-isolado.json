@@ -1,0 +1,80 @@
+{
+  "id": "montar-sistema-solar-isolado",
+  "titulo": "Como montar um sistema solar isolado",
+  "resumo": "Posição dos painéis no Brasil, ordem segura de ligação, proteções em corrente contínua e aterramento.",
+  "categoria": "energia-solar",
+  "tags": [
+    "avançado",
+    "energia solar",
+    "off-grid",
+    "instalação",
+    "painel solar",
+    "controlador de carga",
+    "orientação",
+    "inclinação"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 120,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "materiais": [
+    "Painéis solares e estrutura de fixação",
+    "Controlador de carga MPPT",
+    "Banco de baterias",
+    "Inversor",
+    "Fusíveis, disjuntores e chave seccionadora CC",
+    "Cabos, terminais e haste de aterramento"
+  ],
+  "passos": [
+    {
+      "titulo": "Posicione os painéis",
+      "texto": "No Brasil (hemisfério Sul), aponte os painéis para o norte geográfico, com inclinação próxima da latitude do local e no mínimo cerca de 10°, para a chuva lavar a sujeira. Evite qualquer sombra entre 9h e 15h: uma sombra pequena derruba a produção de um painel inteiro."
+    },
+    {
+      "titulo": "Monte o local das baterias",
+      "texto": "Baterias, controlador e inversor ficam juntos, perto uns dos outros (cabos curtos), em local seco, fresco, ventilado e fora do alcance de crianças. Chumbo-ácido exige ventilação para o hidrogênio."
+    },
+    {
+      "titulo": "Instale as proteções",
+      "texto": "Coloque fusível ou disjuntor CC entre bateria e controlador, entre bateria e inversor (perto da bateria) e uma chave seccionadora entre painéis e controlador. Isso permite desligar cada parte para manutenção."
+    },
+    {
+      "titulo": "Ligue na ordem certa",
+      "texto": "Primeiro a bateria no controlador: ele reconhece a tensão do sistema. Depois os painéis no controlador. Por último, o inversor e as cargas na bateria.",
+      "avisos": [
+        "Painéis geram tensão sempre que há luz. Cubra-os com um pano escuro ou mantenha a chave aberta enquanto faz as ligações.",
+        "Para desmontar, siga a ordem inversa: desligue os painéis antes de desligar a bateria do controlador."
+      ]
+    },
+    {
+      "titulo": "Configure o controlador",
+      "texto": "Ajuste o tipo de bateria e as tensões de carga conforme a ficha técnica dela. Configure o corte por tensão baixa da saída de carga para proteger a bateria."
+    },
+    {
+      "titulo": "Aterre o sistema",
+      "texto": "Ligue as estruturas metálicas dos painéis e as carcaças dos equipamentos a uma haste de aterramento, conforme os manuais. Em locais com muitos raios, use dispositivos de proteção contra surtos (DPS) próprios para CC."
+    },
+    {
+      "titulo": "Teste e acompanhe",
+      "texto": "Com sol, confira se o controlador mostra carga, meça tensões e verifique se nenhum cabo ou terminal aquece. Nos primeiros dias, acompanhe a carga da bateria de manhã e à noite. Limpe os painéis com água quando acumularem poeira."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Which solar charge controller: PWM or MPPT? — Victron Energy",
+      "url": "https://www.victronenergy.com/blog/2014/07/21/which-solar-charge-controller-pwm-or-mppt/"
+    },
+    {
+      "titulo": "Atlas Brasileiro de Energia Solar, 2ª ed. — INPE/LABREN",
+      "url": "https://www.absolar.org.br/wp-content/uploads/2021/02/Atlas_Brasileiro_Energia_Solar_2a_Edicao.pdf"
+    },
+    {
+      "titulo": "Queda de tensão no circuito CC segundo a NBR 16690 — Canal Solar",
+      "url": "https://canalsolar.com.br/nbr-16690-queda-de-tensao-circuito-cc/"
+    },
+    {
+      "titulo": "Deep Cycle Batteries Safety First — Crown Battery",
+      "url": "https://www.crownbattery.com/hubfs/Downloads/Safety.First.Deep-Cycle-Batteries.pdf"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "avaliar-microgeracao-hidrica-e-eolica",
+  "titulo": "Como avaliar a microgeração hídrica e eólica",
+  "resumo": "Fórmulas para estimar a energia de um córrego ou do vento, como medir vazão, queda e velocidade do vento e quando vale a pena.",
+  "categoria": "geracao-de-energia",
+  "tags": [
+    "avançado",
+    "microgeração",
+    "hidrelétrica",
+    "roda d'água",
+    "turbina",
+    "eólica",
+    "cata-vento",
+    "vazão",
+    "queda d'água",
+    "vento",
+    "rio",
+    "riacho",
+    "córrego",
+    "cachoeira"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "materiais": [
+    "Balde de volume conhecido e cronômetro",
+    "Mangueira de nível ou altímetro",
+    "Anemômetro (para vento)"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba por que vale avaliar",
+      "texto": "Ao contrário do sol, um córrego pode gerar 24 horas por dia, inclusive em dias nublados: poucas centenas de watts contínuos rendem mais energia por dia que um sistema solar de mesma potência. O vento complementa o sol à noite e no inverno, mas é muito variável."
+    },
+    {
+      "titulo": "Meça a vazão do córrego",
+      "texto": "Pelo método do balde: desvie toda a água por um cano ou calha para dentro de um balde de volume conhecido e cronometre. Vazão (L/s) = volume (L) ÷ tempo (s). Meça na época de seca: é o pior caso."
+    },
+    {
+      "titulo": "Meça a queda",
+      "texto": "A queda é a diferença de altura entre a captação e a turbina. Pode ser medida com mangueira de nível em lances sucessivos ou com GPS e altímetro. A queda efetiva é menor por causa do atrito no cano, em geral de 75% a 95% da medida."
+    },
+    {
+      "titulo": "Estime a potência hídrica",
+      "texto": "Potência (W) ≈ 9,81 × vazão (L/s) × queda (m) × eficiência. A eficiência de um sistema pequeno fica em torno de 50%. Exemplo: 5 L/s com 10 m de queda: 9,81 × 5 × 10 × 0,5 ≈ 245 W contínuos, cerca de 5,9 kWh por dia.",
+      "dicas": [
+        "Queda vale mais que vazão: com muita queda, pouca água já gera bastante, e os canos podem ser mais finos."
+      ]
+    },
+    {
+      "titulo": "Estime a potência do vento",
+      "texto": "Potência (W) = 0,5 × 1,2 × área do rotor (m²) × velocidade³ (m/s) × eficiência. O limite teórico (Betz) é 59%; turbinas pequenas reais ficam bem abaixo, por volta de 25 a 35%. Exemplo: rotor de 2 m de diâmetro (3,14 m²) a 5 m/s com 30%: 0,5 × 1,2 × 3,14 × 125 × 0,3 ≈ 71 W.",
+      "dicas": [
+        "A velocidade entra ao cubo: dobrar o vento multiplica a potência por 8. Por isso a altura da torre e a ausência de obstáculos importam tanto."
+      ]
+    },
+    {
+      "titulo": "Decida com base no local",
+      "texto": "Eólica pequena costuma compensar só com vento médio anual de pelo menos 4 m/s na altura do rotor, medido ao longo de meses, e com a turbina bem acima de árvores e construções próximas. Microhidro exige água o ano todo e, em geral, autorização para usar o curso d'água.",
+      "avisos": [
+        "Torres e turbinas giratórias são perigosas: queda, pás que se soltam e descargas atmosféricas. Montagem e aterramento exigem projeto."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Planning a Microhydropower System — U.S. Department of Energy",
+      "url": "https://www.energy.gov/energysaver/planning-microhydropower-system"
+    },
+    {
+      "titulo": "Micro Hydroelectric Systems: formulas — Canyon Hydro",
+      "url": "https://canyonhydro.com/micro/formulas.html"
+    },
+    {
+      "titulo": "Micro-Hydro Power — ATTRA/NCAT",
+      "url": "https://attra.ncat.org/wp-content/uploads/2022/08/microhydro.pdf"
+    },
+    {
+      "titulo": "Small Wind Guidebook — U.S. Department of Energy",
+      "url": "https://windexchange.energy.gov/small-wind-guidebook"
+    },
+    {
+      "titulo": "Wind power equation — Penn State (EMSC 470)",
+      "url": "https://www.e-education.psu.edu/emsc470/node/648"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "usar-gerador-com-seguranca",
+  "titulo": "Como usar um gerador portátil com segurança",
+  "resumo": "Onde posicionar contra o monóxido de carbono, como ligar os aparelhos sem mandar energia para a rede, combustível e dimensionamento.",
+  "categoria": "geracao-de-energia",
+  "tags": [
+    "gerador",
+    "monóxido de carbono",
+    "CO",
+    "chave de transferência",
+    "chave reversora",
+    "queda de energia",
+    "gasolina",
+    "apagão",
+    "falta de energia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Monóxido de carbono (CO) não tem cheiro nem cor e mata em minutos. Motores a combustão só funcionam ao ar livre, longe de portas e janelas. Tenha detector de CO em casa.",
+  "materiais": [
+    "Gerador portátil",
+    "Extensões de bitola adequada",
+    "Galão de combustível",
+    "Detector de monóxido de carbono"
+  ],
+  "passos": [
+    {
+      "titulo": "Dimensione o gerador",
+      "texto": "Some a potência dos aparelhos que vão funcionar juntos e reserve capacidade para a partida do maior motor (3 a 7 vezes a nominal). Para eletrônicos sensíveis, prefira gerador do tipo inverter, de tensão mais estável."
+    },
+    {
+      "titulo": "Posicione ao ar livre e longe da casa",
+      "texto": "Funcione o gerador só ao ar livre, a pelo menos 6 metros de portas, janelas e entradas de ar, com o escapamento apontado para longe da casa. Proteja da chuva com uma cobertura aberta, nunca fechando o gerador.",
+      "avisos": [
+        "Nunca use dentro de casa, na garagem, no porão ou em área coberta e fechada, nem com portas e janelas abertas.",
+        "Dor de cabeça, tontura, náusea ou fraqueza perto de um gerador: vá para o ar livre imediatamente e ligue para o 192."
+      ]
+    },
+    {
+      "titulo": "Ligue os aparelhos direto nele",
+      "texto": "Conecte os aparelhos nas tomadas do gerador ou com extensões de bitola adequada, sem emendas e esticadas (sem rolo)."
+    },
+    {
+      "titulo": "Para alimentar a casa, só com chave de transferência",
+      "texto": "Ligar o gerador ao quadro da casa exige uma chave de transferência (reversora) instalada por eletricista, que separa a casa da rede antes de ligar o gerador.",
+      "avisos": [
+        "Ligar o gerador numa tomada com um cabo \"macho-macho\" manda energia de volta para a rede: pode eletrocutar eletricistas e vizinhos e queimar o gerador quando a energia voltar."
+      ]
+    },
+    {
+      "titulo": "Abasteça com o motor frio",
+      "texto": "Desligue e espere esfriar antes de abastecer: gasolina sobre o motor quente pode pegar fogo. Guarde o combustível em galão próprio, fora de casa e longe do gerador."
+    },
+    {
+      "titulo": "Mantenha e teste",
+      "texto": "Funcione o gerador em carga a cada mês ou dois para testar, troque o óleo conforme o manual e use estabilizador de combustível se a gasolina ficar parada por meses."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Danger! Carbon Monoxide Hazard — CDC",
+      "url": "https://www.cdc.gov/nceh/multimedia/infographics/carbon_monoxide_danger.html"
+    },
+    {
+      "titulo": "What to Know About Portable Generators — CPSC, 2022",
+      "url": "https://www.cpsc.gov/s3fs-public/468_WhattoKnowGenerators_2022_v5.pdf"
+    },
+    {
+      "titulo": "Worker Safety in a Power Outage — CDC",
+      "url": "https://archive.cdc.gov/www_cdc_gov/disasters/poweroutage/workersafety.html"
+    },
+    {
+      "titulo": "Generator back-feed — Eversource",
+      "url": "https://www.eversource.com/residential/safety/electric-safety/generator-safety/generator-back-feed"
+    }
+  ]
+}

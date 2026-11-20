@@ -1,0 +1,61 @@
+{
+  "id": "entender-tensao-corrente-e-potencia",
+  "titulo": "Entenda tensão, corrente, potência e energia",
+  "resumo": "Os conceitos que tornam possível calcular qualquer sistema: volt, ampère, watt, watt-hora, lei de Ohm e a diferença entre CA e CC.",
+  "categoria": "eletricidade",
+  "tags": [
+    "básico",
+    "volt",
+    "ampère",
+    "watt",
+    "watt-hora",
+    "kWh",
+    "lei de Ohm",
+    "corrente contínua",
+    "corrente alternada",
+    "fundamentos"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "passos": [
+    {
+      "titulo": "Tensão (volts, V)",
+      "texto": "É a \"pressão\" que empurra a eletricidade. A rede residencial no Brasil é de 127 V ou 220 V, em corrente alternada de 60 Hz, conforme a região. Baterias de carro e de sistemas solares pequenos são de 12 V em corrente contínua; sistemas maiores usam 24 V ou 48 V."
+    },
+    {
+      "titulo": "Corrente (ampères, A)",
+      "texto": "É a quantidade de eletricidade que passa por segundo. É a corrente que aquece os fios: cabo fino demais para a corrente esquenta e pode pegar fogo. Disjuntores e fusíveis desligam o circuito quando a corrente passa do limite."
+    },
+    {
+      "titulo": "Potência (watts, W)",
+      "texto": "Potência = tensão × corrente (P = V × I). Uma lâmpada de 12 W em 12 V consome 1 A; o mesmo aparelho de 1.200 W consome cerca de 10 A em 127 V, 5,5 A em 220 V e 100 A em 12 V.",
+      "dicas": [
+        "Por isso sistemas de bateria maiores usam 24 V ou 48 V: para a mesma potência, a corrente cai e os cabos podem ser mais finos."
+      ]
+    },
+    {
+      "titulo": "Energia (watt-hora, Wh)",
+      "texto": "Energia = potência × tempo. Uma lâmpada de 10 W ligada por 5 horas gasta 50 Wh; 1.000 Wh = 1 kWh, a unidade da conta de luz.\n\nNum sistema de sobrevivência, quem manda é a energia: a bateria guarda Wh, o painel produz Wh por dia e os aparelhos gastam Wh por dia."
+    },
+    {
+      "titulo": "Lei de Ohm",
+      "texto": "Tensão = resistência × corrente (V = R × I). Ela explica por que um fio longo e fino \"perde\" tensão no caminho: o próprio fio tem resistência, e a perda aumenta com a corrente."
+    },
+    {
+      "titulo": "Corrente contínua e alternada",
+      "texto": "Corrente contínua (CC) flui num só sentido: baterias, painéis solares, eletrônicos por dentro. Corrente alternada (CA) inverte o sentido 60 vezes por segundo: a rede da casa e a saída de geradores e inversores. O inversor transforma CC da bateria em CA; o carregador e a fonte fazem o caminho inverso."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Measure Battery Voltage with a Multimeter — Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-test-a-battery-with-a-multimeter"
+    },
+    {
+      "titulo": "Off-grid system sizing — Renogy",
+      "url": "https://www.renogy.com/blogs/learn-center/learn-system-sizing"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "usar-o-carro-como-fonte-de-energia",
+  "titulo": "Como usar o carro como fonte de energia de emergência",
+  "resumo": "Inversor na bateria do carro, limites da tomada 12 V, quanto tempo rodar o motor e como evitar intoxicação por monóxido de carbono.",
+  "categoria": "geracao-de-energia",
+  "tags": [
+    "carro",
+    "inversor",
+    "bateria do carro",
+    "emergência",
+    "queda de energia",
+    "monóxido de carbono",
+    "alternador",
+    "apagão",
+    "falta de energia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Monóxido de carbono (CO) não tem cheiro nem cor e mata em minutos. Motores a combustão só funcionam ao ar livre, longe de portas e janelas. Tenha detector de CO em casa.",
+  "materiais": [
+    "Inversor (onda senoidal pura, de preferência)",
+    "Cabos com garras ou terminais e fusível",
+    "Detector de monóxido de carbono"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que o carro oferece",
+      "texto": "O alternador recarrega a bateria enquanto o motor funciona; com um inversor, ela vira uma pequena fonte de 127/220 V. Serve para carregar celulares, rádio, lanternas, notebook e iluminação, não para chuveiro ou ar-condicionado."
+    },
+    {
+      "titulo": "Use a tomada 12 V só para cargas pequenas",
+      "texto": "A tomada do isqueiro tem fusível baixo e suporta em geral pouco mais de 100 W (veja o manual). Para potências maiores, ligue o inversor direto nos terminais da bateria, com fusível no cabo positivo."
+    },
+    {
+      "titulo": "Posicione o carro ao ar livre",
+      "texto": "Deixe o carro ao ar livre, com o escapamento apontado para longe da casa e a vários metros de portas e janelas.",
+      "avisos": [
+        "Nunca deixe o motor funcionando em garagem, mesmo com o portão aberto, nem dentro de casa."
+      ]
+    },
+    {
+      "titulo": "Não esgote a bateria de partida",
+      "texto": "Com o motor desligado, o inversor descarrega a bateria a ponto de o carro não pegar mais. Se não puder manter o motor ligado o tempo todo, ligue o carro e deixe funcionar cerca de 10 minutos a cada hora."
+    },
+    {
+      "titulo": "Calcule o combustível",
+      "texto": "Em marcha lenta com um inversor ligado, um carro gastou cerca de 1,3 litro por hora num teste da Consumer Reports. Num apagão longo, conte o combustível como sua reserva de energia."
+    },
+    {
+      "titulo": "Considere uma bateria separada",
+      "texto": "Uma estação de energia portátil ou uma bateria estacionária extra, recarregada pelo carro ou por painel solar, fornece energia com o motor desligado e sem risco de ficar sem partida."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Can a pint-sized power inverter replace a generator? — Consumer Reports",
+      "url": "https://www.consumerreports.org/cro/2012/02/can-a-pint-sized-power-inverter-replace-a-generator/index.htm"
+    },
+    {
+      "titulo": "Inverter buying guide — Tripp Lite/Eaton",
+      "url": "https://tripplite.eaton.com/products/inverter-buying-guide"
+    },
+    {
+      "titulo": "Danger! Carbon Monoxide Hazard — CDC",
+      "url": "https://www.cdc.gov/nceh/multimedia/infographics/carbon_monoxide_danger.html"
+    }
+  ]
+}

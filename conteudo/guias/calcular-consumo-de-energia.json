@@ -1,0 +1,66 @@
+{
+  "id": "calcular-consumo-de-energia",
+  "titulo": "Como calcular quanta energia você precisa",
+  "resumo": "Levantamento de cargas em watt-hora por dia, picos de partida de motores e como cortar consumo antes de comprar equipamento.",
+  "categoria": "eletricidade",
+  "tags": [
+    "básico",
+    "consumo",
+    "watt-hora",
+    "kWh",
+    "carga",
+    "pico de partida",
+    "economia de energia",
+    "planejamento",
+    "apagão",
+    "falta de energia"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado.",
+  "materiais": [
+    "Papel ou planilha",
+    "Etiquetas dos aparelhos",
+    "Medidor de energia de tomada (opcional)"
+  ],
+  "passos": [
+    {
+      "titulo": "Liste o que é essencial",
+      "texto": "Numa queda de energia longa, priorize: iluminação, carregar celular e rádio, conservar alimentos e remédios (geladeira), bomba d'água e equipamentos médicos. Deixe chuveiro elétrico, ferro, forno e ar-condicionado de fora: consomem muito para um sistema de emergência."
+    },
+    {
+      "titulo": "Descubra a potência de cada aparelho",
+      "texto": "Veja a etiqueta ou a placa do aparelho (W, ou V × A). Para geladeiras e outros eletrodomésticos, use a etiqueta do Inmetro (ENCE), que já informa o consumo em kWh por mês: divida por 30 para ter o consumo diário."
+    },
+    {
+      "titulo": "Calcule a energia por dia",
+      "texto": "Para cada aparelho: potência (W) × horas de uso por dia = Wh/dia. Exemplo: 4 lâmpadas LED de 9 W por 5 h = 180 Wh; celulares e rádio, cerca de 30 Wh; geladeira de 30 kWh/mês = 1.000 Wh. Total: cerca de 1.210 Wh por dia.",
+      "dicas": [
+        "Um medidor de energia de tomada (wattímetro) mede o consumo real de cada aparelho em alguns dias de uso."
+      ]
+    },
+    {
+      "titulo": "Some a potência simultânea e os picos",
+      "texto": "Some a potência dos aparelhos que podem funcionar ao mesmo tempo: isso define o tamanho do inversor ou gerador. Motores (geladeira, bomba, compressor) puxam de 3 a 7 vezes a potência nominal por alguns segundos na partida."
+    },
+    {
+      "titulo": "Corte o consumo antes de gerar",
+      "texto": "Cada Wh economizado é painel e bateria a menos. Troque lâmpadas por LED, use geladeira eficiente e evite abri-la, prefira aparelhos em 12 V ligados direto na bateria (sem perdas do inversor) e concentre usos pesados nas horas de sol."
+    },
+    {
+      "titulo": "Adicione margem para perdas",
+      "texto": "Cabos, inversor e bateria perdem parte da energia. Multiplique o total diário por 1,2 a 1,3. No exemplo: 1.210 × 1,25 ≈ 1.500 Wh por dia. É esse número que vai dimensionar a bateria e os painéis."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Off-grid system sizing — Renogy",
+      "url": "https://www.renogy.com/blogs/learn-center/learn-system-sizing"
+    },
+    {
+      "titulo": "Selecting an Inverter — Northern Arizona Wind & Sun",
+      "url": "https://www.solar-electric.com/learning-center/inverters/inverter-basics-selection.html"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "dimensionar-sistema-solar-isolado",
+  "titulo": "Como dimensionar um sistema solar isolado (off-grid)",
+  "resumo": "Cálculo de baterias, painéis, controlador e inversor a partir do consumo diário, com exemplo completo para o Brasil.",
+  "categoria": "energia-solar",
+  "tags": [
+    "avançado",
+    "energia solar",
+    "off-grid",
+    "sistema isolado",
+    "dimensionamento",
+    "painel solar",
+    "autonomia",
+    "horas de sol pleno",
+    "MPPT",
+    "quantos painéis",
+    "quantas placas",
+    "tamanho da bateria"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "materiais": [
+    "Lista de consumo em Wh/dia",
+    "Dados de irradiação da sua cidade (LABREN/INPE)",
+    "Fichas técnicas de painel, controlador e bateria"
+  ],
+  "passos": [
+    {
+      "titulo": "Parta do consumo diário",
+      "texto": "Use o consumo calculado com margem de perdas (veja o guia de cálculo de consumo). No exemplo: 1.500 Wh por dia, num sistema de 12 V.",
+      "dicas": [
+        "Acima de cerca de 1.500 a 2.000 W de inversor, prefira 24 V ou 48 V: a corrente cai e os cabos ficam viáveis."
+      ]
+    },
+    {
+      "titulo": "Defina a autonomia",
+      "texto": "Quantos dias o sistema deve aguentar sem sol (chuva, nublado)? Para sobrevivência, 2 a 3 dias é um bom ponto de partida."
+    },
+    {
+      "titulo": "Calcule o banco de baterias",
+      "texto": "Capacidade (Ah) = consumo diário (Wh) × dias de autonomia ÷ (tensão × profundidade de descarga). LiFePO4 com 80%: 1.500 × 2 ÷ (12 × 0,8) ≈ 313 Ah. Chumbo-ácido com 50%: 1.500 × 2 ÷ (12 × 0,5) = 500 Ah."
+    },
+    {
+      "titulo": "Descubra as horas de sol pleno",
+      "texto": "Horas de sol pleno (HSP) equivalem à irradiação diária em kWh/m². Pelo Atlas Brasileiro de Energia Solar, a média anual vai de cerca de 4,5 (Sul e Norte) a 5,5 (Nordeste). Para garantir o inverno, use o valor do pior mês da sua cidade, disponível nos dados do LABREN/INPE."
+    },
+    {
+      "titulo": "Calcule os painéis",
+      "texto": "Potência dos painéis (W) = consumo diário (Wh) ÷ HSP. Com 1.500 Wh e 4,5 HSP: 1.500 ÷ 4,5 ≈ 333 W. Como as perdas já foram somadas ao consumo, arredonde para cima com folga para sujeira e calor: 400 a 500 W.",
+      "dicas": [
+        "Painéis a mais são baratos e encurtam a recarga depois de dias nublados. Em sobrevivência, sobra de painel vale mais que sobra de bateria."
+      ]
+    },
+    {
+      "titulo": "Escolha o controlador de carga",
+      "texto": "Corrente do controlador ≈ potência dos painéis ÷ tensão da bateria: 500 W ÷ 12 V ≈ 42 A, então um de 50 A. Use MPPT quando a tensão dos painéis for bem maior que a da bateria (2 vezes ou mais); PWM só serve quando a tensão do painel é pouco acima da bateria.",
+      "avisos": [
+        "A tensão de circuito aberto (Voc) dos painéis em série, no dia mais frio, deve ficar abaixo do máximo do controlador. Acima disso, ele queima."
+      ]
+    },
+    {
+      "titulo": "Escolha o inversor",
+      "texto": "Some a potência dos aparelhos ligados ao mesmo tempo, com 20 a 30% de folga e pico suficiente para a partida de motores. Escolha onda senoidal pura."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Off-grid system sizing — Renogy",
+      "url": "https://www.renogy.com/blogs/learn-center/learn-system-sizing"
+    },
+    {
+      "titulo": "Stand-alone system sizing — Penn State (AE 868)",
+      "url": "https://courses.ems.psu.edu/ae868/node/924"
+    },
+    {
+      "titulo": "Atlas Brasileiro de Energia Solar, 2ª ed. — INPE/LABREN",
+      "url": "https://www.absolar.org.br/wp-content/uploads/2021/02/Atlas_Brasileiro_Energia_Solar_2a_Edicao.pdf"
+    },
+    {
+      "titulo": "Dados do Atlas Brasileiro de Energia Solar — LABREN/INPE",
+      "url": "https://labren.ccst.inpe.br/atlas_2017-en.html"
+    },
+    {
+      "titulo": "Which solar charge controller: PWM or MPPT? — Victron Energy",
+      "url": "https://www.victronenergy.com/blog/2014/07/21/which-solar-charge-controller-pwm-or-mppt/"
+    }
+  ]
+}

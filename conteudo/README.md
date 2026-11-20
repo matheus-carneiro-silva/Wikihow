@@ -6,6 +6,24 @@ mudar depois — basta fazer push; não precisa de um build novo. A cópia baixa
 fica no celular e funciona sem internet. Os tipos ficam em
 `src/conteudo/tipos.ts` e as regras de validação em `src/conteudo/validar.ts`.
 
+## Linha editorial
+
+O app é uma biblioteca **pessoal e offline de guias de sobrevivência**: conhecimento prático para
+se virar sem depender de serviços, internet ou rede elétrica (saúde, mecânica, energia etc.).
+Ao criar guias:
+
+- **Prático e acionável**: passos que dá para executar com o que se tem à mão, com números
+  concretos (doses, medidas, tempos) e exemplos calculados.
+- **Baseado em fontes confiáveis**, citadas em `fontes`. Quando as fontes divergem, use o valor
+  mais conservador e diga que varia.
+- **Segurança em primeiro lugar**: `alerta` no topo para riscos sérios e `avisos` nos passos
+  perigosos. Diga quando procurar ajuda profissional ou chamar emergência.
+- **Contexto brasileiro**: unidades métricas, tensões da rede (127/220 V), normas e órgãos
+  nacionais quando existirem.
+- **Do básico ao avançado** dentro de cada tema, usando `dificuldade`.
+- **Pensado para a busca**: título com a ação, resumo com os termos principais e `tags` com
+  sinônimos e perguntas comuns ("apagão", "quantos painéis").
+
 ```
 conteudo/
 ├── categorias.json      # lista de categorias

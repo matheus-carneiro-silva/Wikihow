@@ -1,0 +1,80 @@
+{
+  "id": "escolher-e-cuidar-de-baterias",
+  "titulo": "Como escolher e cuidar de baterias para armazenar energia",
+  "resumo": "Chumbo-ácido ou lítio-ferro-fosfato (LiFePO4), profundidade de descarga, tensões de carga, ligação em série e em paralelo e ventilação.",
+  "categoria": "energia-solar",
+  "tags": [
+    "bateria",
+    "LiFePO4",
+    "lítio",
+    "chumbo-ácido",
+    "AGM",
+    "estacionária",
+    "banco de baterias",
+    "série",
+    "paralelo",
+    "profundidade de descarga"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Eletricidade pode matar: choques em 127 V ou 220 V podem ser fatais, e baterias, inversores e geradores trazem risco de incêndio, explosão e intoxicação. Qualquer ligação ao quadro de energia da casa deve ser feita ou revisada por um eletricista qualificado. Baterias liberam gás inflamável e podem fornecer correntes enormes num curto-circuito.",
+  "materiais": [
+    "Bateria estacionária, AGM ou LiFePO4",
+    "Monitor de bateria ou multímetro",
+    "Cabos e terminais adequados à corrente"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda a capacidade útil",
+      "texto": "A capacidade em Ah vezes a tensão dá a energia armazenada: 100 Ah × 12 V = 1.200 Wh. Mas não se usa tudo: a profundidade de descarga (DoD) limita quanto pode ser retirado sem encurtar a vida da bateria."
+    },
+    {
+      "titulo": "Chumbo-ácido: barata e pesada",
+      "texto": "Inclui as estacionárias, AGM e gel. Para durar, use no máximo cerca de 50% da capacidade: uma AGM de referência faz cerca de 600 ciclos descarregando 50% e 400 ciclos descarregando 80%. Precisa ser recarregada por completo com frequência; ficar descarregada a destrói (sulfatação).",
+      "avisos": [
+        "Baterias de chumbo-ácido liberam hidrogênio, inflamável, durante a carga: instale em local ventilado, nunca em compartimento fechado."
+      ]
+    },
+    {
+      "titulo": "LiFePO4: mais cara, dura muito mais",
+      "texto": "Permite usar 80% ou mais da capacidade e passa de milhares de ciclos (um modelo de 100 Ah anuncia 6.000 ciclos a 80%). É mais leve, aceita carga rápida e tem sistema interno de proteção (BMS). Num sistema de sobrevivência, costuma sair mais barata por kWh ao longo da vida.",
+      "avisos": [
+        "Não carregue baterias de lítio abaixo de 0 °C, salvo se tiverem aquecimento próprio."
+      ]
+    },
+    {
+      "titulo": "Use as tensões de carga certas",
+      "texto": "Configure o carregador ou controlador para o tipo de bateria. Valores típicos para 12 V: AGM, absorção 14,2 a 14,6 V e flutuação 13,5 a 13,8 V; LiFePO4, absorção 14,2 a 14,6 V e sem flutuação (ou abaixo de 13,6 V). A ficha técnica da sua bateria prevalece.",
+      "avisos": [
+        "Carregador de chumbo-ácido com modo de equalização ou dessulfatação pode danificar baterias de lítio."
+      ]
+    },
+    {
+      "titulo": "Ligue em série ou em paralelo",
+      "texto": "Em série (positivo de uma no negativo da outra) somam-se as tensões: duas de 12 V e 100 Ah dão 24 V e 100 Ah. Em paralelo (positivo com positivo) somam-se as capacidades: 12 V e 200 Ah. Use baterias iguais, de mesma idade e carga, e cabos de mesmo comprimento."
+    },
+    {
+      "titulo": "Monitore e conserve",
+      "texto": "Acompanhe a carga por um monitor de bateria ou pela tensão em repouso. Mantenha terminais limpos e apertados, a bateria fresca e à sombra (calor encurta a vida) e nunca a deixe descarregada por dias."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Types of lead-acid batteries — Victron Energy",
+      "url": "https://www.victronenergy.com/knowledge-articles/2026/8/10/types-of-lead-acid-batteries"
+    },
+    {
+      "titulo": "Deep Cycle Batteries Safety First — Crown Battery",
+      "url": "https://www.crownbattery.com/hubfs/Downloads/Safety.First.Deep-Cycle-Batteries.pdf"
+    },
+    {
+      "titulo": "The Basics of Charging LiFePO4 Batteries — Battle Born",
+      "url": "https://battlebornbatteries.com/charging-battleborn-lifepo4-batteries/"
+    },
+    {
+      "titulo": "Charging LiFePO4, what’s the impact of lower voltages? — Panbo",
+      "url": "https://panbo.com/charging-lifepo4-what"
+    }
+  ]
+}
