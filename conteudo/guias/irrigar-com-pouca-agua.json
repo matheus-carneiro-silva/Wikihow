@@ -1,0 +1,99 @@
+{
+  "id": "irrigar-com-pouca-agua",
+  "titulo": "Como irrigar a horta com pouca água",
+  "resumo": "Quanto regar por m², melhor horário, gotejamento caseiro, cobertura morta, captação de chuva do telhado com cálculo e reúso seguro de água cinza na horta.",
+  "categoria": "cultivo-de-alimentos",
+  "tags": [
+    "rega",
+    "regar",
+    "quanto regar",
+    "gotejamento",
+    "garrafa PET",
+    "cobertura morta",
+    "água da chuva",
+    "cisterna",
+    "água cinza",
+    "seca"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Água com esgoto ou de origem duvidosa transmite doenças, principalmente em verduras comidas cruas: não use. Tampe caixas, tambores e cisternas: água parada cria o mosquito da dengue, e criança pode cair e se afogar. Água cinza nunca deve tocar a parte comestível das plantas.",
+  "materiais": [
+    "Regador ou balde e caneca",
+    "Garrafas PET, mangueira velha e prego ou alfinete aquecido",
+    "Palha seca, capim cortado, casca de arroz ou serragem para cobertura",
+    "Calha, cano e tambor ou caixa d'água com tampa",
+    "Peneira ou pano para filtrar"
+  ],
+  "passos": [
+    {
+      "titulo": "Calcule quanta água a horta precisa",
+      "texto": "A lâmina de água é medida em milímetros: 1 mm equivale a 1 litro por metro quadrado.\n\nPara planejar, a Embrapa Hortaliças considera que as hortaliças consomem em média 8 mm por dia (8 L/m²), já contando as perdas; cerca de 5 mm na região Sul e até 12 mm no Nordeste. O consumo varia com o clima, o solo, a cultura e a fase da planta.\n\nExemplo: horta de 20 m² no Sudeste → 20 × 8 = 160 litros por dia nos dias quentes. No Nordeste: 20 × 12 = 240 litros.\n\nFrequência: no começo e nas folhosas, rega diária; hortaliças de fruto e de raiz, já crescidas, podem ser regadas a cada 2 a 3 dias. No início do ciclo, regas mais frequentes e menores; do meio para o fim, menos frequentes e maiores.",
+      "dicas": [
+        "Antes de regar, enfie o dedo na terra perto da planta: se ainda estiver úmida alguns centímetros abaixo, espere. Regue antes de a planta murchar.",
+        "Batata-doce e cará não precisam de rega quando estão prontos para colher."
+      ]
+    },
+    {
+      "titulo": "Regue no horário certo",
+      "texto": "Para perder menos água por evaporação, regue de manhã bem cedo ou no fim da tarde, sem vento.\n\nSe a rega molha as folhas (regador, mangueira, aspersor) e a região tem orvalho, prefira regar depois das primeiras horas da manhã e antes do fim da tarde: a folha fica menos tempo molhada e há menos doenças. Com gotejamento ou rega no pé, isso não importa.",
+      "avisos": [
+        "Regar no sol forte com vento desperdiça água e molha de forma desigual."
+      ]
+    },
+    {
+      "titulo": "Molhe só a raiz: gotejamento caseiro",
+      "texto": "Segundo a Embrapa, mais da metade da água aplicada na irrigação não chega a ser usada pelas plantas. Gotejamento economiza mais que aspersão, e aspersão mais que regar por sulco.\n\nGarrafa PET enterrada: fure a tampa ou o fundo com alfinete quente, enterre a garrafa ao lado da planta com a parte aberta para cima e encha. A água sai devagar direto na raiz. Teste antes quantos furos esvaziam a garrafa no tempo desejado.\n\nMangueira furada: uma mangueira velha com furinhos ao longo do canteiro, ligada a um tambor ou caixa elevada, rega por gravidade. A Embrapa Semiárido usa caixa d'água de 1.000 litros a 1,5 a 2 m de altura para irrigar hortas de até 500 m²; numa horta de 200 m², uma caixa cheia dá uma lâmina de 5 mm (1.000 ÷ 200 = 5 L/m²).",
+      "dicas": [
+        "Filtre a água (pano ou peneira) antes do tambor: sujeira entope os furos."
+      ]
+    },
+    {
+      "titulo": "Cubra o solo com palha",
+      "texto": "Cobertura morta é uma camada de restos vegetais sobre o canteiro: capim seco, palha, casca de arroz, serragem ou maravalha. Ela segura a umidade, deixa a terra mais fresca e atrapalha o mato.\n\nSegundo a Embrapa, cobrir o solo economiza de 10% a 50% da água, conforme o material e a cultura. Plástico economiza ainda mais, mas aí a rega tem de ser por gotejamento.\n\nMatéria orgânica no solo também guarda água: veja os guias de compostagem e de avaliar e preparar o solo da horta.",
+      "dicas": [
+        "Use capim sem sementes: senão você planta mato junto."
+      ]
+    },
+    {
+      "titulo": "Capte a água da chuva do telhado",
+      "texto": "Conta básica: área do telhado (m²) × chuva (mm) = litros que caem. Nem tudo chega à caixa: em telhado de cerâmica no semiárido, a Embrapa mediu que, em média, só 50% a 64% da chuva foi captada. Use 0,5 para não se iludir.\n\nExemplo: telhado de 50 m² e uma chuva de 100 mm no mês → 50 × 100 × 0,5 = 2.500 litros. Para uma horta de 20 m² a 8 mm/dia (160 L/dia), isso dura cerca de 15 dias sem chuva.\n\nUse calha e cano até um tambor ou caixa com tampa. Descarte a primeira água de cada chuva, que lava a sujeira do telhado.",
+      "avisos": [
+        "Reservatório deve ser tampado e, se for escavado, revestido: em reservatórios rasos e abertos, a perda por evaporação e infiltração pode passar de 50% do volume.",
+        "Água de telhado é para a horta. Para beber, precisa de tratamento (fervura ou cloro)."
+      ]
+    },
+    {
+      "titulo": "Reaproveite água cinza com cuidado",
+      "texto": "Água cinza é a do chuveiro, do tanque e do último enxágue da roupa. As fontes divergem: as autoridades de saúde de Victoria (Austrália) mandam não usá-la em nada que se coma; a extensão rural da Universidade da Califórnia aceita usá-la em árvores frutíferas e plantas cuja parte comestível não encosta no solo. Por segurança:\n\n• prefira usar em plantas não comestíveis, cerca viva e adubação verde; se faltar água, só no pé de árvores frutíferas (como a bananeira);\n• nunca use em folhas comidas cruas nem em raízes e tubérculos (cenoura, rabanete, batata-doce);\n• despeje no solo, por baixo da cobertura morta; nunca borrife nem molhe folhas e frutos;\n• use em até 24 horas; guardada, ela apodrece;\n• alterne com água limpa para lavar o sal que se acumula na terra.",
+      "avisos": [
+        "Não reaproveite água de pia de cozinha, de lava-louças, de vaso sanitário, de lavar fraldas ou de banho de animais.",
+        "Não use quando alguém da casa estiver com diarreia ou vômitos.",
+        "Evite água com alvejante (cloro), produtos com sódio ou boro e detergente forte: eles prejudicam o solo e as plantas. Prefira sabão neutro, sem fosfato."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Hortaliças: o produtor pergunta, a Embrapa responde (irrigação) — Embrapa Hortaliças",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/663403/1/500perguntashortas.pdf"
+    },
+    {
+      "titulo": "Sistema de gotejamento por gravidade para irrigação de hortas (Instruções Técnicas 122) — Embrapa Semiárido",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1025428/1/INT122.pdf"
+    },
+    {
+      "titulo": "Captação de água de chuva em cisternas rurais — Cavalcanti e Brito, Embrapa Semiárido",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/573746/1/OPB2502.pdf"
+    },
+    {
+      "titulo": "Graywater — UC Master Gardener Program, Universidade da Califórnia (UCANR)",
+      "url": "https://ucanr.edu/blog/hort-coco-uc-master-gardener-program-contra-costa/article/graywater"
+    },
+    {
+      "titulo": "Greywater: recycling water at home — Better Health Channel, Governo de Victoria",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/greywater-recycling-water-at-home"
+    }
+  ]
+}

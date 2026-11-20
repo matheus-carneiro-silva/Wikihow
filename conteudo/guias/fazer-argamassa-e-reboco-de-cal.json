@@ -1,0 +1,98 @@
+{
+  "id": "fazer-argamassa-e-reboco-de-cal",
+  "titulo": "Como fazer argamassa e reboco de cal",
+  "resumo": "Traços de cal e areia, com ou sem cimento, escolha da areia, chapisco, emboço e reboco, cura úmida e tinta de cal (caiação) com fixador.",
+  "categoria": "materiais-de-construcao",
+  "tags": [
+    "massa",
+    "traço",
+    "reboco",
+    "emboço",
+    "chapisco",
+    "assentar tijolo",
+    "caiação",
+    "pintura com cal",
+    "tinta de cal",
+    "areia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Cal e cimento molhados são cáusticos: causam queimaduras na pele (às vezes sem dor no começo) e lesões graves nos olhos. Use óculos de proteção, luvas impermeáveis, manga e calça compridas. Respingou no olho: lave com muita água corrente e procure atendimento.",
+  "materiais": [
+    "Pasta de cal ou cal hidratada em saco",
+    "Cimento Portland (opcional)",
+    "Areia lavada de rio",
+    "Lata de 18 litros para medir",
+    "Pá, enxada, colher de pedreiro, desempenadeira, peneira",
+    "Pano de saco (aniagem) ou borrifador para a cura",
+    "Óleo de linhaça e cola branca (PVA) para a caiação"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha entre cal pura e argamassa mista",
+      "texto": "Argamassa só de cal e areia endurece devagar, absorvendo o CO2 do ar ao longo de semanas. Fica mais macia e flexível que a de cimento e deixa a parede \"respirar\" (secar), o que é bom para adobe, pedra, tijolo maciço e casas antigas. Argamassa deve ser mais fraca que o tijolo ou a pedra: se a parede se mexer, trinca a junta, não o tijolo.\n\nArgamassa mista (cimento, cal e areia) pega em horas e é a usada na construção comum com tijolo cerâmico e bloco de concreto. A cal deixa a massa mais plástica e aderente."
+    },
+    {
+      "titulo": "Escolha e prepare a areia",
+      "texto": "Use areia de rio, de grãos duros, limpa, sem torrões de barro, galhos, folhas ou raízes. Nunca use areia do mar.\n\nPara argamassa de cal, a melhor areia é \"áspera\" (grãos angulosos) e bem graduada (grãos de vários tamanhos). Teste: aperte um punhado de areia na mão; a boa trava e forma um bloco firme, a ruim escorrega. Se tiver silte, argila, sal ou matéria orgânica, lave antes.\n\nNo emboço use areia média; no reboco, areia fina peneirada.",
+      "dicas": [
+        "Areia úmida incha e ocupa mais volume. Meça a areia seca ou ponha um pouco mais de areia úmida para manter o traço."
+      ]
+    },
+    {
+      "titulo": "Meça o traço em latas de 18 litros",
+      "texto": "Traço de cal pura: 1 parte de pasta de cal para 3 partes de areia lavada, áspera e bem graduada.\n\nTraços com cimento (lata de cimento : lata de cal : lata de areia), segundo a ABCP:\n\n• Assentar tijolo maciço ou cerâmico (6 ou 8 furos): 1 : 2 : 8. Rende cerca de 10 m² de parede de tijolo maciço ou 16 m² de tijolo furado por lata de cimento.\n• Assentar bloco de concreto: 1 : ½ : 6 (cerca de 30 m²).\n• Chapisco: 1 de cimento : 3 de areia, sem cal (cerca de 30 m²).\n• Emboço (massa grossa): 1 : 2 : 8, com areia média, de 1 a 2,5 cm de espessura (cerca de 17 m²).\n• Reboco (massa fina): 1 : 2 : 9, com areia fina peneirada, o mais fino possível (cerca de 35 m²).",
+      "dicas": [
+        "As 3 primeiras fiadas da parede devem ser revestidas antes com argamassa impermeabilizante (1 de cimento : 3 de areia fina + impermeabilizante, conforme a embalagem), contra a umidade do chão."
+      ]
+    },
+    {
+      "titulo": "Misture",
+      "texto": "Espalhe a areia formando uma camada de cerca de 15 cm. Ponha por cima o cimento e a cal e mexa até a cor ficar uniforme. Faça um monte com um buraco no meio (coroa), ponha a água aos poucos e misture sem deixar escorrer.\n\nPrepare só o que der para usar em cerca de 1 hora: depois disso a argamassa de cimento endurece ou perde a plasticidade. Use água limpa, de beber; nunca água servida."
+    },
+    {
+      "titulo": "Aplique chapisco, emboço e reboco",
+      "texto": "Toda parede e teto deve receber primeiro o chapisco, uma camada fina e áspera que serve de base: sem ele, as camadas seguintes podem descolar e cair.\n\nSobre o chapisco vai o emboço (massa grossa), de 1 a 2,5 cm, para regularizar a superfície. Por último vai o reboco (massa fina), para o acabamento. Azulejo e cerâmica são assentados sobre o emboço, sem reboco.",
+      "dicas": [
+        "Em parede de adobe ou de pedra, prefira emboço e reboco de cal pura com areia: cimento sobre terra ou pedra macia segura umidade e acelera o estrago."
+      ]
+    },
+    {
+      "titulo": "Faça a cura úmida",
+      "texto": "Argamassa que seca depressa fica fraca. Proteja do sol e do vento com pano de saco úmido e borrife água nos primeiros dias, mantendo a superfície úmida sem encharcar.\n\nArgamassa de cal pura é mais sensível: não aplique abaixo de 5 °C e proteja do frio intenso até ela endurecer."
+    },
+    {
+      "titulo": "Prepare a tinta de cal (caiação)",
+      "texto": "Uma receita testada por pesquisadores da UFPA, adaptada de receitas tradicionais brasileiras: 100 g de cal hidratada, 500 ml de água, 10 ml de óleo de linhaça e 20 ml de cola branca (PVA) como fixador. Em escala: 1 kg de cal, 5 litros de água, 100 ml de óleo de linhaça e 200 ml de cola.\n\nDissolva a cola na água, junte a cal e mexa até virar um creme fino; acrescente o óleo de linhaça e coe num pano. Para cor, a receita usa 10 g de argila vermelha peneirada para cada 100 g de cal.\n\nAplique 3 demãos com trincha macia: a primeira bem rala e sem pigmento, para impregnar a parede; as outras só depois de a anterior secar, cruzando o sentido das pinceladas.",
+      "dicas": [
+        "Historicamente também se usaram sebo, leite, sangue e óleo de linhaça como aditivos, mas o benefício de vários deles é incerto."
+      ],
+      "avisos": [
+        "A tinta de cal também é cáustica: use óculos e luvas, principalmente ao pintar teto."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Guia de Construções Rurais à base de cimento, fascículo 2 — ABCP",
+      "url": "https://www.esalq.usp.br/departamentos/leb/kesia/intranet/Guia_de_Construcoes_Rurais_2_2015.pdf"
+    },
+    {
+      "titulo": "Lime-based restoration paints with PVA and native latex — Ambiente Construído (SciELO)",
+      "url": "https://scielo.br/j/ac/a/BP3nkz7H53tpBKdy4ZV6sRz/?lang=en"
+    },
+    {
+      "titulo": "Guidance Note: Lime Mortars and Renders — Shetland Islands Council",
+      "url": "https://www.shetland.gov.uk/downloads/file/2116/advice-note-13-lime-mortars-and-renders"
+    },
+    {
+      "titulo": "Lime mortar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lime_mortar"
+    },
+    {
+      "titulo": "Preventing Skin Problems from Working with Portland Cement — OSHA",
+      "url": "https://osha.gov/sites/default/files/publications/OSHA-3351-portland-cement.pdf"
+    }
+  ]
+}

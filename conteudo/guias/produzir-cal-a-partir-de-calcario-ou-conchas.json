@@ -1,0 +1,105 @@
+{
+  "id": "produzir-cal-a-partir-de-calcario-ou-conchas",
+  "titulo": "Como produzir cal virgem a partir de calcário ou conchas",
+  "resumo": "Queima de calcário ou conchas a 900–1000 °C, como saber se queimou, extinção segura da cal virgem e preparo da pasta de cal para argamassa e caiação.",
+  "categoria": "materiais-de-construcao",
+  "tags": [
+    "cal virgem",
+    "cal viva",
+    "cal hidratada",
+    "pasta de cal",
+    "forno de cal",
+    "caieira",
+    "calcinação",
+    "conchas",
+    "apagar cal",
+    "queimar calcário"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Cal virgem é cáustica: queima a pele, principalmente úmida, e pode cegar. Ao receber água ela esquenta muito, espirra e pode pôr fogo em palha e madeira. Use sempre óculos de proteção, luvas, máscara e roupa que cubra braços e pernas, e mantenha crianças e animais longe. O forno aceso solta monóxido de carbono (CO), que não tem cheiro e mata: nunca se abrigue nem durma junto dele. Não tire conchas de sambaquis: são sítios arqueológicos protegidos por lei.",
+  "materiais": [
+    "Calcário ou conchas limpas (de descarte, nunca de sambaqui)",
+    "Lenha seca ou carvão vegetal em grande quantidade",
+    "Pedras ou tijolos para o forno, barro para vedar",
+    "Tambor, tanque de alvenaria ou caixa para extinguir a cal",
+    "Óculos de proteção, luvas, máscara contra pó, botas",
+    "Balde de água limpa e frasco para lavar os olhos",
+    "Peneira, pá de cabo longo, balança"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda a química",
+      "texto": "Calcário e conchas são basicamente carbonato de cálcio. No forno ele se decompõe: CaCO3 → CaO + CO2. A reação começa acima de cerca de 840 °C e costuma ser considerada a 900 °C; os fornos trabalham por volta de 1.000 °C para ela andar mais depressa. O resultado, CaO, é a cal virgem (ou cal viva).\n\nCalor demais estraga a cal: ela vira \"cal morta\" (requeimada), que quase não reage com água.\n\nNa extinção, a cal virgem reage com água e solta muito calor: CaO + H2O → Ca(OH)2, a cal hidratada (cal apagada). Depois de aplicada na parede, a cal hidratada absorve o CO2 do ar e volta a ser carbonato de cálcio (carbonatação): é assim que argamassa e caiação endurecem.\n\nConta útil: o CaCO3 perde 44% do peso na queima (CO2 que sai). 100 kg de calcário puro rendem no máximo cerca de 56 kg de cal virgem."
+    },
+    {
+      "titulo": "Escolha a matéria-prima",
+      "texto": "Use calcário o mais puro possível (pedra clara que não seja de areia nem de argila) ou conchas de ostras e mariscos de descarte de consumo ou de cultivo. Lave as conchas em água doce para tirar lama e sal.\n\nQuebre a pedra em pedaços de cerca de 2 a 6 cm: pedaços desse tamanho foram o padrão dos fornos tradicionais, e pedaços muito grandes ficam crus por dentro.",
+      "avisos": [
+        "Sambaquis (morros antigos de conchas no litoral e em rios) são sítios arqueológicos protegidos pela Lei nº 3.924/1961, criada justamente para impedir que fossem destruídos para fazer cal. Retirar material deles é proibido sem autorização do Iphan."
+      ]
+    },
+    {
+      "titulo": "Monte um forno simples",
+      "texto": "O forno mais simples é de queima intermitente: sobre uma grelha ou sobre túneis para o fogo, faça camadas alternadas de pedra e de combustível (lenha ou carvão), em forma de cúpula, até encher. Cerque com parede de pedra ou tijolo e vede as frestas com barro, deixando entrada de ar embaixo e saída de fumaça no alto.\n\nMonte ao ar livre, em lugar descampado, longe de casas, de palha e de mato seco. Use combustível seco: lenha úmida gasta calor só para secar.",
+      "dicas": [
+        "Carvão vegetal dá calor mais concentrado que lenha. Veja o guia de fazer carvão vegetal.",
+        "Faça primeiro uma queima pequena de teste e anote quanto combustível gastou: cada pedra e cada forno pedem uma quantidade diferente."
+      ]
+    },
+    {
+      "titulo": "Queime e deixe esfriar",
+      "texto": "Acenda por baixo e mantenha o fogo forte e constante. Como referência, um forno tradicional levava cerca de 3 dias de queima e mais 2 dias para esfriar antes de ser descarregado; fornos pequenos levam menos tempo, fornos grandes mais. O gasto de combustível é alto: fornos antigos queimavam meia tonelada de carvão mineral ou mais por tonelada de cal.\n\nSó descarregue com tudo frio, usando luvas, óculos e máscara: a cal virgem é um pó cáustico.",
+      "avisos": [
+        "Fornos de cal soltam CO e CO2. Já houve morte de quem dormiu junto a um forno de cal para se aquecer. Dor de cabeça, tontura ou náusea perto do forno: afaste-se para o ar livre na hora.",
+        "Guarde a cal virgem longe de qualquer umidade: o calor da reação com água pode causar incêndio."
+      ]
+    },
+    {
+      "titulo": "Confira se queimou",
+      "texto": "Pese algumas pedras antes e depois. Calcário bem queimado perde perto de 44% do peso: uma pedra de 1 kg deve sair com cerca de 560 g. Bem menos perda indica pedra crua por dentro.\n\nTeste prático: borrife um pouco de água num pedaço. Cal boa esquenta, solta vapor e se desfaz em pó branco. Pedaços que não esfarelam ou que mantêm um miolo duro estão crus (ou requeimados) e ficam retidos na peneira depois da extinção.\n\nPara comparar lotes, a Practical Action usa um teste de calor: moa 50 g de cal virgem, jogue em 170 ml de água dentro de uma garrafa térmica, mexa e anote a temperatura a cada minuto por 24 minutos. Quanto mais depressa e mais alto a temperatura sobe, mais reativa é a cal.",
+      "avisos": [
+        "Faça o teste com óculos e luvas, e longe do rosto: a mistura ferve e espirra."
+      ]
+    },
+    {
+      "titulo": "Extinga (apague) a cal com segurança",
+      "texto": "Faça ao ar livre ou num galpão bem aberto, com óculos, luvas e máscara, crianças e animais longe, e um balde de água limpa ao lado para lavar olhos e pele.\n\nColoque primeiro bastante água no tanque ou tambor e depois vá jogando a cal virgem aos poucos, mexendo com pá de cabo longo. Nunca jogue água sobre a cal virgem: ela espirra violentamente. Use água em excesso para obter pasta de cal (massa mole, como queijo cremoso). Quando a fervura parar, passe por peneira para tirar os pedaços crus.\n\nNão guarde cal virgem por muito tempo: ela estraga com a umidade do ar. Extinga logo e guarde como pasta.",
+      "avisos": [
+        "Cal no olho: lave imediatamente com muita água corrente e procure atendimento médico logo depois, mesmo que melhore.",
+        "Cal na pele: escove o pó seco e lave com muita água. Queimadura: procure atendimento."
+      ]
+    },
+    {
+      "titulo": "Envelheça a pasta de cal",
+      "texto": "Guarde a pasta num recipiente fechado, sempre coberta por uma lâmina de água para não endurecer em contato com o ar. Assim ela não estraga e melhora com o tempo.\n\nDeixe descansar pelo menos 2 semanas antes de usar; para argamassa e reboco de qualidade, o recomendado é no mínimo 90 dias. Pasta com mais de 12 meses pode ficar dura e difícil de trabalhar: basta bater bem antes do uso."
+    },
+    {
+      "titulo": "Use a cal",
+      "texto": "Argamassa e reboco: a pasta de cal com areia faz argamassa que respira e é flexível, boa para alvenaria de adobe, pedra e tijolo (veja o guia de argamassa e reboco de cal).\n\nCaiação: diluída em água, vira tinta de cal para paredes (receita no mesmo guia).\n\nCorreção de solo ácido: cal virgem e cal hidratada também corrigem a acidez do solo, mas a dose depende de análise de solo; peça orientação a um técnico agrícola ou à extensão rural."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Lime kiln — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lime_kiln"
+    },
+    {
+      "titulo": "Lei nº 3.924, de 26 de julho de 1961 (monumentos arqueológicos) — Planalto",
+      "url": "https://planalto.gov.br/ccivil_03/leis/1950-1969/L3924.htm"
+    },
+    {
+      "titulo": "Lime: health & safety — Low Impact",
+      "url": "https://www.lowimpact.org/posts/infoarticle/health-safety/"
+    },
+    {
+      "titulo": "Methods for testing lime in the field — Practical Action",
+      "url": "https://samplecontents.library.ph/en-practical_action/Construction/Cement%20and%20binders/KnO-100059_Methods%20for%20testing%20lime%20in%20the%20field/page2.html"
+    },
+    {
+      "titulo": "Technical Advice Guide: Mortar Specification — Scottish Lime Centre Trust",
+      "url": "https://scotlime.org/documents/17/Technical_Advice_Guide_Mortar_Specification.pdf"
+    }
+  ]
+}

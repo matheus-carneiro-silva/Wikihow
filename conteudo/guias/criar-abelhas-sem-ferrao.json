@@ -1,0 +1,110 @@
+{
+  "id": "criar-abelhas-sem-ferrao",
+  "titulo": "Como criar abelhas sem ferrão (jataí, mandaçaia, uruçu)",
+  "resumo": "Meliponicultura para iniciantes: espécie nativa da região, caixa racional, onde instalar, alimentação na seca, colheita e conservação do mel e regras do CONAMA.",
+  "categoria": "pequenas-criacoes",
+  "tags": [
+    "meliponicultura",
+    "abelha nativa",
+    "jataí",
+    "mandaçaia",
+    "uruçu",
+    "jandaíra",
+    "tiúba",
+    "mel",
+    "caixa racional",
+    "meliponário"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Crie só espécies nativas da sua região e nunca derrube árvores ou destrua ninhos para pegar colônias. Mel de abelha sem ferrão tem muita água e fermenta fácil: guarde na geladeira e não dê mel a crianças menores de 2 anos (risco de botulismo).",
+  "materiais": [
+    "Colônia de espécie nativa da região (de meliponário autorizado, ninho-isca ou resgate)",
+    "Caixa racional modular de madeira (fundo, ninho, sobreninho, melgueira e tampa)",
+    "Cavalete individual ou prateleira coberta",
+    "Fita adesiva de papel para vedar as juntas dos módulos",
+    "Açúcar (mascavo ou demerara, de preferência) para xarope",
+    "Seringas novas descartáveis, peneira fina e potes de vidro limpos"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha uma espécie nativa da sua região",
+      "texto": "Abelhas sem ferrão são dóceis, podem ficar perto de casa e exigem pouco tempo, por isso são boas para iniciantes. Mas cada espécie só pode ser criada na região onde ocorre naturalmente (consulte o Catálogo Nacional de Abelhas-Nativas-Sem-Ferrão, do ICMBio, ou a Emater).\n\nProdução aproximada de mel por colmeia por ano, segundo a Embrapa (estimativa de campo):\n\n• 3 a 4 L: tiúba, uruçu (Nordeste) e uruçu-boca-de-renda;\n• 2 a 3 L: mandaguari, tubuna, uruçu-amarela, tujuba, jupará;\n• 1 a 2 L: jandaíra e mandaçaia;\n• 0,5 a 1 L: jataí, manduri, guaraipo e marmelada;\n• menos de 0,5 L: mirim e iraí.\n\nA jataí produz pouco, mas aguenta bem ambientes alterados, como quintais na cidade. As do gênero Melipona (uruçu, mandaçaia, tiúba) dependem mais de mata conservada por perto.",
+      "dicas": [
+        "Evite criar perto de casa espécies agressivas que invadem outras colônias, como irapuá, caga-fogo e iratim."
+      ]
+    },
+    {
+      "titulo": "Conheça as regras (CONAMA 496/2020)",
+      "texto": "Pela Resolução CONAMA 496/2020:\n\n• a criação fica restrita à região de ocorrência natural da espécie (fora dela, só com autorização após análise de risco);\n• quem cria até 49 colônias sem exploração econômica está dispensado de autorização ambiental;\n• acima de 49 colônias, ou para vender, é preciso inscrição no Cadastro Técnico Federal (CTF/APP) e autorização ambiental.\n\nColônias só podem ser obtidas por ninho-isca (recipiente-isca), compra de meliponário autorizado, depósito pelo órgão ambiental ou resgate.\n\nTransportar colônias exige autorização do órgão ambiental e GTA, para qualquer criador e qualquer quantidade.",
+      "avisos": [
+        "Estados e municípios podem ter regras mais rígidas. Consulte o órgão ambiental estadual antes de começar."
+      ]
+    },
+    {
+      "titulo": "Use uma caixa racional modular",
+      "texto": "Prefira caixa modular, com fundo, ninho, sobreninho, uma ou duas melgueiras (onde as abelhas guardam o mel) e tampa. Não passe de 3 a 4 módulos: espaço vazio faz a colônia gastar energia e consumir o próprio mel.\n\nExemplo da Embrapa para mandaçaia: cada módulo com 15 × 15 cm de medida interna e 7,5 cm de altura; paredes de 2 cm de madeira + 1 cm de isopor + 2 cm de madeira (5 cm no total). Em região fria, a parede não deve ter menos de 3,5 cm.\n\nPara outras espécies, a regra é fazer a caixa 2 a 3 cm mais larga que o maior disco de cria da espécie. Abelhas menores, como a jataí, usam caixas menores.",
+      "dicas": [
+        "Use madeira seca, leve, sem cheiro e sem tratamento químico, de preferência de plantio da região.",
+        "Vede as juntas dos módulos com fita adesiva de papel e amarre a caixa ao suporte, para o vento ou animais não derrubarem."
+      ]
+    },
+    {
+      "titulo": "Instale o meliponário",
+      "texto": "Escolha um lugar com sombra, ventilado, protegido do vento e de furtos, perto de água limpa e de mata ou plantas floridas.\n\nColoque cada caixa em cavalete individual a cerca de 50 cm do chão. Distância entre caixas: no mínimo cerca de 50 cm; para jataí e mandaguari/tubuna, até 1,5 m, para evitar brigas; para abelhas grandes, até 3 m.\n\nFique longe de lixões, engenhos, fábricas de doces, chiqueiros, galinheiros e lavouras com agrotóxico. A Embrapa sugere 1.500 m de engenhos, estradas e currais quando o mel for vendido.",
+      "dicas": [
+        "Sombra pode ser de árvores, palha, telha ou sombrite acima de 80%. Telha de fibrocimento esquenta: pinte de branco por cima."
+      ],
+      "avisos": [
+        "Não use telha de amianto: o material causa câncer e doenças no pulmão."
+      ]
+    },
+    {
+      "titulo": "Revise as colônias todo mês",
+      "texto": "A cada 30 dias, abra com calma e confira: cria e rainha, potes de alimento, umidade, lixo e invasores. Retire lixo, discos de cria mortos, material mofado e potes de pólen abertos ou fermentados (eles atraem forídeos, pequenas moscas que destroem colônias). Se houver água acumulada dentro, seque com pano ou papel-toalha.\n\nNa florada, acrescente sobreninho e melgueira. Na seca ou no frio, reduza o espaço para a colônia manter a temperatura."
+    },
+    {
+      "titulo": "Alimente só na época de escassez",
+      "texto": "Alimento complementar serve para manter a colônia forte quando faltam flores, e não para produzir mel. Dê quando houver poucos potes de mel ou pólen.\n\nXarope: 1 kg de açúcar em 1 L de água fervente; mexa, deixe esfriar. Muitas espécies aceitam melhor xarope mais diluído. Açúcar mascavo ou demerara é melhor que o refinado.\n\nQuantidade por colmeia em cada oferta:\n\n• 30 a 50 mL para abelhas grandes (uruçu, tiúba);\n• 15 a 20 mL para médias (mandaçaia, jandaíra);\n• 5 a 10 mL para pequenas (jataí).\n\nDê no fim da tarde, num potinho limpo com algo que boie (pedaço de madeira ou tela), para as abelhas não se afogarem.",
+      "dicas": [
+        "Pare de alimentar pelo menos 15 dias antes da florada e retire o mel guardado no período de alimentação, para não misturar com o mel verdadeiro."
+      ],
+      "avisos": [
+        "Xarope estraga e atrai formigas e abelhas saqueadoras: dê só o que for consumido e suspenda se aparecer saque. Não compre pólen de outras regiões, que pode trazer doenças."
+      ]
+    },
+    {
+      "titulo": "Colha o mel com higiene",
+      "texto": "Colha só dos potes fechados da melgueira. Deixe o mel do ninho e do sobreninho como reserva da colônia. Não colha o líquido muito claro e ralo dos potes abertos: é néctar ainda não maduro.\n\nEm pequena escala, abra o pote e puxe o mel com seringa nova descartável (ou bomba de sucção lenta, para não fazer espuma). Use luvas e jaleco, mãos limpas e mesa limpa. Evite colher em dias de chuva ou com umidade do ar acima de 60%, porque o mel absorve água.\n\nPasse por peneira fina, deixe decantar e envase em pote próprio para alimento, nunca reaproveitado de outro produto.",
+      "avisos": [
+        "Não fure os potes deixando o mel escorrer pela caixa: isso contamina o produto."
+      ]
+    },
+    {
+      "titulo": "Conserve o mel para não fermentar",
+      "texto": "O mel das abelhas sem ferrão tem muito mais água que o da abelha europeia e fermenta com facilidade. Sinais: espuma no pote, gosto muito azedo e, se consumido, sensação de tontura (álcool da fermentação).\n\nMel in natura (sem processamento) deve ficar na geladeira, entre 4 °C e 8 °C. Durante a colheita no campo, leve os potes numa caixa de isopor com gelo.\n\nMel maturado, pasteurizado ou desidratado pode ficar em temperatura ambiente, mas esses processos exigem técnica e equipamento; peça orientação à Emater.",
+      "avisos": [
+        "Não dê mel (de nenhuma abelha) a crianças menores de 2 anos: risco de botulismo."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Meliponicultura: o produtor pergunta, a Embrapa responde (Coleção 500 Perguntas, 2024)",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/275492/1/500P500R-Meliponicultura.pdf"
+    },
+    {
+      "titulo": "Manejo de colônias de abelhas-sem-ferrão — Embrapa Meio-Norte, Documentos 219",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/977102/1/CT219.pdf"
+    },
+    {
+      "titulo": "Modelos de colmeias racionais para a criação de mandaçaia — Embrapa Florestas, Comunicado Técnico 383",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1053592/1/CT383GuilhermeSchuhli.pdf"
+    },
+    {
+      "titulo": "Botulismo — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/b/botulismo"
+    }
+  ]
+}

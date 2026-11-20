@@ -1,0 +1,92 @@
+{
+  "id": "fazer-tijolos-de-adobe-e-solo-cimento",
+  "titulo": "Como fazer tijolos de adobe e de solo-cimento",
+  "resumo": "Testes caseiros do solo, adobe de barro com palha secado à sombra, tijolo de solo-cimento prensado com cura de 7 dias e proteção das paredes contra a chuva.",
+  "categoria": "materiais-de-construcao",
+  "tags": [
+    "tijolo",
+    "adobe",
+    "barro",
+    "terra crua",
+    "solo-cimento",
+    "tijolo ecológico",
+    "prensa manual",
+    "teste do vidro",
+    "bioconstrução"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Adobe e solo-cimento servem para paredes de construções simples e térreas. Sobrado, laje, caixa d'água sobre a parede, muro de arrimo ou parede que segure outra estrutura exigem projeto de engenheiro ou arquiteto. Cimento molhado queima a pele e os olhos: use luvas e óculos.",
+  "materiais": [
+    "Pote de vidro transparente com tampa",
+    "Peneira de malha de 4 a 6 mm",
+    "Formas de madeira (fôrmas) para adobe",
+    "Palha seca picada ou capim seco",
+    "Cimento Portland e prensa manual (para solo-cimento)",
+    "Lata de 18 litros, regador com crivo, pá e enxada",
+    "Lona para cobrir os tijolos"
+  ],
+  "passos": [
+    {
+      "titulo": "Pegue o solo certo",
+      "texto": "Descarte a camada de cima do terreno, escura e cheia de raízes: matéria orgânica estraga o tijolo. Retire o solo de baixo e tire galhos, folhas e pedras.\n\nPara adobe, o solo bom é arenoso com alguma argila: pelo menos 50% de areia e no máximo 30% de argila. Solo argiloso demais encolhe e racha muito ao secar. Para solo-cimento vale a mesma regra: areia pura não serve (não tem argila) e solo muito argiloso gasta mais cimento e é difícil de misturar e compactar."
+    },
+    {
+      "titulo": "Faça o teste do vidro",
+      "texto": "Ponha o solo peneirado num pote de vidro, complete com água até o topo, tampe e agite por 2 a 3 minutos. Deixe descansar pelo menos 1 hora.\n\nA areia afunda primeiro e fica no fundo; por cima fica o silte; a argila é a última camada, a mais fina, e assenta devagar. Meça a altura de cada camada com régua e calcule a porcentagem de cada uma em relação ao total."
+    },
+    {
+      "titulo": "Faça o teste de retração",
+      "texto": "Peneire o solo (malha de 4 a 6 mm), molhe aos poucos até ficar como massa de assentar tijolo (começa a grudar na colher) e encha uma caixa de madeira comprida, untada com óleo, sem deixar vazios. Guarde à sombra e protegida da chuva por 7 dias.\n\nDepois meça a folga que abriu nas pontas. Numa forma de 30 cm, o solo serve para tijolo se encolher menos de 2 cm (menos de 7%) e não trincar. No teste padrão da ABCP para solo-cimento, a soma das folgas das duas pontas não pode passar de 2 cm, sem trincas.",
+      "dicas": [
+        "Faça um lote de teste de tijolos com o seu solo bem antes da produção (a extensão rural do Novo México recomenda 6 meses antes) e veja como eles aguentam o tempo."
+      ]
+    },
+    {
+      "titulo": "Molde os adobes",
+      "texto": "Cave um buraco de cerca de 60 cm de fundo, encha com o solo e água e deixe encharcar por pelo menos 12 horas. Misture (com os pés ou enxada) acrescentando só a água necessária para uma massa firme, que não escorra.\n\nA palha picada não aumenta a resistência, mas ajuda o tijolo a encolher sem rachar; se o solo já tem areia suficiente, ela é dispensável.\n\nMolhe a fôrma, encha bem com a massa, alise o topo e desenforme no chão plano e limpo. Um tamanho prático é cerca de 10 × 25 × 36 cm, que pesa de 16 a 18 kg: dá para manusear sozinho."
+    },
+    {
+      "titulo": "Seque o adobe devagar",
+      "texto": "Deixe os adobes deitados, sem mexer, por pelo menos 3 dias. Depois de alguns dias, vire-os de lado para secar por igual. Não manuseie com força antes de 3 a 4 semanas, dependendo do tempo.\n\nSeque devagar, à sombra ou protegido do sol forte e do vento: secagem rápida racha o tijolo. Se costuma chover, empilhe os adobes meio secos em pilhas folgadas e cubra com lona."
+    },
+    {
+      "titulo": "Faça tijolos de solo-cimento",
+      "texto": "Traço padrão da ABCP para pequenas obras: 1 parte de cimento para 12 partes de solo arenoso aprovado no teste de retração (em latas de 18 litros).\n\nEspalhe o solo peneirado numa camada de 20 a 30 cm sobre um piso liso, jogue o cimento e revolva até a cor ficar uniforme. Molhe aos poucos com regador de crivo e misture de novo, até virar uma \"farofa úmida\". Betoneira não serve para essa mistura.\n\nTeste da água: aperte um punhado com força. O bolo deve guardar a marca nítida dos dedos (sem marca = falta água). Solte-o de cerca de 1 metro: deve esfarelar no chão (se não esfarelar, há água demais; espalhe para secar um pouco).\n\nUse a mistura em no máximo 2 horas. Uma prensa manual (menos de 150 kg) faz da ordem de 1.500 tijolos maciços por dia."
+    },
+    {
+      "titulo": "Cure o solo-cimento por 7 dias",
+      "texto": "Logo após a prensagem, tire os tijolos com cuidado e empilhe em lugar protegido do sol e do vento, em pilhas de no máximo 1,5 m. Molhe as pilhas pelo menos 3 vezes ao dia durante os primeiros 7 dias. Depois dessa cura, estão prontos para uso."
+    },
+    {
+      "titulo": "Proteja as paredes da água",
+      "texto": "Tijolo de terra crua só dura se a água não chegar nele. Faça a parede sobre uma base (alicerce) de pedra, tijolo queimado ou concreto, alta o suficiente para os respingos da chuva e a umidade do chão não alcançarem o adobe. Use telhado com beirais largos e reboque as paredes externas (veja o guia de argamassa e reboco de cal).\n\nReboco liso, sem frestas, também é proteção de saúde: o barbeiro, transmissor da doença de Chagas, se esconde em rachaduras e buracos de paredes de barro sem reboco.",
+      "avisos": [
+        "Paredes de adobe não aguentam enchente nem água empoçada no pé da parede: não construa em área que alaga."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "ABCs of Making Adobe Bricks (Guide G-521) — New Mexico State University",
+      "url": "https://pubs.nmsu.edu/_g/G521/index.html"
+    },
+    {
+      "titulo": "Guia de Construções Rurais à base de cimento, fascículo 2 — ABCP",
+      "url": "https://www.esalq.usp.br/departamentos/leb/kesia/intranet/Guia_de_Construcoes_Rurais_2_2015.pdf"
+    },
+    {
+      "titulo": "Burnt-clay bricks (testes de solo) — FAO",
+      "url": "https://www.fao.org/4/S1250E/S1250E07.htm"
+    },
+    {
+      "titulo": "Ten rules for energy efficient, cost effective brick firing — Practical Action",
+      "url": "https://kolibri.teacherinabox.org.au/modules/en-practical_action/Construction/Clay%20bricks/KnO-100103_Ten%20rules%20for%20energy%20efficient%20cost%20effective%20brick%20firing.pdf"
+    },
+    {
+      "titulo": "Doença de Chagas — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/especiais/especial-cidadania/doenca-de-chagas"
+    }
+  ]
+}
