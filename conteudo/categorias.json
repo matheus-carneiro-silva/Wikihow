@@ -103,5 +103,25 @@
     "id": "metais-e-forja",
     "nome": "Metais e forja",
     "descricao": "Carvão vegetal, identificação de metais, fundição e tratamento térmico"
+  },
+  {
+    "id": "preparacao-e-emergencia",
+    "nome": "Preparação e emergência",
+    "descricao": "Primeiras 72 horas, plano familiar e segurança da casa"
+  },
+  {
+    "id": "higiene-e-saude-publica",
+    "nome": "Higiene e saúde pública",
+    "descricao": "Sabão, higiene, prevenção de epidemias e controle de pragas urbanas"
+  },
+  {
+    "id": "fogo-e-cozinha",
+    "nome": "Fogo e cozinha",
+    "descricao": "Acender fogo, fogões eficientes, cozinhar sem gás e fazer pão"
+  },
+  {
+    "id": "comunicacao",
+    "nome": "Comunicação",
+    "descricao": "Rádio, radioamador e sinais de socorro"
   }
 ]
