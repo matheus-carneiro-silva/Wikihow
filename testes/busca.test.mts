@@ -22,7 +22,7 @@ const guias: Guia[] = [
   ], { tags: ['bebida'] }),
   guia('pao-caseiro', 'cozinha', 'Pão caseiro', 'Pão de fermentação natural feito em casa.', [
     { titulo: 'Misture a farinha', texto: 'Misture farinha, água e sal.' },
-    { titulo: 'Asse', texto: 'Asse no forno a 230 graus por 40 minutos.' },
+    { titulo: 'Asse', texto: 'Asse no forno a 230 graus. O tempo de forno é de 40 minutos.' },
   ]),
   guia('trocar-pneu', 'carro', 'Como trocar o pneu do carro', 'Troca do pneu furado pelo estepe.', [
     { titulo: 'Afrouxe os parafusos', texto: 'Com a chave de roda, afrouxe os parafusos antes de levantar o carro.' },
@@ -59,6 +59,8 @@ describe('normalização', () => {
     assert.equal(raiz('cafe'), raiz('café'));
     assert.equal(raiz('agua'), raiz('água'));
     assert.equal(raiz('geladeiras'), raiz('geladeira'));
+    assert.equal(raiz('troque'), raiz('trocar'));
+    assert.equal(raiz('coloque'), raiz('colocar'));
   });
 });
 
@@ -96,6 +98,24 @@ describe('busca', () => {
   it('não exige palavras genéricas como "fazer"', () => {
     assert.equal(primeiro('como fazer pão'), 'pao-caseiro');
     assert.equal(motor.buscar('como fazer pão').parcial, false);
+  });
+  it('ignora palavras de pergunta', () => {
+    assert.equal(primeiro('quanto tempo de forno pro pão'), 'pao-caseiro');
+    assert.equal(motor.buscar('quanto tempo de forno pro pão').parcial, false);
+    assert.equal(motor.buscar('onde está o macaco').parcial, false);
+  });
+  it('descarta resultados muito fracos', () => {
+    // "lave" quase igual a "levante" não deve aparecer junto da geladeira.
+    const r = motor.buscar('lave').resultados;
+    assert.deepEqual(r.map((x) => x.guia.id), ['limpar-geladeira']);
+  });
+  it('trecho prioriza termos que o título não mostra', () => {
+    const [r] = motor.buscar('geladeira bicarbonato').resultados;
+    assert.ok(r.trecho.partes.some((p) => p.destaque && p.texto === 'bicarbonato'));
+  });
+  it('mostra o resumo quando ele já tem o termo (mesmo em outro número)', () => {
+    const [r] = motor.buscar('pneus').resultados;
+    assert.equal(r.trecho.passo, undefined);
   });
   it('prioriza o título sobre o texto dos passos', () => {
     // "água" aparece no título de um passo do café e só no texto do pão.

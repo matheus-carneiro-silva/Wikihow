@@ -6,5 +6,9 @@
   ["celular", "smartphone", "telefone"],
   ["computador", "pc", "notebook"],
   ["carro", "automóvel", "veículo"],
-  ["entupida", "entupido", "entupimento"]
+  ["entupida", "entupido", "entupimento"],
+  ["estepe", "step"],
+  ["mancha", "nódoa"],
+  ["senha", "password"],
+  ["armazenamento", "memória"]
 ]

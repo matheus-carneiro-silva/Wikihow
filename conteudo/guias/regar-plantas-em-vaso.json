@@ -1,0 +1,37 @@
+{
+  "id": "regar-plantas-em-vaso",
+  "titulo": "Como regar plantas em vaso",
+  "resumo": "Saiba quando e quanto regar para não deixar a planta com sede nem apodrecer as raízes de tanta água.",
+  "categoria": "plantas",
+  "tags": ["rega", "vaso", "suculenta", "folhas amarelas", "raiz podre", "jardinagem"],
+  "dificuldade": "facil",
+  "tempoMinutos": 5,
+  "atualizadoEm": "2026-11-19",
+  "materiais": ["Regador", "Vaso com furo de drenagem", "Pratinho"],
+  "passos": [
+    {
+      "titulo": "Faça o teste do dedo",
+      "texto": "Enfie o dedo uns 2 a 3 cm na terra. Se estiver seca nessa profundidade, é hora de regar. Se ainda estiver úmida, espere mais um ou dois dias.",
+      "dicas": ["Regar pelo calendário fixo é o erro mais comum: a necessidade muda com o calor, a luz e o tamanho do vaso."]
+    },
+    {
+      "titulo": "Regue até escorrer",
+      "texto": "Despeje água devagar sobre a terra, em volta da planta, até ela começar a sair pelo furo do vaso. Assim a água chega às raízes do fundo.",
+      "avisos": ["Vaso sem furo de drenagem acumula água no fundo e apodrece as raízes."]
+    },
+    {
+      "titulo": "Esvazie o pratinho",
+      "texto": "Depois de uns 15 minutos, jogue fora a água que ficou no pratinho.",
+      "avisos": ["Água parada no pratinho encharca as raízes e vira criadouro do mosquito da dengue."]
+    },
+    {
+      "titulo": "Escolha o horário",
+      "texto": "Regue de manhã cedo ou no fim da tarde, quando o sol está mais fraco e a água não evapora tão rápido. Evite molhar as folhas no sol forte."
+    },
+    {
+      "titulo": "Ajuste para cada planta",
+      "texto": "Suculentas e cactos guardam água nas folhas e precisam de rega bem espaçada, só com a terra totalmente seca. Samambaias e plantas de folhas finas gostam de terra sempre levemente úmida.",
+      "dicas": ["Folhas amarelas e moles costumam indicar excesso de água. Folhas secas e quebradiças, falta de água."]
+    }
+  ]
+}

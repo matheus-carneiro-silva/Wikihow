@@ -42,13 +42,15 @@ export function tokenizar(texto: string): Token[] {
 
 /** "sem" e "não" mudam o sentido da busca ("sem glúten"), então ficam. */
 const MANTIDAS = new Set(['sem', 'nao']);
-const STOPWORDS = new Set(stopwords.map(normalizar).filter((p) => !MANTIDAS.has(p)));
+/** Palavras de pergunta e formas coloquiais que a lista padrão não tem. */
+const STOPWORDS_EXTRAS = ['quanto', 'quanta', 'quantos', 'quantas', 'onde', 'porque', 'pq', 'pra', 'pras', 'pro', 'pros', 'q', 'vc'];
+const STOPWORDS = new Set([...stopwords.map(normalizar).filter((p) => !MANTIDAS.has(p)), ...STOPWORDS_EXTRAS]);
 
 /**
  * Palavras genéricas de guias: não são exigidas na busca, só somam pontos.
  * "como fazer pão" encontra "Pão caseiro" mesmo sem a palavra "fazer".
  */
-const FRACAS = new Set(['fazer', 'faco', 'feito', 'usar', 'utilizar', 'guia', 'jeito', 'maneira', 'forma', 'modo', 'passo', 'dica', 'dicas']);
+const FRACAS = new Set(['fazer', 'faco', 'feito', 'usar', 'utilizar', 'guia', 'jeito', 'maneira', 'forma', 'modo', 'passo', 'dica', 'dicas', 'serve', 'servir']);
 
 /** Plurais que não devem perder o "s". */
 const INVARIAVEIS = new Set(['lapis', 'onibus', 'virus', 'tenis', 'pires', 'atlas', 'gas', 'pais', 'cais', 'mes', 'tres', 'bonus', 'oasis', 'freezer', 'gratis', 'simples']);
@@ -74,7 +76,8 @@ const cacheRaiz = new Map<string, string>();
 export function raiz(palavra: string): string {
   let r = cacheRaiz.get(palavra);
   if (r === undefined) {
-    r = normalizar(stemmer(singular(palavra)));
+    // "coloque" → "coloqu" vira "coloc", igual a "colocar" (troque/trocar, fique/ficar).
+    r = normalizar(stemmer(singular(palavra))).replace(/qu$/, 'c');
     cacheRaiz.set(palavra, r);
   }
   return r;
@@ -111,21 +114,30 @@ export function destacar(texto: string, termos: Iterable<string>): Parte[] {
   return partes;
 }
 
-/** Recorta uma janela do texto em volta do primeiro destaque. */
-function recortar(partes: Parte[], antes = 50, depois = 110): Parte[] {
+/**
+ * Recorta uma janela do texto em volta dos destaques. Escolhe a janela que
+ * reúne mais palavras distintas encontradas, somando `peso(palavra)` de cada.
+ */
+function recortar(partes: Parte[], antes = 50, depois = 110, peso: (palavra: string) => number = () => 1): Parte[] {
   const total = partes.reduce((n, p) => n + p.texto.length, 0);
+  const destaques: { pos: number; palavra: string }[] = [];
   let pos = 0;
-  let primeiro = -1;
   for (const p of partes) {
-    if (p.destaque) {
-      primeiro = pos;
-      break;
-    }
+    if (p.destaque) destaques.push({ pos, palavra: normalizar(p.texto) });
     pos += p.texto.length;
   }
-  if (primeiro < 0) primeiro = 0;
-  let ini = Math.max(0, primeiro - antes);
-  let fim = Math.min(total, primeiro + depois);
+  let ancora = destaques[0]?.pos ?? 0;
+  let melhor = -1;
+  for (const d of destaques) {
+    const dentro = new Set(destaques.filter((o) => o.pos >= d.pos - antes && o.pos < d.pos + depois).map((o) => o.palavra));
+    const valor = [...dentro].reduce((n, w) => n + peso(w), 0);
+    if (valor > melhor) {
+      melhor = valor;
+      ancora = d.pos;
+    }
+  }
+  let ini = Math.max(0, ancora - antes);
+  let fim = Math.min(total, ancora + depois);
   const texto = partes.map((p) => p.texto).join('');
   if (ini > 0) ini = texto.indexOf(' ', ini) + 1 || ini; // não corta palavra
   if (fim < total) fim = texto.lastIndexOf(' ', fim) > ini ? texto.lastIndexOf(' ', fim) : fim;
@@ -193,6 +205,10 @@ const PESOS_GUIA = {
   passosTitulos: 1.5,
   passosTexto: 1,
 };
+
+/** Resultados abaixo desta fração da pontuação do primeiro são descartados. */
+const CORTE = 0.08;
+const CORTE_PARCIAL = 0.15;
 
 const indexar = (texto: string) => tokenizar(texto).flatMap((t) => formas(t.palavra));
 
@@ -329,6 +345,13 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
         .sort((a, b) => b.score - a.score);
     }
 
+    // Corta a cauda de resultados fracos (em geral, só um "quase igual" por
+    // tolerância a erro, como "senão" para "senha").
+    if (principais.length) {
+      const minimo = principais[0].score * (parcial ? CORTE_PARCIAL : CORTE);
+      principais = principais.filter((r) => r.score >= minimo);
+    }
+
     const todasQueries = [...fortes, ...fracas];
     const resultados = principais.slice(0, limite).map((r): ResultadoBusca => {
       const guia = porId.get(r.id as string)!;
@@ -343,13 +366,15 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
 
       const titulo = destacar(guia.titulo, termos);
       const resumo = destacar(guia.resumo, termos);
-      const cobertos = new Set(
+      // Termos já visíveis no título ou no resumo (comparando pelo radical).
+      const formasVisiveis = new Set(
         [...tokenizar(guia.titulo), ...tokenizar(guia.resumo)].flatMap((t) => formas(t.palavra)),
       );
+      const visivel = (termo: string) => formasVisiveis.has(termo) || formasVisiveis.has(raiz(termo));
       const melhor = passos[0];
       let trecho: Trecho = { partes: resumo };
       // Mostra o passo quando ele traz algo que título e resumo não mostram.
-      if (melhor && (melhor.terms.some((t) => !cobertos.has(t)) || !resumo.some((p) => p.destaque))) {
+      if (melhor && (melhor.terms.some((t) => !visivel(t)) || !resumo.some((p) => p.destaque))) {
         const passo = guia.passos[melhor.indice as number];
         // Trecho em uma linha só: parágrafos viram espaços.
         const corpo = [passo.texto, ...(passo.dicas ?? []), ...(passo.avisos ?? [])].join(' ').replace(/\s+/g, ' ');
@@ -358,7 +383,8 @@ export function criarMotorDeBusca(guias: Guia[], categorias: Categoria[], sinoni
           passo: melhor.indice as number,
           rotulo: [{ texto: `Passo ${(melhor.indice as number) + 1}: `, destaque: false }, ...destacar(passo.titulo, termos)],
           // Sem destaque no corpo (casou só o título do passo): mostra o início.
-          partes: recortar(partesCorpo, partesCorpo.some((p) => p.destaque) ? 50 : 0),
+          // Prioriza a janela com termos que o título e o resumo não mostram.
+          partes: recortar(partesCorpo, partesCorpo.some((p) => p.destaque) ? 50 : 0, 110, (w) => (visivel(w) ? 1 : 3)),
         };
       }
 

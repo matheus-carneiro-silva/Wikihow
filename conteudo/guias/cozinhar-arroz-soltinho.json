@@ -1,0 +1,40 @@
+{
+  "id": "cozinhar-arroz-soltinho",
+  "titulo": "Como cozinhar arroz soltinho",
+  "resumo": "Arroz branco refogado, na proporção certa de água, que fica soltinho e sem grudar na panela.",
+  "categoria": "cozinha",
+  "tags": ["arroz branco", "agulhinha", "acompanhamento", "panela"],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-18",
+  "materiais": ["1 xícara de arroz branco tipo 1 (agulhinha)", "2 xícaras de água quente", "1 colher de sopa de óleo", "1 dente de alho picado", "Sal a gosto", "Panela com tampa"],
+  "passos": [
+    {
+      "titulo": "Aqueça a água",
+      "texto": "Coloque as 2 xícaras de água para ferver numa chaleira enquanto prepara o refogado.",
+      "dicas": ["Água já quente ajuda os grãos a cozinharem por igual e deixa o arroz mais solto."]
+    },
+    {
+      "titulo": "Refogue o alho",
+      "texto": "Aqueça o óleo na panela em fogo médio e doure o alho por cerca de 1 minuto, mexendo sempre.",
+      "avisos": ["Alho queimado deixa o arroz amargo: tire do fogo assim que ficar levemente dourado."]
+    },
+    {
+      "titulo": "Refogue o arroz",
+      "texto": "Junte o arroz cru e mexa por 2 a 3 minutos, até os grãos ficarem esbranquiçados e soltos no fundo da panela.\n\nNão é preciso lavar o arroz tipo 1 vendido em pacote."
+    },
+    {
+      "titulo": "Adicione a água e o sal",
+      "texto": "Despeje a água quente, acerte o sal e mexa uma única vez. Deixe ferver em fogo alto até a água baixar ao nível dos grãos."
+    },
+    {
+      "titulo": "Cozinhe tampado em fogo baixo",
+      "texto": "Abaixe o fogo ao mínimo, tampe a panela e cozinhe por cerca de 15 minutos, sem mexer.",
+      "avisos": ["Não mexa o arroz durante o cozimento: isso solta o amido e deixa os grãos grudados."]
+    },
+    {
+      "titulo": "Deixe descansar",
+      "texto": "Desligue o fogo e mantenha a panela tampada por 5 minutos. Depois, solte os grãos com um garfo antes de servir."
+    }
+  ]
+}

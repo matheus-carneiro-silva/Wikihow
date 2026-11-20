@@ -1,0 +1,38 @@
+{
+  "id": "limpar-geladeira",
+  "titulo": "Como limpar a geladeira",
+  "resumo": "Limpeza completa da geladeira por dentro, com prateleiras, gavetas e borracha da porta, e sem produtos agressivos.",
+  "categoria": "casa",
+  "tags": ["refrigerador", "mau cheiro", "bicarbonato", "higienizar"],
+  "dificuldade": "facil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-15",
+  "materiais": ["Bicarbonato de sódio", "Detergente neutro", "Esponja macia", "Panos limpos", "Caixa térmica ou bolsa térmica"],
+  "passos": [
+    {
+      "titulo": "Desligue e esvazie",
+      "texto": "Tire a geladeira da tomada e retire todos os alimentos. Guarde o que precisa ficar gelado numa caixa térmica.\n\nAproveite para jogar fora o que estiver vencido.",
+      "avisos": ["Nunca limpe a geladeira ligada na tomada."]
+    },
+    {
+      "titulo": "Lave prateleiras e gavetas",
+      "texto": "Retire as partes removíveis e lave na pia com água morna e detergente neutro. Seque bem antes de recolocar.",
+      "avisos": ["Vidro gelado pode trincar com água quente: espere as prateleiras chegarem à temperatura ambiente."]
+    },
+    {
+      "titulo": "Limpe o interior",
+      "texto": "Misture 1 colher de sopa de bicarbonato em 1 litro de água morna. Passe com a esponja macia nas paredes, no fundo e na porta, e depois um pano úmido só com água.",
+      "dicas": ["O bicarbonato limpa e tira cheiros sem deixar odor de produto nos alimentos."],
+      "avisos": ["Não use palha de aço, álcool ou água sanitária: eles riscam e ressecam o plástico interno."]
+    },
+    {
+      "titulo": "Limpe a borracha da porta",
+      "texto": "Passe a esponja com a mesma mistura nas dobras da borracha de vedação e seque com um pano. Sujeira ali impede a porta de fechar direito e faz a geladeira gastar mais energia."
+    },
+    {
+      "titulo": "Seque e religue",
+      "texto": "Seque todo o interior com um pano limpo, recoloque prateleiras e gavetas e ligue a geladeira. Espere ela gelar por cerca de 1 hora antes de guardar os alimentos.",
+      "dicas": ["Um pote aberto com bicarbonato numa prateleira ajuda a evitar mau cheiro. Troque a cada três meses."]
+    }
+  ]
+}
