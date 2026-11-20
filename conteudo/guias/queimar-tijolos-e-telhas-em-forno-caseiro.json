@@ -1,0 +1,93 @@
+{
+  "id": "queimar-tijolos-e-telhas-em-forno-caseiro",
+  "titulo": "Como queimar tijolos e telhas em forno caseiro",
+  "resumo": "Argila certa, moldagem, secagem completa, caieira de campanha, curva de queima até 900–1000 °C, resfriamento lento e teste de absorção de água.",
+  "categoria": "materiais-de-construcao",
+  "tags": [
+    "tijolo",
+    "telha",
+    "olaria",
+    "caieira",
+    "forno de tijolo",
+    "tijolo queimado",
+    "tijolo maciço",
+    "cerâmica",
+    "barro",
+    "argila"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A queima dura dias com fogo forte e libera monóxido de carbono (CO), que não tem cheiro nem cor e mata em minutos. Monte o forno ao ar livre, longe de casas, mato seco e palha, e nunca durma ou se abrigue perto dele. Tijolo com água por dentro pode estourar no forno. Tenha água e terra para conter fogo e use luvas grossas e botas.",
+  "materiais": [
+    "Argila ou barro de olaria e areia",
+    "Fôrmas de madeira e arco de arame para cortar",
+    "Galpão ou cobertura para secagem",
+    "Tijolos secos (crus) e tijolos queimados para as paredes externas",
+    "Barro para vedar o forno",
+    "Lenha seca e grossa (ou carvão), toda separada antes de acender",
+    "Balança e balde para o teste de absorção"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha e teste a argila",
+      "texto": "O solo bom para tijolo queimado tem de 25% a 50% de argila e silte e de 50% a 75% de material mais grosso (areia), que você mede com o teste do vidro (veja o guia de adobe e solo-cimento).\n\nTeste do rolinho: role um cilindro de barro úmido de 1 cm de grossura e deixe pender pela ponta; o pedaço que se solta deve ter de 5 a 15 cm. Teste de retração: numa forma de 30 cm, o barro deve encolher menos de 7% (menos de 2 cm) ao secar. Se rachar ao secar, junte areia."
+    },
+    {
+      "titulo": "Molde tijolos e telhas",
+      "texto": "Junte água aos poucos até o barro ficar plástico. Polvilhe areia na fôrma antes de cada peça, jogue com força um bolo de barro um pouco maior que a fôrma e raspe o excesso com um arco de arame ou régua.\n\nLembre que o tijolo encolhe ao secar e mais até 10% na queima: faça a fôrma maior que o tamanho final desejado."
+    },
+    {
+      "titulo": "Seque tudo completamente",
+      "texto": "Deixe as peças secando no lugar por cerca de 3 dias e depois empilhe-as soltas, protegidas da chuva, por pelo menos mais 1 semana. Seque devagar: sol forte e vento causam trincas e empenamento.\n\nPara saber se secou, quebre uma peça: por dentro a cor deve ser igual à de fora, sem miolo mais escuro e úmido.\n\nPor que isso importa: um tijolo recém-moldado pode ter cerca de um quarto do peso em água. No forno, essa água vira vapor de repente e racha ou até explode o tijolo. E secar no forno gasta combustível à toa.",
+      "avisos": [
+        "Nunca leve ao forno peça ainda úmida. Ela pode estourar e lançar estilhaços."
+      ]
+    },
+    {
+      "titulo": "Monte a caieira (forno de campanha)",
+      "texto": "Empilhe os tijolos secos com pequenos espaços entre eles para o calor e os gases passarem, deixando túneis na base para a lenha. Revista as laterais e o topo com uma camada grossa de barro (ou use tijolos já queimados na parede externa), deixando saídas para a fumaça no alto.\n\nRegras da Practical Action para gastar menos lenha: forno maior e de base quadrada perde menos calor que um pequeno ou comprido; lenha grossa, densa e seca rende mais que galhos finos e verdes; proteja o forno do vento com uma barreira.\n\nSepare toda a lenha antes de acender: deixar o fogo morrer no meio da queima pode perder a fornada inteira.",
+      "dicas": [
+        "Anote quanta lenha gastou em cada queima e o resultado. É o único jeito de saber quanto o seu forno e a sua argila pedem. Como referência, uma oleira no Peru gastava 0,4 tonelada de carvão mineral para cada 1.000 tijolos de 23 × 11 × 7 cm."
+      ]
+    },
+    {
+      "titulo": "Siga a curva de temperatura",
+      "texto": "1. Aquecimento lento (\"esquenta\"): fogo baixo e constante até não sair mais vapor pelo topo. Num forno grande (40 mil tijolos) isso leva 2 a 3 dias; fornos pequenos, menos.\n\n2. Fogo forte: aumente aos poucos, sem deixar a temperatura cair, até os tijolos do topo ficarem em brasa. O vermelho-cereja corresponde a cerca de 875 a 900 °C. Num forno grande isso leva de 4 a 6 dias; com lenha, uma queima pequena costuma durar de 4 a 5 dias no total.\n\n3. Patamar: mantenha esse calor por várias horas (cerca de 6 horas, ou até um dia em forno grande, com o topo fechado) para a queima chegar ao miolo.\n\nA ligação cerâmica que dá resistência se forma entre 900 e 1.200 °C, conforme a argila. Abaixo disso o tijolo fica fraco; muito acima ele deforma ou derrete.",
+      "avisos": [
+        "Subir a temperatura depressa racha as peças.",
+        "Dor de cabeça, tontura, náusea ou sonolência perto do forno indicam monóxido de carbono: vá para o ar livre na hora e peça ajuda (SAMU 192)."
+      ]
+    },
+    {
+      "titulo": "Deixe esfriar devagar",
+      "texto": "Terminada a queima, feche todas as entradas de ar e deixe o forno esfriar sozinho. Um forno grande pode levar 1 a 2 semanas até dar para abrir; um pequeno, menos. Não abra antes da hora."
+    },
+    {
+      "titulo": "Avalie a queima",
+      "texto": "Separe as peças trincadas, empenadas ou com manchas e cor muito diferente da maioria.\n\nTeste de absorção de água: seque bem alguns tijolos e pese (peso seco). Deixe-os 24 horas mergulhados em água, enxugue a superfície e pese de novo (peso úmido). Absorção (%) = (peso úmido − peso seco) ÷ peso seco × 100. A norma brasileira NBR 15270 exige de 8% a 22% para blocos cerâmicos de vedação. Exemplo: seco 2,50 kg, úmido 2,95 kg → 18%, dentro da faixa. Acima de 22%, a peça está mal queimada ou porosa demais."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Burnt-clay bricks — FAO",
+      "url": "https://www.fao.org/4/S1250E/S1250E07.htm"
+    },
+    {
+      "titulo": "Ten rules for energy efficient, cost effective brick firing — Practical Action",
+      "url": "https://kolibri.teacherinabox.org.au/modules/en-practical_action/Construction/Clay%20bricks/KnO-100103_Ten%20rules%20for%20energy%20efficient%20cost%20effective%20brick%20firing.pdf"
+    },
+    {
+      "titulo": "Estudo do processo de secagem de tijolos verdes feitos de argila — Contecc 2021/Confea",
+      "url": "https://www.confea.org.br/midias/uploads-imce/Contecc2021/Qu%C3%ADmica/ESTUDO_DO_PROCESSO_DE_SECAGEM_DE_TIJOLOS_VERDES_FEITOS_DE_ARGILA.pdf"
+    },
+    {
+      "titulo": "Caracterização física e geométrica dos blocos cerâmicos de vedação (Uruaçu-GO) — Contecc 2019/Confea",
+      "url": "https://www.confea.org.br/midias/uploads-imce/Contecc2019/Civil/CARACTERIZA%C3%87%C3%83O%20FISICA%20E%20GEOMETRICA%20DOS%20BLOCOS%20CERAMICOS%20DE%20VEDA%C3%87%C3%83O%20COMERCIALIZADOS%20NA%20REGI%C3%83O%20DE%20URUA%C3%87U-GO.pdf"
+    },
+    {
+      "titulo": "Danger! Carbon Monoxide Hazard — CDC",
+      "url": "https://www.cdc.gov/nceh/multimedia/infographics/carbon_monoxide_danger.html"
+    }
+  ]
+}

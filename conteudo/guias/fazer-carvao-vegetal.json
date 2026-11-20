@@ -1,0 +1,94 @@
+{
+  "id": "fazer-carvao-vegetal",
+  "titulo": "Como fazer carvão vegetal",
+  "resumo": "Pirólise da madeira com pouco ar em tambor (retorta) ou meda de terra: sinais da fumaça, tempo, abafamento, rendimento e riscos de CO e incêndio.",
+  "categoria": "metais-e-forja",
+  "tags": [
+    "carvão",
+    "carvoaria",
+    "pirólise",
+    "carbonização",
+    "lenha",
+    "forja",
+    "caieira",
+    "meda",
+    "retorta",
+    "combustível"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A queima libera monóxido de carbono (CO), que não tem cheiro e mata. Faça o carvão só ao ar livre, longe de casas e do mato seco, com água e areia à mão. Carvão aparentemente apagado reacende sozinho e uma meda ou cova em brasa pode desabar sob o peso de quem pisa nela: queimaduras graves ou fatais.",
+  "materiais": [
+    "Madeira seca, cortada em pedaços parecidos",
+    "Tambor ou lata metálica com tampa (método de retorta)",
+    "Palha, folhas ou capim e terra arenosa (método da meda)",
+    "Pá, enxada e tijolos ou pedras",
+    "Cerca de 100 a 200 litros de água e um monte de areia",
+    "Luvas de couro e óculos"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que acontece na madeira",
+      "texto": "Carvão é madeira aquecida com pouco oxigênio (pirólise), sem deixar que ela queime até virar cinza. Primeiro a água evapora (até 100 °C). Perto de 280 °C a madeira começa a se decompor sozinha, soltando vapor, alcatrão e gases inflamáveis, e esquenta por conta própria até cerca de 400 °C. Para um carvão bom, com cerca de 75% de carbono fixo, a FAO recomenda chegar a uns 500 °C.\n\nRendimento teórico, sobre madeira totalmente seca: 42% do peso a 300 °C e 33% a 500 °C. Na prática se perde muito mais: fornos simples rendem 20% a 25% (de 100 kg de madeira saem 20 a 25 kg de carvão)."
+    },
+    {
+      "titulo": "Escolha e seque a madeira",
+      "texto": "Use madeira o mais seca possível: madeira verde tem de 40% a 100% de água sobre o peso seco, e toda essa água consome calor e madeira para sair. Madeira seca ao ar fica com 12% a 18%. Deixe secar ao sol por semanas, coberta da chuva, e corte em pedaços de grossura parecida para carbonizarem juntos.\n\nRestos de poda, galhos de eucalipto ou pínus plantados e sobras de serraria limpas servem bem. Não use madeira pintada, envernizada ou tratada (postes, dormentes, compensado): solta fumaça tóxica.",
+      "avisos": [
+        "Lenha de espécie nativa só pode ser cortada, transportada e guardada com origem autorizada pelo órgão ambiental (IBAMA ou órgão estadual, com DOF). Use madeira plantada ou da sua propriedade, de origem legal."
+      ]
+    },
+    {
+      "titulo": "Método do tambor (retorta), para pequenas quantidades",
+      "texto": "É a versão caseira do reator que a Embrapa Florestas testou: a madeira fica num recipiente de aço fechado, aquecido por fora, e não pega fogo, só sofre pirólise. Os gases que saem são queimados para ajudar no aquecimento. No teste da Embrapa, esse tipo de reator rendeu cerca de 40% de carvão, contra 20% a 25% dos fornos comuns.\n\nEncha um tambor ou lata de aço com tampa com a madeira bem arrumada, feche e deixe só um furo pequeno para os gases saírem. Coloque-o deitado sobre uma fogueira ou dentro de uma fornalha de tijolos e mantenha o fogo por fora. O gás que sai pelo furo começa como fumaça branca (vapor) e depois fica inflamável e pega fogo, ajudando a aquecer. Quando a saída de gás para, a pirólise acabou: tire do fogo e tampe o furo com barro ou areia.",
+      "avisos": [
+        "Não use tambor que guardou combustível, solvente ou veneno, nem lata galvanizada: lave e queime-o vazio antes, ao ar livre."
+      ]
+    },
+    {
+      "titulo": "Método da meda (caieira de terra), para muita lenha",
+      "texto": "Uma meda típica tem cerca de 4 m de diâmetro na base e 1 a 1,5 m de altura. Empilhe a lenha bem junta em volta de um espaço central para acender, cubra com palha, folhas ou capim e depois com 10 a 20 cm de terra arenosa (argila muito plástica racha ao secar). Deixe de 6 a 10 entradas de ar na base e um furo no topo.\n\nAcenda jogando brasas e lenha em chamas pelo furo do topo. Fumaça branca e densa saindo em cima mostra que o fogo pegou. Nunca deve aparecer brasa vermelha pelas entradas de ar: onde aparecer, feche. Tape com terra solta as rachaduras e os buracos que se abrem conforme a meda afunda.",
+      "avisos": [
+        "Nunca suba nem pise numa meda ou cova em brasa: a cobertura cede e a queimadura pode ser fatal. Mantenha crianças e animais longe."
+      ]
+    },
+    {
+      "titulo": "Leia a fumaça e saiba quando parar",
+      "texto": "A fumaça muda conforme a carbonização avança: branca e densa no começo (vapor de água), depois azulada, e por fim quase transparente. A fumaça azul firme mostra que a carbonização está em andamento; quando ela fica quase incolor, terminou.\n\nNa meda isso leva alguns dias, e o tempo depende da umidade da lenha e de como o ar circula. Nesse ponto, feche o furo do topo e todas as entradas da base com tijolos ou pedras vedados com barro."
+    },
+    {
+      "titulo": "Abafe, esfrie e descarregue sem reacender",
+      "texto": "Deixe esfriar fechado e sem nenhuma entrada de ar. Uma meda pequena leva de 2 a 3 dias; fornos maiores, mais. Só abra quando a parede estiver morna ao toque (a FAO cita 60 a 70 °C), com a água por perto.\n\nAo descarregar, borrife água ou cubra com areia qualquer ponto que acenda. Deixe o carvão novo descansar ao ar livre por 2 dias, em montes de no máximo 1,5 m, antes de ensacar ou guardar, porque ele pode pegar fogo sozinho.",
+      "avisos": [
+        "Carvão quente também solta monóxido de carbono: descarregue com vento a favor e nunca guarde nem acenda carvão dentro de casa."
+      ]
+    },
+    {
+      "titulo": "Confira o rendimento e use",
+      "texto": "Em boa prática, a FAO aponta 1 tonelada de carvão para 4 toneladas de lenha seca ao ar numa meda; o mais comum é 1 para 6. Na escala caseira: 30 kg de lenha seca rendem algo entre 5 e 7,5 kg de carvão na meda.\n\nO carvão serve para forja (queima mais quente e limpo que lenha), fogão e churrasqueira. Ele não é carvão ativado: não use carvão comum como garantia de água segura, que continua precisando ser fervida ou desinfetada."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Simple technologies for charcoal making, cap. 2 — FAO",
+      "url": "https://www.fao.org/4/x5328e/x5328e05.htm"
+    },
+    {
+      "titulo": "Simple technologies for charcoal making: earth mound kilns — FAO",
+      "url": "https://www.fao.org/4/x5328e/x5328e07.htm"
+    },
+    {
+      "titulo": "Simple technologies for charcoal making: masonry kilns — FAO",
+      "url": "https://www.fao.org/4/x5328e/x5328e08.htm"
+    },
+    {
+      "titulo": "Construção de reator metálico para a carbonização de madeira (Comunicado Técnico 282) — Embrapa Florestas",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/909761/1/CT282.pdf"
+    },
+    {
+      "titulo": "Obter licença para o transporte e armazenamento de produtos florestais (DOF) — gov.br",
+      "url": "https://www.gov.br/pt-br/servicos/obter-licenca-para-o-transporte-e-o-armazenamento-de-produtos-e-subprodutos-florestais"
+    }
+  ]
+}
