@@ -1,0 +1,99 @@
+{
+  "id": "fundir-aluminio-reciclado",
+  "titulo": "Como fundir alumínio reciclado",
+  "resumo": "Fundição de sucata de alumínio em forno de cadinho a carvão: temperaturas, sucata boa e ruim, escória, molde de areia verde e o risco de explosão por umidade.",
+  "categoria": "metais-e-forja",
+  "tags": [
+    "fundição",
+    "fundir",
+    "derreter alumínio",
+    "sucata",
+    "cadinho",
+    "areia de fundição",
+    "molde",
+    "latinha",
+    "forno",
+    "metal fundido"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Umidade e metal fundido não se misturam: uma gota de água, sucata úmida, molde molhado ou piso de concreto viram vapor de uma vez e lançam metal a 700 °C longe — explosões de vapor são a principal causa de morte em fundições. Nunca jogue água em metal fundido ou em fogo de metal. Trabalhe só ao ar livre, sobre leito de areia seca, com equipamento de proteção e sem crianças por perto.",
+  "materiais": [
+    "Sucata de alumínio limpa e seca",
+    "Forno de cadinho a carvão com soprador de ar",
+    "Cadinho de grafite ou de aço grosso sem galvanização",
+    "Tenaz para cadinho e escumadeira de aço, secas",
+    "Areia, bentonita e caixas de moldagem",
+    "Leito e monte de areia seca, pá",
+    "Protetor facial de tela, óculos, avental e luvas de couro, botas de couro",
+    "Roupas de algodão de manga comprida"
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare o local e o equipamento de proteção",
+      "texto": "Escolha um lugar aberto, ventilado e livre de passagem: metal derramado escorre e espirra longe. Cubra toda a área de trabalho, inclusive o caminho entre o forno e o molde, com uma camada de areia seca de pelo menos 7,5 cm. Deixe um monte de areia seca e uma pá ao lado para abafar fogo e conter derramamentos.\n\nVista roupas de algodão ou outra fibra natural (sintético derrete e gruda na pele), calça por cima da bota, sapato ou bota de couro, avental, luvas, óculos e protetor facial de tela. Um boné ou chapéu evita que metal caia nas costas.",
+      "avisos": [
+        "Nunca funda sobre concreto, cerâmica ou chão úmido: o metal derramado faz o concreto estourar.",
+        "Não participe de vazamentos com sono, mal, sob efeito de remédio que dê sonolência ou se bebeu álcool nas últimas 24 horas."
+      ]
+    },
+    {
+      "titulo": "Escolha a sucata certa",
+      "texto": "Funda só alumínio limpo e conhecido; contaminantes podem causar explosão. A melhor sucata são peças grossas: perfis de janela, peças fundidas (carcaças, tampas, rodas), panelas sem cabo e sem antiaderente.\n\nLatinhas são sucata ruim: a parede é fina e coberta de verniz e tinta, que viram gás dentro do metal e aumentam muito a escória, além de reter água e restos de bebida. Rendem pouco metal e muita borra.\n\nTire parafusos, rebites de aço, borrachas, tinta e óleo. Separe peças de zinco e zamac pelo peso (são bem mais pesadas que o alumínio): o zinco funde a cerca de 420 °C, contamina o alumínio e solta fumos tóxicos.",
+      "avisos": [
+        "Peça oca ou fechada (tubo tampado, lata amassada fechada) pode guardar água e estourar no metal líquido. Corte ou abra antes."
+      ]
+    },
+    {
+      "titulo": "Monte o forno e o cadinho",
+      "texto": "O forno de cadinho é um recipiente revestido por dentro com material refratário, com o cadinho no meio, carvão em volta e ar soprado pela base. O alumínio funde a 660 °C e é vazado entre cerca de 700 e 760 °C (1.300 a 1.400 °F), conforme o tamanho da peça. Leva tempo para chegar à temperatura: tenha carvão de sobra.\n\nUse cadinho de grafite ou de aço grosso. Nunca use lata fina ou peça galvanizada (o zinco solta fumos) e nunca use cadinho trincado, amassado ou que já caiu: se ele romper cheio, o metal se espalha.",
+      "avisos": [
+        "Carregue o cadinho com o metal ainda frio. Pôr metal num cadinho quente é perigoso: uma película de umidade na peça basta para fazer o conteúdo explodir. Se precisar completar, use só peças bem secas, pré-aquecidas na borda do forno."
+      ]
+    },
+    {
+      "titulo": "Faça o molde de areia verde",
+      "texto": "Areia verde é areia com argila e um pouco de água. As faixas citadas em trabalho da UTFPR: 85% a 95% de areia de sílica, 4% a 10% de bentonita (argila) e 2% a 5% de água. Exemplo para 10 kg de areia: cerca de 0,6 kg de bentonita e 0,3 a 0,4 L de água, bem misturados. Use o mínimo de água que faça a areia manter a forma.\n\nSoque a areia em volta do modelo aos poucos, camada por camada (a força de socar define a qualidade da peça). Polvilhe talco entre as duas metades da caixa para separá-las. Dê inclinação de uns 5° nas laterais do modelo para ele sair sem quebrar a areia. Furos menores que cerca de 12 mm são difíceis de moldar: faça só a marca e fure depois. Abra o canal de entrada e o massalote com um tubo fino.",
+      "avisos": [
+        "Areia molhada demais gera vapor e gases: a peça sai cheia de bolhas e o metal pode espirrar. Seque ao ar qualquer molde que ficou encharcado."
+      ]
+    },
+    {
+      "titulo": "Funda e tire a escória",
+      "texto": "Acenda o carvão, ligue o ar e aqueça o cadinho já carregado. Quando tudo estiver líquido, a superfície fica coberta por uma borra cinza (óxido de alumínio, a escória). Retire-a com a escumadeira de aço seca e pré-aquecida, encostando na borda do cadinho, logo antes de vazar.\n\nFique de lado para o forno, nunca debruçado sobre ele, e só olhe para dentro com o protetor facial.",
+      "avisos": [
+        "Toda ferramenta que encosta no metal (escumadeira, haste, tenaz) tem que estar seca e pré-aquecida. Ferramenta fria e úmida faz o metal estourar."
+      ]
+    },
+    {
+      "titulo": "Vaze no molde",
+      "texto": "Combine os movimentos antes e ensaie sem metal: quem pega, por onde passa, onde apoia. Durante o vazamento, só a equipe do vazamento fica perto, e ninguém distrai ninguém.\n\nTire o cadinho com a tenaz, firme e sem pressa, e despeje num fio contínuo dentro do canal de entrada até o metal aparecer no massalote. Devolva o cadinho ao forno ou apoie-o na areia. Espere a peça esfriar antes de desmoldar e trate tudo como quente: alumínio quente não muda de cor.",
+      "avisos": [
+        "Metal derramado: afaste-se e cubra com areia seca. Nunca use água."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Foundry Safety — University of Alabama in Huntsville",
+      "url": "https://www.uah.edu/images/OEHS/artsafety/FOUNDRY_SAFETY.pdf"
+    },
+    {
+      "titulo": "Casting aluminum in sand — MIT (How to Make Almost Anything)",
+      "url": "https://fab.cba.mit.edu/classes/863.15/doc/tutorials/sandcasting/index.html"
+    },
+    {
+      "titulo": "Melting points of metals — Engineering ToolBox",
+      "url": "https://www.engineeringtoolbox.com/melting-temperature-metals-d_860.html"
+    },
+    {
+      "titulo": "Areia verde para fundição (SICITE 2020) — UTFPR",
+      "url": "https://eventos.utfpr.edu.br/sicite/sicite2020/paper/download/6788/2064"
+    },
+    {
+      "titulo": "Understanding of Interactions Between Pyrolysis Gases and Liquid Aluminum and Their Impact on Dross Formation — RWTH Aachen",
+      "url": "https://metallurgie.rwth-aachen.de/wp-content/uploads/2025/09/tms201_dross_fo_id_7448.pdf"
+    }
+  ]
+}

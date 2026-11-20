@@ -1,0 +1,92 @@
+{
+  "id": "identificar-metais-de-sucata",
+  "titulo": "Como identificar metais de sucata",
+  "resumo": "Ímã, peso, cor, faísca no esmeril e lima para separar aço, ferro fundido, inox, alumínio, zinco, cobre e latão, e quais peças dão bom aço para ferramentas.",
+  "categoria": "metais-e-forja",
+  "tags": [
+    "sucata",
+    "ferro velho",
+    "teste de faísca",
+    "esmeril",
+    "aço carbono",
+    "ferro fundido",
+    "alumínio",
+    "latão",
+    "zamac",
+    "ferro"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nenhum teste caseiro identifica a liga com certeza: só análise química faz isso. Nunca aqueça, solde, corte a quente ou funda peça galvanizada, pintada, cromada ou de metal desconhecido sem ventilação forte: zinco, chumbo, cádmio e cromo soltam fumos tóxicos, e o de cádmio pode matar. Use óculos no esmeril.",
+  "materiais": [
+    "Ímã",
+    "Esmeril de bancada ou rebarbadora",
+    "Lima nova",
+    "Balança de cozinha e jarra medidora com água",
+    "Pedaços de referência de metal conhecido",
+    "Óculos de proteção"
+  ],
+  "passos": [
+    {
+      "titulo": "Comece pelo ímã",
+      "texto": "Metais ferrosos (aço e ferro fundido) normalmente grudam no ímã; os não ferrosos (alumínio, cobre, latão, bronze, zinco, chumbo) não grudam.\n\nAtenção a uma exceção importante: alguns aços inox (a série 300) não são magnéticos. Peça que não gruda, mas é pesada, cinza e não enferruja pode ser inox."
+    },
+    {
+      "titulo": "Pese e meça a densidade",
+      "texto": "Pese a peça (em gramas), mergulhe-a numa jarra medidora com água e veja quanto o nível sobe (em mL, que é o mesmo que cm³). Densidade = massa ÷ volume. Exemplo: 540 g que sobem 200 mL dão 2,7 g/cm³, ou seja, alumínio.\n\nValores de referência (g/cm³): magnésio 1,7; alumínio 2,7; ferro fundido 6,8 a 7,8; zinco 7,1; inox 7,5 a 8,0; aço 7,85; bronze 7,4 a 8,9; latão 8,4 a 8,7; cobre 8,9; chumbo 11,3.",
+      "dicas": [
+        "Sem jarra: compare na mão com um pedaço de tamanho parecido. Alumínio pesa cerca de um terço do aço; zinco pesa mais de duas vezes e meia o alumínio."
+      ]
+    },
+    {
+      "titulo": "Olhe a cor e o acabamento",
+      "texto": "Lixe um ponto até brilhar. Cobre é avermelhado; latão (cobre com zinco) é amarelo; bronze fica entre os dois, mais acastanhado. Alumínio e zinco são cinza-claros e não grudam no ímã: separe-os pelo peso, porque o zinco (e o zamac, liga de zinco usada em peças fundidas) é muito mais pesado.\n\nFerro fundido costuma ter superfície áspera, com marcas do molde de areia. Chumbo é muito pesado, mole (risca com a unha ou faca) e tem um brilho fosco, aveludado."
+    },
+    {
+      "titulo": "Faça o teste de faísca no esmeril",
+      "texto": "Encoste a peça no rebolo com pressão leve e sempre igual, num lugar escuro, e olhe o jato de faíscas de lado. Compare sempre com um pedaço de referência conhecido, no mesmo esmeril. Pelo manual de serralheria da Marinha dos EUA:\n\n• Aço de baixo carbono: jato longo (cerca de 1,8 m), branco, com poucas faíscas que se bifurcam.\n• Aço de alto carbono: jato mais curto (cerca de 1,4 m) e mais cheio, branco, com muitos estouros pequenos e repetidos.\n• Ferro fundido cinzento: jato curto (cerca de 0,6 m) e fraco, vermelho perto do rebolo e cor de palha na ponta, com estouros pequenos.\n• Inox: jato de cerca de 1,3 m, volume moderado, poucas bifurcações, cor de palha perto do rebolo e branco na ponta.\n• Níquel e monel: faíscas curtas, alaranjadas, em riscos ondulados, sem estouros.\n\nQuanto mais estouros (\"estrelinhas\"), mais carbono e mais a peça tende a aceitar têmpera.",
+      "avisos": [
+        "Use óculos ou protetor facial, prenda cabelo e roupa largos e mantenha o descanso do esmeril bem perto do rebolo.",
+        "Faísca indica uma família de aço, não a liga exata. Na dúvida, faça uma têmpera de teste num pedaço."
+      ]
+    },
+    {
+      "titulo": "Teste com a lima",
+      "texto": "Passe uma lima nova, com pressão firme, num canto da peça. Se a lima morde e tira cavaco fácil, o metal está mole: aço comum, aço de alto carbono recozido ou metal não ferroso. Se a lima desliza sem cortar (\"duro à lima\"), o aço está temperado, como em molas, limas e rolamentos.\n\nAço duro à lima precisa ser recozido (aquecido e resfriado devagar) antes de ser serrado, furado ou limado."
+    },
+    {
+      "titulo": "Saiba onde achar aço bom para ferramentas",
+      "texto": "Pelo catálogo da Gerdau, feixes de mola de veículos são feitos de aços como SAE 5160, SAE 6150, DIN 51CrV4 e DIN 52CrMoV4; molas helicoidais e barras usam também SAE 9254; e o aço de rolamentos é o DIN 100Cr6 (equivalente ao SAE 52100). Todos aceitam têmpera e servem para talhadeiras, punções, facas e molas.\n\nIsso é ponto de partida, não garantia: fabricantes trocam de aço. Trate cada peça como desconhecida e confirme com faísca, lima e uma têmpera de teste."
+    },
+    {
+      "titulo": "Afaste os metais perigosos",
+      "texto": "Antes de aquecer, solde ou funda, tire tinta, óleo e revestimentos e trabalhe ao ar livre, de costas para o vento. Fique atento a:\n\n• Galvanizado e latão: o zinco aquecido solta fumos que causam a febre dos fumos metálicos (calafrios, tosse e dores, como uma gripe, horas depois).\n• Cádmio (revestimento de algumas peças, difícil de reconhecer a olho: na dúvida, não aqueça): respirar fumos em alta concentração inflama os pulmões de 10 a 24 horas depois e pode matar.\n• Chumbo (pesos de roda, baterias, soldas antigas): fumos e pó são tóxicos e acumulam no corpo.\n• Inox e peças cromadas: na solda e no corte a quente, o cromo vira cromo hexavalente, tóxico e cancerígeno.",
+      "avisos": [
+        "Falta de ar, tosse ou febre depois de aquecer metal: saia para o ar livre e procure atendimento médico (SAMU 192), dizendo qual metal foi aquecido."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Steelworker, vol. 1 (NAVEDTRA 14250): spark test, chip test e magnetic test — U.S. Navy",
+      "url": "https://tpub.com/steelworker1/6.htm"
+    },
+    {
+      "titulo": "Metal and alloys densities — Engineering ToolBox",
+      "url": "https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html"
+    },
+    {
+      "titulo": "Catálogo Aços Especiais Brasil — Gerdau",
+      "url": "https://gsn.gerdau.com/sites/gsn_gerdau/files/downloadable_files/Catalago%20A%C3%A7os%20Especiais%20Brasil_1.pdf"
+    },
+    {
+      "titulo": "Controlling Hazardous Fume and Gases during Welding — OSHA",
+      "url": "https://www.osha.gov/sites/default/files/publications/OSHA_FS-3647_Welding.pdf"
+    },
+    {
+      "titulo": "Cadmium: health effects — OSHA",
+      "url": "https://www.osha.gov/cadmium/health-effects"
+    }
+  ]
+}

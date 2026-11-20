@@ -1,0 +1,97 @@
+{
+  "id": "fazer-concreto-com-traco-e-cura-corretos",
+  "titulo": "Como fazer concreto com traço e cura corretos",
+  "resumo": "Traços em latas por saco de cimento, relação água/cimento, mistura manual, lançamento, cura úmida de 7 dias, cobrimento da armadura e quando chamar engenheiro.",
+  "categoria": "materiais-de-construcao",
+  "tags": [
+    "cimento",
+    "traço de concreto",
+    "massa de concreto",
+    "fundação",
+    "contrapiso",
+    "piso de concreto",
+    "ferragem",
+    "vergalhão",
+    "brita",
+    "quanto de água"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Cimento molhado é muito alcalino: causa queimaduras químicas que podem não doer no início e só aparecer quando o estrago já foi feito, além de dermatite (alergia) de longa duração. Use luvas impermeáveis, botas, calça por cima das botas, manga comprida e óculos. Não ajoelhe nem pise no concreto fresco sem proteção. Laje, viga, pilar, sobrado, caixa d'água elevada ou muro de arrimo exigem cálculo estrutural de engenheiro: concreto armado mal feito pode desabar.",
+  "materiais": [
+    "Cimento Portland (CP II, CP III ou CP IV) em saco de 50 kg",
+    "Areia de rio limpa",
+    "Pedra britada 1 ou 2, ou seixo limpo",
+    "Água limpa (de beber)",
+    "Lata de 18 litros, pá, enxada, carrinho de mão, colher de pedreiro",
+    "Fôrmas, vergalhões, arame recozido e espaçadores (para concreto armado)",
+    "Sacos de aniagem ou capim e lona para a cura",
+    "Luvas impermeáveis, botas, óculos de proteção"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que acontece na massa",
+      "texto": "O cimento não seca: ele reage com a água (hidratação). Os silicatos de cálcio do cimento viram silicato de cálcio hidratado, a \"cola\" que dá resistência, mais hidróxido de cálcio (por isso o concreto é alcalino). A reação é rápida nas primeiras horas e continua por semanas.\n\nPara hidratar todo o cimento bastam cerca de 0,40 kg de água por kg de cimento. A água a mais não reage: evapora e deixa poros, e o concreto fica mais fraco e menos durável. Água de menos deixa cimento sem reagir e massa difícil de adensar, cheia de buracos.\n\nA norma de estruturas (NBR 6118) limita a relação água/cimento a 0,65 em ambiente rural e 0,60 em área urbana para concreto armado."
+    },
+    {
+      "titulo": "Separe materiais bons",
+      "texto": "Cimento: guarde em local fechado, coberto e seco, sobre estrado de madeira, em pilhas de no máximo 10 sacos; assim dura cerca de 3 meses. Cimento empedrado não serve.\n\nAreia: de rio, de grãos duros, sem torrões de barro, galhos ou raízes. Nunca use areia do mar.\n\nPedra: brita 1 (9,5 a 19 mm) ou 2 (19 a 25 mm), ou seixo de rio nessa faixa, lavada, sem pó nem barro.\n\nÁgua: a boa para concreto é a boa de beber. Nunca use água servida, de esgoto ou com óleo."
+    },
+    {
+      "titulo": "Escolha o traço (lata de 18 litros)",
+      "texto": "Traços da ABCP para cada saco de cimento de 50 kg:\n\n• Concreto magro (base de fundação e contrapiso): 8½ latas de areia, 11½ de pedra, 2 de água. Rende 14 latas (0,25 m³).\n• Fundação (alicerce): 5 latas de areia, 6½ de pedra, 1½ de água. Rende 9 latas (0,16 m³).\n• Piso: 4 latas de areia, 6 de pedra, 1½ de água. Rende 8 latas (0,14 m³).\n• Pilares, vigas, vergas, lajes e pré-moldados: 4 latas de areia, 5½ de pedra, 1¼ de água. Rende 8 latas (0,14 m³).\n\nConta da água: 1¼ lata = 22,5 litros para 50 kg de cimento, relação água/cimento de 0,45. 1½ lata = 27 litros, relação 0,54. Por isso a água é medida, não colocada \"a olho\".",
+      "dicas": [
+        "Areia úmida já traz água. Na primeira betonada, ponha a água aos poucos e acerte pelo teste da colher; depois repita a mesma quantidade enquanto os materiais forem os mesmos.",
+        "Use sempre latas iguais e não amassadas, e encha rente à borda."
+      ]
+    },
+    {
+      "titulo": "Misture à mão",
+      "texto": "1. Espalhe a areia numa camada de uns 15 cm sobre piso limpo e impermeável.\n2. Ponha o cimento por cima e mexa até a cor ficar uniforme.\n3. Espalhe essa mistura numa camada de 15 a 20 cm e ponha a pedra por cima, misturando bem.\n4. Faça um monte com buraco no meio (coroa), ponha a água aos poucos e misture sem deixar escorrer.\n\nTeste da colher: alise a superfície com a colher de pedreiro. Ficou úmida sem escorrer água: certo. Escorreu água: ponha mais areia e pedra. Nem ficou úmida: mexa mais; se continuar seca, junte cimento e água na proporção de 5 partes de cimento para 3 de água.",
+      "avisos": [
+        "Nunca acrescente só água para \"amolecer\" o concreto: isso derruba a resistência."
+      ]
+    },
+    {
+      "titulo": "Lance e adense",
+      "texto": "Use o concreto em no máximo 1 hora depois de pronto. Limpe as fôrmas, tape frestas e molhe-as para não chuparem a água do concreto.\n\nTransporte sem chacoalhar e despeje da altura da borda da fôrma: jogar de cima separa a pedra da massa. Adense em camadas com um soquete (haste de madeira ou ferro) ou vibrador, até não sobrar vazio nem bolha. Não pare uma peça pela metade: a emenda fica fraca e aparente."
+    },
+    {
+      "titulo": "Posicione a armadura com cobrimento",
+      "texto": "O ferro vai onde a peça é tracionada: numa viga apoiada nas pontas, embaixo. Amarre os vergalhões com arame recozido e evite emendas; se precisar, desencontre as emendas e faça o transpasse de 80 vezes o diâmetro da barra (barra de 10 mm: 80 cm).\n\nO concreto em volta do ferro (cobrimento) protege contra a ferrugem. Use espaçadores de argamassa e respeite o cobrimento nominal da NBR 6118: na zona rural, 2 cm em lajes e 2,5 cm em vigas e pilares; em área urbana, 2,5 cm em lajes e 3 cm em vigas e pilares; em peças em contato com o solo, 3 cm (4,5 cm no pé do pilar junto à fundação). Perto do mar ou em ambiente agressivo, o cobrimento é maior: consulte um profissional.",
+      "avisos": [
+        "A posição, a bitola e a quantidade de ferro saem do cálculo estrutural, que deve ser feito obrigatoriamente por profissional habilitado."
+      ]
+    },
+    {
+      "titulo": "Cure por 7 dias",
+      "texto": "Sol e vento secam o concreto depressa demais e ele perde resistência e trinca. Mantenha-o úmido por uma semana: regue pelo menos uma vez por dia ou cubra com sacos de aniagem ou capim molhados.\n\nNas primeiras 6 horas o concreto ainda está mole e não pode ser encharcado: se vier chuva forte logo depois de concretar uma laje ou um piso, cubra com lona plástica.\n\nNo calor (acima de cerca de 21 °C) a reação acelera e o risco de fissuras aumenta: capriche ainda mais na cura.",
+      "dicas": [
+        "Laterais das fôrmas saem em geral depois de 3 dias, com cuidado e sem pancadas. Escoras de lajes e vigas só depois de 3 semanas."
+      ]
+    },
+    {
+      "titulo": "Cuide da pele e dos olhos",
+      "texto": "Se o cimento molhado encostar na pele, lave o quanto antes com água limpa e sabão neutro (não alcalino). Troque luvas e botas que entrarem cimento por dentro. No olho, lave com muita água corrente e procure atendimento.\n\nQueimadura de cimento (bolhas, pele escura ou endurecida) ou qualquer irritação na pele de quem trabalha com cimento: procure um profissional de saúde logo. Tratar cedo evita que a dermatite fique crônica."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Guia de Construções Rurais à base de cimento, fascículo 2 — ABCP",
+      "url": "https://www.esalq.usp.br/departamentos/leb/kesia/intranet/Guia_de_Construcoes_Rurais_2_2015.pdf"
+    },
+    {
+      "titulo": "Durabilidade e cobrimento segundo a NBR 6118 (capítulo 2) — UFPR",
+      "url": "https://estruturas.ufpr.br/wp-content/uploads/2015/02/CA-002-2015.pdf"
+    },
+    {
+      "titulo": "Cement hydration kinetics — National Precast Concrete Association",
+      "url": "https://precast.org/blog/cement-hydration-kinetics/"
+    },
+    {
+      "titulo": "Preventing Skin Problems from Working with Portland Cement — OSHA",
+      "url": "https://osha.gov/sites/default/files/publications/OSHA-3351-portland-cement.pdf"
+    }
+  ]
+}
