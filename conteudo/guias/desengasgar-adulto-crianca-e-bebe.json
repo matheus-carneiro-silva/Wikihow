@@ -1,0 +1,87 @@
+{
+  "id": "desengasgar-adulto-crianca-e-bebe",
+  "titulo": "Como desengasgar adulto, criança e bebê",
+  "resumo": "Engasgo grave: golpes nas costas e manobra de Heimlich em adulto e criança, compressões no peito em bebê, gestante e obeso, e o que fazer sozinho ou se desmaiar.",
+  "categoria": "primeiros-socorros",
+  "tags": [
+    "engasgou",
+    "engasgado",
+    "engasgo",
+    "manobra de Heimlich",
+    "asfixia",
+    "sufocando",
+    "não consegue respirar",
+    "obstrução das vias aéreas",
+    "bebê engasgado",
+    "comida entalada"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 5,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Engasgo grave (não consegue falar, tossir ou respirar) mata em minutos: aja na hora e, se houver sinal, peça para alguém ligar 192 (SAMU). Quem foi desengasgado com golpes ou compressões deve ser examinado depois, pois a manobra pode causar lesões internas.",
+  "passos": [
+    {
+      "titulo": "Diferencie engasgo leve de grave",
+      "texto": "Leve: a pessoa tosse com força, consegue falar ou chorar e respira. Não bata nem aperte: incentive a tossir e fique ao lado, pronto para agir se piorar.\n\nGrave: não consegue falar, tossir com força nem respirar; leva as mãos ao pescoço; faz chiado agudo ao puxar o ar ou não faz som nenhum; tosse fraca; lábios e pele ficam arroxeados. O bebê não consegue chorar. Aja imediatamente.",
+      "avisos": [
+        "Não abra à força a boca de quem está consciente para tentar puxar o objeto."
+      ]
+    },
+    {
+      "titulo": "Adulto e criança: alterne 5 golpes nas costas e 5 compressões no abdômen",
+      "texto": "As diretrizes de 2025 da American Heart Association recomendam alternar golpes nas costas com a manobra de Heimlich, até o objeto sair ou a pessoa desmaiar.\n\n1. Golpes nas costas: fique atrás e um pouco ao lado, segure o peito com um braço e incline a pessoa para a frente, quase com o peito paralelo ao chão. Dê até 5 golpes firmes entre as escápulas com a base (calcanhar) da outra mão, olhando a cada golpe se saiu.\n2. Manobra de Heimlich: fique atrás, abrace a cintura. Feche uma mão e ponha o lado do polegar logo acima do umbigo, bem abaixo do osso do peito. Segure o punho com a outra mão e puxe com força para dentro e para cima. Dê até 5 compressões.\n3. Repita os ciclos de 5 + 5.",
+      "dicas": [
+        "Em criança pequena, ajoelhe-se atrás dela para ficar na altura certa e use menos força."
+      ]
+    },
+    {
+      "titulo": "Gestante ou pessoa obesa: comprima o peito, não a barriga",
+      "texto": "Se a pessoa estiver grávida ou se você não conseguir abraçar a barriga dela, troque as compressões no abdômen por compressões no peito: abrace o tórax por trás, ponha o punho no meio do osso do peito (entre os mamilos) e puxe firme para trás, 5 vezes. Continue alternando com os 5 golpes nas costas."
+    },
+    {
+      "titulo": "Bebê (menos de 1 ano): 5 golpes nas costas e 5 compressões no peito",
+      "texto": "1. Deite o bebê de bruços ao longo do seu antebraço, apoiado na sua coxa, segurando a mandíbula com a mão, com a cabeça mais baixa que o corpo.\n2. Dê até 5 golpes firmes entre as escápulas com a base da outra mão.\n3. Se não saiu, vire o bebê de barriga para cima, sustentando a cabeça e mantendo-a mais baixa que o corpo. Com a base de uma mão no meio do peito, logo abaixo da linha dos mamilos, dê até 5 compressões rápidas.\n4. Olhe a boca: só retire o objeto com o dedo se estiver vendo.\n5. Repita 5 + 5 até sair ou o bebê ficar desacordado.",
+      "avisos": [
+        "Nunca faça a manobra de Heimlich (compressão na barriga) em bebê: risco de lesão no fígado e outros órgãos.",
+        "Não faça golpes nem compressões se a falta de ar for por outra causa (crise de asma, infecção, inchaço alérgico): isso não ajuda."
+      ]
+    },
+    {
+      "titulo": "Se desmaiar, comece a RCP",
+      "texto": "Se a pessoa (ou o bebê) ficar desacordada, deite-a no chão, peça para alguém ligar 192 e comece a reanimação cardiopulmonar (veja o guia de RCP). As compressões no peito também ajudam a empurrar o objeto.\n\nAntes de cada ventilação, olhe a boca: se o objeto estiver visível e solto, tire com uma só passada do dedo. Continue a RCP até a ajuda chegar ou a pessoa voltar a respirar normalmente.",
+      "avisos": [
+        "Não faça varredura às cegas com o dedo na garganta: pode empurrar o objeto mais para dentro."
+      ]
+    },
+    {
+      "titulo": "Se você estiver sozinho e engasgado",
+      "texto": "Se houver como, ligue 192 (mesmo sem falar, a chamada ajuda a localizar). Faça a manobra em você mesmo: punho fechado logo acima do umbigo, a outra mão por cima, e puxe com força para dentro e para cima.\n\nOu incline-se sobre uma superfície firme, como o encosto de uma cadeira ou a borda de uma bancada, e jogue o corpo contra ela, com a região logo acima do umbigo, várias vezes até o objeto sair."
+    },
+    {
+      "titulo": "Depois do engasgo",
+      "texto": "Mesmo que o objeto saia e a pessoa fique bem, ela deve ser examinada por um profissional de saúde assim que possível, especialmente se recebeu compressões no abdômen.\n\nSem socorro disponível, observe nas próximas horas e organize a evacuação se surgir tosse que não passa, chiado, falta de ar, dor forte na barriga ou no peito, vômito com sangue ou febre."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Updated CPR guidelines tackle choking response — American Heart Association, 2025",
+      "url": "https://newsroom.heart.org/news/updated-cpr-guidelines-tackle-choking-response-opioid-related-emergencies-and-a-revised-chain-of-survival"
+    },
+    {
+      "titulo": "Choking - adult or child over 1 year — MedlinePlus (NIH), 2026",
+      "url": "https://medlineplus.gov/ency/article/000049.htm"
+    },
+    {
+      "titulo": "Choking - infant under 1 year — MedlinePlus (NIH), 2026",
+      "url": "https://medlineplus.gov/ency/article/000048.htm"
+    },
+    {
+      "titulo": "Manobra de Heimlich: como realizá-la em uma emergência por engasgo — Mass General Brigham",
+      "url": "https://www.massgeneralbrigham.org/pt/health-wellness/heimlich-maneuver"
+    },
+    {
+      "titulo": "Obstrução das vias respiratórias — Manual MSD (versão para a família), 2026",
+      "url": "https://www.msdmanuals.com/pt-br/casa/les%C3%B5es-e-envenenamentos/primeiros-socorros/obstru%C3%A7%C3%A3o-das-vias-respirat%C3%B3rias"
+    }
+  ]
+}

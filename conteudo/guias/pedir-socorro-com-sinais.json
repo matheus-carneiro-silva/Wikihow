@@ -1,0 +1,90 @@
+{
+  "id": "pedir-socorro-com-sinais",
+  "titulo": "Como pedir socorro com sinais visuais e sonoros",
+  "resumo": "Sinais de socorro sem celular: o padrão de três, SOS em código Morse com lanterna ou apito, letras no chão para aeronaves, espelho, fumaça e sinais combinados.",
+  "categoria": "comunicacao",
+  "tags": [
+    "SOS",
+    "pedido de socorro",
+    "sinal de socorro",
+    "código Morse",
+    "apito",
+    "espelho de sinalização",
+    "fogueira",
+    "sinais terra-ar",
+    "resgate",
+    "helicóptero"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Fogueiras de sinal podem virar incêndio: faça só em área limpa, longe de mato seco e de casas, e com água ou terra à mão. Use sinais de socorro só em emergência real: alarme falso tira equipes de quem precisa.",
+  "materiais": [
+    "Apito",
+    "Lanterna",
+    "Espelho pequeno ou objeto metálico brilhante",
+    "Panos ou lonas de cor forte (laranja ou vermelho)",
+    "Material para fogueira e folhas verdes para fumaça"
+  ],
+  "passos": [
+    {
+      "titulo": "Use o padrão de três",
+      "texto": "Qualquer sinal repetido três vezes indica socorro: três fogueiras, três colunas de fumaça, três tiros com intervalo entre eles. As três fogueiras ficam em triângulo ou em linha reta, com cerca de 25 m entre elas. Se você estiver sozinho e não der conta de manter três, uma fogueira só, grande e com fumaça, já chama atenção.\n\nVermelho é a cor internacional de perigo: prefira pano, lona ou sinalizador vermelho quando tiver.",
+      "avisos": [
+        "Tiros de sinal só em local aberto, apontando para o alto e longe de pessoas; balas que caem também matam."
+      ]
+    },
+    {
+      "titulo": "Mande SOS em código Morse",
+      "texto": "SOS é o sinal de socorro internacional: três curtos, três longos, três curtos (· · · — — — · · ·), sem pausa entre as letras, e repetido. Pela regra do código Morse, o longo dura o mesmo que três curtos; o intervalo dentro da letra é de um curto, entre letras de três curtos e entre palavras de sete.\n\nÀ noite, use lanterna: acesa rápida para o ponto, acesa mais tempo para o traço. De dia, use apito ou bata num objeto de metal. O apito economiza a voz e o som vai mais longe: há casos documentados de apito ouvido a 1,6 km.",
+      "dicas": [
+        "Entre uma série e outra, pare e escute por um minuto: alguém pode estar respondendo.",
+        "Sem apito, use buzina de carro, panela ou cano de metal no mesmo ritmo."
+      ]
+    },
+    {
+      "titulo": "Decore o Morse básico",
+      "texto": "Letras do SOS: S = · · · e O = — — —.\n\nNúmeros (sempre 5 sinais):\n1 = · — — — —\n2 = · · — — —\n3 = · · · — —\n4 = · · · · —\n5 = · · · · ·\n6 = — · · · ·\n7 = — — · · ·\n8 = — — — · ·\n9 = — — — — ·\n0 = — — — — —\n\nCom os números dá para passar, por exemplo, quantas pessoas estão no local ou o número da casa.",
+      "dicas": [
+        "Copie esta tabela num papel e deixe junto da lanterna."
+      ]
+    },
+    {
+      "titulo": "Escreva no chão para quem passa no alto",
+      "texto": "Para helicópteros e aviões de busca, use o código terra-ar internacional:\nV = precisamos de ajuda\nX = precisamos de ajuda médica\nN = não\nY = sim\nSeta = estamos indo nesta direção\n\nFaça cada símbolo com pelo menos 6 m de comprimento e 1 m de largura (se aumentar, mantenha essa proporção) num local aberto. Use material que contraste com o chão: lona, roupas, pedras, galhos, terra revirada. Faça os símbolos exatamente como acima para não confundir V com X.",
+      "dicas": [
+        "Na laje ou no telhado, escreva com tinta, fita ou panos; também vale escrever SOS bem grande.",
+        "Monte o sinal antes de ouvir a aeronave: na hora não dá tempo."
+      ]
+    },
+    {
+      "titulo": "Use espelho e fumaça de dia",
+      "texto": "Em dia de sol, o espelho é o melhor sinal: pilotos relatam ver o reflexo a até 160 km em condições ideais. Estique um braço, faça um V com os dedos com a aeronave no meio e jogue o reflexo do espelho na sua mão; depois mova para o reflexo passar pelo V. Sem espelho, use tampa de lata, CD ou metal polido. Vá para o ponto mais alto possível.\n\nPara fumaça, abafe uma fogueira bem acesa com folhas verdes, musgo ou um pouco de água: sai fumaça branca, que contrasta com o mato escuro. Fumaça só funciona com tempo calmo; vento forte e chuva espalham.",
+      "avisos": [
+        "Não mire o espelho na cabine por mais de alguns segundos: pode ofuscar o piloto. Também não pisque rápido demais.",
+        "Não queime borracha nem plástico para fazer fumaça preta perto de pessoas: a fumaça é tóxica."
+      ]
+    },
+    {
+      "titulo": "Combine sinais com a vizinhança",
+      "texto": "Num apagão longo, sem telefone, a comunidade pode combinar um código de janela para os voluntários que passam na rua. Exemplo: pano vermelho na janela = precisamos de ajuda; pano verde = estamos bem; nada = ninguém em casa ou sem informação.\n\nDivulgue o código no quadro de avisos e na reunião do bairro, e faça uma ronda diária olhando as janelas, começando por idosos, acamados e quem mora sozinho. Para emergência à noite, combine também três apitos ou três piscadas de lanterna.",
+      "dicas": [
+        "Escolha cores que todos tenham em casa e que não se confundam com roupa no varal: um pano fixo sempre na mesma janela, virada para a rua."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "FM 21-76 US Army Survival Manual, cap. 19 (Signaling Techniques)",
+      "url": "https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf"
+    },
+    {
+      "titulo": "TC AIM SAR 4.7.1 Ground-to-Air Signals — Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2024-09/aim-2024-2_sar-e.pdf"
+    },
+    {
+      "titulo": "Recommendation ITU-R M.1677-1: International Morse code — ITU",
+      "url": "https://www.itu.int/rec/R-REC-M.1677-1-200910-I/en"
+    }
+  ]
+}

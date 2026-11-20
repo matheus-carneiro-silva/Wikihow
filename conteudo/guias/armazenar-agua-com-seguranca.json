@@ -1,0 +1,96 @@
+{
+  "id": "armazenar-agua-com-seguranca",
+  "titulo": "Como armazenar água com segurança",
+  "resumo": "Reserva de emergência por pessoa, recipientes certos, limpeza e desinfecção da caixa d'água, cloro residual, rodízio e proteção contra o mosquito da dengue.",
+  "categoria": "agua",
+  "tags": [
+    "caixa d'água",
+    "limpar caixa d'água",
+    "reserva de água",
+    "estoque de água",
+    "galão",
+    "tambor",
+    "dengue",
+    "água sanitária",
+    "cloro residual",
+    "água potável"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca guarde água de beber em embalagem que já teve produto químico (água sanitária, agrotóxico, combustível, óleo). Recipiente destampado vira criadouro do mosquito da dengue, zika e chikungunya. Baldes e tambores com água afogam crianças pequenas: tampe e mantenha fora do alcance.",
+  "materiais": [
+    "Galões, bombonas ou tambores de plástico próprio para alimentos, com tampa",
+    "Água sanitária sem perfume (2,0% a 2,5%)",
+    "Escova de náilon ou pano limpo, luvas e botas de borracha",
+    "Fita e caneta para etiquetar",
+    "Kit de teste de cloro de piscina (opcional)"
+  ],
+  "passos": [
+    {
+      "titulo": "Calcule a reserva de emergência",
+      "texto": "O CDC recomenda guardar pelo menos 1 galão (cerca de 4 L) por pessoa por dia, para no mínimo 3 dias, e se possível para 2 semanas. Guarde mais em calor forte, para gestantes, doentes e animais.\n\nExemplo: família de 4 pessoas.\n\n• 3 dias: 4 pessoas × 4 L × 3 dias = 48 L.\n• 2 semanas: 4 × 4 × 14 = 224 L.\n\nEsses 4 L cobrem beber e o mínimo de cozinha e higiene. Para uma emergência longa, a meta humanitária é 15 L por pessoa por dia (veja o guia \"Como encontrar e captar água sem rede de abastecimento\").",
+      "dicas": [
+        "A caixa d'água cheia já é parte da reserva: feche o registro da rua se houver risco de contaminação da rede."
+      ]
+    },
+    {
+      "titulo": "Escolha recipientes adequados",
+      "texto": "• De plástico próprio para alimentos (de preferência novos e usados só para água).\n• Tampa que veda bem; boca estreita ou torneira, para não precisar mergulhar copo ou mão.\n• Liso, inteiro, sem rachaduras, bordas quebradas ou encardido.\n• Evite vidro, que quebra.\n\nNunca use galões de água sanitária, agrotóxico, combustível, óleo ou outro produto químico, mesmo bem lavados.",
+      "avisos": [
+        "Não use o recipiente de água de beber para outras coisas (deixar roupa de molho, lavar chão)."
+      ]
+    },
+    {
+      "titulo": "Lave e desinfete os recipientes",
+      "texto": "1. Lave com água e sabão ou detergente e enxágue bem.\n2. Misture 2 colheres de sopa de água sanitária (2,0% a 2,5%) em 1 L de água.\n3. Despeje no recipiente, tampe e agite para molhar toda a parte de dentro (ou passe com esponja limpa).\n4. Deixe tampado por 30 minutos.\n5. Jogue fora, enxágue com água potável e deixe secar naturalmente.",
+      "dicas": [
+        "Faça o mesmo com potes de filtro, jarras e conchas usados para servir a água."
+      ]
+    },
+    {
+      "titulo": "Encha, etiquete e faça o rodízio",
+      "texto": "Encha com água da rede pública (que já vem clorada) ou com água tratada (veja o guia \"Como desinfetar água para beber\"). Tampe bem e etiquete: \"ÁGUA POTÁVEL\" e a data.\n\nGuarde em lugar fresco, escuro e longe do sol, de combustíveis e de agrotóxicos.\n\nRodízio:\n\n• água engarrafada lacrada: siga a validade;\n• água da rede guardada em casa: troque a cada 6 meses (use a antiga para limpeza ou plantas);\n• água que você tratou com cloro em casa, de fonte duvidosa: consuma no mesmo dia.",
+      "avisos": [
+        "Se a água guardada mudar de cor, cheiro ou tiver sujeira, não beba: trate de novo ou descarte."
+      ]
+    },
+    {
+      "titulo": "Limpe e desinfete a caixa d'água",
+      "texto": "Procedimento do Ministério da Saúde, pelo menos a cada 6 meses ou depois de enchente:\n\n1. Use luvas e botas de borracha. Feche a entrada de água.\n2. Esvazie a caixa, deixando cerca de um palmo de água no fundo. Tampe a saída com um pano para a sujeira não descer pelo cano.\n3. Esfregue paredes e fundo com escova ou pano. Não use sabão, detergente nem esponja de aço.\n4. Retire a água suja com balde e panos até a caixa ficar limpa.\n5. Tire o pano da saída, encha a caixa e acrescente 1 L de água sanitária para cada 1.000 L de água (caixa de 500 L: meio litro).\n6. Abra as torneiras da casa até sair água com cheiro de cloro, para encher os canos, e feche.\n7. Espere 2 horas sem usar essa água.\n8. Esvazie a caixa pelas torneiras (essa água serve para lavar chão e quintal) e encha de novo.\n9. Anote a data da limpeza do lado de fora da caixa.",
+      "avisos": [
+        "A água com a dose de limpeza não é para beber nem cozinhar.",
+        "Trabalho em telhado ou laje: use escada firme e tenha alguém junto."
+      ]
+    },
+    {
+      "titulo": "Tampe tudo contra o mosquito",
+      "texto": "O Aedes aegypti põe ovos em qualquer água parada e limpa. Mantenha:\n\n• caixa d'água com tampa bem encaixada, sem frestas;\n• tambores, baldes e galões sempre tampados;\n• cisternas e calhas limpas, sem água empoçada.\n\nSe um recipiente ficar destampado, confira se há larvas (bichinhos que se mexem na água). Havendo, não beba: descarte a água, lave e desinfete o recipiente.",
+      "dicas": [
+        "Separe e identifique os recipientes de água potável e os de água de chuva ou de reúso, para ninguém beber a errada."
+      ]
+    },
+    {
+      "titulo": "Confira o cloro residual",
+      "texto": "Cloro residual é o cloro que sobra na água depois de matar os micróbios e que protege contra recontaminação. Pela norma de potabilidade do Ministério da Saúde (Portaria GM/MS 888/2021), a água deve ter no mínimo 0,2 mg/L de cloro residual livre, e o recomendado é até 2 mg/L.\n\nCom um kit de teste de cloro (como os de piscina), meça a água guardada. Sem kit, o sinal prático é um leve cheiro de cloro depois de tratar.\n\nO cloro some com o tempo, o calor e o sol. Se a água guardada estiver sem cloro e você tiver dúvida sobre ela, trate de novo antes de beber: 2 gotas de água sanitária por litro e 30 minutos de espera."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to create an emergency water supply — CDC",
+      "url": "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
+    },
+    {
+      "titulo": "Nota Técnica 39/2023 e folder \"Orientações para o tratamento intradomiciliar da água\" do Ministério da Saúde — SES-MG",
+      "url": "https://www.saude.mg.gov.br/wp-content/uploads/2025/03/ANEXO-F-Nota-tcnica-39-2023_Orientaes-tratamento-intradomiciliar.pdf"
+    },
+    {
+      "titulo": "Orientações à população para uso da água — COVISA, Prefeitura de São Paulo",
+      "url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/orientacoes_agua_Covisa.pdf"
+    },
+    {
+      "titulo": "Portaria GM/MS nº 888, de 4 de maio de 2021 — Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2021/prt0888_07_05_2021.html"
+    }
+  ]
+}

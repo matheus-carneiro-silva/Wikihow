@@ -1,0 +1,102 @@
+{
+  "id": "prevenir-doencas-depois-de-enchentes",
+  "titulo": "Como prevenir doenças depois de uma enchente",
+  "resumo": "Leptospirose, tétano, água e comida contaminadas e bichos peçonhentos no entulho: proteção, limpeza com água sanitária, o que jogar fora e quando procurar ajuda.",
+  "categoria": "higiene-e-saude-publica",
+  "tags": [
+    "leptospirose",
+    "enchente",
+    "inundação",
+    "alagamento",
+    "lama",
+    "água sanitária",
+    "tétano",
+    "limpeza depois da enchente",
+    "mofo",
+    "escorpião"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Febre, dor de cabeça e dor na batata da perna até 30 dias depois de contato com água ou lama de enchente podem ser leptospirose: procure atendimento e conte que teve contato com enchente. Pele ou olhos amarelados, pouca urina, sangramentos ou falta de ar são emergência.",
+  "materiais": [
+    "Botas de borracha e luvas de borracha (ou sacos plásticos duplos amarrados)",
+    "Óculos de proteção",
+    "Água sanitária 2 a 2,5% sem perfume (ou hipoclorito de sódio 2,5%)",
+    "Balde de 20 L e copo medidor",
+    "Rodo, pá, escova dura e panos",
+    "Curativo à prova d'água para cortes",
+    "Sacos de lixo reforçados"
+  ],
+  "passos": [
+    {
+      "titulo": "Evite contato com a água e a lama",
+      "texto": "A água e a lama de enchente carregam urina de rato (leptospirose), esgoto e restos cortantes.\n\n• Ande e limpe sempre de botas e luvas de borracha. Sem elas, use dois sacos plásticos amarrados em cada mão e pé.\n• Cubra cortes e arranhões com curativo à prova d'água.\n• Não deixe crianças nadarem ou brincarem na água ou na lama.",
+      "avisos": [
+        "Antes de entrar em casa, siga \"Como religar a energia com segurança depois de uma enchente\": fios e tomadas molhados dão choque."
+      ]
+    },
+    {
+      "titulo": "Cuidado com cobras, escorpiões e aranhas",
+      "texto": "Depois da enchente, esses bichos procuram lugares secos: dentro das casas e no entulho.\n\n• Ao voltar, inspecione todos os cômodos com calma.\n• Sacuda roupas, sapatos, toalhas e lençóis antes de usar.\n• Não ponha a mão em buracos e frestas: mexa em móveis e entulho com enxada, cabo de vassoura ou pau comprido.\n• Não ande descalço.\n\nSe houver picada, siga \"Como agir em picada de cobra ou de escorpião\"."
+    },
+    {
+      "titulo": "Jogue fora a comida que molhou",
+      "texto": "Descarte, sem exceção:\n\n• qualquer alimento que teve contato com a água da enchente ou com a lama, inclusive frutas, verduras e legumes;\n• alimentos em embalagens que não são à prova d'água, mesmo fechadas: potes e garrafas com tampa de rosca, vidros, caixas longa vida, sacos;\n• enlatados que ficaram na água.\n\nMesmo que pareça seca, a embalagem pode ter deixado a água entrar pela tampa.",
+      "avisos": [
+        "Nunca prove para ver se está bom. Na dúvida, jogue fora."
+      ]
+    },
+    {
+      "titulo": "Trate a água antes de beber",
+      "texto": "Até ter certeza de que a água está limpa, trate toda água de beber e de cozinhar:\n\n• Com cloro: filtre ou coe num pano limpo, ponha 2 gotas de hipoclorito de sódio 2,5% (ou água sanitária 2 a 2,5% sem perfume nem outros produtos) por litro, misture e espere 30 minutos. Consuma em até 24 horas.\n• Sem cloro: filtre ou coe e ferva por 5 minutos depois que começar a borbulhar.\n\nLave e desinfete a caixa d'água e os recipientes antes de voltar a guardar água neles.",
+      "avisos": [
+        "Diarreia com 3 ou mais evacuações em 24 horas pede atendimento. Enquanto isso, dê soro: veja \"Como preparar e dar soro de reidratação oral\"."
+      ]
+    },
+    {
+      "titulo": "Limpe e desinfete a casa",
+      "texto": "1. Abra portas e janelas.\n2. Tire a lama com rodo e pá, de botas e luvas.\n3. Lave pisos, paredes e móveis com água e sabão.\n4. Desinfete com a mistura de 400 mL (2 xícaras de chá) de água sanitária 2,5% em 20 L de água. Passe com pano ou espalhe e deixe agir 15 minutos.\n\nSeque a casa o mais rápido possível. Colchões, estofados, tapetes, carpetes e o que não puder ser bem limpo e seco em 24 a 48 horas deve ser jogado fora, porque cria mofo.",
+      "avisos": [
+        "Nunca misture água sanitária com amônia, vinagre, ácido muriático ou outros produtos de limpeza: soltam gases tóxicos.",
+        "Use óculos ao esfregar com água sanitária. Quem tem asma, alergia ou imunidade baixa deve ficar longe da limpeza de mofo."
+      ]
+    },
+    {
+      "titulo": "Previna o tétano",
+      "texto": "O tétano entra por cortes e furos feitos por metal (mesmo sem ferrugem), madeira, vidro, espinhos e terra, e o entulho da enchente está cheio deles.\n\n• A proteção é a vacina: são pelo menos 3 doses, com reforço a cada 10 anos.\n• Ao se ferir, lave o ferimento na hora com água limpa e sabão e verifique a data da sua última dose. Procure um posto para avaliar o reforço.\n• Evite mexer em terra, adubo ou entulho com feridas abertas nas mãos ou nos pés.",
+      "dicas": [
+        "Para limpar um corte fundo, veja \"Como limpar e preparar uma ferida antes de suturar\"."
+      ]
+    },
+    {
+      "titulo": "Fique atento aos sinais de leptospirose",
+      "texto": "Os sintomas aparecem de 1 a 30 dias depois do contato, geralmente entre 7 e 14 dias:\n\n• febre, dor de cabeça, falta de apetite, náusea e vômito;\n• dor muscular, principalmente na batata da perna (panturrilha);\n• às vezes diarreia, dor nas juntas e olhos vermelhos.\n\nCerca de 15% evoluem para a forma grave, em geral depois da primeira semana: pele e olhos amarelados, rins parando (pouca urina), sangramentos e tosse com sangue ou falta de ar. Nos casos graves, a morte pode chegar a 40%: é preciso hospital.",
+      "avisos": [
+        "Com esses sintomas depois de contato com enchente, procure atendimento cedo e diga que pisou em água ou lama de enchente."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Leptospirose — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/l/leptospirose"
+    },
+    {
+      "titulo": "Enchentes: cuidados com os alimentos — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-os-alimentos"
+    },
+    {
+      "titulo": "Enchentes: cuidados com risco de tétano — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-risco-de-tetano"
+    },
+    {
+      "titulo": "Enchentes: cuidados com animais peçonhentos — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-animais-peconhentos"
+    },
+    {
+      "titulo": "How to Safely Clean and Sanitize with Bleach — CDC",
+      "url": "https://www.cdc.gov/natural-disasters/safety/how-to-safely-clean-and-sanitize-with-bleach.html"
+    }
+  ]
+}
