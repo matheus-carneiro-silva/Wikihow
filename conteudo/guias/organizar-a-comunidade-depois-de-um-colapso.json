@@ -1,0 +1,104 @@
+{
+  "id": "organizar-a-comunidade-depois-de-um-colapso",
+  "titulo": "Como organizar a comunidade depois de um colapso",
+  "resumo": "Primeira reunião de vizinhos, cadastro de pessoas e habilidades, grupos de trabalho, mutirões e assembleia com regras simples para decidir juntos.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "vizinhos",
+    "mutirão",
+    "associação de moradores",
+    "NUDEC",
+    "defesa civil comunitária",
+    "assembleia",
+    "reunião de bairro",
+    "voluntários",
+    "apagão prolongado",
+    "liderança comunitária"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A organização comunitária soma, não substitui, a Defesa Civil, o Corpo de Bombeiros, o SAMU e a polícia. Assim que algum desses serviços estiver funcionando, procure-o, informe o que o grupo levantou e siga suas orientações. Nenhum grupo de vizinhos tem autoridade para punir, prender ou expulsar ninguém.",
+  "materiais": [
+    "Caderno ou folhas de papel e canetas",
+    "Prancheta ou papelão duro para anotar na rua",
+    "Cartolina ou quadro para o mural de avisos",
+    "Lanterna e apito (para reuniões à noite e chamados)"
+  ],
+  "passos": [
+    {
+      "titulo": "Convoque o primeiro encontro",
+      "texto": "Junte 3 ou 4 vizinhos de confiança e combine um local conhecido e acessível (praça, igreja, escola, garagem térrea), de dia, para que idosos e famílias com crianças possam ir. Avise de porta em porta e deixe um aviso escrito no mural ou no portão.\n\nRoteiro de 1 hora:\n\n• 5 min: apresentação e motivo (\"ninguém dá conta sozinho; vamos nos organizar até os serviços voltarem\");\n• 15 min: rodada rápida das urgências (doentes, quem está sem água ou comida);\n• 20 min: cadastro de pessoas e habilidades (passo 2);\n• 15 min: escolha provisória dos grupos de trabalho e de quem coordena;\n• 5 min: data e hora do próximo encontro.",
+      "dicas": [
+        "Não espere reunir todo mundo: comece com quem veio e vá incluindo os outros nas visitas de casa em casa.",
+        "Os Núcleos Comunitários de Defesa Civil (NUDEC) seguem essa ideia: moradores voluntários que se organizam para prevenir riscos, repassar alertas e prestar o socorro inicial. Se já existir NUDEC ou associação de moradores no bairro, parta deles."
+      ]
+    },
+    {
+      "titulo": "Faça o levantamento de pessoas, vulneráveis e habilidades",
+      "texto": "Visite cada casa (em dupla) e anote numa ficha por domicílio:\n\n• endereço e número de moradores, com idades;\n• quem precisa de cuidado especial: acamados, pessoas com deficiência, gestantes, bebês, idosos que moram sozinhos, quem usa remédio contínuo ou aparelho elétrico (oxigênio, CPAP);\n• habilidades: saúde (enfermagem, medicina, farmácia, cuidador), elétrica, mecânica, construção, agricultura e criação, cozinha, ensino, rádio amador, costura, contabilidade;\n• ferramentas e recursos que a casa topa emprestar.\n\nPergunte, não exija: cada família decide o que informa.",
+      "dicas": [
+        "Marque num mapa desenhado à mão as casas com pessoas vulneráveis: é o roteiro das visitas diárias."
+      ],
+      "avisos": [
+        "A lista de quem é vulnerável, de quem tem remédios ou estoque é informação sensível: guarde com 1 ou 2 pessoas de confiança e não pregue no mural."
+      ]
+    },
+    {
+      "titulo": "Monte o inventário de recursos comuns",
+      "texto": "Liste o que pode servir a todos e onde está: caixas-d'água e cisternas, poços, nascentes, hortas e árvores frutíferas, ferramentas, geradores e painéis solares, fogões a lenha, veículos com combustível, kits de primeiros socorros, salões que sirvam de abrigo.\n\nPara cada item anote: quantidade, estado, quem é o dono ou responsável e se é doação, empréstimo ou só uso combinado. O guia \"Como gerir recursos comuns\" mostra como registrar entradas e saídas e dividir sem esgotar.",
+      "dicas": [
+        "Escreva \"emprestado por\" e a data em cada item emprestado: devolver certo mantém a confiança para o próximo empréstimo."
+      ]
+    },
+    {
+      "titulo": "Divida o trabalho em grupos",
+      "texto": "Crie poucos grupos, cada um com 1 responsável e 1 substituto:\n\n• Água: fontes, tratamento, distribuição e higiene;\n• Comida: hortas, estoques, cozinha coletiva;\n• Saúde: lista de doentes e vulneráveis, primeiros socorros, remédios, saneamento;\n• Segurança e prevenção: rondas de observação, incêndio, riscos de desabamento ou enchente (sempre sem armas e sem agressão);\n• Comunicação: mural, mensageiros, rádio, contato com Defesa Civil e bairros vizinhos;\n• Cuidado: crianças, idosos e pessoas com deficiência.\n\nOs times do CERT (programa de voluntários de emergência dos EUA) seguem a mesma lógica de dividir funções, com treinamento em segurança contra incêndio, busca leve, primeiros socorros e organização de equipe.",
+      "dicas": [
+        "Cada pessoa em no máximo 2 grupos, para ninguém se esgotar. Quem não pode fazer esforço físico pode cuidar de registros, crianças ou comunicação."
+      ]
+    },
+    {
+      "titulo": "Organize mutirões com começo, meio e fim",
+      "texto": "Um mutirão funciona melhor com objetivo pequeno e concreto: limpar a calha e a caixa-d'água da escola, montar um banheiro seco, preparar canteiros, cortar lenha.\n\nAntes: defina o que será feito, quantas pessoas, quais ferramentas, quem leva água e lanche. Durante: um responsável pela segurança (luvas, calçado fechado, ninguém sozinho em altura). Depois: anote o que foi feito e quem participou no caderno da comunidade.",
+      "avisos": [
+        "Trabalho em altura, com eletricidade ou demolição só com quem tem experiência. Ninguém é obrigado a participar de tarefa perigosa."
+      ]
+    },
+    {
+      "titulo": "Combine como decidir na assembleia",
+      "texto": "Escreva as regras e leia em voz alta no começo de cada assembleia. Um modelo:\n\n1. Assembleia uma vez por semana, no mesmo dia e local; em urgência, a coordenação pode chamar outra.\n2. Quem quer falar levanta a mão; cada fala tem até 3 minutos.\n3. Primeiro se tenta o consenso; sem consenso, vota-se por maioria simples dos presentes, 1 morador maior de idade = 1 voto.\n4. Decisões que afetam todos (cotas de água, uso de um recurso comum) só valem se pelo menos metade das casas estiver representada.\n5. Toda decisão vai para a ata e para o mural.\n6. Nenhuma decisão pode tirar comida, água ou cuidado de saúde de alguém, nem autorizar violência.",
+      "dicas": [
+        "Quem não pode ir (acamado, cuidando de alguém) pode mandar recado ou voto por um vizinho."
+      ]
+    },
+    {
+      "titulo": "Faça a coordenação rodar e preste contas",
+      "texto": "Escolha uma coordenação de 3 pessoas por mandato curto, por exemplo 4 semanas, e troque pelo menos 1 delas a cada mandato. A coordenação marca reuniões e acompanha os grupos; não decide sozinha o que é da assembleia.\n\nEm toda assembleia, cada grupo diz em 2 minutos: o que fez, o que falta e o que precisa. Os registros de estoque e de distribuição ficam abertos para quem quiser conferir.",
+      "dicas": [
+        "Rodízio evita esgotamento, divide o poder e forma novas lideranças, inclusive jovens e mulheres que não costumavam falar em público."
+      ]
+    },
+    {
+      "titulo": "Inclua idosos, pessoas com deficiência e crianças",
+      "texto": "Pergunte a cada pessoa o que ela precisa e o que pode oferecer: um idoso pode ensinar a cozinhar no fogão a lenha ou a fazer conservas; uma pessoa em cadeira de rodas pode coordenar registros; adolescentes podem ser mensageiros.\n\nNa prática: reuniões em lugar sem escada, falas curtas e em voz alta, aviso escrito em letras grandes e também falado (para quem não lê ou não enxerga), um voluntário fixo que visita cada pessoa acamada ou que mora sozinha todos os dias.\n\nCrianças precisam de rotina e de um espaço seguro: um rodízio de adultos para brincadeiras e aulas reduz o estresse delas e libera os pais para o trabalho.",
+      "avisos": [
+        "Crianças nunca ficam sozinhas com um único adulto que não seja da família: combine que as atividades sejam sempre com pelo menos 2 adultos."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Formação de Núcleos Comunitários de Defesa Civil (NUDECs) — CARE Brasil, 2012",
+      "url": "https://dipecholac.net/docs/files/168-h-4-care-brasil-doc-sistematizacion.pdf"
+    },
+    {
+      "titulo": "Sistema de Proteção e Defesa Civil: Núcleos de Defesa Civil (Nudec) — Prefeitura de Belo Horizonte",
+      "url": "https://prefeitura.pbh.gov.br/obras-e-infraestrutura/defesa-civil/sistema-de-protecao-e-defesa-civil"
+    },
+    {
+      "titulo": "Community Emergency Response Team (CERT) — FEMA",
+      "url": "https://www.fema.gov/emergency-managers/individuals-communities/preparedness-activities-webinars/community-emergency-response-team"
+    }
+  ]
+}

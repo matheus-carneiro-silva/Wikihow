@@ -36,7 +36,7 @@
     },
     {
       "titulo": "Mande SOS em código Morse",
-      "texto": "SOS é o sinal de socorro internacional: três curtos, três longos, três curtos (· · · — — — · · ·), sem pausa entre as letras, e repetido. Pela regra do código Morse, o longo dura o mesmo que três curtos; o intervalo dentro da letra é de um curto, entre letras de três curtos e entre palavras de sete.\n\nÀ noite, use lanterna: acesa rápida para o ponto, acesa mais tempo para o traço. De dia, use apito ou bata num objeto de metal. O apito economiza a voz e o som vai mais longe: há casos documentados de apito ouvido a 1,6 km.",
+      "texto": "SOS é o sinal de socorro internacional: três curtos, três longos, três curtos (· · · — — — · · ·), repetido sem parar. Pela regra do código Morse, o longo dura o mesmo que três curtos; o intervalo dentro da letra é de um curto, entre letras de três curtos e entre palavras de sete.\n\nÀ noite, use lanterna: acesa rápida para o ponto, acesa mais tempo para o traço. De dia, use apito ou bata num objeto de metal. O apito economiza a voz e o som vai mais longe: há casos documentados de apito ouvido a 1,6 km.",
       "dicas": [
         "Entre uma série e outra, pare e escute por um minuto: alguém pode estar respondendo.",
         "Sem apito, use buzina de carro, panela ou cano de metal no mesmo ritmo."

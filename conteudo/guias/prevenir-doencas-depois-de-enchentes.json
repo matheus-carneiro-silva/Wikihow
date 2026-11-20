@@ -59,7 +59,7 @@
       "texto": "1. Abra portas e janelas.\n2. Tire a lama com rodo e pá, de botas e luvas.\n3. Lave pisos, paredes e móveis com água e sabão.\n4. Desinfete com a mistura de 400 mL (2 xícaras de chá) de água sanitária 2,5% em 20 L de água. Passe com pano ou espalhe e deixe agir 15 minutos.\n\nSeque a casa o mais rápido possível. Colchões, estofados, tapetes, carpetes e o que não puder ser bem limpo e seco em 24 a 48 horas deve ser jogado fora, porque cria mofo.",
       "avisos": [
         "Nunca misture água sanitária com amônia, vinagre, ácido muriático ou outros produtos de limpeza: soltam gases tóxicos.",
-        "Use óculos ao esfregar com água sanitária. Quem tem asma, alergia ou imunidade baixa deve ficar longe da limpeza de mofo."
+        "Use óculos ao esfregar com água sanitária. Para limpar mofo, use também máscara PFF2 (N95) e luvas."
       ]
     },
     {
@@ -83,20 +83,20 @@
       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/l/leptospirose"
     },
     {
-      "titulo": "Enchentes: cuidados com os alimentos — Ministério da Saúde",
-      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-os-alimentos"
+      "titulo": "Enchentes: água, alimentos, tétano e animais peçonhentos — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes"
     },
     {
-      "titulo": "Enchentes: cuidados com risco de tétano — Ministério da Saúde",
-      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-risco-de-tetano"
-    },
-    {
-      "titulo": "Enchentes: cuidados com animais peçonhentos — Ministério da Saúde",
-      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-animais-peconhentos"
+      "titulo": "Enchentes: cuidados com a água — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-a-agua"
     },
     {
       "titulo": "How to Safely Clean and Sanitize with Bleach — CDC",
       "url": "https://www.cdc.gov/natural-disasters/safety/how-to-safely-clean-and-sanitize-with-bleach.html"
+    },
+    {
+      "titulo": "8 Tips to Clean Up Mold — CDC",
+      "url": "https://www.cdc.gov/natural-disasters/psa-toolkit/8-tips-to-cleanup-mold.html"
     }
   ]
 }
