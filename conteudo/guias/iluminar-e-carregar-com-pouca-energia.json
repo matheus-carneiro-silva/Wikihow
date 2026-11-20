@@ -1,0 +1,94 @@
+{
+  "id": "iluminar-e-carregar-com-pouca-energia",
+  "titulo": "Como iluminar a casa e carregar o celular com pouca energia",
+  "resumo": "O primeiro degrau antes do sistema solar: lanternas LED, pilhas recarregáveis NiMH, power bank (quantas cargas de celular dá) e painel solar USB pequeno.",
+  "categoria": "energia-solar",
+  "tags": [
+    "lanterna",
+    "power bank",
+    "carregador portátil",
+    "bateria externa de celular",
+    "pilha recarregável",
+    "NiMH",
+    "painel solar USB",
+    "vela",
+    "apagão",
+    "quantas cargas"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Num apagão, use lanterna, não vela: incêndios são mais perigosos quando os bombeiros demoram a chegar. Nunca use lampião a gás ou querosene, fogareiro ou churrasqueira dentro de casa: o monóxido de carbono não tem cheiro e mata. Nunca recarregue pilha alcalina.",
+  "materiais": [
+    "Lanternas LED (uma por pessoa)",
+    "Pilhas recarregáveis NiMH e carregador",
+    "Power bank",
+    "Painel solar USB (opcional)"
+  ],
+  "passos": [
+    {
+      "titulo": "Comece pela luz LED",
+      "texto": "Tenha uma lanterna por pessoa da casa, de preferência de cabeça (deixa as mãos livres), e uma luminária LED para o cômodo. Luz LED gasta pouco: uma luminária USB de 3 W acesa 4 horas por noite consome 12 Wh, menos que uma carga de celular.",
+      "dicas": [
+        "Prefira lanternas que usem o mesmo tipo de pilha (AA ou AAA) ou que carreguem por USB: simplifica a reposição.",
+        "Deixe as lanternas sempre no mesmo lugar, fácil de achar no escuro."
+      ]
+    },
+    {
+      "titulo": "Use pilhas recarregáveis NiMH",
+      "texto": "Pilhas de níquel-metal-hidreto (NiMH) de baixa autodescarga, como as eneloop, guardam cerca de 70% da carga após 10 anos paradas (a 20 °C) e aguentam até cerca de 2.100 recargas, segundo o fabricante. Uma AA de 2.000 mAh e 1,2 V guarda 2,4 Wh; quatro delas, cerca de 10 Wh. Funcionam no frio, com duração menor.\n\nRecarregue só em carregador próprio para NiMH, que pode ser ligado num power bank ou painel USB.",
+      "avisos": [
+        "Não misture pilhas novas e usadas, nem de marcas ou tipos diferentes no mesmo aparelho: a mais fraca é forçada pelas outras e pode vazar."
+      ]
+    },
+    {
+      "titulo": "Calcule quantas cargas o power bank dá",
+      "texto": "A capacidade em mAh do power bank é medida a 3,7 V. Energia (Wh) = mAh × 3,7 ÷ 1000. Parte se perde na conversão para os 5 V do USB: fabricantes de marca calculam com 85%; para um power bank sem marca, use 70% por segurança.\n\nExemplo: 10.000 mAh × 3,7 ÷ 1000 = 37 Wh, dos quais sobram 26 a 31 Wh. Um celular de 4.000 mAh guarda 4.000 × 3,7 ÷ 1000 ≈ 15 Wh. Resultado: cerca de 1,5 a 2 cargas. Um de 20.000 mAh (74 Wh) dá cerca de 3 a 4 cargas.",
+      "dicas": [
+        "Mantenha os power banks carregados e recarregue a cada poucos meses: são a forma mais simples de guardar energia para o celular."
+      ]
+    },
+    {
+      "titulo": "Economize a bateria do celular",
+      "texto": "No apagão, o celular é rádio, lanterna e telefone. Baixe o brilho, ative o modo de economia de bateria, feche aplicativos e use o modo avião quando não precisar de sinal. Use a lanterna de verdade para iluminar, não a do celular. Carregue enquanto há energia sobrando, e não só quando a bateria estiver no fim."
+    },
+    {
+      "titulo": "Painel solar USB: ajuste a expectativa",
+      "texto": "Um painel dobrável USB entrega bem menos que a potência da etiqueta. Para estimar o teto diário, use a fórmula do guia de dimensionamento: potência × horas de sol pleno × 0,8. Um painel de 20 W num mês com 3 horas de sol pleno: 20 × 3 × 0,8 = 48 Wh por dia, no máximo umas 3 cargas de celular; na prática, menos, por causa das perdas do circuito USB, das nuvens e do ângulo.\n\nAponte o painel para o norte, inclinado na direção do sol, e reposicione ao longo do dia.",
+      "dicas": [
+        "Carregue o power bank no sol e o celular depois, à sombra: o calor prejudica as baterias.",
+        "Um medidor USB barato mostra tensão e corrente: assim você sabe quanto o painel realmente entrega."
+      ]
+    },
+    {
+      "titulo": "O que não fazer",
+      "texto": "Se precisar usar vela, coloque-a em suporte firme, a pelo menos 30 cm de tudo que queima, longe de crianças e animais, e apague ao sair do cômodo ou ir dormir. Nunca use vela perto de oxigênio medicinal.\n\nLampião a gás ou querosene, fogareiro, churrasqueira e gerador nunca podem funcionar dentro de casa, na garagem ou no abrigo do carro, mesmo com janelas abertas.",
+      "avisos": [
+        "Só recarregue pilhas marcadas como \"recarregável\": tentar recarregar alcalina aumenta muito o risco de vazamento e de estouro.",
+        "Power bank estufado, quente ou com cheiro: pare de usar e deixe longe de material inflamável."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "5000mAh power bank can charge how many times? — Anker",
+      "url": "https://ca.anker.com/blogs/power-banks/5000mah-power-bank-can-charge-how-many-times"
+    },
+    {
+      "titulo": "eneloop maintains 70% of charge for up to ten years — Panasonic (PR Newswire)",
+      "url": "https://prnewswire.com/news-releases/panasonic-eneloop-rechargeable-batteries-maintain-70-of-their-charge-for-up-to-ten-years-300079654.html"
+    },
+    {
+      "titulo": "Non-Rechargeable Batteries: FAQ — Energizer",
+      "url": "https://data.energizer.com/pdfs/non-rechargeable_faq.pdf"
+    },
+    {
+      "titulo": "Candle fire safety — U.S. Fire Administration (FEMA)",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle"
+    },
+    {
+      "titulo": "Avoiding Carbon Monoxide Poisoning — CDC",
+      "url": "https://www.cdc.gov/natural-disasters/psa-toolkit/avoiding-carbon-monoxide-poisoning.html"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "usar-nobreak-como-fonte-de-emergencia",
+  "titulo": "Como usar um nobreak como fonte de emergência",
+  "resumo": "Quanto um nobreak (UPS) aguenta de verdade: VA x W, autonomia da bateria de 12 V 7 Ah, o que não ligar nele, aquecimento e quando usar bateria externa.",
+  "categoria": "energia-solar",
+  "tags": [
+    "nobreak",
+    "UPS",
+    "no-break",
+    "autonomia",
+    "VA",
+    "bateria 7Ah",
+    "bateria externa",
+    "roteador",
+    "apagão",
+    "falta de energia"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nobreak comum não é feito para equipamentos de suporte à vida: os próprios fabricantes proíbem esse uso. Ele também guarda pouca energia, horas no máximo para cargas pequenas. Bateria externa só em modelos que a aceitam, com cabo e fusível adequados.",
+  "materiais": [
+    "Nobreak",
+    "Manual do nobreak (potência em W e tipo de onda)",
+    "Medidor de consumo de tomada (opcional)"
+  ],
+  "passos": [
+    {
+      "titulo": "Leia a potência em watts, não em VA",
+      "texto": "O número grande na caixa (600 VA, 1.200 VA) não é o que o nobreak entrega. Potência em watts = VA × fator de potência. Um modelo de 600 VA com fator 0,5 entrega só 300 W; com fator 0,8, um de 1.000 VA entrega 800 W. O valor em W costuma estar na etiqueta ou no manual.\n\nSome a potência dos aparelhos que vão ficar ligados e deixe 20 a 25% de folga.",
+      "dicas": [
+        "Nobreak é o melhor uso para cargas pequenas e contínuas: roteador, ONU da fibra, rádio, lâmpada LED, carregador de celular."
+      ]
+    },
+    {
+      "titulo": "Calcule a autonomia real",
+      "texto": "A maioria dos nobreaks pequenos tem uma bateria de chumbo-ácido selada de 12 V e 7 Ah: 12 × 7 = 84 Wh. Desconte 20 a 25% de perdas no inversor e porque ele desliga antes da descarga total (por volta de 10,2 V): sobram cerca de 63 Wh.\n\nExemplos: roteador e ONU somando 15 W, cerca de 4 horas; um computador com monitor de 150 W, uns 25 minutos. Quanto maior a carga, pior: a bateria rende menos em correntes altas.",
+      "dicas": [
+        "Desligue tudo o que não precisa do nobreak no apagão: cada watt a menos é mais tempo.",
+        "Muitos modelos têm a função \"DC start\", que liga o nobreak sem rede, desde que a bateria esteja carregada."
+      ]
+    },
+    {
+      "titulo": "Não ligue o que ele não aguenta",
+      "texto": "Os manuais proíbem ligar no nobreak: aparelhos com motor (geladeira, freezer, ventilador, liquidificador, furadeira, aspirador), micro-ondas, forno e outros eletrodomésticos de aquecimento, impressora a laser, copiadora, projetor e reatores eletromagnéticos. Esses aparelhos puxam picos acima da capacidade ou não funcionam com a onda do nobreak.\n\nTambém não ligue estabilizador na entrada ou na saída, nem o plugue do nobreak nas próprias tomadas dele.",
+      "avisos": [
+        "Nobreaks de onda semissenoidal (retangular) podem não funcionar com fontes que têm correção de fator de potência (PFC), comuns em computadores. Confira no manual; se precisar, use um modelo senoidal."
+      ]
+    },
+    {
+      "titulo": "Evite o aquecimento",
+      "texto": "Deixe pelo menos 10 cm livres em volta do nobreak, longe do sol direto e de fontes de calor, com temperatura ambiente abaixo de 40 °C e as entradas de ar sem poeira. Ele tem proteção contra sobreaquecimento e corta a saída se esquentar demais. Calor também encurta a vida da bateria.",
+      "avisos": [
+        "Cheiro de queimado, bateria estufada ou carcaça muito quente: desligue, tire da tomada e não use mais até avaliação."
+      ]
+    },
+    {
+      "titulo": "Recarregue assim que puder",
+      "texto": "O carregador interno é fraco: um modelo de 7 Ah carrega com cerca de 1 A e leva umas 8 a 10 horas para chegar a 90 a 100%. Num apagão longo, o nobreak não se recarrega sozinho: dependa dele só para as primeiras horas e planeje outra fonte para os dias seguintes (veja os guias de inversor, carro e gerador).",
+      "dicas": [
+        "Guardado sem uso, ligue-o na rede por 24 horas a cada 3 meses para manter a bateria."
+      ]
+    },
+    {
+      "titulo": "Bateria externa: só em modelo que aceita",
+      "texto": "Alguns nobreaks têm conector de engate rápido para bateria externa. Use só nesses, dentro do limite do manual (um modelo da TS Shara, por exemplo, aceita bateria de 12 V até 60 Ah, de preferência estacionária). Em 12 V a corrente é alta: 300 W na saída puxam cerca de 25 A da bateria, então use o cabo do fabricante ou de bitola adequada, com fusível perto da bateria, e isole bem os terminais (veja o guia de cabos e fusíveis CC).\n\nO carregador do nobreak pode levar dias para encher uma bateria grande: recarregue-a com carregador próprio ou controlador solar.",
+      "avisos": [
+        "Não abra o nobreak para trocar a bateria interna por uma de carro: anula a garantia, o carregador não dá conta e a bateria de chumbo-ácido libera gás inflamável na carga. Baterias externas ficam em local ventilado.",
+        "No fim da vida, a bateria do nobreak não pode ir para o lixo comum: leve a um ponto de coleta ou assistência técnica."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manual do usuário nobreak ATTIV 600/700 VA — Intelbras",
+      "url": "https://backend.intelbras.com/sites/default/files/2026-01/Manual_ATTIV_600VA_700VA_01-26_site.pdf"
+    },
+    {
+      "titulo": "Guia de compra de nobreak — Schneider Electric (APC)",
+      "url": "https://www.se.com/br/pt/work/support/product-support/ups-buying-guide-for-selecting-a-battery-backup-system"
+    },
+    {
+      "titulo": "Aumentando a autonomia do nobreak — Hardware.com.br",
+      "url": "https://www.hardware.com.br/dicas/autonomia-nobreak/amp/"
+    },
+    {
+      "titulo": "Manual nobreak UPS Gate (bateria externa) — TS Shara",
+      "url": "https://tsshara.com.br/wp-content/uploads/2026/08/manual-upsgate-torre-rev0.pdf"
+    }
+  ]
+}

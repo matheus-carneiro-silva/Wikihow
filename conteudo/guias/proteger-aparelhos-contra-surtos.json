@@ -1,0 +1,95 @@
+{
+  "id": "proteger-aparelhos-contra-surtos",
+  "titulo": "Como proteger os aparelhos contra surtos e raios",
+  "resumo": "Por que a volta da energia e os raios queimam aparelhos, DPS no quadro, filtro de linha, aterramento e como pedir ressarcimento à distribuidora (ANEEL).",
+  "categoria": "eletricidade",
+  "tags": [
+    "surto",
+    "raio",
+    "DPS",
+    "queimou",
+    "aparelho queimado",
+    "filtro de linha",
+    "protetor de surto",
+    "aterramento",
+    "ressarcimento",
+    "volta da energia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 12,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Instalar DPS e aterramento é trabalho no quadro energizado: chame um eletricista. Durante uma tempestade, não mexa em tomadas, cabos de antena nem no quadro; desligue tudo antes de ela chegar.",
+  "passos": [
+    {
+      "titulo": "Entenda o que queima os aparelhos",
+      "texto": "Surto é um pico de tensão de microssegundos, muito acima dos 127 ou 220 V normais. Ele chega pela rede elétrica, pelo cabo da antena ou da TV a cabo e pela linha de internet. As causas mais comuns em casa são raios que caem perto (não precisam atingir a casa) e manobras na rede, como o momento em que a energia volta depois de um apagão, que pode vir com picos momentâneos.",
+      "dicas": [
+        "Um aparelho pode sobreviver a um surto pequeno com dano interno e falhar dias depois."
+      ]
+    },
+    {
+      "titulo": "No apagão e na tempestade, tire da tomada",
+      "texto": "Quando a energia cair, tire da tomada TV, computador, roteador, micro-ondas e outros eletrônicos. Desligar pelo controle remoto não basta: em espera, o aparelho continua ligado à rede. Deixe uma lâmpada ligada para saber quando a energia voltar, espere alguns minutos até ela estabilizar e religue os aparelhos um por vez.\n\nCom tempestade chegando, desconecte também o cabo da antena externa e o da TV a cabo, antes dos raios começarem.",
+      "avisos": [
+        "Com raios caindo, não toque em tomadas, plugues, cabos nem aparelhos ligados à rede."
+      ]
+    },
+    {
+      "titulo": "Instale DPS no quadro",
+      "texto": "O dispositivo de proteção contra surtos (DPS) limita o pico e desvia a corrente do surto para o terra. A ABNT NBR 5410 exige DPS em instalações alimentadas por rede aérea em regiões com mais de 25 dias de trovoada por ano, o que abrange muitas casas atendidas por fios em postes.\n\nClasses: Classe II é a das residências, instalada no quadro de distribuição principal, o mais perto possível da entrada; Classe I (ou I+II) vai no ponto de entrada quando a casa tem para-raios (SPDA); Classe III é a proteção fina, perto do equipamento sensível, e só complementa as outras.",
+      "dicas": [
+        "Peça ao eletricista DPS com tensão adequada à sua rede (127 ou 220 V) e ao esquema de aterramento da casa."
+      ]
+    },
+    {
+      "titulo": "Confira a instalação do DPS",
+      "texto": "Pontos que o eletricista deve seguir: fios de ligação do DPS os mais curtos possíveis, sem curvas, somando no máximo 0,5 m; fio de terra do DPS de no mínimo 4 mm² para Classe II e 16 mm² para Classe I ou I+II; e disjuntor ou fusível de proteção no valor máximo indicado pelo fabricante do DPS.\n\nTodo DPS tem um indicador de estado. Olhe-o depois de cada tempestade forte: se indicar que atuou até o fim, troque o módulo, porque a casa ficou sem proteção.",
+      "avisos": [
+        "Não instale nem troque DPS com o quadro energizado: siga o guia de trabalhar com segurança em eletricidade ou chame um eletricista."
+      ]
+    },
+    {
+      "titulo": "Filtro de linha não é DPS",
+      "texto": "Uma régua de tomadas comum distribui energia e às vezes filtra ruído, mas não protege contra surtos só por ter fusível ou luz. Só conte com proteção se o fabricante informar que ela tem DPS (com a corrente de surto especificada). Mesmo assim, é proteção fina: complementa o DPS do quadro, não o substitui.",
+      "dicas": [
+        "Nenhuma proteção torna um aparelho imune a um raio direto: ela reduz o risco. Na tempestade, tirar da tomada continua sendo o mais seguro."
+      ]
+    },
+    {
+      "titulo": "Tenha aterramento de verdade",
+      "texto": "O DPS precisa de um aterramento bem feito para escoar o surto. Pela Lei 11.337, de 2006, edificações construídas desde que ela entrou em vigor são obrigadas a ter aterramento e tomadas com o pino terra. Tomada de três pinos sem o fio terra ligado não protege nada. Peça ao eletricista para verificar o aterramento e a ligação de todos os terras ao mesmo ponto (equipotencialização)."
+    },
+    {
+      "titulo": "Se queimou, peça ressarcimento",
+      "texto": "A distribuidora responde por danos elétricos causados pela rede, mesmo sem culpa, em residências. Pela Resolução ANEEL 1.000/2021, você tem até 5 anos para pedir, por telefone, agência ou internet, informando o número da unidade consumidora, a data e o horário prováveis do dano e o aparelho. Pedindo em até 90 dias, a empresa não pode exigir nota fiscal.\n\nPrazos da distribuidora: vistoria em até 1 dia útil para geladeira, freezer ou aparelho de guardar remédio, e em até 10 dias para os demais; resposta em 15 dias (30 dias se o pedido for após 90 dias); pagamento em até 20 dias após a aprovação, sem desconto pela idade do aparelho.",
+      "avisos": [
+        "Não conserte nem jogue fora antes da vistoria. Se precisar consertar antes, guarde dois orçamentos, o laudo do técnico, a nota do conserto e as peças trocadas, ou o pedido pode ser negado."
+      ],
+      "dicas": [
+        "Se for negado, reclame na Ouvidoria da distribuidora e depois na ANEEL (aplicativo ANEEL Consumidor ou consumidor.gov.br)."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Catálogo de Dispositivos de Proteção contra Surtos (DPS) — Siemens",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ef3c67bb-8a2c-4231-834c-3db57da09d8b/catalogo-dps.pdf"
+    },
+    {
+      "titulo": "DPS: o que é e quando é obrigatório — Engehall",
+      "url": "https://engehall.com.br/dps-para-que-serve-e-o-que-e/"
+    },
+    {
+      "titulo": "Filtro de linha protege a TV de raio? — Canaltech",
+      "url": "https://canaltech.com.br/tv/filtro-de-linha-protege-a-tv-de-raio-o-que-ele-realmente-faz/"
+    },
+    {
+      "titulo": "Resolução Normativa ANEEL nº 1.000/2021 (arts. 599 a 621)",
+      "url": "https://www.cemig.com.br/wp-content/uploads/2025/08/ren20211000.pdf"
+    },
+    {
+      "titulo": "Power Outages — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/power-outages"
+    }
+  ]
+}

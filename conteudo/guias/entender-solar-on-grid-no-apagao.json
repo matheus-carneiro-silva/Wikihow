@@ -1,0 +1,88 @@
+{
+  "id": "entender-solar-on-grid-no-apagao",
+  "titulo": "Como ter energia do solar on-grid durante um apagão",
+  "resumo": "Por que o inversor on-grid desliga quando a rede cai (anti-ilhamento, NBR 16149) e as opções seguras: inversor híbrido, tomada de emergência e sistema isolado.",
+  "categoria": "energia-solar",
+  "tags": [
+    "on-grid",
+    "conectado à rede",
+    "anti-ilhamento",
+    "ilhamento",
+    "inversor híbrido",
+    "backup",
+    "apagão",
+    "placa solar não funciona sem luz",
+    "falta de energia",
+    "grid-tie"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 12,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca tente fazer o sistema on-grid funcionar no apagão desativando proteções ou ligando outra fonte no quadro: a energia pode voltar pela rede e eletrocutar quem trabalha nela. Os painéis continuam gerando tensão perigosa em corrente contínua sempre que há luz, mesmo com o inversor desligado.",
+  "passos": [
+    {
+      "titulo": "Entenda por que ele desliga",
+      "texto": "O inversor on-grid (conectado à rede, ou grid-tie) usa a própria rede como referência de tensão e frequência. Quando a rede cai, a norma ABNT NBR 16149 exige que ele detecte a falta e se desconecte em até 2 segundos: é a proteção anti-ilhamento. Sem ela, os painéis continuariam alimentando um trecho da rede que os eletricistas da distribuidora acreditam estar desligado.\n\nPor isso, um sistema on-grid comum não fornece nada durante um apagão, mesmo ao meio-dia com sol forte. Isso é o funcionamento correto, não um defeito.",
+      "dicas": [
+        "Na etiqueta ou no manual do inversor, procure as palavras \"on-grid\", \"grid-tie\", \"híbrido\", \"backup\" ou \"EPS\" para saber o que você tem."
+      ]
+    },
+    {
+      "titulo": "Confira se o inversor tem tomada de emergência",
+      "texto": "Alguns inversores on-grid têm uma tomada própria para emergência, ativada por uma chave manual. É o caso da função Secure Power Supply de certos modelos da SMA, que fornece até cerca de 2.000 W sem bateria. Sem bateria, ela só funciona com sol e a potência acompanha a luz do momento: uma nuvem derruba a saída.\n\nO uso é manual: ligue a chave quando a rede cair e desligue quando ela voltar. Em alguns modelos, numa sobrecarga a tomada corta e tenta religar sozinha cerca de 20 segundos depois, reiniciando o que estiver ligado nela.",
+      "dicas": [
+        "Serve para carregar celulares, power banks e baterias de ferramentas, ligar um roteador ou um ventilador durante o dia."
+      ],
+      "avisos": [
+        "O fabricante proíbe ligar nessa tomada aparelhos que precisam de energia ininterrupta, como concentrador de oxigênio ou outro equipamento médico vital."
+      ]
+    },
+    {
+      "titulo": "Inversor híbrido: a solução com bateria",
+      "texto": "O inversor híbrido funciona como on-grid enquanto a rede existe e, quando ela cai, se separa da rede e passa a alimentar uma saída própria (backup ou EPS) com a energia dos painéis e das baterias. Essa saída atende só um circuito de cargas prioritárias, separado do resto da casa, e fica limitada à potência máxima do inversor.\n\nMonte o circuito prioritário pensando no essencial: iluminação, geladeira, tomadas para celular e roteador, bomba d'água e equipamentos médicos. Chuveiro, forno e ar-condicionado ficam de fora (veja o guia de cálculo de consumo).",
+      "avisos": [
+        "A troca do inversor ou a inclusão de baterias num sistema homologado deve ser feita pelo instalador, com projeto e comunicação à distribuidora."
+      ]
+    },
+    {
+      "titulo": "Sem trocar o inversor: bateria acoplada em CA",
+      "texto": "Outra opção para um sistema existente é acrescentar um inversor de bateria e um banco de baterias, mantendo o inversor on-grid. Nesse arranjo, é obrigatório um dispositivo que separe a casa da rede antes de formar a \"ilha\" (microrrede). É um projeto para profissional, não para improviso."
+    },
+    {
+      "titulo": "Ou monte um sistema isolado separado",
+      "texto": "A alternativa mais simples de entender é um pequeno sistema isolado (off-grid) independente: painéis próprios, controlador de carga, bateria e inversor, alimentando aparelhos ligados direto nele, sem nenhuma ligação com o quadro da casa nem com os painéis do on-grid. Veja os guias de dimensionamento e de montagem de sistema solar isolado.",
+      "avisos": [
+        "Se quiser reaproveitar painéis num controlador de carga, confira antes a tensão de circuito aberto (Voc) da série no dia mais frio: acima do máximo do controlador, ele queima (veja o guia de dimensionamento)."
+      ]
+    },
+    {
+      "titulo": "O que nunca fazer",
+      "texto": "Não desative, reconfigure ou tente \"enganar\" a proteção anti-ilhamento, por exemplo ligando um gerador ou inversor no quadro para o on-grid achar que a rede voltou. Não ligue nenhuma fonte na tomada da casa com cabo \"macho-macho\". Alimentar o quadro com outra fonte só com chave de transferência instalada por eletricista (veja o guia de gerador).",
+      "avisos": [
+        "Os cabos dos painéis no telhado continuam energizados com sol. Após temporal, com painel quebrado ou cabo solto, não suba nem toque: o lado de corrente contínua continua com tensão perigosa."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Proteção de anti-ilhamento dos inversores fotovoltaicos — Canal Solar",
+      "url": "https://canalsolar.com.br/protecao-de-anti-ilhamento-dos-inversores-fotovoltaicos/"
+    },
+    {
+      "titulo": "O que é um inversor solar híbrido? — Canal Solar",
+      "url": "https://canalsolar.com.br/o-que-e-um-inversor-solar-hibrido/"
+    },
+    {
+      "titulo": "Estamos preparados para os inversores híbridos? — Canal Solar",
+      "url": "https://canalsolar.com.br/estamos-preparados-para-os-inversores-hibridos/"
+    },
+    {
+      "titulo": "PV system during a power outage — SMA",
+      "url": "https://www.sma.de/en/home/solar-system-power-outage"
+    },
+    {
+      "titulo": "Secure power supply operation — manual SMA Sunny Boy Storage",
+      "url": "https://manuals.sma.de/SBSxx-10/en-US/180756363.html"
+    }
+  ]
+}

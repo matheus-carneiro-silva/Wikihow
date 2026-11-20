@@ -1,0 +1,101 @@
+{
+  "id": "religar-a-energia-depois-de-enchente",
+  "titulo": "Como religar a energia com segurança depois de uma enchente",
+  "resumo": "Fios caídos, quadro e tomadas molhados, secagem, o que trocar e quando chamar eletricista e distribuidora antes de religar a casa após enchente ou temporal.",
+  "categoria": "eletricidade",
+  "tags": [
+    "enchente",
+    "inundação",
+    "alagamento",
+    "temporal",
+    "fio caído",
+    "quadro molhado",
+    "tomada molhada",
+    "choque elétrico",
+    "Defesa Civil",
+    "religar energia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Água e eletricidade matam. Trate todo fio caído e toda instalação que ficou submersa como energizados, mesmo que o bairro esteja sem luz. Não entre em água onde possa haver tomadas, quadro ou cabos ligados. Emergência: Bombeiros 193, Defesa Civil 199, SAMU 192 e o telefone de emergência da distribuidora (impresso na conta de luz).",
+  "materiais": [
+    "Botas de borracha e luvas secas",
+    "Lanterna",
+    "Detector de tensão ou multímetro",
+    "Fita e aviso \"não ligar\""
+  ],
+  "passos": [
+    {
+      "titulo": "Se a água ainda não entrou, desligue tudo",
+      "texto": "Com aviso de enchente, desligue os aparelhos, tire-os da tomada, suba o que puder para lugares altos e desligue o disjuntor geral do quadro, desde que você esteja em local seco. Feche também o registro de água e o gás.\n\nSe a água já entrou na casa ou chegou ao quadro, não toque em nada elétrico e não tente desligar o disjuntor: saia e aguarde a distribuidora ou os bombeiros.",
+      "avisos": [
+        "Nunca ligue ou desligue disjuntor, interruptor ou aparelho com os pés na água ou com o corpo molhado."
+      ]
+    },
+    {
+      "titulo": "Fique longe de fios caídos",
+      "texto": "Todo cabo rompido deve ser tratado como energizado, mesmo sem faísca, fumaça ou barulho: não há como saber a olho nu. Mantenha todos a pelo menos 20 metros, isole a área e avise a distribuidora e os bombeiros (193). Não ande nem dirija por água onde haja fios caídos ou postes danificados, e evite encostar em postes metálicos de iluminação, semáforos e placas, que podem estar energizados por fuga de corrente.",
+      "avisos": [
+        "Se um fio cair sobre o carro, fique dentro dele e peça socorro. Não tente afastar fios com galhos, cabos de vassoura ou qualquer objeto."
+      ]
+    },
+    {
+      "titulo": "Volte para casa sem religar nada",
+      "texto": "Antes de ficar na casa, abra portas e janelas e deixe ventilar por pelo menos 30 minutos. Use lanterna, nunca vela. Mesmo com a rede do bairro desligada, considere a instalação energizada: a distribuidora pode estar religando a área, e geradores ou sistemas solares de vizinhos podem alimentar a rede por engano.\n\nSe o quadro de disjuntores só puder ser alcançado entrando na água, não vá: chame um eletricista.",
+      "dicas": [
+        "Antes de mexer, confirme com detector de tensão ou multímetro que a entrada do quadro está sem tensão (veja o guia de trabalhar com segurança em eletricidade)."
+      ]
+    },
+    {
+      "titulo": "Seque antes de qualquer teste",
+      "texto": "Com o disjuntor geral desligado e travado, abra as tomadas, interruptores e caixas que pegaram água e deixe escorrer e evaporar. Eletrodutos (conduítes) com água por dentro podem levar dias para secar; ligar a energia com eles úmidos pode fazer a corrente fugir pelas paredes e causar choques fortes e até morte.\n\nDepois de secar, espere pelo menos mais 1 dia e só então faça (ou peça a um eletricista) o teste de isolamento de cada circuito. Motores de bomba, geladeira e freezer precisam de teste próprio com megôhmetro.",
+      "avisos": [
+        "Um multímetro comum não substitui o teste de isolamento feito por profissional com megôhmetro."
+      ]
+    },
+    {
+      "titulo": "Troque o que ficou submerso",
+      "texto": "A orientação técnica é substituir, e não secar e reaproveitar, os disjuntores (inclusive o DR), as tomadas e os interruptores que ficaram debaixo d'água. Fios e cabos que ficaram submersos também devem ser trocados, exceto os próprios para locais molhados ou enterramento cujas emendas não foram atingidas. O quadro em si precisa de avaliação: barramentos expostos podem corroer depois.\n\nSe o medidor (relógio) ou o padrão de entrada ficaram submersos, avise a distribuidora: a rede até o medidor é responsabilidade dela.",
+      "dicas": [
+        "Ao trocar, aproveite para instalar DR no quadro: ele desliga o circuito quando há fuga de corrente, como acontece com isolamento úmido."
+      ]
+    },
+    {
+      "titulo": "Não ligue aparelhos molhados",
+      "texto": "Todo aparelho que pegou água deve estar completamente seco por dentro e ser avaliado por técnico antes de voltar a ser ligado: lama nos motores e chaves pode causar dano grave e choque. Eletrodomésticos grandes, aquecedores de água, bombas e seus comandos que ficaram submersos costumam ter de ser substituídos (bombas submersas próprias para isso são exceção).",
+      "avisos": [
+        "Descarte alimentos que tiveram contato com água da enchente e perecíveis que ficaram sem refrigeração. Na dúvida, jogue fora."
+      ]
+    },
+    {
+      "titulo": "Religue um circuito por vez",
+      "texto": "Com tudo seco, trocado e testado, e todos os aparelhos fora da tomada: ligue o disjuntor geral e depois um circuito de cada vez. A cada um, confira cheiro de queimado, aquecimento, faíscas ou o DR desarmando. Qualquer um desses sinais: desligue de novo e chame um eletricista.",
+      "avisos": [
+        "Disjuntor ou DR que desarma de novo está avisando de um defeito: não force o religamento nem troque por um disjuntor maior."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Inspeção de instalações elétricas após inundações — Unipampa",
+      "url": "https://sites.unipampa.edu.br/propladi/files/2019/05/procedimentos-de-inspecao-eletrica-pos-inundacao.pdf"
+    },
+    {
+      "titulo": "Saiba como agir para evitar acidentes com energia elétrica durante eventos climáticos severos — Governo do RS",
+      "url": "https://estado.rs.gov.br/saiba-como-agir-para-evitar-acidentes-com-energia-eletrica-durante-eventos-climaticos-severos"
+    },
+    {
+      "titulo": "Safety Guidelines: Reentering Your Flooded Home — CDC",
+      "url": "https://www.cdc.gov/floods/safety/reentering-your-flooded-home-safety.html"
+    },
+    {
+      "titulo": "Recommendations for electrical equipment damaged by floodwaters — Minnesota DLI",
+      "url": "https://www.dli.mn.gov/workers/homeowners/recommendations-electrical-equipment-damaged-floodwaters"
+    },
+    {
+      "titulo": "Saiba o que fazer caso um fio energizado caia na rua ou sobre um carro — Gazeta SP",
+      "url": "https://www.gazetasp.com.br/cotidiano/saiba-o-que-fazer-caso-um-fio-energizado-caia-na-rua-ou-sobre-um-carro/"
+    }
+  ]
+}
