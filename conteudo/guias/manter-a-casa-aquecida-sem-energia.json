@@ -1,0 +1,139 @@
+{
+  "id": "manter-a-casa-aquecida-sem-energia",
+  "titulo": "Como manter a casa aquecida sem energia",
+  "resumo": "Frio sem luz, sem chuveiro elétrico e sem aquecedor: concentre todos num cômodo, vede as correntes de ar, use roupas em camadas, durma isolado do chão e use bolsa de água quente com segurança. Nunca use braseiro, gerador ou fogareiro dentro de casa: monóxido de carbono mata.",
+  "categoria": "abrigo",
+  "tags": [
+    "frio",
+    "inverno",
+    "aquecer a casa",
+    "aquecimento",
+    "sem aquecedor",
+    "cobertor",
+    "agasalho",
+    "braseiro",
+    "monóxido de carbono",
+    "bolsa de água quente",
+    "hipotermia",
+    "idoso com frio",
+    "bebê com frio",
+    "geada",
+    "onda de frio"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca use braseiro, churrasqueira, carvão, fogareiro, fogão a gás, forno, gerador ou motor de carro para aquecer a casa, nem com a janela aberta. Eles soltam monóxido de carbono, gás sem cheiro que mata quem está dormindo antes de dar sintomas. Lareira e fogão a lenha só se tiverem chaminé que leve a fumaça para fora. Pessoa com temperatura abaixo de 35 °C, confusa ou sonolenta é emergência: ligue 192 (SAMU) ou 193 (Bombeiros) se houver sinal.",
+  "materiais": [
+    "Cobertores, edredons e sacos de dormir (pelo menos um por pessoa)",
+    "Roupas em camadas: segunda pele de lã ou sintético, blusa de lã ou fleece, casaco corta-vento",
+    "Gorro, meias grossas e luvas",
+    "Toalhas, cobertores velhos ou papelão para vedar portas e janelas",
+    "Lona ou plástico grosso e fita adesiva larga",
+    "Colchonetes, tapetes ou papelão para isolar do chão",
+    "Bolsa de água quente com capa ou toalha",
+    "Termômetro de ambiente e termômetro clínico",
+    "Lanterna (em vez de vela)"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha um cômodo para aquecer",
+      "texto": "Não tente aquecer a casa toda. Se a falta de energia passar de algumas horas, escolha um ou dois cômodos e reúna ali todas as pessoas (e os animais): o calor do corpo de cada um ajuda a esquentar o ambiente.\n\nPrefira um cômodo pequeno, com poucas janelas e, se possível, com janela virada para o norte: no Brasil, é o lado que mais recebe sol no inverno. Feche as portas dos outros cômodos e evite abrir e fechar portas e janelas sem necessidade.\n\nDentro do cômodo, dá para armar uma barraca ou uma \"cabana\" com cobertores e almofadas do sofá: o espaço menor segura mais o calor.",
+      "dicas": [
+        "Ponha um termômetro de ambiente no cômodo e confira várias vezes ao dia, principalmente se houver idosos: com a idade, a pessoa sente menos o frio."
+      ]
+    },
+    {
+      "titulo": "Vede as correntes de ar e aproveite o sol",
+      "texto": "Enfie toalhas ou panos enrolados nas frestas embaixo das portas. Vede frestas de janelas com fita adesiva e, se tiver, cubra o vidro por dentro com plástico ou lona presa com fita.\n\nDe dia, abra cortinas e persianas das janelas que pegam sol para deixar o calor entrar. Quando o sol sair da janela e à noite, feche as cortinas e cubra os vidros com cobertores para segurar o calor.",
+      "avisos": [
+        "Não vede tudo se houver qualquer chama no cômodo (lareira, fogão a lenha, lampião): toda queima precisa de ar e de saída para a fumaça. Veja o passo sobre fogo e monóxido de carbono."
+      ]
+    },
+    {
+      "titulo": "Vista-se em camadas e fique seco",
+      "texto": "Várias camadas soltas esquentam mais que uma peça grossa, porque prendem ar junto ao corpo:\n\n• Camada de baixo, encostada na pele: lã, seda ou tecido sintético (como poliéster de roupa esportiva) seguram mais calor que algodão.\n• Camada do meio, isolante: blusa de lã, fleece, moletom.\n• Camada de fora: casaco que corte o vento.\n\nUse gorro, meias e luvas também dentro de casa. Roupa molhada, inclusive de suor, esfria o corpo rápido: troque assim que puder.",
+      "dicas": [
+        "Coma refeições completas e beba bebidas quentes e doces ou caldos: o corpo precisa de combustível para produzir calor.",
+        "Evite bebida alcoólica e café: fazem o corpo perder calor mais rápido."
+      ]
+    },
+    {
+      "titulo": "Durma aquecido e isolado do chão",
+      "texto": "O chão frio rouba muito calor. Nunca durma direto no piso: ponha colchão, colchonete, tapete, papelão em várias camadas ou um cobertor dobrado embaixo de você. Essa camada de baixo importa tanto quanto as cobertas de cima.\n\nDurma de gorro e meias, com um cobertor ou saco de dormir por pessoa. Adultos e crianças maiores podem dormir juntos para dividir o calor.",
+      "avisos": [
+        "Bebê com menos de 1 ano nunca deve dormir em cômodo frio. Nada de cobertor solto, travesseiro ou edredom no berço: vista o bebê com macacão com pé, saco de dormir infantil ou cobertor de vestir, com no máximo uma camada a mais do que um adulto usaria. Suor ou peito quente indicam excesso de roupa.",
+        "Não ponha o bebê para dormir na cama dos adultos entre cobertores pesados para esquentar: há risco de sufocação."
+      ]
+    },
+    {
+      "titulo": "Use bolsa de água quente com segurança",
+      "texto": "Aqueça a água no fogão (a gás, a lenha ou solar, sempre com ventilação) e espere esfriar até ficar quente, sem ferver: água fervente queima feio e enfraquece a borracha, que pode estourar.\n\nEncha com cuidado, sobre a pia, sem encher demais; tire o ar que sobrar e feche bem a tampa. Use sempre com capa ou enrolada numa toalha, nunca encostada direto na pele, e não deixe no mesmo lugar do corpo por mais de 20 minutos seguidos.\n\nO melhor uso é aquecer a cama antes de deitar e tirar a bolsa ao entrar. Não sente, não deite e não apoie os pés sobre ela.",
+      "dicas": [
+        "Sem bolsa, uma garrafa com tampa de rosca que vede bem, cheia de água quente (não fervente) e enrolada em toalha, faz o mesmo papel. Confira se não vaza antes de levar para a cama."
+      ],
+      "avisos": [
+        "Não use bolsa de água quente em bebês e crianças pequenas, nem em pessoas com diabetes ou com pouca sensibilidade nos pés e mãos: elas se queimam sem perceber.",
+        "Jogue fora bolsa rachada, ressecada, desbotada ou que vaze. O fabricante recomenda trocar todo ano, mesmo que pareça boa."
+      ]
+    },
+    {
+      "titulo": "Nunca aqueça a casa com fogo sem chaminé",
+      "texto": "Braseiro, churrasqueira, carvão (de qualquer tipo), fogareiro de camping, fogão a gás ou forno aceso para esquentar, gerador e carro ligado na garagem soltam monóxido de carbono (CO). O gás não tem cor nem cheiro e se acumula mesmo com porta ou janela aberta. Quem está dormindo ou bêbado pode morrer sem acordar.\n\nGerador, churrasqueira e fogareiro só ao ar livre, a pelo menos 6 m de portas e janelas: veja \"Como usar um gerador portátil com segurança\". Lareira, fogão a lenha e aquecedor a querosene só se tiverem ventilação e chaminé para fora. Não queime papel na lareira.\n\nQualquer fonte de calor fica a pelo menos 1 m de cortinas, móveis, roupa de cama e outros materiais que pegam fogo. Apague antes de dormir e nunca deixe criança sozinha perto dela. Para iluminar, prefira lanterna a vela: veja \"Como iluminar a casa e carregar o celular com pouca energia\".",
+      "avisos": [
+        "Sinais de intoxicação por CO: dor de cabeça, tontura, fraqueza, enjoo, vômito, dor no peito e confusão. Parece gripe ou intoxicação alimentar. Se várias pessoas da casa sentirem isso ao mesmo tempo, tire todos para o ar livre na hora e procure atendimento.",
+        "Se tiver detector de monóxido de carbono a pilha, deixe perto de onde as pessoas dormem."
+      ]
+    },
+    {
+      "titulo": "Proteja idosos e bebês da hipotermia",
+      "texto": "Idosos e bebês perdem calor mais rápido e nem sempre reclamam. Em idosos, a hipotermia pode começar mesmo dentro de casa, com o ambiente entre 16 °C e 18 °C. A OMS recomenda pelo menos 18 °C dentro de casa no frio, e mais para idosos, crianças e doentes crônicos.\n\nSinais de hipotermia no adulto: tremedeira, cansaço, confusão, mãos desajeitadas, perda de memória, fala enrolada e sonolência. No bebê: pele vermelho-viva e fria e muito pouca energia. Com temperatura do corpo abaixo de 35 °C, é emergência.\n\nO que fazer: leve a pessoa para o cômodo mais quente, tire roupa molhada e aqueça primeiro o centro do corpo (peito, pescoço, cabeça e virilha) com cobertores secos ou com contato pele a pele sob as cobertas. Se estiver consciente, dê bebida morna e doce; nunca álcool. Detalhes no guia \"Como tratar hipotermia e insolação\".\n\nVisite vizinhos idosos e quem mora sozinho pelo menos uma vez por dia nas noites frias.",
+      "avisos": [
+        "Pessoa inconsciente: não dê nada pela boca. Se não respira, comece a reanimação e continue aquecendo até chegar ajuda.",
+        "Se não conseguir manter a casa aquecida para um bebê ou idoso, leve-os para a casa de alguém que consiga ou para um abrigo da Defesa Civil."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Safety Guidelines: During & After a Winter Storm — CDC",
+      "url": "https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html"
+    },
+    {
+      "titulo": "Preventing Hypothermia (Winter Weather) — CDC",
+      "url": "https://www.cdc.gov/winter-weather/prevention/index.html"
+    },
+    {
+      "titulo": "Carbon Monoxide Poisoning Basics — CDC",
+      "url": "https://www.cdc.gov/carbon-monoxide/about/index.html"
+    },
+    {
+      "titulo": "Winter Weather — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/winter-weather"
+    },
+    {
+      "titulo": "Keeping warm when the power goes out — HealthyChildren.org (Academia Americana de Pediatria)",
+      "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/warm-when-the-power-goes-out.aspx"
+    },
+    {
+      "titulo": "A Parent's Guide to Safe Sleep — HealthyChildren.org (AAP)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    },
+    {
+      "titulo": "Hot water bottles — Product Safety Australia (ACCC)",
+      "url": "https://www.productsafety.gov.au/products/health-lifestyle/personal/personal-care/hot-water-bottles"
+    },
+    {
+      "titulo": "Hypothermia: a cold weather hazard for seniors — NIH/National Institute on Aging",
+      "url": "https://www.nih.gov/news-events/news-releases/hypothermia-cold-weather-hazard-seniors"
+    },
+    {
+      "titulo": "WHO Housing and Health Guidelines, cap. 4 (temperaturas baixas dentro de casa) — OMS",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535294/"
+    },
+    {
+      "titulo": "Winter cold: warm and safe — Be Ready Utah",
+      "url": "https://beready.utah.gov/post/january-2025-winter-cold-warm-and-safe/"
+    }
+  ]
+}

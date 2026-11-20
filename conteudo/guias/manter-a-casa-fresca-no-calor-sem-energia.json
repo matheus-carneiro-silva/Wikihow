@@ -1,0 +1,114 @@
+{
+  "id": "manter-a-casa-fresca-no-calor-sem-energia",
+  "titulo": "Como manter a casa fresca no calor sem energia",
+  "resumo": "Onda de calor sem ventilador nem ar-condicionado: feche e sombreie a casa de dia, abra à noite com ventilação cruzada, resfrie o corpo com água, beba água sem esperar a sede e vigie idosos, bebês e doentes crônicos.",
+  "categoria": "abrigo",
+  "tags": [
+    "calor",
+    "onda de calor",
+    "verão",
+    "casa quente",
+    "refrescar",
+    "sem ventilador",
+    "sem ar-condicionado",
+    "ventilação cruzada",
+    "sombra",
+    "hidratação",
+    "desidratação",
+    "insolação",
+    "golpe de calor",
+    "idoso no calor",
+    "bebê no calor"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Golpe de calor é emergência e pode matar: pele quente, confusão, convulsão ou desmaio exigem resfriar a pessoa na hora (água fria no corpo todo) e chamar o 192 (SAMU) ou 193 (Bombeiros). Nunca deixe criança, idoso ou animal dentro de carro parado, nem por poucos minutos.",
+  "materiais": [
+    "Lençóis, cobertores claros, papelão ou lona clara para fazer sombra",
+    "Água para beber (mais do que o normal) e garrafa para carregar",
+    "Baldes, bacias, panos e borrifador para molhar a pele",
+    "Roupas leves, largas e de cor clara",
+    "Chapéu de aba larga",
+    "Termômetro de ambiente"
+  ],
+  "passos": [
+    {
+      "titulo": "Feche e sombreie a casa durante o dia",
+      "texto": "De manhã, antes de esquentar, feche janelas, cortinas e persianas do lado onde bate sol. Se a janela não tem cortina, pendure lençol, cobertor claro ou papelão.\n\nSombra do lado de fora funciona melhor que cortina por dentro, porque o calor não chega a entrar no vidro: estique lençol, lona clara ou toldo improvisado na frente das janelas que pegam sol. No Brasil, as fachadas viradas para o oeste (sol forte da tarde) e para o norte são as que mais esquentam na maior parte do ano.\n\nEsquente menos a casa por dentro: cozinhe nos horários mais frescos ou do lado de fora e apague o que estiver aceso.",
+      "dicas": [
+        "Mantenha as janelas fechadas enquanto lá fora estiver mais quente que dentro; abrir só deixa o ar quente entrar."
+      ]
+    },
+    {
+      "titulo": "Abra à noite e faça ventilação cruzada",
+      "texto": "Assim que o ar de fora ficar mais fresco que o de dentro (fim da tarde, noite e madrugada), abra tudo. Abra janelas em lados opostos da casa e deixe as portas internas abertas: o vento entra por um lado, atravessa os cômodos e sai pelo outro.\n\nO ar quente sobe. Se der, abra uma abertura baixa do lado de onde vem o vento e uma alta (janela de cima, basculante, alçapão) do outro lado: o ar quente sai por cima e puxa o fresco por baixo.\n\nDe manhã cedo, antes de esquentar, feche de novo e sombreie.",
+      "avisos": [
+        "Em região úmida e quente, onde a noite também é abafada, a ventilação ajuda menos. Priorize a sombra, resfriar o corpo com água e ficar no cômodo mais fresco.",
+        "Janela aberta à noite pede cuidado com segurança e com crianças pequenas perto de janelas altas."
+      ]
+    },
+    {
+      "titulo": "Fique no cômodo mais fresco",
+      "texto": "Identifique o cômodo mais fresco da casa, de preferência no térreo e com menos sol, e passe nele as horas mais quentes. Use também esse cômodo para dormir.\n\nFicar 2 a 3 horas por dia num lugar fresco já ajuda o corpo a se recuperar. Se a casa ficar quente demais, procure um lugar mais fresco: casa de parente, igreja, escola ou ponto de resfriamento organizado pela comunidade ou pela Defesa Civil.",
+      "dicas": [
+        "Use roupa de cama leve e roupas largas, leves e de cor clara."
+      ]
+    },
+    {
+      "titulo": "Resfrie o corpo com água",
+      "texto": "Molhe a pele e a roupa com água fresca: o corpo esfria quando a água evapora. Passe um pano úmido no rosto, na nuca e nos braços, use borrifador ou tome banho frio ou de balde. Repita sempre que secar.\n\nAbanar (leque, papelão) ou ventilador a pilha ajuda a evaporar a água. Mas, com a temperatura dentro de casa acima de cerca de 32 °C, só ventilar o ar quente deixa de refrescar e pode até esquentar o corpo: aí use água na pele e procure lugar mais fresco.",
+      "dicas": [
+        "Pés numa bacia de água fresca e um pano molhado no pescoço refrescam e gastam pouca água."
+      ]
+    },
+    {
+      "titulo": "Beba água antes de ter sede",
+      "texto": "Beba água com regularidade ao longo do dia, mesmo sem sede, e mais do que o normal. Urina clara ou amarelo-clara indica que você está bebendo o suficiente; urina escura e pouca indica que falta água.\n\nSe precisar trabalhar no calor (carregar água, consertar, plantar), beba cerca de 250 mL (um copo) a cada 15 a 20 minutos e faça pausas na sombra. Não passe de cerca de 1,4 L por hora: água demais dilui o sal do sangue e também é perigoso. Se suar muito por várias horas, alterne com soro de reidratação: veja \"Como preparar e dar soro de reidratação oral\".\n\nEvite bebida alcoólica, café, refrigerante e bebidas muito doces. Prefira refeições leves, como frutas e saladas.",
+      "avisos": [
+        "Quem tem restrição de líquidos por problema de coração ou rim, ou usa diurético, deve combinar com o médico quanto beber no calor; não ajuste remédios por conta própria."
+      ]
+    },
+    {
+      "titulo": "Evite o sol e o esforço nas horas mais quentes",
+      "texto": "Fique na sombra principalmente entre 11h e 15h. Deixe as tarefas pesadas e as caminhadas para o começo da manhã ou o fim da tarde.\n\nSe precisar sair, use chapéu de aba larga, roupa clara e larga e protetor solar, carregue água e pare na sombra com frequência. Quem não está acostumado ao calor deve fazer tarefas mais leves e descansar mais vezes."
+    },
+    {
+      "titulo": "Cuide dos grupos de risco",
+      "texto": "Correm mais risco: bebês e crianças até 5 anos, pessoas com 65 anos ou mais, gestantes, pessoas com doença do coração, dos rins, respiratória (como asma), de circulação, diabetes ou transtorno mental, quem usa certos remédios, quem trabalha no sol e quem mora sozinho ou na rua.\n\nVisite os idosos e doentes sob seu cuidado pelo menos duas vezes por dia. Veja se estão bebendo água, se o cômodo está fresco e se há sinais de mal-estar. Ofereça líquidos o tempo todo a crianças, idosos e gestantes.\n\nSinais de alerta: suor excessivo, fraqueza, tontura, enjoo, dor de cabeça, cãibras e diarreia. Leve para a sombra, deite, refresque com água e dê líquidos. Pele quente e seca, confusão, convulsão ou desmaio indicam golpe de calor: resfrie imediatamente e chame socorro. O tratamento completo está em \"Como tratar hipotermia e insolação\".",
+      "avisos": [
+        "Nunca deixe criança, idoso, pessoa dependente ou animal dentro de carro fechado ou parado ao sol."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Calor (ondas de calor) — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calor"
+    },
+    {
+      "titulo": "About Heat and Your Health — CDC",
+      "url": "https://www.cdc.gov/heat-health/about/index.html"
+    },
+    {
+      "titulo": "Heat and Older Adults (Aged 65+) — CDC",
+      "url": "https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html"
+    },
+    {
+      "titulo": "Heat Stress: Workplace Recommendations — CDC/NIOSH",
+      "url": "https://www.cdc.gov/niosh/heat-stress/recommendations/index.html"
+    },
+    {
+      "titulo": "#KeepCool in the heat — OMS Europa",
+      "url": "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat"
+    },
+    {
+      "titulo": "Heatwave: how to cope in hot weather — NHS",
+      "url": "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/"
+    },
+    {
+      "titulo": "Home Cooling — Energy Saver (Departamento de Energia dos EUA)",
+      "url": "https://energy.gov/energysaver/heat-and-cool/home-cooling"
+    }
+  ]
+}

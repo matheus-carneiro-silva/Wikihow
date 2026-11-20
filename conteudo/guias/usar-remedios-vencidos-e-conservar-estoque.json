@@ -1,0 +1,168 @@
+{
+  "id": "usar-remedios-vencidos-e-conservar-estoque",
+  "titulo": "Como decidir sobre remédios vencidos e conservar o estoque sem energia",
+  "resumo": "O que se sabe sobre remédio vencido (estudo SLEP), quais nunca usar vencidos ou mal guardados, como conservar remédios e insulina sem geladeira no calor e como montar e girar um estoque caseiro.",
+  "categoria": "medicacoes",
+  "tags": [
+    "remédio vencido",
+    "medicamento vencido",
+    "prazo de validade",
+    "validade",
+    "farmácia caseira",
+    "estoque de remédios",
+    "insulina sem geladeira",
+    "pote de barro",
+    "calor",
+    "umidade",
+    "nitroglicerina",
+    "isordil",
+    "tetraciclina",
+    "colírio",
+    "xarope",
+    "suspensão",
+    "posso tomar remédio vencido"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo. A data de validade é a única garantia de que o remédio funciona e é seguro: enquanto houver farmácia ou posto de saúde, troque o que venceu. As orientações sobre usar vencido valem só quando não existe alternativa. Insulina, nitroglicerina, remédios líquidos e colírios vencidos ou mal guardados podem falhar exatamente quando a vida depende deles.",
+  "materiais": [
+    "Caixa ou pote plástico com tampa para os remédios",
+    "Saquinhos de sílica que vêm nos frascos (não jogue fora)",
+    "Caneta e papel para lista e etiquetas com datas",
+    "Caixa térmica ou pote de barro não esmaltado (para insulina e remédios sensíveis ao calor)",
+    "Termômetro simples, se tiver"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o que a validade significa",
+      "texto": "A validade é a data até a qual o fabricante garante a dose e a segurança do remédio, desde que guardado como diz a bula. Depois dela, a FDA (agência dos EUA) diz que não há garantia: o remédio pode ter perdido força ou mudado quimicamente.\n\nO estudo mais conhecido sobre isso é o SLEP, programa da FDA para os estoques militares dos EUA. Foram testados 3.005 lotes de 122 medicamentos guardados em depósitos com temperatura e umidade controladas. 88% dos lotes ganharam pelo menos 1 ano a mais de validade, com média de 66 meses, mas a variação entre lotes foi grande: só o teste de cada lote garante a qualidade.\n\nResumo prático: muitos comprimidos e cápsulas bem guardados continuam bons por um tempo depois da data. Isso não vale para tudo, e o remédio do armário de casa, que passou calor e umidade, não é igual ao do depósito controlado.",
+      "avisos": [
+        "Antibiótico fraco pode não curar a infecção, deixá-la piorar e criar resistência. Em infecção grave, um antibiótico dentro da validade vem sempre primeiro."
+      ]
+    },
+    {
+      "titulo": "Saiba quais nunca usar vencidos ou mal guardados",
+      "texto": "Troque assim que puder, e não conte com eles depois do prazo:\n\n• Insulina: perde efeito com calor e depois do prazo de uso. Veja o passo sobre insulina abaixo.\n• Nitroglicerina sublingual (comprimido debaixo da língua para angina): é sensível a calor, umidade e luz. Remédio fraco aqui significa dor no peito sem alívio.\n• Tetraciclina vencida: degrada e pode causar a síndrome de Fanconi, uma lesão nos rins. Descarte quando vencer.\n• Suspensões que você preparou com água (antibióticos em pó para criança, como amoxicilina): depois de misturadas valem só os dias escritos na bula, em geral de 7 a 14 dias, conforme a marca e se ficam ou não na geladeira.\n• Colírios: depois de aberto, o frasco de uso múltiplo deve ir fora em 4 semanas, ou antes se a bula disser. Colírio sem conservante em flaconete de dose única: use e descarte no mesmo dia.\n• Qualquer remédio líquido, injetável ou que deveria ficar na geladeira e ficou fora.",
+      "avisos": [
+        "Na suspensão já preparada, se a bula sumiu, conte no máximo 7 dias fora da geladeira: é o menor prazo encontrado nas bulas de amoxicilina."
+      ]
+    },
+    {
+      "titulo": "Adrenalina: vencida é melhor que nenhuma",
+      "texto": "Num estudo com 40 canetas de adrenalina (EpiPen) vencidas de 1 a 50 meses, todas ainda tinham pelo menos 80% da dose do rótulo, e a maioria tinha mais de 90%.\n\nPor isso, numa anafilaxia sem outra opção, use a adrenalina vencida se o líquido estiver incolor e sem partículas, e consiga uma nova assim que puder. Veja \"Como reconhecer e tratar anafilaxia com adrenalina\".",
+      "avisos": [
+        "Adrenalina rosada, marrom ou com partículas oxidou: só use se não houver absolutamente nada mais e a pessoa estiver morrendo."
+      ]
+    },
+    {
+      "titulo": "Examine o remédio antes de usar",
+      "texto": "Confira primeiro a data, depois o aspecto. Descarte, mesmo dentro da validade, se notar:\n\n• comprimidos esfarelando, manchados, inchados, grudados ou com cor diferente dos outros;\n• cápsulas moles, grudadas ou rachadas;\n• cheiro forte de vinagre no AAS (aspirina): sinal de que a umidade quebrou o remédio;\n• líquido turvo que deveria ser claro, mudança de cor, depósito que não se desfaz ao agitar ou cheiro estranho;\n• embalagem estufada, lacre violado ou blíster furado.\n\nInsulina: descarte se tiver cristais, grumos ou partículas, se mudou de cor, ficou viscosa ou congelou. A insulina NPH é leitosa por natureza, mas deve ficar uniforme depois de rolar o frasco entre as mãos.",
+      "dicas": [
+        "Aspecto normal não prova que o remédio está bom; aspecto estranho prova que está ruim."
+      ]
+    },
+    {
+      "titulo": "Guarde no lugar mais fresco, seco e escuro da casa",
+      "texto": "Calor, umidade e luz estragam remédios antes da validade. Nunca guarde no banheiro nem na cozinha perto do fogão ou da pia, nem no carro.\n\nSem energia elétrica, a casa esquenta. Escolha um cômodo interno, longe do telhado e das paredes que pegam sol, e guarde numa caixa fechada, em lugar alto e fora do alcance de crianças.\n\nMantenha cada remédio na embalagem original, com a bula, e deixe no frasco o saquinho de sílica. Não troque comprimidos de frasco: a nitroglicerina, por exemplo, deve ficar no frasco de vidro original, bem fechado.",
+      "dicas": [
+        "Nas bulas brasileiras, \"temperatura ambiente\" costuma ser de 15 a 30 °C. Confira a faixa de cada remédio e, se tiver termômetro, meça o lugar onde guarda na hora mais quente do dia."
+      ]
+    },
+    {
+      "titulo": "Conserve a insulina sem geladeira",
+      "texto": "Regra dos fabricantes e da FDA: fechada, na geladeira (2 a 8 °C), vale até a validade. Fora da geladeira, entre 15 e 30 °C, a maioria dos frascos e refis, abertos ou fechados, vale 28 dias. Algumas canetas têm prazo diferente: confira a bula.\n\nSem geladeira:\n\n• Guarde no lugar mais fresco da casa, longe do sol, e anote na caixa a data em que saiu da geladeira.\n• Uma caixa térmica com gelo enrolado em pano ou um pote de barro não esmaltado, úmido e na sombra, ajuda a baixar a temperatura. Nunca encoste a insulina no gelo.\n• Acima de 30 °C ela perde força aos poucos. Numa emergência, a FDA admite usá-la mesmo assim: meça a glicemia mais vezes e troque por uma bem conservada assim que puder.\n\nO que os estudos mostram para emergência: uma revisão Cochrane encontrou que frascos fechados de insulina humana (Regular e NPH, por exemplo) não perderam atividade importante até 25 °C por no máximo 6 meses, até 37 °C por no máximo 2 meses, ou oscilando entre 25 e 37 °C por até 3 meses. Um estudo dos Médicos Sem Fronteiras mostrou insulina aberta funcionando nas 4 semanas de uso com temperatura oscilando entre 25 e 37 °C. Esses dados não valem para todas as insulinas: use-os só quando não houver jeito de manter a regra da bula.",
+      "avisos": [
+        "Não use insulina que congelou.",
+        "Insulina na bomba exposta a mais de 37 °C deve ser descartada.",
+        "Insulina que perdeu força causa glicemia alta e, no diabetes tipo 1, cetoacidose. Sede intensa, muita urina, vômitos e respiração rápida pedem atendimento urgente."
+      ],
+      "dicas": [
+        "Veja também \"Como manter equipamentos médicos funcionando na falta de energia\"."
+      ]
+    },
+    {
+      "titulo": "Decida quando não há alternativa",
+      "texto": "Se não há farmácia nem posto e a pessoa precisa do remédio:\n\n1. Prefira sempre um dentro da validade, mesmo que de outra marca com o mesmo princípio ativo e a mesma dose.\n2. Entre vencidos, prefira comprimido ou cápsula, bem guardado, com aspecto normal e vencido há menos tempo.\n3. Não use os da lista \"nunca usar vencidos\", a não ser adrenalina numa anafilaxia.\n4. Não aumente a dose para compensar perda de força: você não sabe quanto se perdeu, e alguns remédios ficam perigosos em dose alta.\n5. Observe se está fazendo efeito (febre baixando, dor aliviando, glicemia, pressão) e procure atendimento se não fizer.",
+      "avisos": [
+        "Remédios para epilepsia, coração, anticoagulantes e hormônio da tireoide têm margem estreita entre dose boa e dose ruim: priorize conseguir estoque válido deles."
+      ]
+    },
+    {
+      "titulo": "Monte e gire o estoque",
+      "texto": "Faça uma lista em papel com cada pessoa da casa: remédio, dose, horário, quantidade em casa e validade. Guarde cópia das receitas.\n\nPara remédios de uso contínuo, peça ao médico receita para a maior quantidade que ele considerar segura e retire sempre antes de acabar. Muitos estão no SUS e na Farmácia Popular.\n\nUse o que vence primeiro (\"primeiro que vence, primeiro que sai\") e reponha com data mais longa. Revise o estoque com frequência, por exemplo a cada troca de estação.\n\nFarmácia caseira básica: os remédios de uso contínuo da família, analgésico e antitérmico, soro de reidratação oral em envelope, antisséptico e material de curativo. Para doses, veja \"Como usar paracetamol, dipirona e ibuprofeno com segurança\".",
+      "dicas": [
+        "Escreva com caneta grande na caixa a validade e, nos frascos abertos, a data de abertura."
+      ],
+      "avisos": [
+        "Remédios em casa onde alguém está em crise emocional devem ficar trancados ou com outra pessoa: veja \"Como agir diante de risco de suicídio\"."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Lyon et al. Stability profiles of drug products extended beyond labeled expiration dates (J Pharm Sci, 2006) — PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16721796/"
+    },
+    {
+      "titulo": "Don't Be Tempted to Use Expired Medicines — FDA",
+      "url": "https://www.fda.gov/drugs/safe-disposal-medicines/dont-be-tempted-use-expired-medicines"
+    },
+    {
+      "titulo": "Expiration Dates — Questions and Answers — FDA",
+      "url": "https://www.fda.gov/drugs/pharmaceutical-quality-resources/expiration-dates-questions-and-answers"
+    },
+    {
+      "titulo": "Information Regarding Insulin Storage and Switching Between Products in an Emergency — FDA",
+      "url": "https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency"
+    },
+    {
+      "titulo": "Storing your insulin — MedlinePlus",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000962.htm"
+    },
+    {
+      "titulo": "Human insulin less temperature sensitive than previously thought — Cochrane",
+      "url": "https://www.cochrane.org/about-us/news/human-insulin-less-temperature-sensitive-previously-thought"
+    },
+    {
+      "titulo": "MSF study shows some insulin can be stored at warmer temperatures — Médicos Sem Fronteiras",
+      "url": "https://www.doctorswithoutborders.org/latest/msf-study-shows-some-insulin-can-be-stored-warmer-temperatures"
+    },
+    {
+      "titulo": "Nitroglycerin sublingual — MedlinePlus",
+      "url": "https://medlineplus.gov/druginfo/meds/a601086.html"
+    },
+    {
+      "titulo": "Tetracyclines — MSD Manual Professional",
+      "url": "https://www.msdmanuals.com/professional/infectious-diseases/bacteria-and-antibacterial-drugs/tetracyclines"
+    },
+    {
+      "titulo": "EpiPens remain effective well beyond expiration date (Cantrell et al., Annals of Internal Medicine, 2017) — Healio",
+      "url": "https://www.healio.com/news/primary-care/20170509/epipens-remain-effective-well-beyond-expiration-date"
+    },
+    {
+      "titulo": "General information on eye drops — NHS Scotland East Region Formulary",
+      "url": "https://formulary.nhs.scot/east/eye/eye-conditions/general-information-on-eye-drops/"
+    },
+    {
+      "titulo": "How long can you use prescription eye drops after opening them? — American Academy of Ophthalmology",
+      "url": "https://www.aao.org/eye-health/ask-ophthalmologist-q/eye-drop-shelf-life"
+    },
+    {
+      "titulo": "Amoxicilina suspensão oral — bula (Eurofarma)",
+      "url": "https://eurofarma.com.br/produtos/bulas/patient/pt/bula-amoxicilina.pdf"
+    },
+    {
+      "titulo": "Amoxicilina suspensão oral — bula (União Química, via Drogasil)",
+      "url": "https://www.drogasil.com.br/bulas/amoxicilina-suspensao-uniao"
+    },
+    {
+      "titulo": "Uso correto de medicamentos — cartilha Fiocruz/Farmanguinhos",
+      "url": "https://fiocruz.br/sites/fiocruz.br/files/documentos/USO%20CORRETOcartilha_final.pdf"
+    },
+    {
+      "titulo": "When aspirin smells like vinegar, is it bad? — American Council on Science and Health",
+      "url": "https://www.acsh.org/news/2026/01/30/when-aspirin-smells-vinegar-it-bad-49936"
+    }
+  ]
+}

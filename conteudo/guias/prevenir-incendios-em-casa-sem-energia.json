@@ -1,0 +1,166 @@
+{
+  "id": "prevenir-incendios-em-casa-sem-energia",
+  "titulo": "Como prevenir incêndios em casa sem energia elétrica",
+  "resumo": "Velas, lampiões, fogareiros, gerador, botijão de gás e combustível guardado: distâncias seguras, vazamento de gás, monóxido de carbono, extintor, panela com óleo pegando fogo, roupa em chamas e rota de fuga da família.",
+  "categoria": "seguranca",
+  "tags": [
+    "incêndio",
+    "fogo",
+    "vela",
+    "lampião",
+    "fogareiro",
+    "botijão",
+    "gás de cozinha",
+    "GLP",
+    "vazamento de gás",
+    "cheiro de gás",
+    "gasolina",
+    "galão",
+    "álcool",
+    "extintor",
+    "panela pegando fogo",
+    "óleo pegando fogo",
+    "monóxido de carbono",
+    "fumaça",
+    "rota de fuga",
+    "bombeiros",
+    "193"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Sem energia, a casa se enche de chamas abertas e combustível, e os bombeiros podem demorar ou não vir. Prevenir é a única proteção garantida. Gerador, fogareiro, churrasqueira e carvão só ao ar livre: o monóxido de carbono não tem cheiro e mata em minutos. Se o fogo não estiver pequeno e controlado, saia de casa com todos e ligue 193 de fora.",
+  "materiais": [
+    "Lanternas e luminárias a pilha ou solares (no lugar de velas)",
+    "Castiçais largos, de metal ou vidro, que não tombam",
+    "Extintor de pó ABC (ou ao menos tampas de metal e um cobertor grosso perto do fogão)",
+    "Balde com areia",
+    "Detector de fumaça e detector de monóxido de carbono a pilha",
+    "Esponja e detergente para testar vazamento de gás",
+    "Galões próprios para combustível, certificados pelo Inmetro"
+  ],
+  "passos": [
+    {
+      "titulo": "Troque velas por lanternas sempre que puder",
+      "texto": "A agência de bombeiros dos EUA (USFA) recomenda usar lanterna, e não vela, durante quedas de energia. Lá, cerca de 20 incêndios residenciais por dia começam em velas.\n\nSe precisar usar vela ou lamparina:\n\n• mantenha a chama a pelo menos 30 cm de tudo que queima (cortina, papel, roupa, cama); para fontes de calor maiores, como fogareiro e lareira, a USFA recomenda 1 m;\n• use castiçal largo e pesado, sobre superfície firme e que não queima, longe de corrente de ar;\n• fora do alcance de crianças e animais;\n• apague ao sair do cômodo e antes de dormir. Nunca durma com chama acesa.",
+      "dicas": [
+        "Veja \"Como iluminar a casa e carregar o celular com pouca energia\" para alternativas que não usam fogo."
+      ]
+    },
+    {
+      "titulo": "Use fogareiro, lampião e churrasqueira com segurança",
+      "texto": "• Fogareiro a gás, carvão, churrasqueira e aquecedor a combustível só ao ar livre. O CDC proíbe usá-los dentro de casa, na garagem ou junto de portas e janelas, por causa do monóxido de carbono.\n• Mantenha 1 m livre em volta de qualquer fonte de calor e deixe crianças longe.\n• Não deixe panela no fogo sem ninguém olhando: deixar o fogo sozinho é a principal causa de incêndio na cozinha.\n• Vire os cabos das panelas para dentro e afaste panos, pegadores e papel do fogão.\n• Recarregue lampiões e fogareiros só apagados e frios, do lado de fora.\n• Tenha à mão uma tampa de metal que sirva na panela.",
+      "avisos": [
+        "Nunca use álcool para acender ou reavivar fogo, churrasqueira ou lareira. O álcool se espalha e causa queimaduras graves, muitas vezes em crianças que estão por perto ou que depois imitam o adulto.",
+        "Nunca use o forno ou as bocas do fogão a gás para aquecer a casa."
+      ]
+    },
+    {
+      "titulo": "Cuide do botijão de gás",
+      "texto": "Instalação (orientações da Defesa Civil de São Paulo e do Corpo de Bombeiros):\n\n• botijão fora de casa, em lugar ventilado e protegido de sol e chuva; se não der, num canto aberto e ventilado, nunca dentro de armário;\n• longe de ralos e grelhas no chão: o gás é mais pesado que o ar e se acumula embaixo;\n• mangueira transparente com tarja amarela (NBR 8613), com no máximo 80 cm e dentro da validade gravada nela; presa com abraçadeiras, nunca com arame ou fita;\n• regulador com selo do Inmetro (NBR 8473);\n• depois de trocar o botijão, passe espuma de sabão na junção do regulador com a válvula: se fizer bolhas, há vazamento. Nunca teste com chama.\n\nBotijões de reserva ficam fora de casa, em lugar limpo e ventilado, longe de sol, chuva, calor, óleo e graxa.",
+      "avisos": [
+        "Sabão serve só para achar o vazamento, não para tapar. Mangueira vencida, ressecada ou com emenda deve ser trocada."
+      ]
+    },
+    {
+      "titulo": "Se sentir cheiro de gás",
+      "texto": "Sem fogo:\n\n1. Feche o registro do botijão.\n2. Apague toda chama da casa, inclusive cigarro.\n3. Não acenda nem apague luzes, lanternas de botão ou aparelhos: a faísca pode causar explosão.\n4. Abra portas e janelas e tire as pessoas de casa.\n5. Ligue para o 193 (de fora de casa) se o cheiro não passar.\n\nCom fogo:\n\n1. Se der para alcançar sem passar pelas chamas, feche o registro.\n2. Afaste as pessoas.\n3. Tire de perto o que pode queimar, se for seguro.\n4. Ligue 193 (Bombeiros) e 199 (Defesa Civil).",
+      "avisos": [
+        "Não tente tapar o vazamento com sabão, cera ou fita."
+      ]
+    },
+    {
+      "titulo": "Guarde combustível longe de quem dorme",
+      "texto": "• Gasolina, diesel e querosene só em galão próprio para combustível. Desde a Resolução ANP nº 948/2023, posto só pode abastecer recipiente certificado pelo Inmetro; garrafa PET, galão de água e embalagem improvisada são proibidos.\n• Guarde fora de casa, de preferência num depósito separado, trancado e ventilado, longe de qualquer fonte de calor ou faísca (fogão, aquecedor de água, motor, gerador).\n• Guarde pouco e gire o estoque: gasolina envelhece em poucos meses (veja \"Como usar um gerador portátil com segurança\").\n• Álcool e outros inflamáveis ficam em armário trancado, longe das crianças.\n• Abasteça gerador e motores só desligados e frios: combustível derramado em peça quente pode pegar fogo.",
+      "avisos": [
+        "Nunca guarde combustível dentro de casa, em quarto ou garagem ligada à casa."
+      ]
+    },
+    {
+      "titulo": "Previna o monóxido de carbono",
+      "texto": "O monóxido de carbono (CO) não tem cor nem cheiro. Sintomas, parecidos com os de gripe: dor de cabeça, tontura, fraqueza, enjoo e vômito, dor no peito e confusão. Quem está dormindo ou bêbado pode morrer antes de sentir qualquer coisa.\n\n• Gerador só ao ar livre, a mais de 6 m de portas, janelas e entradas de ar, com o escapamento virado para longe da casa. Nunca dentro de casa, garagem, porão ou varanda, nem com portas e janelas abertas.\n• Nunca queime carvão em ambiente fechado nem use fogareiro de camping dentro de casa.\n• Não deixe carro ligado em garagem ligada à casa.\n• Tenha detector de CO a pilha perto dos quartos e teste todo mês.\n\nSe alguém tiver sintomas ou o detector disparar: saia imediatamente para o ar livre com todos e depois chame o 192.",
+      "dicas": [
+        "Mais detalhes em \"Como usar um gerador portátil com segurança\"."
+      ]
+    },
+    {
+      "titulo": "Saiba quando combater e quando sair",
+      "texto": "A USFA orienta combater o fogo com extintor só se tudo isto for verdade:\n\n• todos na casa já foram avisados e alguém está chamando socorro;\n• o fogo é pequeno e está num só objeto (uma panela, uma lixeira);\n• a fumaça não está atrapalhando a respiração;\n• você tem uma saída livre às suas costas;\n• você consegue usar o extintor (criança e idoso frágil não devem).\n\nSe qualquer item falhar, saia e chame ajuda.\n\nComo usar o extintor (PASS):\n\n1. Puxe a trava, com o bico apontado para longe de você.\n2. Aponte para a base do fogo, não para as chamas.\n3. Aperte o gatilho devagar e de forma contínua.\n4. Varra de um lado para o outro.\n\nQual extintor: água só para madeira, papel e tecido (classe A), nunca em óleo ou equipamento ligado na eletricidade. O de pó ABC serve para sólidos, líquidos inflamáveis e equipamentos elétricos. Sem extintor, um balde de areia ou terra abafa fogo pequeno no chão.",
+      "avisos": [
+        "Nunca volte para dentro de uma casa em chamas para buscar objetos ou animais."
+      ]
+    },
+    {
+      "titulo": "Panela com óleo pegando fogo",
+      "texto": "1. Nunca jogue água: ela vira vapor de forma explosiva e espalha o óleo em chamas.\n2. Desligue o fogo, se o botão estiver ao alcance sem passar pelas chamas.\n3. Deslize uma tampa de metal ou uma assadeira por cima da panela.\n4. Deixe a tampa no lugar até a panela esfriar. Não tire a panela do fogão nem a carregue.\n\nNão use farinha. Se as chamas passarem da panela, saia, feche a porta da cozinha se der e chame ajuda.",
+      "avisos": [
+        "Não leve a panela em chamas para fora: o óleo derrama e queima você e o caminho."
+      ]
+    },
+    {
+      "titulo": "Roupa em chamas: pare, deite e role",
+      "texto": "Não deixe a pessoa correr: o vento aviva o fogo.\n\n1. Pare.\n2. Deite no chão.\n3. Role até apagar. Quem estiver perto pode abafar com cobertor, tapete ou casaco.\n\nDepois, resfrie a queimadura com água corrente fria (não gelada) e cubra com pano limpo e seco. Não fure bolhas e não passe manteiga, pasta de dente ou pomada. Veja \"Como tratar queimaduras\"."
+    },
+    {
+      "titulo": "Combine a rota de fuga e ensaie",
+      "texto": "O Ready.gov recomenda:\n\n• duas saídas de cada cômodo (no andar de cima, a segunda pode ser uma janela com escada de corda);\n• um ponto de encontro do lado de fora, a uma distância segura da casa (um poste, a casa de um vizinho);\n• um adulto responsável por cada criança menor de 6 anos ou pessoa que não sai sozinha;\n• treinar a saída pelo menos 2 vezes por ano, de dia e de noite, com a meta de todos saírem em menos de 2 minutos.\n\nNa fuga: abaixe-se e engatinhe, porque a fumaça e os gases sobem e o ar perto do chão é mais limpo. Antes de abrir uma porta, encoste o dorso da mão nela e na maçaneta: se estiver quente ou sair fumaça pelas frestas, use a outra saída. Se ficar preso, feche a porta, vede as frestas com pano e sinalize pela janela com pano claro ou lanterna.\n\nNo ponto de encontro, conte todos e chame o 193. Ninguém volta para dentro.",
+      "dicas": [
+        "Deixe uma lanterna e as chaves das trancas sempre no mesmo lugar, perto de cada cama.",
+        "Detector de fumaça a pilha em cada andar e em cada quarto; teste 2 vezes por ano."
+      ],
+      "avisos": [
+        "Grades e trancas contra invasão não podem prender a família lá dentro. Toda rota de fuga precisa abrir por dentro, sem chave, em poucos segundos."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Candle safety — U.S. Fire Administration (FEMA)",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle"
+    },
+    {
+      "titulo": "Heating fire safety — U.S. Fire Administration (FEMA)",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/"
+    },
+    {
+      "titulo": "Choosing and using fire extinguishers — U.S. Fire Administration (FEMA)",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/"
+    },
+    {
+      "titulo": "Recipe for Safer Cooking — U.S. Consumer Product Safety Commission",
+      "url": "https://www.cpsc.gov/safety-education/safety-guides/home-fire/recipe-safer-cooking"
+    },
+    {
+      "titulo": "Home Fire Escape Plan — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/home-fire-escape-plan"
+    },
+    {
+      "titulo": "Home Fires — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/home-fires"
+    },
+    {
+      "titulo": "Carbon Monoxide Poisoning: Basics — CDC",
+      "url": "https://www.cdc.gov/carbon-monoxide/about/index.html"
+    },
+    {
+      "titulo": "What to Know About Generators and Carbon Monoxide — CPSC",
+      "url": "https://www.cpsc.gov/s3fs-public/468_WhattoKnowGenerators_2022_v5.pdf"
+    },
+    {
+      "titulo": "Cuidados importantes com o botijão de gás — Defesa Civil da Prefeitura de São Paulo",
+      "url": "https://prefeitura.sp.gov.br/web/defesa_civil/w/cuidados_importantes/179950"
+    },
+    {
+      "titulo": "Ambientes domésticos — Corpo de Bombeiros Militar da Bahia",
+      "url": "https://www.ba.gov.br/bombeiros/ambientes-domesticos"
+    },
+    {
+      "titulo": "Ofício-Circular nº 3/2026/SDL — venda de combustível em recipientes certificados (Res. ANP 948/2023) — ANP",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/distribuicao-e-revenda/revendedor/arquivos/arq-rev/sei_6460858_oficio_circular_3.pdf"
+    },
+    {
+      "titulo": "Cuidados com o álcool — Criança Segura Brasil",
+      "url": "https://criancasegura.org.br/publicacoes/folder-cuidados-com-alcool"
+    }
+  ]
+}

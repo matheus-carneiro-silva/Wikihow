@@ -1,0 +1,131 @@
+{
+  "id": "proteger-a-casa-durante-um-colapso",
+  "titulo": "Como proteger a casa e a família durante um colapso",
+  "resumo": "Segurança da casa sem energia nem polícia por perto: reforçar portas e janelas, iluminação, não chamar atenção para os estoques, guardar suprimentos, plano familiar com ponto de fuga e vigilância comunitária em turnos (vizinhança solidária).",
+  "categoria": "seguranca",
+  "tags": [
+    "segurança residencial",
+    "arrombamento",
+    "invasão",
+    "ladrão",
+    "furto",
+    "saque",
+    "fechadura",
+    "tranca",
+    "grade",
+    "cachorro",
+    "cão de guarda",
+    "esconder comida",
+    "vizinhança solidária",
+    "vigilância comunitária",
+    "ronda",
+    "plano de fuga",
+    "rota de fuga",
+    "quarto seguro"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "O objetivo é não virar alvo e ganhar tempo para fugir ou pedir ajuda, nunca enfrentar invasores. Nenhum bem vale uma vida: se alguém entrar, proteja as pessoas, saia pela rota de fuga e chame o 190 assim que houver como. Armadilhas que ferem, \"patrulhas\" armadas e justiça com as próprias mãos são crimes e costumam atingir inocentes.",
+  "materiais": [
+    "Trancas complementares (ferrolho, tranca de barra) e cadeados",
+    "Sarrafo ou cabo de vassoura cortado no tamanho do trilho das janelas de correr",
+    "Lanternas e luminárias solares com sensor de presença",
+    "Cobertor, lona escura ou papelão para vedar janelas à noite",
+    "Recipientes com tampa e caixas opacas para guardar comida",
+    "Apito para cada pessoa",
+    "Caderno da vizinhança para escala de turnos e registros"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda como o ladrão escolhe a casa",
+      "texto": "Uma pesquisa da Polícia Militar do Paraná em casas que sofreram furto e roubo resume o comportamento mais comum: o criminoso segue a \"lei do menor esforço\", aproveita oportunidades em vez de criá-las e, antes de agir, sempre se pergunta se está sendo observado.\n\nNa mesma pesquisa, 60% dos casos foram por escalada (pular muro, grade ou subir por janela), 12% porque o portão estava aberto e 48% dos moradores admitiram que a estrutura da casa facilitou a ação.\n\nPor isso, a estratégia tem três partes: (1) parecer uma casa difícil, ocupada e observada; (2) atrasar a entrada com trancas e obstáculos; (3) ter um plano para sair rápido se alguém entrar.",
+      "dicas": [
+        "Ande em volta da casa, por dentro e por fora, procurando o ponto mais fraco. A casa é tão segura quanto esse ponto."
+      ]
+    },
+    {
+      "titulo": "Reforce portas e janelas",
+      "texto": "Portas externas:\n\n• bata na porta: se soar oca, ela é fácil de arrombar; portas externas devem ser maciças e bem ajustadas ao batente (frestas e porta empenada facilitam o arrombamento);\n• acrescente trancas complementares à fechadura (ferrolho em cima e embaixo, tranca de barra atravessada por dentro). Cada tranca a mais conta tempo a seu favor;\n• não confie na corrente de porta: ela resiste pouco;\n• troque a fechadura se perder uma chave e jogue fora chaves velhas.\n\nJanelas:\n\n• trave as de correr com um sarrafo ou cabo de vassoura deitado no trilho;\n• atenção às janelas perto de portas: por elas dá para alcançar a fechadura por dentro;\n• vitrôs pequenos também deixam passar uma pessoa magra ou uma criança: uma grade resolve;\n• o andar de cima precisa da mesma proteção que o térreo.\n\nTela metálica bem presa contra insetos também atrasa a entrada.",
+      "avisos": [
+        "Nunca tranque a casa de um jeito que impeça a sua própria saída num incêndio. Cada cômodo precisa de uma saída que se abra por dentro, sem chave, em poucos segundos (veja \"Como prevenir incêndios em casa sem energia\")."
+      ]
+    },
+    {
+      "titulo": "Tire do quintal o que ajuda a pular o muro",
+      "texto": "Como a maioria entra escalando:\n\n• guarde escadas, tambores, caixotes e lixeiras longe de muros e grades: viram degrau;\n• pode galhos baixos e arbustos grandes perto de portas e janelas: escondem quem está ali;\n• plante arbustos espinhosos pelo lado de dentro, junto a muros, grades e janelas;\n• grades permitem ver a rua e ser visto (vigilância natural) e costumam ser mais difíceis de transpor que muros lisos.\n\nPeça aos vizinhos que façam o mesmo: um muro que é fácil pelo lado do vizinho também é fácil para chegar até você."
+    },
+    {
+      "titulo": "Use a luz a seu favor, sem se expor",
+      "texto": "Luz do lado de fora ajuda: reduz sombras onde alguém pode se esconder e deixa o intruso incerto se está sendo visto. Num apagão, luminárias solares com sensor de presença na entrada, no portão e nos fundos fazem esse papel sem gastar bateria a noite toda.\n\nLuz do lado de dentro atrapalha: numa rua toda escura, a única casa iluminada chama atenção e mostra quem está dentro e o que tem lá. À noite:\n\n• vede as janelas dos cômodos usados com cobertor, lona escura ou papelão;\n• prefira lanterna apontada para baixo a luminária no teto;\n• não deixe gerador ligado à vista e com barulho a noite inteira.\n\nRepare também quando uma luz externa que deveria estar acesa estiver apagada: pode ter sido desligada de propósito.",
+      "dicas": [
+        "Para economizar energia na iluminação, veja \"Como iluminar a casa e carregar o celular com pouca energia\"."
+      ]
+    },
+    {
+      "titulo": "Não anuncie o que você tem",
+      "texto": "Num colapso, comida, água, combustível e remédios valem mais que dinheiro. A orientação policial de sempre (manter objetos de valor fora da vista e não comentar sobre bens) vale em dobro.\n\n• Não comente com ninguém de fora do círculo de confiança quanto você tem estocado.\n• Guarde comida, galões e baterias fora da vista de portas, janelas e quintal. Use caixas opacas e o fundo dos armários.\n• Cozinhe em horários em que todo mundo também cozinha e mantenha panelas tampadas: cheiro de carne assada numa rua com fome chama atenção.\n• Feche os sacos de lixo e não deixe embalagens vazias à vista na calçada.\n• Ao receber pessoas de fora, faça isso na entrada ou no quintal, não na despensa.",
+      "dicas": [
+        "Divida o estoque em dois ou três esconderijos. Se um for encontrado ou levado, a família ainda tem o resto.",
+        "Compartilhar com vizinhos, de forma organizada, gera aliados. Veja \"Como gerir recursos comuns da comunidade\"."
+      ]
+    },
+    {
+      "titulo": "Considere um cão como alarme",
+      "texto": "Cartilhas policiais citam o cão como medida de segurança. O papel dele é avisar: latir quando alguém se aproxima, à noite, quando você está dormindo.\n\nAntes de adotar, conte a comida e a água que ele vai consumir junto com a da família. Mantenha a vacina antirrábica em dia e o cão preso ou no quintal fechado, para não atacar vizinhos e crianças: você responde pelos danos que ele causar.",
+      "avisos": [
+        "Nunca treine ou incentive o cão a atacar pessoas. Mordida transmite raiva e infecções; veja \"Como tratar mordida de animal e prevenir a raiva\"."
+      ]
+    },
+    {
+      "titulo": "Monte o plano da família e o ponto de fuga",
+      "texto": "Combine com todos da casa, e escreva num papel:\n\n1. Sinal de alarme: um apito ou uma palavra-código que significa \"saiam já\".\n2. Cômodo de refúgio: o cômodo com porta mais forte e trancas, onde a família se junta se não der para sair. Deixe lá lanterna, apito, água e um celular carregado.\n3. Rota de fuga: por onde sair se alguém entrar pela frente (porta dos fundos, portão lateral, passagem combinada com o vizinho). Teste se as trancas abrem rápido por dentro, inclusive no escuro.\n4. Ponto de encontro: um lugar perto e fácil de achar, fora da casa (a casa de um vizinho de confiança, uma igreja) e um segundo ponto fora do bairro.\n5. Quem leva quem: cada adulto fica responsável por uma criança, idoso ou pessoa com deficiência.\n\nEnsaie de dia e depois à noite, como recomenda o Ready.gov para planos familiares.",
+      "dicas": [
+        "Deixe uma mochila de emergência pronta perto da rota de fuga (veja \"Como agir nas primeiras 72 horas de um apagão total\")."
+      ],
+      "avisos": [
+        "Se chegar em casa e encontrar sinais de arrombamento, não entre: alguém pode ainda estar lá dentro. Afaste-se, avise os vizinhos e chame a polícia quando possível."
+      ]
+    },
+    {
+      "titulo": "Organize a vigilância da rua em turnos",
+      "texto": "O programa Vizinhança Solidária, da Polícia Militar de São Paulo, se baseia em prevenção: vizinhos que se conhecem, se comunicam e colaboram com a polícia, sem ações isoladas. O programa de vigilância de vizinhança dos EUA (National Sheriffs' Association) segue a mesma linha: observar e informar, de um lugar seguro, sem confrontar ninguém.\n\nComo montar:\n\n1. Reúna os vizinhos da rua, escolha um coordenador e faça uma lista com nome, casa e quem tem necessidades especiais.\n2. Faça uma escala de turnos de observação em dupla, de dentro de casa ou de um ponto seguro (janela do andar de cima, varanda), nunca sozinho. Turnos curtos rendem mais atenção; ajuste ao número de voluntários.\n3. Combine um sinal sonoro para alertar a rua (apito em sequência, sino) e o que cada casa faz ao ouvi-lo: acender a luz externa, olhar pela janela, trancar portas.\n4. Anote no caderno: data, hora, lugar, quantas pessoas, aparência (altura, cicatriz, tatuagem, coisas que não mudam com a roupa), veículo (marca, modelo, cor, parte da placa). Isso é o que a polícia precisa.\n5. Ilumine e cuide do espaço comum: rua limpa, mato baixo, casas vazias fechadas.",
+      "dicas": [
+        "Conhecer os vizinhos já é segurança: quem é de fora é notado. Veja \"Como organizar a comunidade depois de um colapso\"."
+      ],
+      "avisos": [
+        "Quem está de vigia não aborda, não persegue, não revista e não detém ninguém. Patrulha armada e \"tribunal de rua\" são crimes e terminam em mortes, inclusive de inocentes."
+      ]
+    },
+    {
+      "titulo": "Se alguém tentar entrar",
+      "texto": "1. Dê o alarme combinado e junte a família no cômodo de refúgio ou saia pela rota de fuga.\n2. Faça barulho e acenda luzes: a maioria desiste ao perceber que foi notada.\n3. Não vá ao encontro do invasor para \"conferir\". Bens se repõem, pessoas não.\n4. Se houver sinal, ligue 190 e diga endereço, quantas pessoas e se há armas.\n5. Depois, registre tudo por escrito e avise a vizinhança.\n\nA lei brasileira (art. 25 do Código Penal) só admite legítima defesa para repelir agressão injusta, atual ou iminente, usando moderadamente os meios necessários. Ela não autoriza perseguir, castigar ou ferir quem já está fugindo, e cada caso é examinado pela Justiça depois. Fugir e se proteger é sempre a primeira escolha."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Cartilha de Segurança Residencial — Polícia Militar do Paraná / CONSEG-PR",
+      "url": "https://www.conseg.pr.gov.br/sites/conseg/arquivos_restritos/files/migrados/File/CARTILHA_SEGURANCA_RESIDENCIAL.pdf"
+    },
+    {
+      "titulo": "Vizinhança Solidária — Polícia Militar do Estado de São Paulo",
+      "url": "https://www.policiamilitar.sp.gov.br/downloads/orientacoes-seguranca/orientacoes-de-seguranca-vizinhanca-solidaria.pdf"
+    },
+    {
+      "titulo": "Orientações de segurança para comerciantes — Polícia Militar do Estado de São Paulo",
+      "url": "https://policiamilitar.sp.gov.br/downloads/orientacoes-seguranca/comerciantes.pdf"
+    },
+    {
+      "titulo": "Neighborhood Watch: observation skills and reporting — National Sheriffs' Association / BJA",
+      "url": "https://bja.ojp.gov/sites/g/files/xyckuh186/files/Publications/TribalNW.pdf"
+    },
+    {
+      "titulo": "Make a Plan — Ready.gov (FEMA)",
+      "url": "https://www.ready.gov/plan"
+    },
+    {
+      "titulo": "Código Penal, arts. 25 (legítima defesa) e 345 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+  ]
+}
