@@ -1,0 +1,101 @@
+{
+  "id": "clarificar-e-filtrar-agua-turva",
+  "titulo": "Como clarificar e filtrar água turva",
+  "resumo": "Decantação, sementes de moringa e sulfato de alumínio com doses e teste em garrafas, filtro de areia e carvão, filtro de vela e filtro de areia lento.",
+  "categoria": "agua",
+  "tags": [
+    "água barrenta",
+    "água suja",
+    "filtro",
+    "filtro de barro",
+    "vela do filtro",
+    "moringa",
+    "sulfato de alumínio",
+    "decantar",
+    "filtro caseiro",
+    "biofiltro"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Clarificar e filtrar deixam a água mais limpa, mas NÃO a tornam segura para beber: sempre desinfete depois (fervura ou cloro). Use luvas ao manusear sulfato de alumínio e guarde-o longe de crianças e de alimentos.",
+  "materiais": [
+    "Baldes ou tambores limpos com tampa",
+    "Pano limpo de algodão",
+    "Garrafas transparentes de 1 L para teste",
+    "Sementes secas de moringa, pilão e peneira (opcional)",
+    "Sulfato de alumínio, balança e seringa (opcional)",
+    "Filtro de barro com vela de cerâmica (se houver)"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda por que clarificar",
+      "texto": "Barro e partículas escondem micróbios e gastam o cloro, e também bloqueiam o sol no método SODIS. Por isso, água turva precisa ficar clara antes da desinfecção.\n\nTeste simples: encha uma garrafa transparente, coloque em pé sobre uma manchete de jornal e olhe pelo gargalo. Se não der para ler, a água está turva demais para cloro ou SODIS.\n\nDepois de clarificar, desinfete sempre: veja o guia \"Como desinfetar água para beber\"."
+    },
+    {
+      "titulo": "Decante e coe",
+      "texto": "É o primeiro passo, sem gastar nada:\n\n1. Encha um balde limpo e deixe parado e tampado até a sujeira descer para o fundo. Quanto mais tempo, mais clara.\n2. Passe com cuidado a água de cima para outro balde limpo, sem mexer o fundo (com uma concha ou mangueirinha).\n3. Coe num pano limpo de algodão dobrado.\n\nSe a água continuar turva, use moringa ou sulfato de alumínio, que juntam as partículas em flocos que afundam mais rápido.",
+      "dicas": [
+        "Separe um balde só para decantar e outro só para água limpa."
+      ]
+    },
+    {
+      "titulo": "Clarifique com sementes de moringa",
+      "texto": "Preparo: use sementes maduras e secas. Tire a casca e jogue fora as escuras ou moles. Pile as amêndoas brancas até virar pó fino e peneire. Misture o pó com um pouco de água limpa, agite por 5 minutos, deixe descansar 10 minutos e coe num pano. Prepare no dia: o extrato perde efeito em 24 horas.\n\nDose aproximada por turbidez:\n\n• turbidez média (50 a 150 NTU): 1 semente para cada 2 L;\n• alta (150 a 250 NTU): 1 semente por litro;\n• extrema (acima de 250 NTU): 2 sementes por litro.\n\nSem medidor de turbidez, comece com 1 semente por litro, a regra geral para água bem barrenta, e ajuste pelo teste em garrafas. Exemplo: balde de 20 L de água bem barrenta → 20 sementes.\n\nDespeje o extrato, mexa rápido por 1 minuto, depois devagar por 5 minutos, e deixe assentar pelo menos 1 hora. Passe a água de cima para outro balde sem mexer o fundo.",
+      "dicas": [
+        "Teste antes: em 3 garrafas com a mesma água, use doses diferentes e escolha a menor que deixa a água clara.",
+        "Moringa funciona mal em água pouco turva (abaixo de cerca de 50 NTU): nesse caso, só decante e coe."
+      ],
+      "avisos": [
+        "Depois da moringa, prefira ferver a água. O extrato deixa matéria orgânica que atrapalha o cloro."
+      ]
+    },
+    {
+      "titulo": "Clarifique com sulfato de alumínio",
+      "texto": "A dose certa depende da água, então faça o teste em garrafas (método da Cruz Vermelha):\n\n1. Prepare uma solução a 1%: 10 g de sulfato de alumínio em 1 L de água limpa. Cada 1 mL dessa solução tem 10 mg.\n2. Encha 6 garrafas com 1 L da água turva e ponha 1,5; 2; 2,5; 3; 3,5 e 4 mL da solução (água muito barrenta: 2, 4, 6, 8 e 12 mL).\n3. Mexa por cerca de 10 minutos e deixe assentar 30 minutos.\n4. Escolha a garrafa que ficou clara com a MENOR dose.\n\nExemplo: a melhor foi 2 mL por litro (20 mg/L). Para um balde de 20 L: 20 × 2 = 40 mL de solução (400 mg de sulfato). Para uma caixa de 1.000 L: 2.000 mL de solução (20 g).\n\nDepois de assentar, passe a água de cima para outro recipiente e desinfete.",
+      "avisos": [
+        "Dose demais não clareia melhor e deixa alumínio na água. Use a menor dose que funciona."
+      ]
+    },
+    {
+      "titulo": "Monte um filtro caseiro de areia e carvão",
+      "texto": "Num balde ou garrafa grande com furos no fundo, coloque de baixo para cima: cascalho ou brita, areia grossa, areia fina e carvão em pedaços, tudo bem lavado. Despeje a água já decantada por cima, devagar, e colete embaixo num recipiente limpo.\n\nEsse filtro segura partículas e o carvão melhora cheiro e gosto, mas ele não retém vírus nem a maioria das bactérias e pode acumular micróbios com o tempo. Use só como pré-tratamento.",
+      "avisos": [
+        "A água que sai do filtro caseiro ainda precisa ser fervida ou clorada."
+      ]
+    },
+    {
+      "titulo": "Cuide do filtro de barro com vela",
+      "texto": "A vela de cerâmica retém partículas e parte dos micróbios, mas não substitui a desinfecção.\n\n• Limpe a vela quando a água começar a pingar devagar: lave sob água corrente (filtrada ou fervida) com a mão ou esponja macia usada só para isso.\n• Não use sabão, detergente, água sanitária nem esponja de aço na vela: a cerâmica é porosa e absorve.\n• Troque a vela se estiver trincada, se continuar suja depois de lavada ou no prazo do fabricante.\n• Lave os potes com água e sabão, desinfete com 2 colheres de sopa de água sanitária em 1 L de água por 30 minutos e enxágue com água tratada."
+    },
+    {
+      "titulo": "Se puder, use um filtro de areia lento (biológico)",
+      "texto": "No filtro de areia lento (biossand), forma-se no topo da areia uma camada de micróbios que come outros micróbios. Regras de uso (CAWST):\n\n• Água de entrada com menos de 50 NTU: decante ou coe antes.\n• Deixe sempre cerca de 5 cm de água parada sobre a areia.\n• Use todo dia; entre uma carga e outra, espere de 1 a 48 horas (ideal: 6 a 12 horas).\n• A camada biológica leva até 30 dias para se formar: nesse período o filtro remove menos.\n• Quando a vazão cair muito, mexa a camada de cima da areia e jogue fora essa água suja (\"mexer e escorrer\").\n\nA construção exige medidas de areia e tubulação: siga um projeto completo (manual CAWST).",
+      "avisos": [
+        "Mesmo maduro, o filtro de areia lento não remove todos os vírus: desinfete a água depois."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Bioremediation of turbid surface water using seed extract from Moringa oleifera — Lea, Current Protocols in Microbiology (2010)",
+      "url": "https://www3.ctahr.hawaii.edu/hawaiirain/Library/papers/Non-conference%20papers/disinfection%20using%20seed%20extract.pdf"
+    },
+    {
+      "titulo": "Jar test for alum and bucket test for chlorine — Cruz Vermelha Sueca / IFRC",
+      "url": "https://wash.ifrc.org/wp-content/uploads/2025/01/140830-Jar-test-Alum-and-Bucket-test-Chlorine.pdf"
+    },
+    {
+      "titulo": "Biosand filter fact sheet — CAWST (2009)",
+      "url": "https://sswm.info/sites/default/files/reference_attachments/CAWST%202009%20Biosand%20Filter%20Fact%20Sheet%20academic_1.pdf"
+    },
+    {
+      "titulo": "Nota Técnica 39/2023 e folder \"Orientações para o tratamento intradomiciliar da água\" do Ministério da Saúde — SES-MG",
+      "url": "https://www.saude.mg.gov.br/wp-content/uploads/2025/03/ANEXO-F-Nota-tcnica-39-2023_Orientaes-tratamento-intradomiciliar.pdf"
+    },
+    {
+      "titulo": "Make water safe during an emergency — CDC",
+      "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf"
+    }
+  ]
+}

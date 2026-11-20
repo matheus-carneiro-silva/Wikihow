@@ -29,7 +29,7 @@
   "passos": [
     {
       "titulo": "Tenha um rádio que não dependa da tomada",
-      "texto": "Sem energia, internet e sinal de celular, o rádio de pilha continua recebendo as emissoras que tiverem gerador. Por isso, órgãos de emergência como a FEMA (Estados Unidos) e a Defesa Civil incluem rádio a pilha ou de manivela no kit de emergência, junto com pilhas extras.\n\nModelos de manivela ou com painel solar recarregam sozinhos e são o melhor reserva; muitos também carregam celular por USB, mas isso esgota a bateria interna rápido. Prefira um rádio com AM, FM e ondas curtas (OC, ou SW em inglês).",
+      "texto": "Sem energia, internet e sinal de celular, o rádio de pilha continua recebendo as emissoras que tiverem gerador. Por isso, órgãos de emergência como a FEMA (Estados Unidos) e a Defesa Civil incluem rádio a pilha ou de manivela no kit de emergência, junto com pilhas extras.\n\nModelos de manivela ou com painel solar recarregam sem pilha e são um bom reserva. Prefira um rádio com AM, FM e ondas curtas (OC, ou SW em inglês).",
       "dicas": [
         "O rádio do carro também funciona, mas gasta a bateria do carro: ligue só nos horários de notícia (veja o guia de usar o carro como fonte de energia).",
         "Escolha um rádio que use o mesmo tamanho de pilha das lanternas da casa (AA ou AAA)."
@@ -37,10 +37,9 @@
     },
     {
       "titulo": "Saiba o que esperar de AM, FM e ondas curtas",
-      "texto": "FM: som melhor, mas alcance curto, de linha de visada (emissoras da sua cidade e arredores). É onde costumam estar as rádios locais com avisos do bairro.\n\nAM (ondas médias): de dia o sinal vai só pelo chão e chega mais longe que o FM. À noite, a camada da atmosfera que absorve o AM some e o sinal rebate na ionosfera: dá para ouvir emissoras a centenas de quilômetros. Ouça AM no começo da noite e antes do amanhecer para pegar notícias de outras regiões.\n\nOndas curtas (OC): rebatem na ionosfera e chegam a milhares de quilômetros. Ouvem-se emissoras de outros estados e países. A Rádio Nacional da Amazônia (EBC) transmite de Brasília em 6.180 kHz e 11.780 kHz.",
+      "texto": "FM: som melhor, mas alcance curto, de linha de visada: pega as emissoras da sua cidade e arredores, que costumam dar os avisos locais.\n\nAM (ondas médias): de dia o sinal vai só pelo chão, e o alcance depende da potência da emissora. À noite, a camada da atmosfera que absorve o AM some e o sinal rebate na ionosfera: dá para ouvir emissoras a centenas de quilômetros. Ouça AM no começo da noite e antes do amanhecer para pegar notícias de outras regiões.\n\nOndas curtas (OC): rebatem na ionosfera e chegam a milhares de quilômetros. Ouvem-se emissoras de outros estados e países. A Rádio Nacional da Amazônia (EBC) transmite de Brasília em 6.180 kHz e 11.780 kHz.",
       "dicas": [
-        "Anote num papel as frequências das emissoras que funcionaram e os horários dos boletins. Isso economiza pilha procurando estação.",
-        "Em OC, frequências mais baixas (como 6 MHz) costumam funcionar melhor à noite e as mais altas (como 11 MHz) de dia; teste as duas."
+        "Anote num papel as frequências das emissoras que funcionaram e os horários dos boletins. Isso economiza pilha procurando estação."
       ]
     },
     {
@@ -52,14 +51,14 @@
     },
     {
       "titulo": "Economize as pilhas",
-      "texto": "Não deixe o rádio ligado o dia todo. Ligue nos horários dos boletins (geralmente na hora cheia e nos jornais da manhã, do meio-dia e da noite) e desligue entre eles. Volume baixo também gasta menos.\n\nUse pilhas recarregáveis NiMH e recarregue com power bank ou painel solar USB (veja o guia de iluminar e carregar com pouca energia). Tire as pilhas se o rádio for ficar guardado por meses: pilha velha vaza e corrói os contatos.",
+      "texto": "Não deixe o rádio ligado o dia todo. Ligue nos horários dos boletins (anote quais são em cada emissora) e desligue entre eles. Volume baixo também gasta menos.\n\nUse pilhas recarregáveis NiMH e recarregue com power bank ou painel solar USB (veja o guia de iluminar e carregar com pouca energia). Tire as pilhas se o rádio for ficar guardado por meses: pilha velha vaza e corrói os contatos.",
       "dicas": [
         "Num rádio de manivela, gire um minuto ou dois antes de cada boletim em vez de esperar a bateria acabar."
       ]
     },
     {
       "titulo": "Procure os avisos oficiais",
-      "texto": "Em desastres, a Defesa Civil e as prefeituras passam avisos pelas rádios locais: áreas de risco, abrigos, pontos de distribuição de água e de atendimento médico. Rádios públicas como as da EBC também fazem programação especial em emergências.\n\nSe o celular ainda tiver sinal, os alertas da Defesa Civil por SMS (cadastro pelo 40199) e o Defesa Civil Alerta chegam na tela; com a rede de celular fora, sobra o rádio."
+      "texto": "Em desastres, procure nas rádios locais os avisos da Defesa Civil e da prefeitura: áreas de risco, abrigos, pontos de distribuição de água e de atendimento médico.\n\nEnquanto o celular tiver sinal, cadastre seu CEP mandando um SMS com os 8 números (sem hífen) para o 40199: a Defesa Civil manda alertas por mensagem. O Defesa Civil Alerta aparece sozinho na tela, sem cadastro, mas só em redes 4G e 5G. Com a rede de celular fora, sobra o rádio."
     },
     {
       "titulo": "Registre e repasse as informações",
@@ -91,8 +90,8 @@
       "url": "https://news.ccrane.com/2013/08/27/am-reception-tips-part-2-how-to-improve-am-reception-and-boost-the-signal-by-dan-van-hoy-k7dan/"
     },
     {
-      "titulo": "Defesa Civil Alerta — Anatel",
-      "url": "https://www.gov.br/anatel/pt-br/dados/utilidade-publica/alertas-de-desastres/defesa-civil-alerta"
+      "titulo": "Alertas de Desastres — Anatel",
+      "url": "https://www.gov.br/anatel/pt-br/dados/utilidade-publica/alertas-de-desastres"
     }
   ]
 }

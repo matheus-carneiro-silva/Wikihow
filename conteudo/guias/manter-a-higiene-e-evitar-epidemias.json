@@ -1,0 +1,106 @@
+{
+  "id": "manter-a-higiene-e-evitar-epidemias",
+  "titulo": "Como manter a higiene e evitar epidemias sem água encanada",
+  "resumo": "Lavar as mãos com pouca água, cuidar da água e da comida, destinar lixo e fezes, reduzir diarreia, cólera, hepatite A, sarna e piolho e isolar doentes em casa.",
+  "categoria": "higiene-e-saude-publica",
+  "tags": [
+    "lavar as mãos",
+    "tippy tap",
+    "lixo",
+    "diarreia",
+    "cólera",
+    "hepatite A",
+    "sarna",
+    "piolho",
+    "isolamento",
+    "saneamento"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Diarreia com 3 ou mais evacuações em 24 horas, sangue nas fezes, sinais de desidratação, falta de ar ou febre que não cede pedem atendimento de saúde. Comece o soro de reidratação oral em casa desde a primeira diarreia.",
+  "materiais": [
+    "Sabão (veja \"Como fazer sabão caseiro com óleo usado e soda cáustica\") ou cinza",
+    "Galão ou garrafa com torneira, bacia e balde para a água usada",
+    "Recipientes com tampa para guardar a água tratada",
+    "Água sanitária ou hipoclorito de sódio 2,5%",
+    "Pá, luvas de borracha e lixeira com tampa",
+    "Álcool em gel 60% ou mais, se houver"
+  ],
+  "passos": [
+    {
+      "titulo": "Lave as mãos nos momentos que contam",
+      "texto": "As horas mais importantes:\n\n• depois de ir ao banheiro e depois de limpar o cocô de uma criança ou trocar fralda;\n• antes de preparar comida, antes de comer, de amamentar e de dar comida a uma criança;\n• antes e depois de cuidar de um doente com vômito ou diarreia e de um ferimento;\n• depois de mexer em lixo, em animais ou em fezes de animais;\n• depois de assoar o nariz, tossir ou espirrar.\n\nComo: molhe, ensaboe a palma, o dorso, entre os dedos e embaixo das unhas, esfregue por pelo menos 20 segundos, enxágue e seque num pano limpo.",
+      "dicas": [
+        "Sem sabão, esfregar as mãos com cinza e enxaguar também serve.",
+        "Álcool em gel com 60% ou mais só substitui a lavagem quando as mãos não estão visivelmente sujas."
+      ]
+    },
+    {
+      "titulo": "Monte um ponto de lavagem que gasta pouca água",
+      "texto": "Lavar com a mão mergulhada numa bacia só espalha a sujeira. O ideal é água correndo, mesmo que pouca:\n\n• Galão com torneira: um galão de água com torneira apoiado numa mesa, com balde embaixo.\n• Torneira de garrafa (tippy tap): um galão ou garrafa pendurado numa trave, que se inclina ao puxar uma corda presa a um pedal de madeira. Você não encosta a mão suja no recipiente.\n\nDeixe o sabão pendurado num barbante ou numa tampinha com furos, para não virar uma papa no chão.",
+      "dicas": [
+        "Ponha um ponto de lavagem perto do banheiro e outro perto da cozinha.",
+        "Jogue a água usada num buraco com brita ou pedras, longe da casa, para não formar poça de lama e mosquito."
+      ]
+    },
+    {
+      "titulo": "Proteja a água e a comida",
+      "texto": "Trate a água de beber: filtre ou coe e ponha 2 gotas de hipoclorito 2,5% por litro, espere 30 minutos e consuma em até 24 horas; ou filtre e ferva por 5 minutos.\n\nGuarde a água tratada em recipiente limpo, tampado, em local fresco e escuro, e tire com torneira ou concha limpa, nunca mergulhando copo ou mão. Lave as mãos antes de mexer na água.\n\nCozinhe bem a comida, coma logo depois de pronta, cubra as panelas e lave a louça com água tratada.",
+      "avisos": [
+        "Alimento que teve contato com água de enchente ou lama deve ser jogado fora: veja \"Como prevenir doenças depois de uma enchente\"."
+      ]
+    },
+    {
+      "titulo": "Dê destino às fezes",
+      "texto": "Fezes ao ar livre espalham diarreia, cólera, hepatite A e vermes. Sem descarga, use banheiro seco ou latrina: veja \"Como montar um banheiro seco\" e \"Como tratar esgoto sem rede\".\n\nRegras básicas para latrina ou fossa:\n\n• pelo menos 30 m de poços, nascentes e cisternas, e mais em solo de areia grossa ou cascalho;\n• fundo do buraco pelo menos 1,5 m acima do nível da água do lençol;\n• tampa no buraco, sabão e água para lavar as mãos ao lado.",
+      "avisos": [
+        "Fezes de bebê e de criança também transmitem doença: vão para o banheiro seco ou latrina, nunca para o lixo comum ou o quintal."
+      ]
+    },
+    {
+      "titulo": "Cuide do lixo",
+      "texto": "Lixo acumulado atrai moscas, ratos, cachorros e cobras, junta água de chuva que cria mosquito e pode pegar fogo.\n\n• Use lixeira de plástico grosso ou metal, sem furos e com tampa.\n• Separe o lixo de comida (orgânico) do seco. O orgânico pode ir para compostagem: veja \"Como fazer compostagem\".\n• Sem coleta, enterre o lixo orgânico num buraco a pelo menos 30 m de qualquer casa e de poços ou fontes de água. Cubra cada camada de lixo com cerca de 10 cm de terra ou cinza e, quando encher, feche com pelo menos 50 cm de terra.\n• Guarde o lixo seco limpo e ensacado, longe da casa e sem acumular água.",
+      "avisos": [
+        "Evite queimar lixo: a fumaça de plástico e de produtos químicos faz mal à saúde.",
+        "Agulhas e vidro quebrado vão numa garrafa plástica grossa tampada, para ninguém se cortar."
+      ]
+    },
+    {
+      "titulo": "Saiba quais doenças aparecem e como reduzi-las",
+      "texto": "• Diarreia, cólera, febre tifoide, hepatite A e verminoses: vêm de água e comida contaminadas e de fezes. Prevenção: os passos acima. Trate a diarreia com soro: veja \"Como preparar e dar soro de reidratação oral\".\n• Leptospirose: vem da urina de rato na água e na lama. Veja \"Como controlar ratos e mosquitos da dengue em casa\".\n• Gripe e outras doenças respiratórias: se espalham em casas cheias e fechadas. Mantenha janelas abertas e cubra tosse e espirro.\n• Sarna: passa pelo contato de pele e por roupa e cama. Trate todos da casa ao mesmo tempo e lave roupas e lençóis dos últimos 3 dias em água acima de 50 °C; o que não puder lavar, feche num saco plástico por pelo menos 1 semana.\n• Piolho: passa de cabeça para cabeça. Lave roupas, toalhas e roupa de cama dos últimos 2 dias em água quente; o que não puder lavar, feche num saco plástico por 2 semanas.",
+      "dicas": [
+        "Mantenha em dia as vacinas que conseguir, principalmente tétano e hepatite A, quando houver posto funcionando."
+      ]
+    },
+    {
+      "titulo": "Isole o doente dentro de casa",
+      "texto": "Quem está com febre, tosse ou diarreia deve ficar longe dos outros, se possível num cômodo separado e bem ventilado, com uma só pessoa cuidando.\n\n• Se não der para separar, mantenha distância, abra janelas e use máscara bem ajustada perto do doente.\n• Copos, talheres, toalhas e roupa de cama do doente não são divididos.\n• Quem cuida lava as mãos antes e depois de cada contato.\n• Limpe com água e sabão e depois desinfete com água sanitária o banheiro e o que for sujo de vômito ou fezes.\n\nCom doença respiratória, a pessoa pode voltar ao convívio depois de pelo menos 24 horas sem febre (sem tomar antitérmico) e melhorando, mas ainda com cuidado nos 5 dias seguintes.",
+      "avisos": [
+        "Falta de ar, dor no peito, confusão ou desidratação grave são emergência: procure atendimento imediatamente."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Technical notes on drinking-water, sanitation and hygiene in emergencies — OMS/WEDC",
+      "url": "https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf"
+    },
+    {
+      "titulo": "Enchentes: cuidados com a água — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-a-agua"
+    },
+    {
+      "titulo": "About Handwashing — CDC",
+      "url": "https://www.cdc.gov/clean-hands/about/index.html"
+    },
+    {
+      "titulo": "Manual de vigilância, prevenção e controle das hantaviroses (destino do lixo) — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hantavirose/publicacoes/anexo5.pdf/"
+    },
+    {
+      "titulo": "Preventing Scabies — CDC",
+      "url": "https://www.cdc.gov/scabies/prevention/index.html"
+    }
+  ]
+}
