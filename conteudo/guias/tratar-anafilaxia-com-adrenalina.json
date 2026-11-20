@@ -1,0 +1,68 @@
+{
+  "id": "tratar-anafilaxia-com-adrenalina",
+  "titulo": "Como reconhecer e tratar anafilaxia com adrenalina",
+  "resumo": "Reação alérgica grave: como reconhecer, dose de adrenalina intramuscular por peso, posição do paciente e quando repetir.",
+  "categoria": "medicacoes",
+  "tags": [
+    "alergia grave",
+    "choque anafilático",
+    "epinefrina",
+    "reação alérgica",
+    "urgência",
+    "emergência"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Anafilaxia é uma emergência: chame o SAMU (192) ou a equipe de emergência imediatamente. A adrenalina intramuscular é o tratamento de primeira linha e não deve ser adiada.",
+  "materiais": [
+    "Adrenalina 1 mg/mL (1:1.000) ou autoinjetor",
+    "Seringa de 1 mL e agulha para injeção intramuscular",
+    "Oxigênio, se disponível"
+  ],
+  "passos": [
+    {
+      "titulo": "Reconheça a anafilaxia",
+      "texto": "Suspeite quando, minutos a horas depois de uma exposição (alimento, picada de inseto, medicamento), surgem sinais em dois ou mais sistemas: pele (placas, coceira, inchaço de lábios ou língua), respiração (falta de ar, chiado, rouquidão), circulação (tontura, desmaio, pressão baixa) ou intestino (vômitos, cólica).\n\nQueda de pressão logo após contato com algo a que a pessoa já sabe ser alérgica também é anafilaxia."
+    },
+    {
+      "titulo": "Chame ajuda e retire o gatilho",
+      "texto": "Ligue 192 ou acione a equipe de emergência. Se a reação começou durante a aplicação de um medicamento, interrompa a infusão."
+    },
+    {
+      "titulo": "Aplique adrenalina no músculo da coxa",
+      "texto": "Use adrenalina 1 mg/mL (1:1.000) na dose de 0,01 mg/kg, o que equivale a 0,01 mL/kg. Aplique por via intramuscular no meio da face anterolateral da coxa.\n\nDose máxima por aplicação: 0,5 mg (0,5 mL) em adultos e 0,3 mg (0,3 mL) em crianças. Anote o horário.",
+      "dicas": [
+        "Na anafilaxia não há contraindicação absoluta à adrenalina. Na dúvida, aplique."
+      ],
+      "avisos": [
+        "Não aplique a adrenalina 1 mg/mL na veia: na veia, ela só é usada diluída e com monitorização."
+      ]
+    },
+    {
+      "titulo": "Posicione o paciente",
+      "texto": "Deite a pessoa com as pernas elevadas. Se estiver com falta de ar, deixe sentada; se estiver vomitando, de lado. Gestantes devem ficar deitadas sobre o lado esquerdo.",
+      "avisos": [
+        "Não coloque a pessoa de pé nem a sente de repente: isso pode levar a parada cardíaca."
+      ]
+    },
+    {
+      "titulo": "Repita se não houver melhora",
+      "texto": "Se os sintomas continuarem, repita a mesma dose a cada 5 a 15 minutos. A maioria das pessoas responde a 1 ou 2 doses. Ofereça oxigênio e, havendo pressão baixa, soro pela veia."
+    },
+    {
+      "titulo": "Observe e encaminhe",
+      "texto": "Mesmo com melhora, mantenha a pessoa em observação em um serviço de saúde, pois os sintomas podem voltar horas depois. Anti-histamínico e corticoide são complementares e não substituem a adrenalina.\n\nNa alta, oriente a evitar o gatilho e a procurar um alergista."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "World Allergy Organization Anaphylaxis Guidance 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33204386/"
+    },
+    {
+      "titulo": "WAO Anaphylaxis Guidelines (pôster)",
+      "url": "https://www.worldallergy.org/media/PDFs/Anaphylaxis_Guidelines_Poster.pdf"
+    }
+  ]
+}

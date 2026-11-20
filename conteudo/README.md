@@ -51,6 +51,7 @@ recusa a atualização inteira, mantém a versão anterior e mostra os erros na 
   "dificuldade": "facil",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
+  "alerta": "Aviso importante exibido em destaque no topo.",
   "materiais": ["Pó de café", "Filtro de papel"],
   "passos": [
     {
@@ -64,6 +65,9 @@ recusa a atualização inteira, mantém a versão anterior e mostra os erros na 
       "dicas": ["Dica opcional."],
       "avisos": ["Aviso opcional."]
     }
+  ],
+  "fontes": [
+    { "titulo": "Nome da referência", "url": "https://exemplo.com/artigo" }
   ]
 }
 ```
@@ -78,6 +82,7 @@ recusa a atualização inteira, mantém a versão anterior e mostra os erros na 
 | `dificuldade` | não | `facil`, `media` ou `dificil` |
 | `tempoMinutos` | não | inteiro positivo |
 | `atualizadoEm` | sim | `AAAA-MM-DD`; a Início ordena pelos mais recentes |
+| `alerta` | não | aviso em destaque no topo do guia (ex.: conteúdo educativo, procure atendimento) |
 | `materiais` | não | lista exibida antes dos passos |
 | `passos` | sim | ao menos um passo |
 | `passos[].titulo` | sim | título do passo |
@@ -88,8 +93,11 @@ recusa a atualização inteira, mantém a versão anterior e mostra os erros na 
 | `passos[].imagem.legenda` | não | texto curto exibido embaixo da imagem |
 | `passos[].dicas` | não | caixas azuis "Dica" |
 | `passos[].avisos` | não | caixas laranja "Atenção" |
+| `fontes` | não | referências no fim do guia, com link: `{ "titulo", "url" }` (url `https://`) |
 
-Campos fora dessa lista são recusados pela validação, para pegar erros de digitação.
+Campos fora dessa lista são recusados por `npm run conteudo:validar`, pelos testes e pelo CI, para pegar
+erros de digitação. O app instalado é tolerante: ignora campos que não conhece, para que um campo novo
+adicionado aqui não faça versões antigas do app recusarem a atualização.
 
 ## Imagens
 

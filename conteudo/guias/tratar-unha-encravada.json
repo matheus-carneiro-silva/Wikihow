@@ -1,0 +1,82 @@
+{
+  "id": "tratar-unha-encravada",
+  "titulo": "Como tratar unha encravada com cantoplastia e fenol",
+  "resumo": "Do tratamento conservador à retirada parcial da unha com matricectomia química, segundo a American Family Physician.",
+  "categoria": "pequenas-cirurgias",
+  "tags": [
+    "unha encravada",
+    "onicocriptose",
+    "cantoplastia",
+    "fenol",
+    "matricectomia",
+    "bloqueio digital",
+    "hálux",
+    "dedão"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Lidocaína 1% ou 2%, seringa de 10 mL e agulha fina",
+    "Descolador (espátula de Freer) ou pinça hemostática",
+    "Tesoura forte ou alicate cortador de unha",
+    "Pinça hemostática reta",
+    "Fenol 80% a 88% e hastes com algodão",
+    "Álcool 70% ou soro fisiológico",
+    "Gaze vaselinada"
+  ],
+  "passos": [
+    {
+      "titulo": "Tente primeiro o tratamento conservador",
+      "texto": "Em casos leves ou moderados, sem dor importante, vermelhidão intensa ou pus: banho morno com sabão por 10 a 20 minutos, depois corticoide tópico por 2 a 14 dias. Coloque algodão ou fio dental sob a borda da unha, ou uma calha feita de equipo cortado ao meio.\n\nMantenha até a unha crescer além da prega lateral, o que leva de 2 a 12 semanas."
+    },
+    {
+      "titulo": "Indique a cirurgia",
+      "texto": "A retirada parcial é indicada em casos moderados a graves: dor importante, infecção, tecido de granulação ou recorrência.",
+      "avisos": [
+        "Contraindicações: alergia ao anestésico ou ao fenol, doença vascular periférica, distúrbio de coagulação e paciente que não colabora.",
+        "Diabetes descompensado e doença vascular contraindicam relativamente o fenol. Não use fenol se a paciente ou alguém da equipe estiver grávida."
+      ]
+    },
+    {
+      "titulo": "Faça o bloqueio digital",
+      "texto": "Use lidocaína 1% ou 2%; adrenalina de 1:100.000 a 1:200.000 é segura. Infiltre de 1 a 2 mL descendo por um lado da base do dedo em direção à planta, passe pelo dorso e desça pelo outro lado. Espere de 5 a 10 minutos e teste a sensibilidade.",
+      "dicas": [
+        "Garrote não é recomendado."
+      ]
+    },
+    {
+      "titulo": "Solte e corte a borda da unha",
+      "texto": "Faça a antissepsia. Com um descolador (espátula de Freer) ou pinça, descole a cutícula e a borda lateral da unha do leito. Corte de 25% a 30% da lateral da unha em linha reta, da ponta até a altura da prega proximal, sem cortar a prega."
+    },
+    {
+      "titulo": "Retire o fragmento",
+      "texto": "Prenda o fragmento com a pinça reta e puxe em linha reta para trás, em direção ao tornozelo, balançando para soltar do leito. Confira o sulco lateral sob a prega: qualquer espícula que ficar atrasa a cicatrização e mantém a dor."
+    },
+    {
+      "titulo": "Aplique fenol na matriz",
+      "texto": "Com uma haste de algodão levemente úmida de fenol 80% a 88%, aplique só na matriz (no sulco lateral, sob a prega proximal), de 2 a 3 vezes, por 30 a 60 segundos cada. Depois, enxágue bem com álcool 70% ou soro.",
+      "avisos": [
+        "Aplique o fenol só na matriz, nunca no leito da unha ou na pele ao redor: ele queima o tecido."
+      ]
+    },
+    {
+      "titulo": "Faça o curativo e oriente",
+      "texto": "Cubra com gaze vaselinada e curativo. Repouso com o pé elevado nas primeiras 12 a 24 horas; troque o curativo em 24 a 48 horas. Depois, banhos mornos várias vezes ao dia por 1 a 3 semanas. Uma secreção clara por 2 a 3 semanas é esperada.",
+      "dicas": [
+        "Antibiótico antes ou depois não melhora o resultado; reserve para celulite extensa."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ingrown Toenail Management — Am Fam Physician, 2019",
+      "url": "https://www.aafp.org/pubs/afp/issues/2019/0801/p158.html"
+    },
+    {
+      "titulo": "Management of the Ingrown Toenail — Am Fam Physician, 2009",
+      "url": "https://www.aafp.org/afp/2009/0215/p303"
+    }
+  ]
+}

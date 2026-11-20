@@ -1,0 +1,68 @@
+{
+  "id": "fazer-ponto-colchoeiro-vertical",
+  "titulo": "Como fazer o ponto colchoeiro vertical (Donati)",
+  "resumo": "Ponto \"longe-longe, perto-perto\" para everter bordas que tendem a se inverter e fechar feridas sob tensão.",
+  "categoria": "suturas",
+  "tags": [
+    "Donati",
+    "colchoeiro",
+    "eversão",
+    "longe-longe",
+    "perto-perto",
+    "tensão",
+    "sutura"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Porta-agulha",
+    "Pinça com dente",
+    "Tesoura de fio",
+    "Fio monofilamento não absorvível"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba quando usar",
+      "texto": "O colchoeiro vertical everte bem as bordas em áreas que tendem a se inverter, como a nuca e superfícies côncavas, e em feridas sob tensão. Ele aproxima o plano profundo e a superfície com um só ponto."
+    },
+    {
+      "titulo": "Faça a passada longe-longe",
+      "texto": "Entre a cerca de 4 a 8 mm da borda e passe a agulha profundamente, abaixo da derme. Saia do outro lado na mesma distância e profundidade."
+    },
+    {
+      "titulo": "Inverta a agulha sem amarrar",
+      "texto": "Ainda sem dar o nó, recoloque a agulha de trás para a frente no porta-agulha, para voltar em direção ao lado de início."
+    },
+    {
+      "titulo": "Faça a passada perto-perto",
+      "texto": "No mesmo lado em que a agulha saiu, entre a 1 a 2 mm da borda e passe superficialmente, a cerca de 1 mm de profundidade, na derme superior. Saia no lado de início, também a 1 a 2 mm da borda.",
+      "avisos": [
+        "As passadas precisam ser simétricas, principalmente a perto-perto. Profundidades diferentes desalinham as bordas e formam um degrau na cicatriz."
+      ]
+    },
+    {
+      "titulo": "Amarre do lado de início",
+      "texto": "Amarre as duas pontas do lado em que o ponto começou, de forma que o nó fique sobre a primeira entrada. Aperte só até as bordas se encostarem e everterem levemente."
+    },
+    {
+      "titulo": "Retire no prazo",
+      "texto": "Siga os mesmos prazos de retirada do ponto simples para cada região. Este ponto marca mais a pele se ficar tempo demais."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "The Mattress Sutures: Vertical, Horizontal, and Corner Stitch — Am Fam Physician, 2002",
+      "url": "https://www.aafp.org/pubs/afp/issues/2002/1215/p2231.html"
+    },
+    {
+      "titulo": "How To Repair a Laceration With Vertical Mattress Sutures — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-vertical-mattress-sutures"
+    },
+    {
+      "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
+      "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    }
+  ]
+}

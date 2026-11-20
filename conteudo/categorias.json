@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "medicacoes",
+    "nome": "Medicações",
+    "descricao": "Doses, vias de administração e uso seguro de medicamentos"
+  },
+  {
+    "id": "suturas",
+    "nome": "Suturas",
+    "descricao": "Preparo de feridas, fios, pontos e retirada"
+  },
+  {
+    "id": "pequenas-cirurgias",
+    "nome": "Pequenas cirurgias",
+    "descricao": "Procedimentos ambulatoriais com anestesia local"
+  }
+]

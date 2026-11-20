@@ -1,0 +1,81 @@
+{
+  "id": "fazer-ponto-simples",
+  "titulo": "Como fazer o ponto simples interrompido",
+  "resumo": "A sutura básica da pele: montagem da agulha, ângulo de entrada, eversão das bordas e nó instrumental.",
+  "categoria": "suturas",
+  "tags": [
+    "sutura",
+    "ponto simples",
+    "nó",
+    "nó instrumental",
+    "porta-agulha",
+    "laceração",
+    "eversão"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Porta-agulha",
+    "Pinça com dente ou gancho de pele",
+    "Tesoura de fio",
+    "Fio monofilamento não absorvível",
+    "Campo, gaze e luvas estéreis"
+  ],
+  "passos": [
+    {
+      "titulo": "Comece pelo meio",
+      "texto": "Dê o primeiro ponto no meio da ferida e os seguintes sempre no meio dos trechos que ficaram abertos. Assim a tensão se distribui e não sobra pele nas pontas."
+    },
+    {
+      "titulo": "Monte a agulha",
+      "texto": "Prenda a agulha com a ponta do porta-agulha, em ângulo de 90°, na junção do terço proximal com o terço médio da agulha. Segure o porta-agulha apoiado na palma e a pinça como um lápis."
+    },
+    {
+      "titulo": "Entre a 90 graus",
+      "texto": "Everta a borda com a pinça com dente ou um gancho de pele e entre perpendicular à pele, girando o punho para a agulha seguir a própria curva.\n\nPegue mais tecido no fundo do que na superfície: isso faz as bordas everterem. A profundidade do ponto deve ser maior que a distância até a borda."
+    },
+    {
+      "titulo": "Saia de forma simétrica",
+      "texto": "Saia do outro lado na mesma distância da borda e na mesma profundidade. Se houver resistência ou a ferida estiver muito aberta, tire a agulha no meio da ferida, reposicione e entre na outra borda. Deixe 2 a 3 cm de fio livre."
+    },
+    {
+      "titulo": "Dê o nó instrumental",
+      "texto": "Primeiro seminó (nó de cirurgião): enrole o fio duas vezes no porta-agulha, pegue a ponta curta e puxe as mãos em sentidos opostos, só até aproximar as bordas. Depois, seminós de uma volta, alternando o sentido para formar nós quadrados: cerca de 4 seminós no total. Corte deixando pontas de cerca de 1 cm.",
+      "dicas": [
+        "Fios monofilamento escorregadios, como o nylon, podem precisar de 5 a 6 seminós.",
+        "Deixe o nó ao lado da linha da ferida, não em cima dela."
+      ],
+      "avisos": [
+        "Ponto apertado demais estrangula a borda e deixa marcas. As bordas devem só se encostar."
+      ]
+    },
+    {
+      "titulo": "Distribua os pontos",
+      "texto": "Espace os pontos mais ou menos na mesma medida da distância entre a entrada da agulha e a borda. Em feridas mais profundas, os pontos ficam mais afastados da borda. Continue até não sobrar nenhuma fenda."
+    },
+    {
+      "titulo": "Faça o curativo e oriente",
+      "texto": "Cubra com curativo seco e oriente a manter seco e no lugar. Revise em cerca de 2 dias se necessário. Volte antes se houver dor que piora, inchaço, vermelhidão, febre ou estrias vermelhas subindo pelo membro.\n\nFace: 3 a 5 dias. Couro cabeludo e braços: 7 a 10 dias. Tronco, pernas, mãos e pés: 10 a 14 dias. Sobre articulações: 14 dias. Palmas e plantas: 14 a 21 dias."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How To Repair a Laceration With Simple Interrupted Sutures — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-simple-interrupted-sutures"
+    },
+    {
+      "titulo": "Suturing Techniques — StatPearls",
+      "url": "https://www.statpearls.com/point-of-care/31400"
+    },
+    {
+      "titulo": "Simple Interrupted Stitch — Boston University Surgery",
+      "url": "https://www.bumc.bu.edu/surgery/training/technical-training/simple-interrupted-stitch/"
+    },
+    {
+      "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
+      "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    }
+  ]
+}

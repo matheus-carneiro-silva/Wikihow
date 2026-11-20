@@ -1,0 +1,81 @@
+{
+  "id": "fazer-anestesia-local-com-lidocaina",
+  "titulo": "Como fazer anestesia local com lidocaína",
+  "resumo": "Dose máxima por peso, uso de adrenalina, técnica de infiltração com menos dor e como reconhecer e tratar a intoxicação.",
+  "categoria": "pequenas-cirurgias",
+  "tags": [
+    "anestesia local",
+    "lidocaína",
+    "xilocaína",
+    "infiltração",
+    "dose máxima",
+    "toxicidade",
+    "bloqueio"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Lidocaína 1% ou 2%, com ou sem adrenalina",
+    "Seringa de 10 mL",
+    "Agulha para aspirar e agulha fina (25 a 30G) para infiltrar",
+    "Antisséptico"
+  ],
+  "passos": [
+    {
+      "titulo": "Calcule a dose máxima antes",
+      "texto": "Sem adrenalina: 4,5 mg/kg, no máximo 300 mg. Com adrenalina: 7 mg/kg, no máximo 500 mg.\n\nLidocaína 1% tem 10 mg/mL e lidocaína 2% tem 20 mg/mL. Exemplo: adulto de 70 kg com lidocaína 1% sem adrenalina: 4,5 × 70 = 315 mg, que passa do teto; o limite fica em 300 mg, ou seja, 30 mL.",
+      "avisos": [
+        "Use doses menores em idosos, crianças pequenas, pessoas com doença no coração ou no fígado e em áreas muito vascularizadas."
+      ]
+    },
+    {
+      "titulo": "Decida sobre a adrenalina",
+      "texto": "A adrenalina prolonga o efeito e diminui o sangramento. Em concentração de até 1:100.000 é considerada segura nos dedos, e a 1:200.000 no nariz e nas orelhas.",
+      "avisos": [
+        "Não use adrenalina se houver doença vascular periférica ou qualquer risco de má circulação na região."
+      ]
+    },
+    {
+      "titulo": "Diminua a dor da injeção",
+      "texto": "Use agulha fina (25 a 30G) e anestésico em temperatura ambiente, e injete devagar. Em feridas limpas, entre pelas bordas abertas da ferida em vez de pela pele íntegra: dói menos.",
+      "dicas": [
+        "Tamponar a lidocaína com bicarbonato de sódio 8,4% (1 mL para 10 mL de lidocaína) reduz a ardência da injeção."
+      ]
+    },
+    {
+      "titulo": "Infiltre",
+      "texto": "Injete pequenas quantidades enquanto avança ou recua a agulha, nunca muito volume parado num só ponto. Ao reposicionar, entre por pele já anestesiada.",
+      "avisos": [
+        "Em áreas muito vascularizadas, aspire antes de injetar para não aplicar dentro de um vaso."
+      ]
+    },
+    {
+      "titulo": "Espere e teste",
+      "texto": "A lidocaína começa a agir em poucos minutos na infiltração; num bloqueio de dedo, espere de 5 a 10 minutos. Teste com a ponta da agulha antes de começar o procedimento."
+    },
+    {
+      "titulo": "Reconheça a intoxicação",
+      "texto": "Sinais iniciais: dormência ao redor da boca, gosto metálico, zumbido, tontura, fala arrastada e agitação. Podem evoluir para convulsão, arritmia e parada cardíaca.\n\nSe acontecer: pare a injeção, chame ajuda, garanta via aérea e oxigênio, trate convulsão com benzodiazepínico e use emulsão lipídica 20%: 1,5 mL/kg em bolus, seguida de 0,25 mL/kg por minuto."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Laceration Repair: A Practical Approach — Am Fam Physician, 2017",
+      "url": "https://www.aafp.org/pubs/afp/issues/2017/0515/p628.html"
+    },
+    {
+      "titulo": "Lidocaine — StatPearls (NCBI Bookshelf)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK539881/"
+    },
+    {
+      "titulo": "Lidocaine maximum dose — UMEM Educational Pearls",
+      "url": "https://www.medschool.umaryland.edu/em/cme/umem-educational-pearls/?id=828"
+    },
+    {
+      "titulo": "ASRA Checklist for Treatment of Local Anesthetic Systemic Toxicity — Reg Anesth Pain Med, 2012",
+      "url": "https://rapm.bmj.com/content/rapm/37/1/16.full.pdf"
+    }
+  ]
+}

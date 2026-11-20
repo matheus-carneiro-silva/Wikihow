@@ -1,0 +1,92 @@
+{
+  "id": "usar-analgesicos-comuns",
+  "titulo": "Como usar paracetamol, dipirona e ibuprofeno com segurança",
+  "resumo": "Doses usuais, limites diários e contraindicações dos analgésicos mais usados no Brasil, incluindo o cuidado na suspeita de dengue.",
+  "categoria": "medicacoes",
+  "tags": [
+    "analgésico",
+    "antitérmico",
+    "febre",
+    "dor",
+    "anti-inflamatório",
+    "AINE",
+    "dose máxima",
+    "dengue"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo. As doses são referências gerais para pessoas sem condições especiais: confirme sempre na bula do produto e na prescrição. Gestantes, bebês, idosos e pessoas com doença no fígado ou nos rins precisam de orientação individual.",
+  "passos": [
+    {
+      "titulo": "Escolha pelo objetivo",
+      "texto": "Paracetamol e dipirona tratam dor e febre. O ibuprofeno também reduz a inflamação, o que ajuda em dor muscular, dental ou cólica menstrual, mas tem mais contraindicações."
+    },
+    {
+      "titulo": "Paracetamol",
+      "texto": "Adultos e maiores de 12 anos: 500 a 1.000 mg por dose, a cada 4 a 6 horas, sem passar de 4.000 mg por dia.\n\nCrianças: 10 a 15 mg/kg por dose, a cada 4 a 6 horas, no máximo 5 doses em 24 horas.",
+      "dicas": [
+        "Muitos antigripais e remédios combinados já contêm paracetamol. Some tudo na conta do dia."
+      ],
+      "avisos": [
+        "Acima da dose máxima, ou em uso prolongado, o paracetamol pode causar lesão grave no fígado.",
+        "Em quem consome álcool regularmente ou tem doença no fígado, o limite costuma ser 3.000 mg por dia ou menos, conforme orientação médica."
+      ]
+    },
+    {
+      "titulo": "Dipirona",
+      "texto": "Adultos e maiores de 15 anos: 500 a 1.000 mg por dose, até 4 vezes ao dia por via oral, conforme as bulas.\n\nCrianças: 10 a 15 mg/kg por dose, até 4 vezes ao dia. Na solução de 500 mg/mL, a bula informa 25 mg por gota.",
+      "avisos": [
+        "Não usar em bebês com menos de 3 meses ou menos de 5 kg.",
+        "Raramente causa agranulocitose. Febre, dor de garganta ou feridas na boca durante o uso pedem avaliação médica imediata.",
+        "Pode baixar a pressão arterial, principalmente quando aplicada na veia."
+      ]
+    },
+    {
+      "titulo": "Ibuprofeno",
+      "texto": "Adultos: 200 a 400 mg a cada 6 a 8 horas, de preferência após comer. Sem receita, o limite é 1.200 mg por dia; com prescrição, as bulas permitem até 2.400 mg por dia.",
+      "avisos": [
+        "Evite em úlcera ou sangramento digestivo, doença nos rins, insuficiência cardíaca, alergia a AAS ou outros anti-inflamatórios e a partir do 3º trimestre da gravidez.",
+        "Uso por mais de uma semana só com orientação médica."
+      ]
+    },
+    {
+      "titulo": "Suspeita de dengue: nada de anti-inflamatório",
+      "texto": "Febre com dor no corpo em época de dengue pode ser dengue. Nesse caso, não use ibuprofeno, diclofenaco, nimesulida, AAS nem outros anti-inflamatórios, que aumentam o risco de sangramento.\n\nO Ministério da Saúde indica paracetamol ou dipirona para dor e febre, junto com bastante hidratação."
+    },
+    {
+      "titulo": "Saiba quando procurar atendimento",
+      "texto": "Febre por mais de 3 dias, dor forte que não melhora, sangramentos, vômitos persistentes, falta de ar ou sonolência fora do normal precisam de avaliação. Remédio para dor alivia o sintoma, mas não trata a causa."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Paracetamol — bula (Consulta Remédios)",
+      "url": "https://consultaremedios.com.br/paracetamol/bula"
+    },
+    {
+      "titulo": "Paracetamol — Guia Farmacêutico Hospital Sírio-Libanês",
+      "url": "https://guiafarmaceutico.hsl.org.br/Paginas/PARACETAMOL-(ACETAMINOFENO).aspx"
+    },
+    {
+      "titulo": "Anvisa alerta para riscos do uso indiscriminado de paracetamol",
+      "url": "https://www.saopaulo.sp.leg.br/coronavirus/blog/anvisa-alerta-para-riscos-do-uso-indiscriminado-de-paracetamol/"
+    },
+    {
+      "titulo": "Dipirona — Guia Farmacêutico Hospital Sírio-Libanês",
+      "url": "https://guiafarmaceutico.hsl.org.br/dipirona"
+    },
+    {
+      "titulo": "Dipirona monoidratada gotas 500 mg/mL — bula",
+      "url": "https://bula.com.br/original/dipirona-monoidratada-gotas-500-mgml"
+    },
+    {
+      "titulo": "Ibuprofeno comprimido 400 mg — bula",
+      "url": "https://bula.com.br/original/ibuprofeno-comprimido-400-mg"
+    },
+    {
+      "titulo": "Dengue: classificação de risco e manejo do paciente — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/dengue/dengue_classificacao_risco_manejo_paciente.pdf"
+    }
+  ]
+}

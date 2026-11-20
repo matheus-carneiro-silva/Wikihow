@@ -1,1 +1,14 @@
-[]
+[
+  ["sutura", "ponto", "pontos"],
+  ["ferida", "laceração", "corte", "ferimento"],
+  ["lidocaína", "xilocaína"],
+  ["dipirona", "metamizol", "novalgina"],
+  ["paracetamol", "acetaminofeno", "tylenol"],
+  ["adrenalina", "epinefrina"],
+  ["encravada", "onicocriptose"],
+  ["abscesso", "furúnculo"],
+  ["anafilaxia", "anafilático"],
+  ["injeção", "aplicação"],
+  ["face", "rosto"],
+  ["retirar", "tirar", "remover"]
+]

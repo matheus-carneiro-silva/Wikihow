@@ -1,0 +1,73 @@
+{
+  "id": "preparar-ferida-para-sutura",
+  "titulo": "Como limpar e preparar uma ferida antes de suturar",
+  "resumo": "Avaliação, prazo para fechar, irrigação, limpeza e prevenção do tétano antes de suturar um corte.",
+  "categoria": "suturas",
+  "tags": [
+    "laceração",
+    "corte",
+    "ferimento",
+    "irrigação",
+    "limpeza",
+    "tétano",
+    "antissepsia",
+    "desbridamento"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 20,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "passos": [
+    {
+      "titulo": "Avalie a ferida",
+      "texto": "Controle o sangramento com compressão direta. Antes de anestesiar, teste a sensibilidade, o movimento e a circulação além da ferida. Procure corpos estranhos e exposição de tendão, osso ou articulação.",
+      "avisos": [
+        "Encaminhe para avaliação especializada se houver lesão de tendão, nervo ou vaso, ferida que entra em articulação, suspeita de corpo estranho que não sai ou falta de circulação além da ferida."
+      ]
+    },
+    {
+      "titulo": "Decida se ainda dá para fechar",
+      "texto": "Não existe um \"período de ouro\" bem definido. Feridas limpas e sem infecção podem ser fechadas até cerca de 18 horas após o trauma; na cabeça, até 24 horas.",
+      "avisos": [
+        "Feridas infectadas ou muito contaminadas não devem ser fechadas na hora."
+      ]
+    },
+    {
+      "titulo": "Anestesie antes de limpar",
+      "texto": "A limpeza adequada dói. Faça a anestesia local antes de irrigar e explorar a ferida (veja o guia de anestesia local com lidocaína)."
+    },
+    {
+      "titulo": "Irrigue com bastante volume",
+      "texto": "Use de 50 a 100 mL de líquido por centímetro de ferida, com pressão de 5 a 8 psi: uma seringa de 35 mL com agulha 19G ou a ferida sob a água corrente da torneira.",
+      "dicas": [
+        "Água potável da torneira não aumenta o risco de infecção em comparação com o soro fisiológico."
+      ]
+    },
+    {
+      "titulo": "Remova sujeira e tecido sem vida",
+      "texto": "Retire os corpos estranhos visíveis e recorte, com cuidado e o mínimo possível, bordas esmagadas ou sem vida, principalmente na face. Se os pelos atrapalharem, apare com tesoura em vez de raspar."
+    },
+    {
+      "titulo": "Faça a antissepsia e monte o campo",
+      "texto": "Aplique clorexidina ou PVPI na pele ao redor da ferida e cubra com campo estéril fenestrado."
+    },
+    {
+      "titulo": "Verifique a vacina antitetânica",
+      "texto": "Ferida limpa e pequena: vacine se a última dose foi há mais de 10 anos. Ferida suja ou de alto risco: vacine se foi há mais de 5 anos e aplique também imunoglobulina antitetânica se a pessoa tiver menos de 3 doses ou não souber o histórico."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Laceration Repair: A Practical Approach — Am Fam Physician, 2017",
+      "url": "https://www.aafp.org/pubs/afp/issues/2017/0515/p628.html"
+    },
+    {
+      "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
+      "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    },
+    {
+      "titulo": "How To Repair a Laceration With Simple Interrupted Sutures — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-simple-interrupted-sutures"
+    }
+  ]
+}

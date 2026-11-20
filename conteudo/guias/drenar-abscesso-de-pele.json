@@ -1,0 +1,77 @@
+{
+  "id": "drenar-abscesso-de-pele",
+  "titulo": "Como drenar um abscesso de pele",
+  "resumo": "Incisão e drenagem à beira-leito: quando fazer, anestesia em losango, incisão, rompimento das lojas e cuidados depois.",
+  "categoria": "pequenas-cirurgias",
+  "tags": [
+    "abscesso",
+    "furúnculo",
+    "drenagem",
+    "incisão",
+    "pus",
+    "flutuação",
+    "celulite",
+    "MRSA"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Antisséptico (clorexidina ou PVPI)",
+    "Lidocaína 1%, seringa de 10 mL, agulhas 21G e 25G",
+    "Lâmina de bisturi nº 11",
+    "Pinça hemostática",
+    "Seringa para irrigação e soro fisiológico",
+    "Gaze e curativo absorvente"
+  ],
+  "passos": [
+    {
+      "titulo": "Confirme que é abscesso",
+      "texto": "Abscesso é uma coleção de pus: área dolorosa, avermelhada e endurecida, com um ponto amolecido (flutuação). Se houver dúvida entre abscesso e celulite, o ultrassom ajuda.\n\nAbscessos pequenos e superficiais podem começar com compressas mornas, com reavaliação em 24 a 48 horas.",
+      "avisos": [
+        "Não drene à beira-leito: abscesso grande ou profundo, perto de grandes vasos ou nervos, massa pulsátil, na mão além da ponta do dedo, na face ou ao redor do ânus. Esses casos vão para centro cirúrgico ou especialista."
+      ]
+    },
+    {
+      "titulo": "Anestesie em losango",
+      "texto": "Faça antissepsia e um bloqueio de campo: com agulha 25G, injete lidocaína 1% em forma de losango ao redor de todo o abscesso, reentrando sempre por pele já anestesiada.",
+      "avisos": [
+        "Não injete dentro da cavidade: dói e não anestesia."
+      ]
+    },
+    {
+      "titulo": "Faça a incisão",
+      "texto": "Com lâmina nº 11, faça uma incisão única e reta sobre toda a extensão da área flutuante, seguindo as linhas de tensão da pele."
+    },
+    {
+      "titulo": "Drene e desfaça as lojas",
+      "texto": "Comprima suavemente para sair o pus. Passe a pinça hemostática pela cavidade em movimentos circulares para romper as divisões internas (lojas). Se o conteúdo não sair todo, irrigue com soro fisiológico.",
+      "dicas": [
+        "Cultura do pus não é rotina. Vale colher em casos recorrentes, graves, com sinais no corpo todo, em imunossuprimidos ou quando o antibiótico já falhou."
+      ]
+    },
+    {
+      "titulo": "Dispense o tamponamento na maioria dos casos",
+      "texto": "Encher a cavidade com gaze (tamponamento) era comum, mas não é necessário. Em abscessos de até 5 cm ele não melhora o resultado e aumenta a dor."
+    },
+    {
+      "titulo": "Faça o curativo e oriente",
+      "texto": "Cubra com gaze absorvente. Reavalie em 24 a 48 horas. Em casa, a pessoa pode fazer compressas mornas e lavar a cavidade com a água do chuveiro, trocando o curativo a cada 1 a 2 dias até fechar."
+    },
+    {
+      "titulo": "Use antibiótico só em casos selecionados",
+      "texto": "A drenagem é o tratamento principal. Associe antibiótico que cubra estafilococo (incluindo MRSA) e estreptococo, por 5 a 7 dias, se houver: celulite extensa, abscesso profundo, abscessos múltiplos ou recorrentes, febre ou outros sinais no corpo todo, imunossupressão ou abscesso na face entre o lábio superior e a sobrancelha."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How To Incise and Drain an Abscess — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-do-skin-soft-tissue-and-minor-surgical-procedures/how-to-incise-and-drain-an-abscess"
+    },
+    {
+      "titulo": "Incision and Drainage — StatPearls",
+      "url": "https://www.statpearls.com/point-of-care/23431"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "calcular-dose-por-peso",
+  "titulo": "Como calcular a dose de um medicamento pelo peso",
+  "resumo": "Passo a passo para transformar uma prescrição em mg/kg na dose certa e no volume a medir, com dupla checagem.",
+  "categoria": "medicacoes",
+  "tags": [
+    "mg/kg",
+    "pediatria",
+    "cálculo",
+    "concentração",
+    "gotas",
+    "mL",
+    "dosagem"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo. As doses são referências gerais para pessoas sem condições especiais: confirme sempre na bula do produto e na prescrição. Gestantes, bebês, idosos e pessoas com doença no fígado ou nos rins precisam de orientação individual.",
+  "materiais": [
+    "Peso atual do paciente",
+    "Prescrição",
+    "Bula ou rótulo com a concentração",
+    "Calculadora",
+    "Seringa dosadora"
+  ],
+  "passos": [
+    {
+      "titulo": "Confirme o peso atual",
+      "texto": "Use o peso medido no dia, em quilos. Em crianças, usar um peso estimado ou antigo é uma das causas mais comuns de erro de dose.",
+      "dicas": [
+        "Peso em libras: divida por 2,2 para ter o valor em quilos."
+      ]
+    },
+    {
+      "titulo": "Calcule a dose em miligramas",
+      "texto": "Multiplique a dose prescrita em mg/kg pelo peso. Exemplo: paracetamol 15 mg/kg para uma criança de 12 kg = 15 × 12 = 180 mg por dose.\n\nCompare o resultado com a dose de adulto: a dose calculada por peso nunca deve ultrapassá-la.",
+      "avisos": [
+        "Diferencie mg/kg por dose de mg/kg por dia. Uma prescrição de 60 mg/kg/dia dividida em 4 tomadas equivale a 15 mg/kg por dose."
+      ]
+    },
+    {
+      "titulo": "Converta para volume",
+      "texto": "Volume (mL) = dose (mg) ÷ concentração (mg/mL). Com paracetamol solução oral 200 mg/mL: 180 ÷ 200 = 0,9 mL. Com uma suspensão de 32 mg/mL: 180 ÷ 32 = 5,6 mL.",
+      "avisos": [
+        "O mesmo medicamento é vendido em concentrações diferentes. Confira o rótulo do frasco em uso antes de cada cálculo."
+      ]
+    },
+    {
+      "titulo": "Cuidado ao usar gotas",
+      "texto": "O número de gotas por mL varia entre fabricantes e frascos. Só converta para gotas usando a equivalência escrita na bula daquele produto. Exemplo: na dipirona 500 mg/mL, a bula informa 20 gotas = 1 mL, ou seja, 25 mg por gota.",
+      "dicas": [
+        "Sempre que possível, meça em mL com seringa dosadora: é mais preciso do que contar gotas."
+      ]
+    },
+    {
+      "titulo": "Confira a dose diária e o intervalo",
+      "texto": "Multiplique a dose pelo número de tomadas em 24 horas e compare com o máximo diário da bula. Para paracetamol em crianças, o limite é de cerca de 75 mg/kg por dia, sem passar de 5 tomadas em 24 horas."
+    },
+    {
+      "titulo": "Faça a dupla checagem",
+      "texto": "Refaça a conta do zero ou peça a outra pessoa que a refaça sem ver o seu resultado. Um erro de vírgula (0,9 mL em vez de 9 mL) multiplica a dose por 10.",
+      "avisos": [
+        "Se o resultado parecer muito diferente do habitual, pare e confirme com a prescrição ou com o farmacêutico antes de administrar."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Paracetamol — bula (Consulta Remédios)",
+      "url": "https://consultaremedios.com.br/paracetamol/bula"
+    },
+    {
+      "titulo": "Dipirona monoidratada gotas 500 mg/mL — bula",
+      "url": "https://bula.com.br/original/dipirona-monoidratada-gotas-500-mgml"
+    },
+    {
+      "titulo": "Bulário Eletrônico — Anvisa",
+      "url": "https://consultas.anvisa.gov.br/#/bulario/"
+    }
+  ]
+}

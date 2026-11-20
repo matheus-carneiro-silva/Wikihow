@@ -1,0 +1,62 @@
+{
+  "id": "escolher-fio-de-sutura",
+  "titulo": "Como escolher o fio de sutura",
+  "resumo": "Absorvível ou não, monofilamento ou multifilamento, calibre por região do corpo e prazo de retirada.",
+  "categoria": "suturas",
+  "tags": [
+    "fio",
+    "nylon",
+    "mononylon",
+    "vicryl",
+    "poliglactina",
+    "absorvível",
+    "calibre",
+    "4-0",
+    "5-0"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "passos": [
+    {
+      "titulo": "Absorvível ou não absorvível",
+      "texto": "Fios não absorvíveis monofilamento, como nylon (mononylon) e polipropileno, são o padrão para pele: causam pouca reação e precisam ser retirados. Os absorvíveis, como a poliglactina 910 (Vicryl), são usados em planos profundos e quando a retirada seria difícil.",
+      "dicas": [
+        "Em estudos com adultos e crianças, fios absorvíveis e não absorvíveis na pele tiveram cicatrização e resultado estético parecidos."
+      ]
+    },
+    {
+      "titulo": "Monofilamento ou multifilamento",
+      "texto": "O monofilamento desliza melhor pelo tecido e retém menos bactérias, mas o nó escorrega com mais facilidade e pede mais seminós. O multifilamento é mais fácil de amarrar e o nó firma melhor."
+    },
+    {
+      "titulo": "Escolha o calibre pela região",
+      "texto": "Quanto maior o número antes do zero, mais fino o fio. Face: 5-0 ou 6-0. Pálpebra: 6-0. Mãos e antebraço: 4-0 ou 5-0. Maior parte do corpo: 4-0. Pele grossa (costas, couro cabeludo, palmas e plantas): 3-0. Gálea do couro cabeludo: 2-0 ou 3-0 absorvível.",
+      "dicas": [
+        "Use o fio mais fino que aguente a tensão da ferida: quanto mais fino, menor a marca."
+      ]
+    },
+    {
+      "titulo": "Escolha a agulha",
+      "texto": "Para pele, use agulha curva cortante; a de 3/8 de círculo é a mais comum. Agulhas cilíndricas (não cortantes) são para tecidos internos delicados."
+    },
+    {
+      "titulo": "Planeje a retirada",
+      "texto": "Face: 3 a 5 dias. Couro cabeludo e braços: 7 a 10 dias. Tronco, pernas, mãos e pés: 10 a 14 dias. Sobre articulações: 14 dias. Palmas e plantas: 14 a 21 dias.",
+      "dicas": [
+        "Pontos que ficam tempo demais deixam marcas em \"trilho de trem\"; retirados cedo demais, a ferida pode abrir."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Laceration Repair: A Practical Approach — Am Fam Physician, 2017",
+      "url": "https://www.aafp.org/pubs/afp/issues/2017/0515/p628.html"
+    },
+    {
+      "titulo": "Essentials of Skin Laceration Repair — Am Fam Physician, 2008",
+      "url": "https://www.aafp.org/pubs/afp/issues/2008/1015/p945.html"
+    }
+  ]
+}

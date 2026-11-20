@@ -1,0 +1,79 @@
+{
+  "id": "aplicar-injecao-intramuscular",
+  "titulo": "Como aplicar uma injeção intramuscular",
+  "resumo": "Escolha do local (ventroglúteo, vasto lateral ou deltoide), volumes, localização dos pontos e técnica em Z.",
+  "categoria": "medicacoes",
+  "tags": [
+    "injeção",
+    "IM",
+    "ventroglúteo",
+    "deltoide",
+    "vasto lateral",
+    "glúteo",
+    "técnica em Z",
+    "enfermagem"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Seringa de 3 ou 5 mL",
+    "Agulha 40×12 para aspirar",
+    "Agulha 25×7, 25×8 ou 30×8 para aplicar, conforme o paciente",
+    "Álcool 70% e algodão",
+    "Luvas de procedimento",
+    "Coletor de perfurocortantes"
+  ],
+  "passos": [
+    {
+      "titulo": "Confira e prepare",
+      "texto": "Confira paciente, medicamento, dose, via e horário. Desinfete a ampola ou o frasco com álcool 70%, aspire o medicamento com a agulha 40×12 e troque pela agulha de aplicação.",
+      "dicas": [
+        "Não misture medicamentos diferentes na mesma seringa."
+      ]
+    },
+    {
+      "titulo": "Escolha o local",
+      "texto": "Ventroglúteo: o mais indicado em adultos, com menor risco de atingir nervos e vasos. Vasto lateral da coxa: boa alternativa e o mais usado em crianças. Deltoide: só para volumes pequenos. Dorsoglúteo: evite pelo risco ao nervo isquiático, e nunca use em crianças de até 3 anos.\n\nVolumes usuais em adultos: até 2 mL no deltoide e até 4 a 5 mL nos demais músculos; acima disso, divida a dose. Não há consenso exato sobre o volume máximo, então siga o protocolo da sua instituição.",
+      "avisos": [
+        "Não aplique sobre lesões, inchaço, cicatrizes, inflamação ou hematomas. Faça rodízio dos locais."
+      ]
+    },
+    {
+      "titulo": "Localize o ponto ventroglúteo",
+      "texto": "Com o paciente deitado de costas ou de lado, apoie a palma da mão oposta sobre o trocânter maior (mão direita no quadril esquerdo). Coloque o indicador na espinha ilíaca anterossuperior e afaste o dedo médio em direção à crista ilíaca. Aplique no centro do triângulo formado entre os dedos."
+    },
+    {
+      "titulo": "Ou localize o deltoide",
+      "texto": "Com o paciente sentado e o braço relaxado, o ponto fica 2,5 a 5 cm (dois a três dedos) abaixo do acrômio, na parte mais espessa do músculo, sobre a linha axilar média."
+    },
+    {
+      "titulo": "Aplique com a técnica em Z",
+      "texto": "Faça a antissepsia com álcool 70% em um único sentido e espere secar. Com a mão não dominante, puxe a pele para o lado. Introduza a agulha com firmeza em ângulo de 90°, injete devagar, espere cerca de 3 segundos, retire em um movimento só e solte a pele.\n\nO deslocamento da pele fecha o trajeto da agulha e impede que o medicamento volte.",
+      "dicas": [
+        "O protocolo atual de hospitais universitários federais (Ebserh, 2025) não inclui aspirar antes de injetar."
+      ],
+      "avisos": [
+        "A técnica em Z não é indicada para crianças menores de 2 anos nem para pessoas muito debilitadas."
+      ]
+    },
+    {
+      "titulo": "Finalize e observe",
+      "texto": "Comprima de leve com algodão seco, sem massagear. Descarte a seringa com a agulha, sem reencapar, no coletor de perfurocortantes. Registre medicamento, dose, via, local e horário, e observe o paciente por alguns minutos.",
+      "avisos": [
+        "Falta de ar, inchaço no rosto, placas vermelhas na pele ou tontura logo após a injeção: trate como anafilaxia."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "POP Administração de medicação intramuscular no adulto — HU-UFGD/Ebserh, 2025",
+      "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hu-ufgd/acesso-a-informacao/pops-protocolos-e-processos/gad/pop-denf-009-preparo-e-administracao-de-medicacao-intramuscular-no-adulto-v-5.pdf"
+    },
+    {
+      "titulo": "Administração de medicamentos por via intramuscular — Coren-SP",
+      "url": "https://portal.coren-sp.gov.br/sites/default/files/administracao_de_medicamentos_por_via_intramuscular.pdf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "retirar-pontos",
+  "titulo": "Como retirar pontos",
+  "resumo": "Prazos por região do corpo e a técnica de corte e tração que evita abrir a ferida e arrastar sujeira pelo trajeto do fio.",
+  "categoria": "suturas",
+  "tags": [
+    "retirada de pontos",
+    "remoção de pontos",
+    "cicatrização",
+    "deiscência",
+    "fita adesiva"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Conteúdo educativo para estudantes e profissionais de saúde. O procedimento exige formação, supervisão e material estéril, e não substitui o protocolo da sua instituição nem a avaliação de um profissional habilitado.",
+  "materiais": [
+    "Pinça",
+    "Tesoura de ponta fina ou lâmina de bisturi nº 12",
+    "Gaze e soro fisiológico",
+    "Fitas adesivas para pele"
+  ],
+  "passos": [
+    {
+      "titulo": "Confira o prazo",
+      "texto": "Face: 3 a 5 dias. Couro cabeludo e braços: 7 a 10 dias. Tronco, pernas, mãos e pés: 10 a 14 dias. Sobre articulações: 14 dias. Palmas e plantas: 14 a 21 dias.",
+      "dicas": [
+        "Na face, dá para retirar pontos alternados no 3º dia e o restante no 5º, ou todos no 3º dia e reforçar com fitas adesivas."
+      ]
+    },
+    {
+      "titulo": "Avalie a ferida",
+      "texto": "Antes de retirar, verifique se as bordas estão unidas e se não há sinais de infecção (vermelhidão que se espalha, secreção, calor, dor que piora).",
+      "avisos": [
+        "Se as bordas parecerem frágeis, retire pontos alternados e reavalie antes de retirar os demais."
+      ]
+    },
+    {
+      "titulo": "Limpe a área",
+      "texto": "Limpe com soro fisiológico para remover crostas que prendem o fio."
+    },
+    {
+      "titulo": "Corte rente à pele",
+      "texto": "Levante o nó com a pinça e corte o fio de um lado só, rente à pele, entre o nó e a pele."
+    },
+    {
+      "titulo": "Puxe em direção à ferida",
+      "texto": "Puxe o ponto pelo nó, em direção à linha da ferida e não para longe dela. Assim a força não abre a cicatriz, e a parte do fio que ficou exposta não atravessa a pele."
+    },
+    {
+      "titulo": "Reforce e proteja",
+      "texto": "Em áreas de tensão ou se as bordas parecerem frágeis, aplique fitas adesivas por alguns dias. Oriente a usar protetor solar sobre a cicatriz nos meses seguintes."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Laceration Repair: A Practical Approach — Am Fam Physician, 2017",
+      "url": "https://www.aafp.org/pubs/afp/issues/2017/0515/p628.html"
+    },
+    {
+      "titulo": "How To Repair a Laceration With Simple Interrupted Sutures — MSD Manual",
+      "url": "https://www.msdmanuals.com/professional/injuries-poisoning/how-to-care-for-wounds-and-lacerations/how-to-repair-a-laceration-with-simple-interrupted-sutures"
+    }
+  ]
+}
