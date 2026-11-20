@@ -1,0 +1,152 @@
+{
+  "id": "reconhecer-plantas-toxicas",
+  "titulo": "Como reconhecer plantas tóxicas e agir em caso de intoxicação",
+  "resumo": "As plantas venenosas mais comuns no Brasil (mandioca brava, mamona, comigo-ninguém-pode, tinhorão, espirradeira, cicuta, saia-branca) e cogumelos silvestres: como reconhecer, sinais de intoxicação, primeiros socorros e quando ligar para o Disque-Intoxicação 0800 722 6001.",
+  "categoria": "plantas-silvestres",
+  "tags": [
+    "planta venenosa",
+    "plantas tóxicas",
+    "envenenamento",
+    "intoxicação por planta",
+    "mandioca brava",
+    "cianeto",
+    "mamona",
+    "comigo-ninguém-pode",
+    "tinhorão",
+    "espirradeira",
+    "oleandro",
+    "cicuta",
+    "cogumelo venenoso",
+    "fungo",
+    "CIATox",
+    "Disque-Intoxicação",
+    "criança comeu planta",
+    "teste de comestibilidade"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Na dúvida, não coma. Não existe regra nem teste caseiro seguro para saber se uma planta ou cogumelo é comestível, e cozinhar nem sempre elimina o veneno. Em suspeita de intoxicação, ligue para o Disque-Intoxicação 0800 722 6001 (gratuito, 24 horas) ou 192 (SAMU); com falta de ar, inchaço na garganta, convulsão ou desmaio, ligue 192 na hora.",
+  "materiais": [
+    "Saco plástico ou pote para guardar um pedaço da planta ou cogumelo ingerido",
+    "Papel e caneta para anotar hora e quantidade",
+    "Água limpa para lavar pele e olhos",
+    "Luvas para podar plantas com látex (leite)"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda a regra de ouro",
+      "texto": "Só coma planta que você conhece com certeza e que sabe preparar. Algumas plantas matam em quantidade pequena: a cicuta pode matar com 6 a 8 folhas frescas; sementes de mamona mastigadas causam diarreia com sangue, convulsões e coma.\n\nMuitas plantas tóxicas são ornamentais e estão no quintal, na praça e na escola. Ensine as crianças a não colocar folhas, flores, sementes ou \"leitinho\" de planta na boca e não deixe que usem essas plantas em brincadeiras.",
+      "avisos": [
+        "O chamado \"teste de comestibilidade universal\" (cheirar, esfregar na pele, encostar nos lábios e engolir um pedacinho esperando horas) é arriscado e não é seguro: venenos como o da cicuta, da mamona e de cogumelos agem em doses pequenas, e alguns só dão sintomas horas depois, quando o estrago já foi feito.",
+        "Animais comerem uma planta não prova que ela é segura para pessoas."
+      ]
+    },
+    {
+      "titulo": "Saiba lidar com a mandioca brava",
+      "texto": "Toda mandioca libera cianeto quando a raiz é ralada, amassada ou mastigada. A brava (mais de 100 mg de ácido cianídrico por kg de raiz) não fica segura só descascando e cozinhando: a fervura sozinha tira apenas 25% a 75% do veneno. Pela aparência não dá para separar mansa de brava, e até o gosto já enganou agricultores. Na dúvida, trate como brava.\n\nComo tirar o veneno (o jeito tradicional de fazer farinha):\n1. Descasque (a casca concentra mais cianeto) e lave.\n2. Rale a raiz. Ralar libera o cianeto, que sai junto com o caldo.\n3. Prense bem para tirar todo o caldo (manipueira).\n4. Torre a massa até secar, mexendo sempre.\n\nEsmagar e secar ao sol tira 95% a 98% dos compostos tóxicos; só secar ao sol, 40% a 50%. Deixar as raízes de molho para fermentar (como na farinha d'água e na puba) também ajuda a destruir o veneno. O caldo (manipueira) só vira tucupi depois de bem fervido. As folhas usadas na maniçoba são cozidas tradicionalmente por 7 dias.\n\nIntoxicação aguda por mandioca mal processada causa tontura, vômitos e colapso, e pode matar em poucas horas.",
+      "dicas": [
+        "Para plantar e separar as variedades, veja \"Como cultivar mandioca, batata-doce e feijão\"."
+      ],
+      "avisos": [
+        "Torre a farinha e cozinhe manipueira e maniva em local bem ventilado: o cianeto sai para o ar durante o processo.",
+        "Nunca dê manipueira crua, cascas ou rama fresca de mandioca brava para pessoas ou animais."
+      ]
+    },
+    {
+      "titulo": "Reconheça a mamona",
+      "texto": "A mamona (Ricinus communis) é um arbusto muito comum em terrenos baldios e beira de estrada, com folhas grandes recortadas em forma de mão e frutos com espinhos moles em cachos. O perigo está nas sementes, que contêm ricina.\n\nSinais: sementes mastigadas causam náuseas, vômitos, cólicas, diarreia com muco e até com sangue, convulsões e coma. Os sintomas costumam aparecer em menos de 10 horas.\n\nO óleo de rícino vendido em farmácia é outra coisa: a toxina fica no resíduo da semente, não no óleo purificado. Nunca tente extrair óleo ou fazer remédio caseiro com a semente.",
+      "avisos": [
+        "Qualquer suspeita de criança que mastigou semente de mamona é emergência: ligue 0800 722 6001 ou 192, mesmo sem sintomas."
+      ]
+    },
+    {
+      "titulo": "Cuidado com comigo-ninguém-pode, tinhorão e parentes",
+      "texto": "Comigo-ninguém-pode (Dieffenbachia), tinhorão (Caladium, de folha colorida em forma de coração), jiboia e antúrio são da mesma família da taioba e têm, em toda a planta, cristais de oxalato de cálcio em forma de agulha.\n\nSinais, em poucos minutos:\n• na boca: dor e queimação, inchaço da língua e dos lábios, muita salivação, vômitos, diarreia e, nos casos graves, falta de ar por inchaço da garganta;\n• nos olhos: dor forte, inchaço, lacrimejamento, sensibilidade à luz e lesão da córnea;\n• na pele: queimação e bolhas.\n\nO que fazer: tire da boca os restos da planta, lave pele e olhos com bastante água e ligue para o 0800 722 6001. Com inchaço na garganta ou dificuldade para respirar, ligue 192 imediatamente.",
+      "dicas": [
+        "A taioba comestível também tem oxalato: só se come bem cozida e com identificação segura. Veja \"Como identificar e preparar PANC comestíveis\"."
+      ]
+    },
+    {
+      "titulo": "Reconheça a espirradeira",
+      "texto": "A espirradeira ou oleandro (Nerium oleander) é um arbusto muito usado em praças, canteiros de avenidas e beira de estrada, com folhas longas, estreitas e duras e cachos de flores rosas, brancas ou vermelhas. Toda a planta é tóxica e age no coração.\n\nSinais: queimação na boca, salivação, náuseas e vômitos intensos, cólicas, diarreia, tontura e alterações no ritmo do coração.",
+      "avisos": [
+        "Alteração do coração pode matar: qualquer ingestão de espirradeira deve ir para atendimento médico."
+      ]
+    },
+    {
+      "titulo": "Não coma nada que pareça salsa ou cenoura do mato",
+      "texto": "A cicuta (Conium maculatum) é da mesma família da salsa, da cenoura e da erva-doce, e já foi confundida com elas: as folhas com salsa e cenoura-selvagem, a raiz com pastinaca e as sementes com anis. Toda a planta é venenosa, principalmente raiz e sementes.\n\nComo reconhecer: pode passar de 2 m, tem caule oco com manchas roxas e, quando amassada, cheiro desagradável, \"de rato\".\n\nSinais: irritação na boca, salivação, náuseas e vômitos logo no início; depois sonolência, formigamento, perda de equilíbrio e paralisia que sobe pelo corpo até parar a respiração. Sem tratamento, a morte pode ocorrer em menos de 3 horas.\n\nRegra prática: nunca colha \"salsa\", \"coentro\", \"erva-doce\" ou \"cenoura\" do mato. Use só as plantadas por você ou de procedência conhecida.",
+      "avisos": [
+        "Se alguém comeu planta parecida com salsa ou cenoura do mato e começou a ter fraqueza ou dificuldade para respirar, ligue 192 e esteja pronto para fazer RCP. Veja \"Como fazer reanimação cardiopulmonar (RCP) em adulto, criança e bebê\"."
+      ]
+    },
+    {
+      "titulo": "Conheça outras plantas perigosas comuns",
+      "texto": "Saia-branca ou trombeteira (Brugmansia): arbusto de flores grandes em forma de trombeta, penduradas. Toda a planta é tóxica e é às vezes usada como chá alucinógeno. Causa boca e pele secas, coração acelerado, pupilas dilatadas, agitação, alucinação e febre, e pode matar.\n\nAvelós ou aveloz (Euphorbia tirucalli) e bico-de-papagaio (Euphorbia pulcherrima): o látex (leite) causa lesão na pele e irritação forte nos olhos; engolir causa náuseas, vômitos e diarreia. Use luvas e proteja os olhos ao podar plantas que soltam leite.",
+      "avisos": [
+        "Não use plantas tóxicas como chá, remédio caseiro ou \"para dar barato\": a dose venenosa é imprevisível."
+      ]
+    },
+    {
+      "titulo": "Não coma cogumelos silvestres",
+      "texto": "Não colha cogumelos do mato, do gramado ou de troncos para comer, a não ser que um especialista identifique cada exemplar. O conhecimento popular não é confiável e até especialistas têm dificuldade de separar os venenosos dos comestíveis. Não existe teste caseiro seguro (colher de prata, alho, cebola, cheiro, cor ou bicho que comeu). Cozinhar também não garante segurança.\n\nNo Brasil, um cogumelo venenoso comum em gramados e áreas urbanas é o Chlorophyllum molybdites (chapéu branco grande com escamas marrons), com casos de intoxicação registrados no Paraná.\n\nSinais e tempo:\n• sintomas em até 2 horas (vômitos, diarreia, suor, alucinação) costumam vir de cogumelos menos perigosos;\n• vômitos e diarreia que começam 6 a 12 horas depois são sinal de alerta para os mais perigosos (como Amanita), que destroem o fígado. O gênero Amanita causa cerca de 95% das mortes por cogumelo.",
+      "avisos": [
+        "Quem passou mal horas depois de comer cogumelo silvestre precisa de atendimento médico mesmo que melhore: o dano ao fígado pode vir depois."
+      ]
+    },
+    {
+      "titulo": "Aja rápido em caso de intoxicação",
+      "texto": "1. Tire da boca os restos da planta ou do cogumelo.\n2. Pele ou olhos: lave com bastante água e tire a roupa molhada de seiva.\n3. Ligue para o Disque-Intoxicação 0800 722 6001 (gratuito, 24 horas, atendido pelo centro toxicológico mais próximo) e siga a orientação.\n4. Não dê leite, água ou outros líquidos e não provoque vômito sem orientação de um profissional.\n5. Guarde um pedaço da planta, flor, semente ou cogumelo num saco ou pote e leve ao atendimento. Anote o horário e a quantidade.\n6. Desmaio, convulsão, falta de ar ou inchaço na garganta: ligue 192 na hora, deite a pessoa de lado e mantenha as vias aéreas livres.\n\nSem telefone (apagão), leve a pessoa e a amostra da planta ao posto de saúde ou hospital mais próximo, sem esperar os sintomas piorarem.",
+      "dicas": [
+        "Deixe o número 0800 722 6001 escrito no kit de primeiros socorros e na geladeira.",
+        "Se houver inchaço da boca e dos lábios com falta de ar depois de contato com planta, veja também \"Como reconhecer e tratar anafilaxia com adrenalina\"."
+      ],
+      "avisos": [
+        "Não espere sintomas para procurar ajuda depois de ingestão de mamona, espirradeira, cicuta, saia-branca ou cogumelo silvestre."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Plantas tóxicas — Centro de Estudos Etnobotânicos e Etnofarmacológicos, Unifesp",
+      "url": "https://site.unifesp.br/cee/images/artigos/toxicas.pdf"
+    },
+    {
+      "titulo": "Plantas tóxicas ornamentais para cães e gatos (Araceae: comigo-ninguém-pode, tinhorão) — EVZ/UFG",
+      "url": "https://files.cercomp.ufg.br/weby/up/66/o/PLANTAS_TO%CC%81XICAS_(1).pdf"
+    },
+    {
+      "titulo": "Intoxicações exógenas — Sociedade Brasileira de Pediatria",
+      "url": "https://www.sbp.com.br/pediatria-para-familias/seguranca-e-prevencao/intoxicacoes-exogenas/"
+    },
+    {
+      "titulo": "Diretrizes para intoxicações por agrotóxicos, cap. 1 (Disque-Intoxicação e Renaciat) — Conitec/Ministério da Saúde",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/resumidos/ddt_resumido_intoxicacoes_por_agrotoxicos_cap1.pdf"
+    },
+    {
+      "titulo": "Mandioca: o produtor pergunta, a Embrapa responde — Embrapa Mandioca e Fruticultura",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/120506/1/500perguntasmandioca.pdf"
+    },
+    {
+      "titulo": "Cultura da mandioca, cap. 13: segurança dos derivados — Embrapa Amazônia Oriental",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1056664/1/LVMandiocacap13.pdf"
+    },
+    {
+      "titulo": "Roots, tubers, plantains and bananas in human nutrition, cap. 7: toxic substances — FAO",
+      "url": "https://www.fao.org/4/t0207e/T0207E08.htm"
+    },
+    {
+      "titulo": "Conium maculatum (Poisons Information Monograph) — IPCS/OMS INCHEM",
+      "url": "https://inchem.org/documents/pims/plant/conium.htm"
+    },
+    {
+      "titulo": "Intoxicação por cogumelos — Manual MSD (versão para a família)",
+      "url": "https://www.msdmanuals.com/pt/casa/lesões-e-envenenamentos/envenenamento/intoxicação-por-cogumelos-cogumelo-chapéu-de-sol"
+    },
+    {
+      "titulo": "Incidences of poisonings due to Chlorophyllum molybdites in the state of Paraná, Brazil — Braz. Arch. Biol. Technol.",
+      "url": "https://scielo.br/j/babt/a/3NBsQTkFXm5ZcQMLvVq7bSq/?lang=en"
+    }
+  ]
+}

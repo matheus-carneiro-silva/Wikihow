@@ -1,0 +1,177 @@
+{
+  "id": "fazer-marcenaria-com-ferramentas-manuais",
+  "titulo": "Como fazer marcenaria com ferramentas manuais",
+  "resumo": "Escolher e secar a madeira, medir e marcar, serrar com serrote, usar formão, plaina e furadeira manual (arco de pua), fazer encaixe meia-madeira e cavilha, colar, pregar e parafusar, com um banco simples como projeto exemplo.",
+  "categoria": "oficios",
+  "tags": [
+    "marcenaria",
+    "marceneiro",
+    "carpintaria",
+    "carpinteiro",
+    "madeira",
+    "serrote",
+    "formão",
+    "plaina",
+    "arco de pua",
+    "furadeira manual",
+    "verruma",
+    "encaixe",
+    "meia-madeira",
+    "cavilha",
+    "espiga",
+    "cola de madeira",
+    "cola branca",
+    "prego",
+    "parafuso",
+    "secar madeira",
+    "tábua",
+    "móvel",
+    "banco",
+    "banquinho",
+    "prateleira",
+    "sem energia"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 240,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Formão, serrote e plaina cortam fundo: trabalhe com a peça presa (morsa, grampo ou sargento), mantenha as duas mãos atrás do gume e corte sempre na direção oposta ao corpo. Use óculos ao martelar e ao serrar acima da cabeça. Móvel que vai sustentar gente (banco, cadeira, cama, escada) precisa ser testado com carga aos poucos antes do uso.",
+  "materiais": [
+    "Trena ou metro de carpinteiro e esquadro",
+    "Lápis de carpinteiro e estilete (ou faca afiada) para riscar",
+    "Graminho (riscador de linha paralela), se tiver",
+    "Serrote (de preferência um de corte transversal e um de corte a fio) ou serrote universal",
+    "Formões de 12 e 25 mm e macete de madeira",
+    "Plaina manual",
+    "Arco de pua com brocas (ou furadeira manual de manivela) e verruma",
+    "Martelo, pregos, chave de fenda e parafusos para madeira",
+    "Cola branca para madeira (PVA)",
+    "Grampos, sargentos ou cordas e cunhas para apertar a colagem",
+    "Cavaletes ou bancada firme",
+    "Lixas e pedra de afiar"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha a madeira certa para o uso",
+      "texto": "O que importa, segundo o Laboratório de Produtos Florestais do Serviço Florestal Brasileiro: para móveis, madeira de densidade média a alta, que encolhe pouco ao secar (estável), de fibra (grã) reta e textura fina a média, sem cheiro forte e sem resina escorrendo. Para móvel de jardim ou que fica na chuva, prefira madeira de densidade alta: madeira leve é fraca, marca fácil e apodrece rápido.\n\nExemplos de madeiras brasileiras indicadas pelo laboratório para móveis: jatobá, garapeira, sucupira e cabreúva-parda, entre outras. Em reaproveitamento (o mais provável num colapso), aproveite portas, batentes, assoalhos, caibros e móveis velhos: costumam ser de madeira boa e já seca.\n\nEucalipto e pinus de reflorestamento são os mais fáceis de achar. O eucalipto serrado tende a rachar e empenar ao secar; escolha tábuas retas e deixe secar bem antes de usar.\n\nNa tábua, rejeite: nós soltos ou grandes nas partes que levam carga, rachaduras, fibra torta (que corre inclinada em relação ao comprimento da peça), cupim, furos de broca e partes podres (moles, esfarelando ou com cheiro de mofo).",
+      "dicas": [
+        "Peças que levam carga (pés, travessas) devem ter a fibra correndo ao longo do comprimento. Fibra inclinada quebra com pouca carga, de flexão ou de impacto."
+      ]
+    },
+    {
+      "titulo": "Seque a madeira antes de trabalhar",
+      "texto": "Madeira verde encolhe, empena e racha depois de pronta, e encaixes e colagens se soltam. Seque antes.\n\nComo empilhar para secar ao ar: (1) Faça uma base nivelada a pelo menos 30 cm do chão, com apoios a no máximo 60 cm um do outro. (2) Coloque a primeira camada de tábuas deixando 2,5 a 5 cm entre elas. (3) Entre uma camada e outra, coloque sarrafos secos e iguais (tabiques) de cerca de 2,5 × 4 cm, atravessados, um em cada ponta e um sobre cada apoio, todos alinhados na vertical. (4) Empilhe até a altura da cabeça, no máximo. (5) Cubra com um telhado que avance cerca de 60 cm para cada lado, deixando uns 15 cm de ar entre a pilha e a cobertura, e ponha peso em cima para reduzir o empenamento.\n\nPinte ou encere as pontas (topos) das tábuas boas: elas secam rápido demais pelo topo e racham ali.\n\nTempo: ao ar, a madeira só seca até perto da umidade do ambiente, cerca de 14% a 20%, o que serve para obras externas e galpões. Num teste no Missouri (EUA), tábuas de carvalho de 2,5 cm empilhadas no verão chegaram a 20% em cerca de 60 dias; tábuas de 5 cm levaram quase 320 dias. Madeira mais grossa e mais densa demora de 2 a 4 vezes mais. Móvel para dentro de casa fica melhor com a madeira guardada mais alguns meses dentro de casa, no ambiente onde será usada.",
+      "dicas": [
+        "Para saber se secou: corte uma amostra de 30 cm do meio de uma tábua, pese e anote. Guarde junto da pilha e pese a cada semana. Quando o peso parar de cair, a pilha chegou ao equilíbrio com o ambiente."
+      ]
+    },
+    {
+      "titulo": "Meça e marque com precisão",
+      "texto": "Escolha a face e o lado mais retos de cada peça como referência e marque com um risco. Todas as medidas e o esquadro partem dessa face e desse lado.\n\nMarque com estilete ou ponta de faca, não com lápis grosso: o risco de faca é fino e dá um degrau onde o serrote e o formão encaixam. Use o esquadro apoiado na face de referência e passe a linha em volta da peça (face, lado, face de trás) para serrar reto pelos dois lados.\n\nNumere as peças e faça marcas de casamento (um risco ou letra que cruza as duas peças do encaixe) para montar sempre na mesma posição.\n\nMeça duas vezes e corte uma: com serrote é difícil tirar menos de 3 mm da ponta de uma tábua depois.",
+      "dicas": [
+        "Marque o lado do refugo (a parte que vai fora) com um X. Assim você nunca serra do lado errado da linha."
+      ]
+    },
+    {
+      "titulo": "Serre reto com o serrote",
+      "texto": "Prenda a tábua num cavalete baixo ou bancada, de modo que a mão, o cotovelo e o ombro fiquem alinhados com a lâmina.\n\nPara começar: apoie a lâmina do lado do refugo, encostada na linha, guie com o polegar (com a junta do dedo encostada na lâmina, longe dos dentes) e dê puxadas curtas com o serrote bem deitado até formar o sulco. Depois use o serrote inteiro, em movimentos longos e leves: o serrote corta pelo próprio peso, não force.\n\nÂngulo: no corte atravessado (cortar a tábua no comprimento, contra a fibra), mantenha o serrote a cerca de 45° da tábua. No corte a fio (ao longo da fibra, para estreitar a tábua), cerca de 60°; esse corte é mais cansativo e rende mais com serrote de dentes grandes, próprio para cortar a fio.\n\nNo final do corte, segure a parte que vai cair com a mão livre e dê golpes leves, senão ela quebra e lasca a tábua. Se o corte fechar e prender a lâmina no corte a fio, enfie uma cunha no corte para abri-lo.",
+      "avisos": [
+        "Nunca apoie a peça no joelho nem segure com a mão na frente da lâmina. Serrote que pula da linha pode cortar o dedo."
+      ]
+    },
+    {
+      "titulo": "Use o formão sem se cortar",
+      "texto": "O formão serve para limpar o fundo dos encaixes, abrir rebaixos e acertar medidas finas.\n\nDesbaste (tirar muito): bata com macete de madeira, com o chanfro do formão virado para o refugo, tirando lascas finas de cada vez. Acabamento: sem macete, só com a força da mão, com o chanfro para cima e a face plana deitada na madeira, raspando fatias finas até a linha.\n\nPrenda sempre a peça, mantenha as duas mãos atrás do gume e corte na direção oposta ao corpo. Trabalhe de fora para o meio, virando a peça, para não lascar a borda do outro lado.\n\nMantenha o formão afiado: o gume vai na pedra com o chanfro entre 25° e 35° (veja o guia de afiar ferramentas). Formão cego exige força e escorrega.",
+      "avisos": [
+        "A maioria dos cortes feios na marcenaria vem do formão que escapa. Nunca segure a peça com a mão na frente do gume."
+      ]
+    },
+    {
+      "titulo": "Aplaine para deixar reto e liso",
+      "texto": "A plaina tira fitas finas para endireitar, nivelar e alisar a madeira.\n\nAjuste: vire a plaina de cabeça para baixo e olhe ao longo da sola contra a luz. O ferro deve aparecer só como uma linha fina, paralela à sola. Comece com o ferro bem recolhido e solte aos poucos até sair uma fita fina e inteira.\n\nUso: prenda a tábua. Plaine a favor da fibra (no sentido em que a fibra \"sobe\" para a superfície); se a madeira arrepiar e arrancar lascas, vire a tábua e plaine no outro sentido. No começo do passe, faça pressão na frente da plaina; no fim, atrás, para não arredondar as pontas.\n\nConfira com uma régua ou o lado do esquadro: contra a luz, frestas mostram onde ainda falta plainar.",
+      "dicas": [
+        "Ao parar, deite a plaina de lado sobre a bancada, nunca com o ferro apoiado na mesa."
+      ]
+    },
+    {
+      "titulo": "Fure com o arco de pua",
+      "texto": "O arco de pua (ou a furadeira manual de manivela) faz furos para cavilhas e para guiar pregos e parafusos.\n\nMarque o centro do furo com um furador, prego ou verruma. Encaixe a ponta da broca na marca e confira com o esquadro, de frente e de lado, se a broca está a 90°. Gire firme e sem balançar.\n\nPara não lascar a saída: fure até a pontinha da broca aparecer do outro lado, vire a peça e termine pelo outro lado. Ou prenda um retalho de madeira atrás da peça.\n\nPara furo de profundidade certa (cavilha), enrole uma fita ou amarre um barbante na broca na altura desejada e pare quando chegar nela."
+    },
+    {
+      "titulo": "Faça o encaixe meia-madeira",
+      "texto": "É o encaixe mais simples e forte para cruzar ou emendar duas peças de mesma espessura (quadros, estrados, pés com travessa): de cada peça você tira metade da espessura, e uma se encaixa na outra, ficando niveladas.\n\nComo fazer: (1) Sobreponha as peças e marque a largura de uma sobre a outra com estilete. (2) Passe as linhas pelos lados até a metade da espessura; use o graminho regulado na metade exata ou meça com a trena. (3) Serre as duas linhas laterais até a marca da metade, pelo lado do refugo, sem passar do fundo. (4) Entre as duas, faça vários cortes paralelos até a mesma profundidade, a cada 1 a 2 cm. (5) Quebre as lascas com o formão e o macete, com o chanfro para baixo, até perto da linha do fundo. (6) Acerte o fundo com o formão chanfro para cima, só com a mão, até a linha. (7) Repita na outra peça e teste o encaixe a seco.\n\nO encaixe deve entrar justo, com batidas leves do macete, sem precisar de marretada e sem folga. Se apertar, raspe as paredes de pouco em pouco.",
+      "dicas": [
+        "Deixe cerca de 1 mm entre o serrote e a linha e termine no formão: é mais fácil tirar do que repor madeira."
+      ]
+    },
+    {
+      "titulo": "Faça o encaixe com cavilha",
+      "texto": "Cavilha é um pino de madeira colado em furos das duas peças. Serve para unir tampo com pés, emendar tábuas pela borda e travar encaixes.\n\nTamanho: a cavilha deve ter cerca de um terço da espessura da madeira. Em tábua de 2 cm, use cavilha de 6 a 8 mm; em tábua de 2,5 cm, cavilha de 8 mm.\n\nComo fazer: (1) Junte as peças na posição final e passe um risco atravessando as duas onde vai cada cavilha. (2) Marque o centro do furo em cada peça, pelo risco. (3) Fure as duas peças com a broca do diâmetro da cavilha, bem a 90°. Num furo na face da tábua, pare cerca de 3 mm antes de atravessar. (4) Corte as cavilhas um pouco mais curtas que a soma das profundidades dos dois furos e chanfre as pontas com lixa. (5) Faça um risco ou sulco ao longo da cavilha para a cola e o ar saírem. (6) Monte tudo a seco primeiro; se encaixar, desmonte, passe cola nos furos e na cavilha e monte.\n\nSem cavilha comprada: faça com madeira dura e seca de fibra reta, rachada (não serrada) em varetas e desbastada à faca até passar justa pelo furo.",
+      "dicas": [
+        "Uma cavilha atravessada por fora num encaixe meia-madeira já colado trava a peça como um prego, sem metal."
+      ]
+    },
+    {
+      "titulo": "Cole, pregue e parafuse do jeito certo",
+      "texto": "Cola branca (PVA): passe cola nas duas faces, junte e aperte com grampos, sargentos ou corda torcida com uma vareta (torniquete), até a cola espremer em gotinhas pela junta. Limpe o excesso com pano úmido antes de secar. A cola comum é para dentro de casa: não serve para peça que molha nem para estrutura que segura gente sozinha (complete com encaixe, cavilha, prego ou parafuso). Aplique acima de 10 °C (cola, ar e madeira). Mantenha apertado por 30 a 60 minutos em junta sem esforço, e 24 horas em junta que fica forçada; não ponha carga antes de 24 horas. Cola grossa e em fios, que não volta ao normal com agitação, perdeu a validade.\n\nPregos: o prego deve ter pelo menos 3 vezes a espessura da peça que ele prende, com cerca de dois terços do comprimento entrando na peça de baixo. Exemplo: tábua de 2 cm pede prego de pelo menos 6 cm. Pregue com os pregos levemente inclinados uns contra os outros (seguram mais) e não ponha pregos demais em linha na mesma fibra: racha a tábua. Poucos pregos bem colocados seguram mais que muitos juntos. Em madeira dura (ipê, jatobá, eucalipto) e perto das pontas da tábua, faça antes um furo guia mais fino que o prego.\n\nParafusos para madeira: seguram muito mais que prego e desmontam. Faça um furo guia mais fino que a alma do parafuso na peça de baixo e um furo do diâmetro do parafuso na peça de cima, para ela ser puxada contra a de baixo. Escareie a boca para a cabeça ficar rente.",
+      "avisos": [
+        "Entorte ou arranque qualquer prego que ficar para fora: ponta de prego exposta fere e infecciona."
+      ]
+    },
+    {
+      "titulo": "Projeto exemplo: banco simples de tábua",
+      "texto": "Um banco de três tábuas, só com serrote, formão, arco de pua, cola e cavilhas ou parafusos. Use tábua seca de 2,5 cm de espessura e 25 cm de largura, de madeira média a dura.\n\nMedidas: a altura do assento é a medida da sola do pé até a dobra de trás do joelho de quem vai usar, sentado com a coxa paralela ao chão. Chame essa altura de A.\n\nPeças: 1 tampo de 2,5 × 25 × 60 cm; 2 pés de 2,5 × 25 × (A − 2,5) cm; 2 travessas laterais (saias) de 2,5 × 8 × 50 cm.\n\nPasso a passo: (1) Na ponta de baixo de cada pé, serre um recorte em V ou em arco de cerca de 5 cm de altura no meio, deixando duas \"patas\": o banco firma melhor em chão irregular. (2) No alto de cada pé, abra com serrote e formão dois rebaixos meia-madeira nas bordas, de 8 cm de altura e 1,25 cm de fundo, onde as travessas vão encaixar. (3) Nas travessas, faça os rebaixos correspondentes de 1,25 cm a 5 cm de cada ponta, de modo que os pés fiquem a 50 cm de distância por fora. (4) Encaixe a seco os pés e as travessas, confira com o esquadro e com o banco no chão plano. (5) Cole e trave cada encaixe com 2 cavilhas de 8 mm ou 2 parafusos. (6) Coloque o tampo por cima, com 5 cm sobrando de cada lado, e prenda com 3 cavilhas ou parafusos no topo de cada pé e 2 em cada travessa. (7) Quebre as quinas com plaina ou lixa e passe óleo de linhaça ou cera.\n\nTeste: depois de 24 horas, apoie o banco no chão, sente-se devagar, depois balance de leve. Se algo estala ou mexe, reforce antes do uso diário.",
+      "dicas": [
+        "Para uma prateleira de parede, use a mesma ideia: tábua de 2,5 cm sobre duas mãos-francesas (esquadros de madeira com uma diagonal) feitas com encaixe meia-madeira e cavilha. Tábua comprida demais entre os apoios enverga: aproxime os apoios se a prateleira for levar livros, potes ou ferramentas."
+      ],
+      "avisos": [
+        "Banco é estrutura que segura gente: não use madeira rachada, podre ou com nó grande nos pés e travessas, e não use só cola."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "A madeira e seus usos (propriedades indicadas para móveis e cabos de ferramentas) — Laboratório de Produtos Florestais / Serviço Florestal Brasileiro",
+      "url": "https://www.gov.br/florestal/pt-br/centrais-de-conteudo/publicacoes/publicacoes-diversas/lpf/a-madeira-e-seus-usos.pdf/@@display-file/file"
+    },
+    {
+      "titulo": "Madeira de eucalipto para serraria (Documentos 340) — Embrapa Cerrados",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1092101/1/Doc340biblioteca.pdf"
+    },
+    {
+      "titulo": "Air-Drying Lumber (G5550) — University of Missouri Extension",
+      "url": "https://extension.missouri.edu/publications/g5550"
+    },
+    {
+      "titulo": "Cutting with a Handsaw — Fine Homebuilding",
+      "url": "https://www.finehomebuilding.com/project-guides/framing/cutting-with-a-handsaw"
+    },
+    {
+      "titulo": "Cutting the Half-Lap — Fine Woodworking",
+      "url": "https://www.finewoodworking.com/project-guides/joinery/cutting-the-half-lap"
+    },
+    {
+      "titulo": "Hull Maintenance Technician: cross half-lap joint — U.S. Navy",
+      "url": "https://enginemechanics.tpub.com/14119/Figure-3-24-Gross-Half-Lap-Joint-71.html"
+    },
+    {
+      "titulo": "Dowel Joint (process guide) — University of Michigan, A&A Shop",
+      "url": "https://sites.google.com/umich.edu/aa-shop/resources/process-project-guides/wood-joinery/dowel-joint"
+    },
+    {
+      "titulo": "Builder: nails (comprimento e fixação) — U.S. Navy",
+      "url": "https://constructionmanuals.tpub.com/14043/css/Figure-3-76-Nail-sizes-given-in-penny-d-units-95.htm"
+    },
+    {
+      "titulo": "Use/Care of Handtools: chisels — U.S. Army Ordnance (OD1621)",
+      "url": "https://armyordnance.tpub.com/Od16218/Od162180120.htm"
+    },
+    {
+      "titulo": "Titebond Original Wood Glue (ficha do produto) — Franklin International",
+      "url": "https://titebond.com/product/glues/d4d28015-603f-4dfc-a7d9-f684acc71207"
+    },
+    {
+      "titulo": "Frequently Asked Questions (tempo de grampo e cura) — Titebond",
+      "url": "https://titebond.com/resources/use/all/faqs"
+    }
+  ]
+}
