@@ -1,0 +1,110 @@
+{
+  "id": "cuidar-da-saude-publica-da-comunidade",
+  "titulo": "Como cuidar da saúde pública da comunidade",
+  "resumo": "Caderno de casos de febre, diarreia e tosse, alerta de surto, isolamento e quarentena, latrinas coletivas, água segura, cuidado em casa e quando evacuar.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "epidemia",
+    "surto",
+    "quarentena",
+    "isolamento",
+    "vigilância",
+    "cólera",
+    "latrina",
+    "agente de saúde",
+    "doença contagiosa",
+    "saúde coletiva"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Este guia organiza a prevenção e a vigilância da vizinhança, mas não substitui médico nem serviço de saúde. Um caso de suspeita de cólera, diarreia com sangue em várias pessoas, febre com nuca dura ou confusão, ou mortes sem explicação são sinais de surto: avise o serviço de saúde ou a Defesa Civil pelo meio que houver e prepare a evacuação dos graves.",
+  "materiais": [
+    "Caderno de capa dura e caneta (caderno de casos)",
+    "Termômetro",
+    "Sabão, água e baldes com torneira para pontos de lavagem de mãos",
+    "Pás, enxadas e madeira para latrinas",
+    "Água sanitária e kit de teste de cloro (o de piscina serve)",
+    "Envelopes de SRO (sais de reidratação oral)"
+  ],
+  "passos": [
+    {
+      "titulo": "Monte a equipe e o caderno de casos",
+      "texto": "Escolha 2 ou 3 pessoas para a saúde (de preferência alguém da enfermagem, farmácia ou agente comunitário) e um caderno só para isso. Elas visitam as casas ou recebem avisos num ponto fixo todos os dias.\n\nPara cada doente, anote numa linha: data, nome, idade, casa, sintomas, dia em que começou, quantas pessoas moram com ele e como evoluiu (melhorou, piorou, foi levado, morreu).\n\nUse definições simples e iguais para todos:\n\n• diarreia aguda: 3 ou mais evacuações líquidas ou amolecidas em 24 horas;\n• diarreia com sangue: a mesma coisa, com sangue visível nas fezes;\n• febre: temperatura axilar acima de 38 °C;\n• icterícia: olhos ou pele amarelados de repente;\n• tosse com febre ou falta de ar.",
+      "dicas": [
+        "Faça uma coluna para cada sintoma e marque com X: fica fácil contar no fim da semana."
+      ]
+    },
+    {
+      "titulo": "Conte toda semana e reconheça um surto",
+      "texto": "No mesmo dia da semana, some os casos de cada sintoma e compare com as semanas anteriores. Sinais de alerta usados pelo ACNUR e pela OMS em acampamentos:\n\n• diarreia aquosa: semana com 1,5 vez a média das semanas anteriores (exemplo: média de 4 casos, alerta a partir de 6);\n• diarreia com sangue: 5 casos no mesmo lugar numa semana;\n• febre de começo súbito com nuca dura ou confusão (suspeita de meningite): 1 caso já é alerta;\n• suspeita de cólera: pessoa com mais de 5 anos com desidratação grave ou morte por diarreia aquosa: 1 caso já é alerta.\n\nNo alerta, a equipe visita as casas dos doentes, procura a fonte comum (mesma água, mesma comida, mesma festa) e reforça os passos 4 a 6.",
+      "avisos": [
+        "Não espere confirmação de laboratório para agir: as medidas de higiene, água e isolamento valem para qualquer surto de diarreia."
+      ]
+    },
+    {
+      "titulo": "Isole doentes e acompanhe os contatos",
+      "texto": "Isolamento é para quem está doente: fica separado, com uma só pessoa cuidando (veja o passo \"Isole o doente dentro de casa\" em \"Como manter a higiene e evitar epidemias sem água encanada\").\n\nQuarentena é para quem está bem mas teve contato próximo (mora junto, cuidou, comeu da mesma comida): a pessoa reduz contatos e a equipe pergunta por sintomas todo dia. Na cólera, os sintomas aparecem de 12 horas a 5 dias depois da contaminação, e quem não tem sintomas ainda pode eliminar o micróbio nas fezes por até 10 dias: os contatos devem caprichar na lavagem de mãos e no uso da latrina.\n\nIsolamento e quarentena só funcionam com apoio: a comunidade leva água, comida e lenha até a porta, e ninguém é expulso, exposto ou culpado.",
+      "avisos": [
+        "Quarentena é combinada, nunca imposta à força. Medo e estigma fazem as pessoas esconderem doentes, e o surto cresce."
+      ]
+    },
+    {
+      "titulo": "Construa latrinas coletivas suficientes",
+      "texto": "Sem descarga, fezes no chão espalham diarreia, cólera e hepatite. Metas das normas humanitárias de saneamento:\n\n• no mínimo 1 latrina para cada 20 pessoas (exemplo: 130 pessoas = 7 latrinas);\n• no máximo 50 m entre as casas e a latrina coletiva;\n• pelo menos 30 m de poços, nascentes e cisternas, e mais em areia grossa, cascalho ou rocha rachada;\n• fundo do buraco pelo menos 1,5 m acima do nível do lençol freático;\n• tampa, cobertura contra chuva e bichos, piso fácil de lavar e ponto de lavagem de mãos ao lado.\n\nModelos de construção: \"Como montar um banheiro seco\" e \"Como tratar o esgoto de casa sem rede de esgoto\".",
+      "dicas": [
+        "Pergunte a mulheres, meninas, idosos e pessoas com deficiência onde e como a latrina deve ficar para que se sintam seguros e consigam usar."
+      ],
+      "avisos": [
+        "Quando houver caso de cólera, limpe e desinfete a latrina usada pelo doente depois de cada uso."
+      ]
+    },
+    {
+      "titulo": "Espalhe pontos de lavagem de mãos",
+      "texto": "Monte um ponto com água corrente e sabão na saída de cada latrina, na cozinha coletiva, no ponto de distribuição de água e comida e onde se cuidam doentes. Sem sabão, cinza também serve para esfregar as mãos.\n\nA lavagem completa (molhar, ensaboar palmas, dorso, entre os dedos e unhas, enxaguar e secar) leva de 40 a 60 segundos. Um responsável por turno repõe água e sabão; ponto vazio é ponto que não funciona.\n\nComo montar torneira de galão ou de pedal: veja \"Como manter a higiene e evitar epidemias sem água encanada\"."
+    },
+    {
+      "titulo": "Garanta água segura para todos",
+      "texto": "Metas mínimas do Projeto Esfera para emergências:\n\n• 15 litros por pessoa por dia para beber, cozinhar e higiene (20 L nas primeiras semanas, se der);\n• ponto de água a no máximo 500 m de cada casa;\n• fila de no máximo 30 minutos, contando o enchimento;\n• no máximo 250 pessoas por torneira ou bomba.\n\nExemplo: 200 pessoas × 15 L = 3.000 litros por dia.\n\nNa água clorada distribuída pela comunidade, o cloro residual livre deve ficar entre 0,2 e 0,5 mg/L na hora da entrega, e em 0,5 mg/L durante epidemias. Ninguém lava roupa, louça, as mãos ou o corpo dentro da fonte.\n\nComo tratar e guardar: \"Como desinfetar água para beber\" e \"Como armazenar água com segurança\".",
+      "avisos": [
+        "Em surto de diarreia, toda água de beber deve ser fervida ou clorada, mesmo a de poço que sempre pareceu boa."
+      ]
+    },
+    {
+      "titulo": "Ensine a cuidar dos doentes em casa",
+      "texto": "Diarreia e vômito: soro de reidratação desde o primeiro dia, em goles frequentes (veja \"Como preparar e dar soro de reidratação oral\"). Mães continuam amamentando, mesmo com cólera.\n\nQuem cuida:\n\n• evita contato direto com fezes e vômito e lava as mãos com sabão depois de mexer no doente, na roupa ou na cama dele;\n• lava a roupa e a cama do doente longe das fontes de água;\n• desinfeta essa roupa com solução de cloro, ou fervendo por 5 minutos, ou lavando com sabão e secando ao sol forte;\n• joga fezes e vômito na latrina.\n\nA equipe de saúde passa na casa todo dia e anota a evolução no caderno.",
+      "dicas": [
+        "Monte um estoque comunitário de SRO, sabão e água sanitária e entregue um kit às famílias com doente."
+      ]
+    },
+    {
+      "titulo": "Decida antes quando e como evacuar",
+      "texto": "Combine na assembleia, antes de precisar: quem decide, para onde levar (posto, hospital, cidade vizinha), em que veículo, com qual combustível reservado e quem acompanha.\n\nEvacue o quanto antes quem tiver:\n\n• desidratação grave: muito sonolento ou desacordado, não consegue beber, pulso muito fraco;\n• febre com nuca dura, confusão ou convulsão;\n• falta de ar forte ou lábios roxos;\n• criança que não consegue beber ou mamar, vomita tudo ou está muito mole;\n• sangramento forte, inclusive na gravidez.\n\nSe o surto passar da capacidade da comunidade, mandem um mensageiro ou usem o rádio para pedir ajuda à Defesa Civil, levando o resumo do caderno de casos.",
+      "avisos": [
+        "Desidratação grave precisa de soro na veia: não espere o dia seguinte."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Health Information System — Case Definitions (2019) — ACNUR/UNHCR",
+      "url": "https://medref.unhcr.org/ressources/footer/Case_Definitions_2019.pdf"
+    },
+    {
+      "titulo": "Sanitation Quality Standards for Emergencies — Global WASH Cluster",
+      "url": "https://wash.ifrc.org/wp-content/uploads/2025/06/FSM-TWiG-Sanitation-Quality-Standards-for-Emergencies_JULY2021.pdf"
+    },
+    {
+      "titulo": "Sphere Standards — padrões de água, saneamento e higiene (interativo) — Projeto Esfera",
+      "url": "https://interactive.spherestandards.org/"
+    },
+    {
+      "titulo": "RCCE messages for cholera — Organização Mundial da Saúde, Escritório do Mediterrâneo Oriental",
+      "url": "https://www.emro.who.int/cpi/publications/rcce-messages-for-cholera.html"
+    },
+    {
+      "titulo": "Higienização das mãos — Anvisa / Ministério da Saúde",
+      "url": "https://www.gov.br/anvisa/pt-br/assuntos/servicosdesaude/prevencao-e-controle-de-infeccao-e-resistencia-microbiana/CartazAzulA3_LogosAtualizadas22.pdf"
+    }
+  ]
+}

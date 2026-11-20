@@ -1,0 +1,93 @@
+{
+  "id": "manter-registros-da-comunidade",
+  "titulo": "Como manter registros da comunidade",
+  "resumo": "Cadastro de moradores, nascimentos, óbitos, desaparecidos, doentes, estoques e atas: modelos de fichas, proteção de dados sensíveis e cópias para depois da crise.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "cadastro",
+    "ficha",
+    "censo",
+    "certidão",
+    "registro de nascimento",
+    "atestado de óbito",
+    "desaparecidos",
+    "ata",
+    "livro de registro",
+    "documentos"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 25,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Registros feitos pela comunidade não substituem certidões de cartório, mas são a prova que vai permitir registrar nascimentos e óbitos, reencontrar famílias e garantir direitos depois. Dados de saúde, religião, origem e crianças são sensíveis: anote só o necessário e guarde com cuidado.",
+  "materiais": [
+    "Cadernos de capa dura (um para cada registro)",
+    "Canetas esferográficas (não use lápis)",
+    "Papel carbono, se houver",
+    "Sacos plásticos com fecho e caixa tampada",
+    "Celular para fotografar as páginas (opcional)"
+  ],
+  "passos": [
+    {
+      "titulo": "Defina os registros mínimos e quem cuida",
+      "texto": "Um caderno para cada assunto, com páginas numeradas e um responsável mais um substituto:\n\n• moradores e contatos (o cadastro de \"Como organizar a comunidade depois de um colapso\");\n• nascimentos;\n• óbitos;\n• pessoas desaparecidas e reencontros;\n• doentes (o caderno de casos de \"Como cuidar da saúde pública da comunidade\");\n• estoques e distribuição (veja \"Como gerir recursos comuns da comunidade\");\n• atas das assembleias.\n\nRegras de todos os cadernos: caneta, data em cada anotação, nada de arrancar páginas; para corrigir, risque com uma linha só, escreva o certo ao lado e rubrique."
+    },
+    {
+      "titulo": "Use fichas simples e iguais para todos",
+      "texto": "Ficha de moradores (uma por casa): endereço ou referência, nome de cada morador, data de nascimento ou idade, documento se tiver, parentesco, quem precisa de cuidado especial, um contato de parente de fora.\n\nAta de assembleia: data, local, número de presentes e de casas representadas, assuntos, decisões com o resultado da votação, quem ficou responsável e até quando. Leia a ata no fim e peça a assinatura de 2 ou 3 presentes.\n\nCopie o modelo da ficha na primeira página de cada caderno para todos preencherem do mesmo jeito.",
+      "dicas": [
+        "Dê a cada casa um código curto (por exemplo, R3-12: rua 3, casa 12) e use o mesmo código em todos os cadernos."
+      ]
+    },
+    {
+      "titulo": "Registre nascimentos para tirar a certidão depois",
+      "texto": "Anote: data, hora e local do parto; nome, idade e documento da mãe e do pai, se declarado; sexo do bebê; peso, se houver balança; gêmeos ou não; quem fez o parto; nome e casa de 2 testemunhas.\n\nPela Lei de Registros Públicos (Lei 6.015/1973), o nascimento deve ser registrado no cartório em 15 dias, prazo ampliado para até 3 meses onde o cartório fica a mais de 30 km. Com a crise, leve essa ficha ao cartório assim que ele funcionar: o registro feito fora do prazo continua possível.",
+      "avisos": [
+        "Sem certidão, a criança pode ter dificuldade de acesso a saúde, escola e benefícios. Não deixe de levar a ficha ao cartório."
+      ]
+    },
+    {
+      "titulo": "Registre os óbitos com testemunhas",
+      "texto": "Anote: nome (ou número do corpo, se não identificado), idade, data e hora da morte, local, causa aparente (doença, acidente ou violência), nome e casa de 2 pessoas que viram ou verificaram a morte, local exato da sepultura e onde estão fotos e pertences.\n\nPela Lei 6.015/1973, o óbito é registrado com atestado médico ou, onde não houver médico, com 2 pessoas qualificadas que presenciaram ou verificaram a morte. Se não der para registrar em 24 horas, o registro é feito depois, com a maior urgência possível.\n\nComo identificar e sepultar com segurança: \"Como lidar com os mortos com segurança e respeito\"."
+    },
+    {
+      "titulo": "Mantenha a lista de desaparecidos e de reencontros",
+      "texto": "Ficha de pessoa procurada: nome e apelido, idade, sexo, descrição física e roupas, foto se houver, último lugar e data em que foi vista, nome de quem procura e como encontrá-lo.\n\nFicha de pessoa encontrada ou abrigada (principalmente crianças e idosos sozinhos): os mesmos dados, mais onde está agora e com quem.\n\nCompare as duas listas toda semana e anote cada reencontro com data e quem confirmou. Troque listas com bairros vizinhos por mensageiro ou rádio.\n\nQuando chegarem, entregue cópias ao programa de Restabelecimento de Laços Familiares do CICV e da Cruz Vermelha Brasileira, que ajuda a buscar desaparecidos e a reunir famílias separadas.",
+      "avisos": [
+        "Não entregue criança a quem diz ser parente sem confirmar o vínculo, e anote quem levou, quando e para onde."
+      ]
+    },
+    {
+      "titulo": "Proteja os dados sensíveis",
+      "texto": "A Lei Geral de Proteção de Dados (LGPD) considera sensíveis os dados de saúde, origem racial ou étnica, religião, opinião política, vida sexual, genéticos e biométricos. Dados de crianças devem ser tratados no melhor interesse delas.\n\n• Pergunte, não exija: anote só o que serve para cuidar das pessoas.\n• O caderno de doentes fica com a equipe de saúde, não no mural.\n• No mural vão só listas que todos precisam ver (escalas, decisões, avisos), sem doenças nem endereços de quem mora sozinho.\n• Guarde os cadernos fechados e diga quem pode consultá-los.\n• Não entregue listas de moradores a quem não tem função legítima de proteger a comunidade."
+    },
+    {
+      "titulo": "Faça cópias em mais de um lugar",
+      "texto": "Um caderno único some numa enchente, num incêndio ou numa mudança às pressas.\n\n• Copie à mão (ou com papel carbono) os registros de nascimento, óbito e desaparecidos, e confira a cópia.\n• Fotografe as páginas com o celular e passe as fotos para outro aparelho ou cartão de memória.\n• Guarde pelo menos 2 cópias em lugares diferentes, o mais longe possível um do outro, em saco plástico fechado dentro de caixa tampada.\n• Anote numa folha onde está cada cópia.",
+      "dicas": [
+        "Faça a cópia sempre no mesmo dia da semana, logo depois da assembleia."
+      ]
+    },
+    {
+      "titulo": "Entregue os registros quando os serviços voltarem",
+      "texto": "Quando cartórios, Defesa Civil, postos de saúde e Cruz Vermelha voltarem a funcionar, os cadernos servem para:\n\n• registrar nascimentos e óbitos e tirar certidões;\n• reencontrar famílias e esclarecer o paradeiro de desaparecidos; quando o corpo não foi encontrado, a Justiça pode declarar o óbito com base em provas de que a pessoa estava no local da catástrofe;\n• mostrar à Defesa Civil e à saúde quem precisa de ajuda e o que já foi feito.\n\nEntregue cópias, não os originais, e anote para quem e em que data entregou."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Lei 6.015/1973 (Lei de Registros Públicos), arts. 50, 77, 78 e 88 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+    },
+    {
+      "titulo": "Lei 13.709/2018 (Lei Geral de Proteção de Dados), arts. 5º e 14 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+    },
+    {
+      "titulo": "Restabelecimento dos laços familiares — Comitê Internacional da Cruz Vermelha (CICV)",
+      "url": "https://www.icrc.org/pt/acoes/restabelecimento-dos-lacos-familiares"
+    },
+    {
+      "titulo": "Preserving Your Digital Memories — Library of Congress",
+      "url": "https://digitalpreservation.gov/personalarchiving/documents/PA_All_brochure.pdf"
+    }
+  ]
+}

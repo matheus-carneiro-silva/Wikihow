@@ -1,0 +1,107 @@
+{
+  "id": "educar-as-criancas-sem-escola",
+  "titulo": "Como educar as crianças sem escola",
+  "resumo": "Espaço seguro e rotina para crianças, alfabetização e matemática com material improvisado, ensino entre pares, aprender fazendo, apoio emocional e proteção contra abuso.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "escola",
+    "aula",
+    "ensinar",
+    "alfabetizar",
+    "educação",
+    "professor",
+    "criança",
+    "brincar",
+    "espaço amigo da criança",
+    "criança desacompanhada"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Crianças sem escola e sem rotina ficam mais expostas a acidentes, trabalho pesado, abuso e exploração. Todo adulto que cuida delas assume regras de proteção (passo 7). Suspeita de abuso exige afastar a criança do risco na hora e levar o caso à coordenação e, assim que funcionarem, ao Conselho Tutelar ou à polícia.",
+  "materiais": [
+    "Um lugar coberto, ventilado e seguro",
+    "Lousa, tábua pintada ou papelão; giz, carvão ou caneta",
+    "Cadernos, folhas usadas no verso, lápis",
+    "Tampinhas, pedrinhas, palitos e sementes para contar",
+    "Livros, revistas, rótulos e embalagens com letras",
+    "Bola, corda e materiais de sucata para brincar"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha um espaço seguro para as crianças",
+      "texto": "Os espaços amigos da criança, usados pela UNICEF em emergências, são lugares onde as crianças brincam, aprendem e recebem apoio enquanto os adultos trabalham. Ao escolher o local, confira:\n\n• sem entulho, fios soltos, produtos tóxicos ou risco de desabamento;\n• fora de área de enchente e de deslizamento;\n• fácil de fechar ou cercar contra estranhos;\n• com água, latrina e ponto de lavagem de mãos por perto;\n• perto das casas e aceito pelas famílias.\n\nUma escola, igreja, salão ou garagem que passe nesses itens serve.",
+      "dicas": [
+        "A frequência é voluntária: converse com os pais sobre horários que combinem com a rotina das famílias."
+      ]
+    },
+    {
+      "titulo": "Monte uma rotina simples e previsível",
+      "texto": "Rotina acalma. Separe as crianças por idade, porque cada fase precisa de atividades diferentes: até 5 ou 6 anos, de 6 a 12 e de 12 a 18.\n\nModelo usado pela Save the Children, um turno por faixa de idade, de manhã:\n\n• 15 min: chegada, chamada e conversa;\n• 1h15: jogos e brincadeiras tradicionais;\n• 15 min: lanche e lavagem de mãos;\n• 1 hora: atividade do dia (leitura e matemática, artes, esporte, saúde, ajuda à comunidade), mudando ao longo da semana;\n• saída na hora combinada, com entrega a um responsável.\n\nComece com poucos dias por semana e aumente conforme tiver adultos disponíveis.",
+      "dicas": [
+        "Marque presença num caderno: quem falta muito pode estar doente, trabalhando ou em risco."
+      ]
+    },
+    {
+      "titulo": "Alfabetize com o que houver à mão",
+      "texto": "No Brasil, a BNCC (MEC) põe a alfabetização como foco dos dois primeiros anos do ensino fundamental, por volta dos 6 e 7 anos. Sem livros didáticos, use:\n\n• letras grandes em papelão ou desenhadas na terra, para formar nomes das crianças e de coisas da comunidade;\n• rótulos, embalagens, placas e bulas como material de leitura;\n• listas reais: a lista de compras da cozinha coletiva, o cardápio, os avisos do mural;\n• cantigas, parlendas e histórias contadas, depois escritas na lousa e lidas juntos;\n• um caderno de cada criança com textos que ela mesma dita e depois copia.\n\nLeia em voz alta para elas todos os dias, mesmo para as que já leem."
+    },
+    {
+      "titulo": "Ensine matemática com coisas reais",
+      "texto": "Contas fazem sentido quando resolvem problemas de verdade:\n\n• contar e agrupar de 10 em 10 com tampinhas, sementes ou palitos;\n• medir canteiros, tábuas e baldes com metro, fita ou passos;\n• calcular água: 15 litros por pessoa por dia, quantos litros para a sua casa e para a rua inteira?;\n• dividir colheita e estoques em partes iguais e conferir o que sobrou;\n• dinheiro de troca e o caderno de estoques da comunidade (\"Como gerir recursos comuns da comunidade\") para os mais velhos.",
+      "dicas": [
+        "Para os adolescentes, use os cálculos de outros guias deste app, como \"Como calcular quanta energia você precisa\" e \"Como calcular a dose de um medicamento pelo peso\", sempre com um adulto conferindo."
+      ]
+    },
+    {
+      "titulo": "Ponha as crianças mais velhas para ensinar",
+      "texto": "Quem acabou de aprender explica bem, e ensinar fixa o conteúdo. Forme duplas ou pequenos grupos em que uma criança mais velha ajuda as menores a ler, contar ou fazer uma tarefa.\n\nProfessores, aposentados e qualquer adulto que saiba ler bem podem preparar a atividade do dia e acompanhar os grupos. Os adolescentes recebem a tarefa de ensino como responsabilidade de verdade, com reconhecimento na assembleia.",
+      "avisos": [
+        "Monitor adolescente nunca fica sozinho responsável por um grupo de crianças pequenas: sempre há um adulto presente."
+      ]
+    },
+    {
+      "titulo": "Aprenda fazendo com a comunidade",
+      "texto": "O trabalho de reconstrução é uma sala de aula: horta (ciências, medidas, calendário de plantio), cozinha (frações, higiene), registro de chuva e de temperatura (gráficos), consertos simples (ferramentas e segurança), mapa do bairro (geografia), entrevistas com os mais velhos (história e escrita).\n\nCombine tarefas leves, curtas e de acordo com a idade, com um adulto ensinando como fazer com segurança.",
+      "avisos": [
+        "Aprender fazendo não é trabalho infantil: criança não carrega peso excessivo, não mexe com eletricidade, fogo, ferramentas cortantes ou produtos químicos sem supervisão, e nunca trabalha em troca de comida ou favores."
+      ]
+    },
+    {
+      "titulo": "Brinque e dê apoio emocional",
+      "texto": "Depois de uma crise é comum a criança ficar mais agarrada, irritada, com medo, com pesadelos, fazer xixi na cama de novo ou parar de brincar. Brincar e ter rotina ajudam a se recuperar.\n\nNo primeiro apoio psicológico para crianças, o adulto:\n\n• se aproxima com calma, se abaixa na altura dela e se apresenta;\n• escuta sem forçar a criança a contar o que viveu;\n• diz a verdade de forma simples e explica o que vai acontecer;\n• ajuda a reencontrar a família ou um adulto de confiança;\n• avisa os pais e a equipe de saúde quando a criança não melhora com o passar das semanas.",
+      "dicas": [
+        "Desenho, música, contação de histórias e jogos em grupo deixam a criança expressar o que sente sem precisar falar."
+      ]
+    },
+    {
+      "titulo": "Proteja as crianças desacompanhadas e todas as outras",
+      "texto": "Regras para todo adulto e adolescente que cuida das crianças, escritas e assinadas:\n\n• nunca bater, humilhar ou castigar fisicamente;\n• nunca pedir favores, trabalho ou contato sexual em troca de comida, material ou vaga nas atividades;\n• nenhum contato sexual com menores de 18 anos;\n• atividades em lugar aberto e visível, sem ficar sozinho com uma criança longe dos outros;\n• ninguém é excluído por raça, religião ou família.\n\nCriança sem os pais: registre nome, idade, de onde veio, com quem estava e onde viu a família pela última vez (veja \"Como manter registros da comunidade\"). Mantenha irmãos juntos e deixe a criança com um parente ou família de confiança da própria comunidade. A maioria das crianças separadas tem pais ou parentes vivos: não trate como órfã e não permita adoção ou entrega a estranhos durante a emergência.",
+      "avisos": [
+        "Só entregue uma criança a quem prove o vínculo (documento, foto, conhecidos que confirmem e a própria criança reconhecendo) e anote quem levou."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "A Practical Guide for Developing Child Friendly Spaces — UNICEF",
+      "url": "https://medbox.org/document/a-practical-guide-for-developing-child-friendly-spaces"
+    },
+    {
+      "titulo": "Requisitos Mínimos para a Educação: Preparação, Resposta e Recuperação (2024) — INEE",
+      "url": "https://inee.org/pt/requisitos"
+    },
+    {
+      "titulo": "Psychological First Aid Training Manual for Child Practitioners — Save the Children",
+      "url": "https://resourcecentre.savethechildren.net/document/save-children-psychological-first-aid-training-manual-child-practitioners/"
+    },
+    {
+      "titulo": "Unaccompanied and Separated Children Following the Haiti Earthquake: Guiding Principles — Better Care Network",
+      "url": "https://bettercarenetwork.org/sites/default/files/Unaccompanied-and-Separated-Children-Following-the-Haiti-Earthquake-January-2010.pdf"
+    },
+    {
+      "titulo": "Base Nacional Comum Curricular (BNCC) — Ministério da Educação",
+      "url": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+  ]
+}

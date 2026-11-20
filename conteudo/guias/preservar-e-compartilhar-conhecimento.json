@@ -1,0 +1,100 @@
+{
+  "id": "preservar-e-compartilhar-conhecimento",
+  "titulo": "Como preservar e compartilhar conhecimento",
+  "resumo": "Inventário de livros e manuais, cópias em papel, passar este app (APK) para outros celulares sem internet, registrar o saber dos mais velhos e ensinar ofícios.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "compartilhar app",
+    "instalar APK",
+    "Quick Share",
+    "Bluetooth",
+    "biblioteca",
+    "livros",
+    "manual",
+    "aprendiz",
+    "ofício",
+    "memória"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Instale APK só de quem você conhece e confia, e confira o nome e o ícone do app antes de abrir. Um APK modificado pode roubar dados ou estragar o celular. Depois de instalar, desligue de novo a permissão de instalar apps desconhecidos.",
+  "materiais": [
+    "Caderno, papel e caneta",
+    "Celulares Android com o app instalado",
+    "Cartão de memória (microSD) ou pendrive com adaptador OTG (opcional)",
+    "Sacos plásticos com fecho e caixa tampada para guardar papel",
+    "Fonte de energia para recarregar (power bank, painel solar USB)"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda como o conhecimento se perde",
+      "texto": "Sem internet nem energia, o que está só na nuvem some de uma vez. O que está num único celular acaba quando a bateria morre, a tela quebra ou o aparelho é perdido. E o que está só na cabeça de uma pessoa vai embora com ela.\n\nA UNESCO lembra que o saber prático de uma comunidade sobrevive principalmente quando passa de pessoa para pessoa, e que registrar ajuda mas não substitui ensinar. Por isso este guia tem três frentes: guardar em mais de um lugar, copiar para quem precisa e ensinar quem vai continuar."
+    },
+    {
+      "titulo": "Faça o inventário do que a comunidade sabe e tem",
+      "texto": "Pergunte casa por casa, junto com o levantamento de habilidades de \"Como organizar a comunidade depois de um colapso\", e anote num caderno:\n\n• livros e manuais úteis: saúde, primeiros socorros, agricultura, criação de animais, mecânica, elétrica, construção, receitas, livros escolares;\n• quem tem e se empresta;\n• aparelhos com conteúdo offline: celulares, tablets, notebooks, pendrives com PDFs;\n• pessoas que dominam um ofício.\n\nMonte uma pequena biblioteca comunitária num lugar seco, com um caderno de empréstimos (quem levou, o quê, quando devolve)."
+    },
+    {
+      "titulo": "Copie o essencial em papel",
+      "texto": "Papel não precisa de bateria. Escolha os guias mais urgentes e copie à mão (ou imprima, enquanto ainda houver como):\n\n• \"Como preparar e dar soro de reidratação oral\";\n• \"Como desinfetar água para beber\";\n• \"Como controlar uma hemorragia grave com compressão e torniquete\";\n• \"Como cuidar da saúde pública da comunidade\";\n• os guias de cultivo e de construção que a comunidade mais usa.\n\nFaça pelo menos 2 cópias de cada e guarde em lugares diferentes, o mais longe possível um do outro, para que uma enchente ou um incêndio não leve tudo. Guarde o papel em saco plástico fechado, dentro de caixa tampada, longe de umidade, sol e cupim.",
+      "dicas": [
+        "Escreva com letra de forma, números grandes e unidades por extenso (\"meia colher de chá\"), e confira a cópia com o original antes de distribuir: um número errado num soro ou numa dose é perigoso."
+      ]
+    },
+    {
+      "titulo": "Passe o app para outros celulares sem internet",
+      "texto": "Os guias vão dentro do APK, então quem recebe o arquivo leva a biblioteca inteira, na versão do APK. Atualizações de guias só chegam a cada celular quando ele tiver internet. Guarde o arquivo .apk numa pasta conhecida (por exemplo, Downloads) e no cartão de memória.\n\nFormas de enviar:\n\n• Quick Share (compartilhamento por proximidade, Android 6 ou mais novo): no celular que vai receber, abra o Quick Share nas configurações e deixe em \"Receber\". No que envia, abra o app Arquivos, toque e segure o .apk, Compartilhar, Quick Share e escolha o aparelho. Os dois precisam do Bluetooth ligado (e da localização, no Android 12 ou mais antigo) e ficar bem próximos. Não precisa de internet nem de rede Wi-Fi em comum.\n• Bluetooth: pareie os aparelhos, depois Compartilhar, Bluetooth.\n• Cartão de memória ou pendrive com adaptador OTG: copie o .apk e abra no outro celular pelo app Arquivos.\n• Cabo USB com um computador: copie o arquivo do celular para o computador e do computador para o outro celular.",
+      "dicas": [
+        "No Quick Share, a opção \"Todos\" de visibilidade fica ligada por 10 minutos e depois volta sozinha. Os arquivos recebidos ficam em Arquivos, Downloads, pasta Quick Share."
+      ]
+    },
+    {
+      "titulo": "Instale o APK recebido",
+      "texto": "1. Abra o .apk pelo app Arquivos.\n2. O Android pede permissão para aquele app instalar apps desconhecidos: toque em Configurações, ative \"Permitir desta fonte\" e volte.\n3. Toque em Instalar. Se aparecer aviso do Play Protect, confira se o arquivo veio de alguém de confiança antes de continuar.\n4. Depois, desligue a permissão em Configurações, Apps, Acesso especial, Instalar apps desconhecidos (o caminho varia de marca para marca).\n\nDesde 2026, o Google exige verificação de desenvolvedores para apps instalados por algumas lojas no Brasil, e planeja estender isso a todos os apps em 2027. Para app de desenvolvedor não verificado, haverá o \"fluxo avançado\": ativar o modo desenvolvedor, reiniciar, esperar 1 dia e confirmar com digital ou PIN, uma única vez. Se o seu celular pedir isso, faça enquanto ainda há tempo e energia, não na hora da emergência.",
+      "avisos": [
+        "Não se sabe se essa checagem funciona sem internet. Instale e teste o app em todos os celulares da comunidade com antecedência."
+      ]
+    },
+    {
+      "titulo": "Mantenha os aparelhos vivos",
+      "texto": "Escolha 2 ou 3 celulares como \"bibliotecas\" da comunidade, em casas diferentes, e combine um rodízio de carga. Deixe-os em modo avião e com o brilho baixo quando não estiverem em uso.\n\nComo carregar com pouca energia: \"Como iluminar a casa e carregar o celular com pouca energia\", \"Como usar o carro como fonte de energia de emergência\" e \"Como calcular quanta energia você precisa\".",
+      "avisos": [
+        "Não deixe celular nem power bank carregando no sol, dentro do carro fechado ou perto do fogo: o calor estraga a bateria e pode causar incêndio."
+      ]
+    },
+    {
+      "titulo": "Registre o saber dos mais velhos e dos especialistas",
+      "texto": "Parteiras, benzedeiras, agricultores, pedreiros, mecânicos, costureiras, enfermeiros e quem viveu sem luz e sem mercado sabem coisas que não estão em livro.\n\n• Peça licença e explique para que serve o registro; a pessoa decide o que quer que seja anotado.\n• Anote no topo: nome, idade, data, lugar e assunto.\n• Faça perguntas práticas: \"o que você usa?\", \"quanto?\", \"quanto tempo?\", \"como sabe que deu certo?\", \"o que dá errado?\".\n• Escreva como passos numerados, em linguagem simples, e leia de volta para a pessoa corrigir.\n• Se der, grave o áudio ou o vídeo no celular e anote no caderno onde está guardado.\n\nAntes de usar um saber de saúde ou de remédio caseiro, compare com os guias de saúde e com quem tem formação na área.",
+      "dicas": [
+        "Ponha adolescentes como entrevistadores: aprendem a escrever e a ouvir e criam laço com os mais velhos."
+      ]
+    },
+    {
+      "titulo": "Ensine ofícios a aprendizes",
+      "texto": "Cada pessoa que domina um ofício importante escolhe 1 ou 2 aprendizes, de preferência de famílias diferentes. Um caminho simples:\n\n1. O aprendiz observa o mestre fazer, explicando em voz alta.\n2. Fazem juntos.\n3. O aprendiz faz sozinho, com o mestre olhando e corrigindo.\n4. O aprendiz ensina outra pessoa, com o mestre por perto.\n\nAnote no caderno quem aprende o quê e com quem. Assim nenhum saber depende de uma pessoa só."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Usar o Quick Share no seu dispositivo Android — Ajuda do Android (Google)",
+      "url": "https://support.google.com/android/answer/9286773?hl=pt-BR"
+    },
+    {
+      "titulo": "Making it safer to get apps on Android O — Android Developers Blog",
+      "url": "https://android-developers.googleblog.com/2017/08/making-it-safer-to-get-apps-on-android-o.html"
+    },
+    {
+      "titulo": "Android developer verification: FAQ — Android Developers",
+      "url": "https://developer.android.com/developer-verification/guides/faq"
+    },
+    {
+      "titulo": "Preserving Your Digital Memories — Library of Congress",
+      "url": "https://digitalpreservation.gov/personalarchiving/documents/PA_All_brochure.pdf"
+    },
+    {
+      "titulo": "What is Intangible Cultural Heritage? — UNESCO",
+      "url": "https://ich.unesco.org/en/what-is-intangible-heritage-00003"
+    }
+  ]
+}

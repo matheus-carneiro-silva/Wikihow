@@ -1,0 +1,106 @@
+{
+  "id": "lidar-com-os-mortos-com-seguranca-e-respeito",
+  "titulo": "Como lidar com os mortos com segurança e respeito",
+  "resumo": "Manejo de corpos em desastres: proteção de quem manuseia, identificação com número e foto, sepultamento temporário identificado, cólera, ritos, luto e registro.",
+  "categoria": "reconstrucao-social",
+  "tags": [
+    "enterrar",
+    "sepultamento",
+    "cadáver",
+    "óbito",
+    "funeral",
+    "velório",
+    "cova",
+    "identificação de corpos",
+    "luto",
+    "morte"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Corpos de quem morreu por ferimento, afogamento ou fogo não causam epidemias. As exceções são mortes por doenças como cólera, Ebola ou Marburg. Não enterre às pressas em vala comum nem queime corpos: isso tira das famílias a chance de identificar e velar seus mortos e não protege a saúde de ninguém. Em morte violenta ou suspeita, mexa o mínimo, registre tudo e informe a polícia assim que possível.",
+  "materiais": [
+    "Luvas grossas de borracha e botas",
+    "Água e sabão",
+    "Lençóis, lonas ou sacos para corpos",
+    "Papel, caneta e saquinhos plásticos para etiquetas à prova d'água",
+    "Celular ou câmera para fotos",
+    "Pás e estacas para marcar sepulturas",
+    "Caderno de registro de óbitos"
+  ],
+  "passos": [
+    {
+      "titulo": "Proteja quem manuseia os corpos",
+      "texto": "O risco é pequeno e fica com quem toca no corpo, pelo contato com sangue e fezes (hepatites B e C, HIV, tuberculose e diarreias). A maioria desses micróbios não sobrevive mais de 2 dias num corpo; o HIV, até 6 dias.\n\n• Use luvas e botas.\n• Lave as mãos com água e sabão depois de mexer no corpo e antes de comer.\n• Não passe a mão no rosto nem na boca.\n• Lave e desinfete ferramentas, roupas e veículos usados no transporte.\n\nMáscara não é necessária pelo cheiro em lugar ventilado, mas pode ser usada se trouxer conforto.",
+      "avisos": [
+        "Depois de vários dias, gases tóxicos podem se acumular em porões, poços e cômodos fechados. Abra e deixe ventilar antes de entrar.",
+        "Trabalho entre escombros causa cortes: quem não está com a vacina antitetânica em dia corre risco de tétano."
+      ]
+    },
+    {
+      "titulo": "Recolha os corpos com cuidado",
+      "texto": "Envolva cada corpo num saco, lençol, lona ou pano. Partes de corpo são tratadas como um corpo separado; não tente juntá-las no local.\n\nNão separe do corpo documentos, joias, carteira, celular e roupas. Anote na hora o lugar exato e a data em que foi encontrado: isso ajuda muito na identificação.\n\nNunca deixe corpos dentro ou encostados em rios, poços, nascentes ou cisternas: eles podem soltar fezes e contaminar a água."
+    },
+    {
+      "titulo": "Identifique cada corpo antes de enterrar",
+      "texto": "Em clima quente, em 12 a 48 horas o rosto pode ficar irreconhecível: identifique logo. Siga a ordem número, etiqueta, foto, registro e guarda dos pertences.\n\n• Número: dê a cada corpo (ou parte) um número único e sequencial, que nunca se repete.\n• Etiqueta: escreva o número num papel, feche num saquinho plástico e prenda no corpo. Outra etiqueta igual vai no saco ou lençol. Não escreva só no corpo ou no saco: apaga.\n• Foto (se tiver celular ou câmera): sempre com o número aparecendo. No mínimo rosto inteiro, corpo inteiro de frente e marcas visíveis. Fotografe de perto, sem tremer; no rosto, ele deve encher a foto.\n• Registro: sexo, faixa de idade (bebê, criança, adolescente, adulto, idoso), roupas, pertences e marcas (tatuagens, cicatrizes, deformidades). Sem foto, anote também altura, cor e comprimento do cabelo e cor dos olhos.\n• Pertences: embale com o mesmo número e guarde junto. A roupa fica no corpo.",
+      "dicas": [
+        "Mostrar boas fotos às famílias é menos sofrido e mais confiável do que fazê-las olhar muitos corpos."
+      ],
+      "avisos": [
+        "Reconhecer só pelo rosto engana, principalmente com sangue ou ferimentos. Confirme com roupas, pertences ou marcas e só entregue o corpo à família quando a identificação for certa."
+      ]
+    },
+    {
+      "titulo": "Faça o sepultamento temporário identificado",
+      "texto": "Sem câmara fria (o ideal é de 2 a 4 °C), o sepultamento temporário é a melhor forma de guardar o corpo: a terra o mantém mais fresco e permite exumar depois para identificação ou para levar ao cemitério.\n\n• Poucos corpos: covas individuais. Muitos: uma vala com os corpos lado a lado, numa só camada, com 0,4 m entre eles, nunca empilhados.\n• Profundidade: 1,5 m.\n• Distância de rios, lagos, nascentes e praias: pelo menos 200 m.\n• Distância de poços de água de beber: 200 m para até 4 corpos, 250 m para 5 a 60 e 350 m para mais de 60.\n• Fundo da cova pelo menos 1,5 m acima do nível mais alto do lençol freático; em vala com vários corpos, 2 m.\n• Enterre cada corpo com sua etiqueta, ponha uma estaca com o mesmo número em cima e desenhe um mapa com a posição de cada número.\n• Deixe uma faixa de pelo menos 10 m em volta do local, longe das casas.",
+      "dicas": [
+        "Escolha o local junto com a comunidade, perto o bastante para as famílias visitarem. Respeite a orientação do corpo pedida pela religião da família, quando houver."
+      ],
+      "avisos": [
+        "Não queime corpos sem identificação: a cremação destrói qualquer chance de identificar depois e gasta muita lenha.",
+        "Em solo de areia, rocha rachada ou lençol raso, aumente as distâncias ou escolha outro lugar."
+      ]
+    },
+    {
+      "titulo": "Tome cuidados extras se a morte foi por cólera",
+      "texto": "Aqui o corpo pode transmitir a doença:\n\n• mexa o mínimo no corpo e enterre o quanto antes, de preferência em até 24 horas;\n• se houver profissional de saúde treinado, ele prepara o corpo; quem toca usa luvas, avental e máscara;\n• não esvazie o intestino do corpo e envolva-o bem, de preferência num saco;\n• roupa e cama do morto: desinfete com cloro ou ferva por 5 minutos e seque ao sol;\n• no velório: evite muita gente, ninguém toca nem beija o corpo, ponha água e sabão para lavar as mãos e não sirva comida (se servir, só quente e com lavagem de mãos obrigatória).",
+      "avisos": [
+        "Em suspeita de Ebola ou outra febre com sangramento, ninguém da comunidade toca no corpo: isole a casa e peça ajuda das autoridades de saúde."
+      ]
+    },
+    {
+      "titulo": "Respeite os ritos e apoie as famílias",
+      "texto": "A família tem direito de saber, de identificar, de velar e de sepultar com dignidade. Ritos religiosos e culturais podem ser feitos, só adaptados quando houver risco (como na cólera).\n\n• Monte um ponto de informação com a lista de mortos identificados, de corpos ainda sem nome (com número, sexo, idade aproximada e roupas) e de desaparecidos.\n• Dê a notícia em lugar reservado, com calma e verdade, e deixe a família ficar junto.\n• No luto: escute sem pressa, ajude nas tarefas práticas (comida, crianças, água), não force a pessoa a falar e visite nos dias seguintes.\n• Crianças também precisam saber, com palavras simples, e de um adulto de confiança por perto."
+    },
+    {
+      "titulo": "Registre tudo para as autoridades",
+      "texto": "Pela Lei de Registros Públicos (Lei 6.015/1973), o óbito é registrado em cartório com atestado médico ou, onde não houver médico, com 2 pessoas que viram ou verificaram a morte. Quando não dá para registrar em 24 horas, o registro é feito depois, o quanto antes.\n\nPara cada morto, anote no caderno de óbitos: número do corpo, nome (se conhecido), data e hora da morte, local onde foi encontrado, causa aparente (doença, acidente ou violência), nome e casa de 2 testemunhas, local exato da sepultura e onde estão as fotos e os pertences.\n\nPara desaparecidos em catástrofe, cujo corpo não foi achado, o juiz pode depois declarar o óbito com base em provas de que a pessoa estava no local: guarde depoimentos e registros. Modelos de fichas: \"Como manter registros da comunidade\".",
+      "avisos": [
+        "Em morte violenta ou suspeita, não lave nem mude o corpo de lugar além do necessário, fotografe a cena e anote quem estava presente: a investigação depende disso."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Management of Dead Bodies after Disasters: A Field Manual for First Responders — OPAS/OMS, CICV e FICV",
+      "url": "https://www.paho.org/en/documents/management-dead-bodies-after-disasters-field-manual-first-responders-2nd-edition-revised"
+    },
+    {
+      "titulo": "Dead bodies from natural disasters and conflict do not generally pose health risks — OMS e Cruz Vermelha (2023)",
+      "url": "https://www.who.int/news/item/15-09-2023-dead-bodies-from-natural-disasters-and-conflict-do-not-generally-pose-health-risks--red-cross-and-who-say"
+    },
+    {
+      "titulo": "RCCE messages for cholera — Organização Mundial da Saúde, Escritório do Mediterrâneo Oriental",
+      "url": "https://www.emro.who.int/cpi/publications/rcce-messages-for-cholera.html"
+    },
+    {
+      "titulo": "Cholera: hygiene — Médicos Sem Fronteiras, Medical Guidelines",
+      "url": "https://medicalguidelines.msf.org/en/viewport/CHOL/english/3-4-hygiene-23448847.html"
+    },
+    {
+      "titulo": "Lei 6.015/1973 (Lei de Registros Públicos), arts. 77, 78 e 88 — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+    }
+  ]
+}
