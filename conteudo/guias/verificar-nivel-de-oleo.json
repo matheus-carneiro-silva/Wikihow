@@ -1,0 +1,65 @@
+{
+  "id": "verificar-nivel-de-oleo",
+  "titulo": "Como verificar o nível de óleo do motor",
+  "resumo": "Leitura correta da vareta: carro no plano, motor desligado há alguns minutos e nível entre as marcas MÍN e MÁX.",
+  "categoria": "motor",
+  "tags": [
+    "óleo",
+    "vareta",
+    "nível",
+    "lubrificante",
+    "luz do óleo",
+    "manutenção"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Pano ou papel que não solte fiapos",
+    "Óleo da especificação do manual, se precisar completar",
+    "Funil"
+  ],
+  "passos": [
+    {
+      "titulo": "Estacione no plano",
+      "texto": "Pare o carro em terreno plano. Em subida ou descida, o óleo se acumula de um lado do cárter e a leitura sai errada."
+    },
+    {
+      "titulo": "Desligue e espere",
+      "texto": "Com o motor em temperatura normal, desligue e espere de 5 a 10 minutos para o óleo escorrer de volta para o cárter. O manual do carro diz o tempo exato e se a medição deve ser feita com o motor quente ou frio."
+    },
+    {
+      "titulo": "Limpe e meça",
+      "texto": "Puxe a vareta (em geral com a alça amarela ou laranja), limpe com um pano, coloque de volta até o fim e puxe de novo. Leia o nível na ponta."
+    },
+    {
+      "titulo": "Interprete a leitura",
+      "texto": "O nível certo fica entre as marcas MÍN e MÁX. Perto do MÍN ou abaixo dele, complete.\n\nObserve também a cor e o aspecto: óleo muito escuro e grosso pede troca; aspecto leitoso ou de \"café com leite\" pode indicar mistura com líquido de arrefecimento e precisa de avaliação na oficina."
+    },
+    {
+      "titulo": "Complete aos poucos",
+      "texto": "Use o óleo da especificação do manual (viscosidade, como 5W30, e norma, como API SP). Pelo bocal de enchimento na tampa do motor, coloque pouco de cada vez, espere alguns minutos e meça de novo.",
+      "avisos": [
+        "Não passe do MÁX: óleo demais também prejudica o motor."
+      ]
+    },
+    {
+      "titulo": "Repita com frequência",
+      "texto": "Verifique a cada abastecimento ou ao menos uma vez por mês e antes de viagens. Consumo grande de óleo entre as trocas é sinal de problema.",
+      "avisos": [
+        "Se a luz de pressão do óleo (um \"regador\") acender com o carro andando, pare assim que for seguro e desligue o motor."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Inspecting Engine Oil Level — manual do proprietário Mazda",
+      "url": "https://www.mazdausa.com/static/manuals/2018/mazda3/contents/07030403.html"
+    },
+    {
+      "titulo": "How To Check Engine Oil — J.D. Power",
+      "url": "https://www.jdpower.com/cars/shopping-guides/how-to-check-engine-oil"
+    }
+  ]
+}

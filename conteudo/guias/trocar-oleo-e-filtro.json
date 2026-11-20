@@ -1,0 +1,92 @@
+{
+  "id": "trocar-oleo-e-filtro",
+  "titulo": "Como trocar o óleo e o filtro do motor",
+  "resumo": "Drenagem do óleo velho, troca do filtro com o aperto certo, novo óleo, conferência de vazamentos e descarte correto.",
+  "categoria": "motor",
+  "tags": [
+    "óleo",
+    "filtro de óleo",
+    "troca de óleo",
+    "cárter",
+    "bujão",
+    "lubrificante",
+    "manutenção preventiva"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 45,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro. Nunca entre embaixo de um carro apoiado só no macaco: use cavaletes ou rampas.",
+  "materiais": [
+    "Óleo da especificação e quantidade do manual",
+    "Filtro de óleo novo",
+    "Arruela nova do bujão",
+    "Chave do bujão e chave de filtro",
+    "Recipiente para o óleo usado",
+    "Funil, luvas e panos",
+    "Rampas ou macaco com cavaletes"
+  ],
+  "passos": [
+    {
+      "titulo": "Confira especificação e prazo",
+      "texto": "No manual, veja o óleo certo (viscosidade e norma), a quantidade com troca de filtro e o intervalo. A troca é feita pelo que vier primeiro: quilometragem ou tempo.",
+      "dicas": [
+        "Uso severo (muito trânsito urbano, trajetos curtos, estrada de terra, reboque) costuma pedir intervalos menores. O manual traz a tabela para esse caso."
+      ]
+    },
+    {
+      "titulo": "Aqueça e posicione o carro",
+      "texto": "Rode alguns minutos para o óleo aquecer e escorrer melhor, sem deixar o motor muito quente. Levante o carro com segurança em rampas ou cavaletes e coloque o recipiente sob o bujão do cárter."
+    },
+    {
+      "titulo": "Drene o óleo velho",
+      "texto": "Abra a tampa de enchimento em cima do motor (ajuda o óleo a escorrer). Solte o bujão com a chave certa, terminando de desrosquear com a mão, e deixe escorrer até pingar devagar.",
+      "avisos": [
+        "O óleo pode estar quente: use luvas e mantenha o braço fora do jato."
+      ]
+    },
+    {
+      "titulo": "Recoloque o bujão",
+      "texto": "Limpe o bujão e a sede, coloque uma arruela de vedação nova e aperte com o torque do manual. Sem torquímetro, aperte firme sem exagero: rosca de cárter de alumínio espana com facilidade."
+    },
+    {
+      "titulo": "Troque o filtro",
+      "texto": "Com o recipiente embaixo, solte o filtro velho (chave de filtro se estiver preso). Confira se a junta velha saiu junto e limpe a base.\n\nPasse uma película de óleo novo na borracha do filtro novo, rosqueie com a mão até a junta encostar e dê mais 3/4 a 1 volta, também com a mão, ou o que estiver impresso no filtro.",
+      "avisos": [
+        "Junta velha grudada na base mais a junta nova vazam óleo rapidamente. Sempre confira."
+      ]
+    },
+    {
+      "titulo": "Coloque o óleo novo",
+      "texto": "Baixe o carro para o plano. Coloque um pouco menos que a quantidade do manual, espere alguns minutos e meça na vareta. Complete aos poucos até perto do MÁX."
+    },
+    {
+      "titulo": "Ligue e confira",
+      "texto": "Ligue o motor e deixe em marcha lenta por cerca de um minuto: a luz do óleo deve apagar em segundos. Procure vazamento no bujão e no filtro. Desligue, espere alguns minutos e meça o nível de novo."
+    },
+    {
+      "titulo": "Descarte corretamente",
+      "texto": "Guarde o óleo usado em recipiente fechado e entregue, junto com o filtro, num posto ou loja que faça o recolhimento. Por lei, o óleo usado deve ir para rerrefino.",
+      "avisos": [
+        "Nunca jogue óleo no ralo, na terra ou no lixo comum."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Change Your Oil — Edmunds",
+      "url": "https://www.edmunds.com/how-to/how-to-change-your-oil-the-real-down-and-dirty.html"
+    },
+    {
+      "titulo": "Installation instruction for spin-on engine oil filters — Filter Manufacturers Council",
+      "url": "https://autocare.org/docs/default-source/communities-files/fmc/bulletins/93-3-installation-instruction-for-spin-on-engine-oil-filters"
+    },
+    {
+      "titulo": "Proper Oil Filter Installation – Spin-On — PG Filters",
+      "url": "https://www.pgfilters.com/resources/articles/proper-oil-filter-installation-spin-on/"
+    },
+    {
+      "titulo": "Resolução CONAMA nº 362/2005 — recolhimento de óleo lubrificante usado",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/distribuicao-e-revenda/lubrificantes/arquivos-dados-de-mercado/resolucao-conama-362-23-junho-2005.pdf"
+    }
+  ]
+}

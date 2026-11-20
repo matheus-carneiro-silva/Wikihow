@@ -1,0 +1,70 @@
+{
+  "id": "ler-codigos-obd2",
+  "titulo": "Como ler os códigos de falha com um scanner OBD2",
+  "resumo": "Onde fica o conector, como ler e interpretar códigos como P0302, e quando a luz de injeção pede parar o carro.",
+  "categoria": "motor",
+  "tags": [
+    "OBD2",
+    "OBD",
+    "scanner",
+    "luz de injeção",
+    "código de falha",
+    "DTC",
+    "diagnóstico",
+    "check engine"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Scanner OBD2 ou adaptador Bluetooth com aplicativo"
+  ],
+  "passos": [
+    {
+      "titulo": "Encontre o conector",
+      "texto": "O conector de diagnóstico tem 16 pinos e fica, na maioria dos carros, embaixo do painel do lado do motorista, perto da coluna de direção ou da caixa de fusíveis. No Brasil, ele é obrigatório em carros novos desde 2010."
+    },
+    {
+      "titulo": "Conecte o scanner",
+      "texto": "Com a ignição desligada, encaixe o scanner (com cabo ou adaptador Bluetooth usado com um aplicativo). Ligue a ignição sem dar partida, ou com o motor ligado, conforme as instruções do aparelho."
+    },
+    {
+      "titulo": "Leia os códigos",
+      "texto": "Escolha a opção de ler códigos de falha (DTC). Anote todos os códigos, inclusive os pendentes, antes de apagar qualquer coisa."
+    },
+    {
+      "titulo": "Interprete o código",
+      "texto": "A letra indica o sistema: P (trem de força: motor e câmbio), B (carroceria), C (chassi) e U (rede de comunicação). O primeiro número diz o tipo: 0 é código padrão, 1 é específico da montadora. O segundo indica o subsistema; 3, por exemplo, é ignição e falha de combustão.\n\nExemplo: P0302 é falha de combustão no cilindro 2.",
+      "dicas": [
+        "O código aponta o sintoma detectado, não necessariamente a peça com defeito. Uma falha no cilindro 2 pode ser vela, bobina, bico injetor ou compressão."
+      ]
+    },
+    {
+      "titulo": "Saiba quando parar",
+      "texto": "Luz de injeção acesa fixa: dá para seguir com cuidado até a oficina, mas resolva em poucos dias.\n\nLuz piscando: pare assim que for seguro. Ela indica falha de combustão forte, e o combustível que não queima pode destruir o catalisador em pouco tempo."
+    },
+    {
+      "titulo": "Apague só depois de resolver",
+      "texto": "Apagar o código não conserta nada: se a causa continuar, a luz volta. Apague depois do reparo e confira se o código não retorna após alguns dias de uso."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Entrada OBD2 permite que você descubra os problemas em seu carro — AutoPapo",
+      "url": "https://autopapo.com.br/noticia/entrada-obd2-para-que-serve/"
+    },
+    {
+      "titulo": "What are diagnostic trouble codes? — Haynes",
+      "url": "https://au.haynes.com/blogs/tips-tutorials/what-are-diagnostic-trouble-codes"
+    },
+    {
+      "titulo": "DTC decoding — Maryland Department of the Environment",
+      "url": "https://mde.maryland.gov/programs/air/MobileSources/Documents/dtc_decoding.pdf"
+    },
+    {
+      "titulo": "Check Engine Light — AAA",
+      "url": "https://www.aaa.com/tripcanvas/article/check-engine-light-CM852"
+    }
+  ]
+}

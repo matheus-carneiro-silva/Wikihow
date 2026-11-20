@@ -1,0 +1,63 @@
+{
+  "id": "verificar-fluido-de-freio",
+  "titulo": "Como verificar o fluido de freio",
+  "resumo": "Nível no reservatório, o que uma queda de nível indica e por que o fluido precisa ser trocado mesmo sem vazamento.",
+  "categoria": "freios",
+  "tags": [
+    "fluido de freio",
+    "DOT 3",
+    "DOT 4",
+    "reservatório",
+    "pedal baixo",
+    "manutenção preventiva"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "O fluido de freio é corrosivo para a pintura e irritante para a pele e os olhos. Problemas no freio comprometem a segurança: na dúvida, não rode e leve à oficina. Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Fluido de freio do tipo indicado, em frasco lacrado",
+    "Pano limpo"
+  ],
+  "passos": [
+    {
+      "titulo": "Localize o reservatório",
+      "texto": "Fica no cofre do motor, em geral do lado do motorista, sobre o cilindro-mestre. A tampa costuma indicar o tipo de fluido (DOT 3, DOT 4 ou DOT 5.1)."
+    },
+    {
+      "titulo": "Confira o nível",
+      "texto": "Com o carro no plano, o nível deve estar entre MÍN e MÁX, visto pela lateral do reservatório. Limpe a tampa antes de abrir, para não cair sujeira dentro."
+    },
+    {
+      "titulo": "Entenda uma queda de nível",
+      "texto": "O nível baixa devagar à medida que as pastilhas se desgastam. Queda rápida, ou nível no MÍN com pastilhas novas, indica vazamento, que deve ser consertado antes de rodar.",
+      "avisos": [
+        "Pedal baixo, esponjoso ou que afunda até o fim: não rode com o carro."
+      ]
+    },
+    {
+      "titulo": "Complete com o fluido certo",
+      "texto": "Use só o tipo indicado na tampa ou no manual, de frasco lacrado. Complete até o MÁX e feche bem.",
+      "avisos": [
+        "Nunca misture DOT 5 (à base de silicone) com DOT 3, 4 ou 5.1."
+      ]
+    },
+    {
+      "titulo": "Troque no prazo",
+      "texto": "Os fluidos DOT 3, 4 e 5.1 absorvem umidade do ar, mesmo com a tampa fechada. A água abaixa o ponto de ebulição e, em frenagens fortes, o fluido pode ferver e o pedal \"sumir\". A maioria dos fabricantes pede troca a cada 2 anos; siga o manual.",
+      "dicas": [
+        "Feche sempre os frascos abertos: fluido guardado aberto também absorve umidade."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Everything you need to know about brake fluid — Autoblog",
+      "url": "https://www.autoblog.com/maintenance/brake-fluid-101"
+    },
+    {
+      "titulo": "Understanding brake fluid — NRMA",
+      "url": "https://mynrma.com.au/cars-and-driving/car-servicing/resources/understanding-brake-fluid"
+    }
+  ]
+}

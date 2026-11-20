@@ -1,0 +1,83 @@
+{
+  "id": "trocar-pastilhas-de-freio",
+  "titulo": "Como trocar as pastilhas de freio a disco",
+  "resumo": "Avaliação do desgaste, retração do pistão da pinça, montagem das pastilhas novas e assentamento antes do uso normal.",
+  "categoria": "freios",
+  "tags": [
+    "pastilha",
+    "freio a disco",
+    "pinça",
+    "pistão",
+    "disco de freio",
+    "chiado",
+    "assentamento"
+  ],
+  "dificuldade": "dificil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Freio é item de segurança: se não tiver certeza de cada etapa, leve à oficina. Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro. Nunca entre embaixo de um carro apoiado só no macaco: use cavaletes ou rampas.",
+  "materiais": [
+    "Jogo de pastilhas para o eixo",
+    "Chaves da pinça e da roda",
+    "Sargento ou recuador de pistão",
+    "Graxa para freio",
+    "Macaco e cavaletes",
+    "Torquímetro"
+  ],
+  "passos": [
+    {
+      "titulo": "Saiba quando trocar",
+      "texto": "Sinais: chiado metálico ao frear (muitas pastilhas têm um indicador sonoro de desgaste), luz de pastilha no painel ou pouca espessura visível pela roda. Troque com cerca de 3 mm de material; o limite exato varia por carro e está no manual.",
+      "dicas": [
+        "Sempre troque as pastilhas dos dois lados do mesmo eixo, para o carro frear por igual."
+      ]
+    },
+    {
+      "titulo": "Levante e retire a roda",
+      "texto": "Afrouxe os parafusos da roda com o carro no chão, levante, apoie em cavaletes e retire a roda."
+    },
+    {
+      "titulo": "Solte a pinça",
+      "texto": "Retire os parafusos-guia da pinça e levante-a, sem deixar pendurada pela mangueira de freio: apoie ou amarre com arame.",
+      "avisos": [
+        "Não pise no pedal de freio com a pinça fora do disco: o pistão sai."
+      ]
+    },
+    {
+      "titulo": "Retraia o pistão",
+      "texto": "Abra o reservatório de fluido (o nível vai subir) e empurre o pistão de volta com um sargento ou ferramenta própria, usando a pastilha velha como apoio para não marcar o pistão. Ele deve ficar alinhado com a pinça.",
+      "avisos": [
+        "Pinças traseiras com freio de mão integrado precisam ser giradas enquanto empurra, com ferramenta específica.",
+        "Se a coifa de borracha do pistão estiver rasgada ou houver vazamento de fluido, a pinça precisa de reparo."
+      ]
+    },
+    {
+      "titulo": "Monte as pastilhas novas",
+      "texto": "Retire as pastilhas velhas e os grampos. Confira o disco: sulcos fundos, trincas ou espessura abaixo do mínimo gravado nele pedem troca. Limpe os pontos de apoio, passe graxa própria para freio só nos contatos metálicos e encaixe as pastilhas novas.",
+      "avisos": [
+        "Nunca deixe graxa, óleo ou fluido no material de atrito ou no disco."
+      ]
+    },
+    {
+      "titulo": "Remonte e bombeie o pedal",
+      "texto": "Recoloque a pinça com o torque do manual, monte a roda e baixe o carro. Antes de dar partida, bombeie o pedal várias vezes até ele ficar firme e alto: o pistão precisa voltar a encostar nas pastilhas. Confira o nível do fluido.",
+      "avisos": [
+        "Sem bombear o pedal, a primeira frenagem pode não acontecer."
+      ]
+    },
+    {
+      "titulo": "Faça o assentamento",
+      "texto": "Nos primeiros 300 a 500 km, evite frenagens bruscas e longas. Faça algumas frenagens progressivas, de intensidade moderada, para assentar as pastilhas no disco, sem segurar o carro parado com o freio quente."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Change Brake Pads and Rotors — O'Reilly Auto Parts",
+      "url": "https://www.oreillyauto.com/how-to-hub/diy-change-pads-rotors"
+    },
+    {
+      "titulo": "How to change brake pads and rotors — Kelley Blue Book",
+      "url": "https://www.kbb.com/car-advice/how-to-change-brake-pads-and-rotors/"
+    }
+  ]
+}

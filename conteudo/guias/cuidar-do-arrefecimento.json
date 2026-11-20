@@ -1,0 +1,78 @@
+{
+  "id": "cuidar-do-arrefecimento",
+  "titulo": "Como verificar o arrefecimento e agir se o motor superaquecer",
+  "resumo": "Nível do líquido de arrefecimento com o motor frio, mistura correta de aditivo e o que fazer quando o ponteiro de temperatura sobe.",
+  "categoria": "motor",
+  "tags": [
+    "radiador",
+    "aditivo",
+    "líquido de arrefecimento",
+    "superaquecimento",
+    "temperatura",
+    "ventoinha",
+    "reservatório"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca abra a tampa do radiador ou do reservatório com o motor quente: o sistema fica sob pressão e o líquido pode sair fervendo. Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Aditivo de radiador indicado no manual",
+    "Água desmineralizada, se o aditivo for concentrado",
+    "Pano grosso",
+    "Funil"
+  ],
+  "passos": [
+    {
+      "titulo": "Verifique com o motor frio",
+      "texto": "Com o carro no plano e o motor frio, olhe o reservatório de expansão (plástico translúcido com marcas MÍN e MÁX). O nível deve estar entre as duas."
+    },
+    {
+      "titulo": "Complete com o líquido certo",
+      "texto": "Use o aditivo indicado no manual: pronto para uso ou concentrado, diluído em água desmineralizada na proporção do rótulo. Não misture tipos diferentes de aditivo.",
+      "avisos": [
+        "Só água comum perde a proteção contra corrosão e superaquecimento. Use água pura apenas numa emergência e corrija depois."
+      ]
+    },
+    {
+      "titulo": "Desconfie de queda constante",
+      "texto": "Nível que cai sem motivo indica vazamento ou consumo interno. Procure manchas embaixo do carro, mangueiras ressecadas ou molhadas e marcas brancas ou coloridas ao redor do radiador e da bomba d'água."
+    },
+    {
+      "titulo": "Se o ponteiro subir: alivie o motor",
+      "texto": "Desligue o ar-condicionado e ligue o aquecimento no máximo com a ventilação forte: o radiador do aquecedor ajuda a tirar calor do motor."
+    },
+    {
+      "titulo": "Pare em local seguro",
+      "texto": "Se a temperatura continuar subindo ou aparecer vapor, pare assim que for seguro e desligue o motor. Abra o capô só depois que o vapor parar.",
+      "avisos": [
+        "Rodar com o motor superaquecido pode queimar a junta do cabeçote e empenar o cabeçote, um reparo caro."
+      ]
+    },
+    {
+      "titulo": "Complete só depois de esfriar",
+      "texto": "Espere esfriar por completo. Para abrir uma tampa sob pressão, cubra com um pano grosso, gire devagar até o primeiro estágio e afaste-se enquanto a pressão sai. Complete devagar e em pequenas quantidades.",
+      "avisos": [
+        "Jogar líquido frio de uma vez num motor superaquecido pode trincar o bloco ou o cabeçote."
+      ]
+    },
+    {
+      "titulo": "Investigue a causa",
+      "texto": "Superaquecimento tem causa: vazamento, válvula termostática travada, bomba d'água fraca, ventoinha que não liga ou radiador entupido. Leve à oficina antes de voltar a rodar normalmente."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "If the engine overheats — manual do proprietário Hyundai",
+      "url": "https://ownersmanual.hyundai.com/full_webhelp/CN7/2025/en_US/iddf7313777e5.html"
+    },
+    {
+      "titulo": "Car Overheating: 8 Causes and Solutions — AAA",
+      "url": "https://www.aaa.com/autorepair/articles/car-overheating-8-causes-and-solutions"
+    },
+    {
+      "titulo": "Overheating Issues — O'Reilly Auto Parts",
+      "url": "https://www.oreillyauto.com/how-to-hub/cooling-system/overheating-issues"
+    }
+  ]
+}

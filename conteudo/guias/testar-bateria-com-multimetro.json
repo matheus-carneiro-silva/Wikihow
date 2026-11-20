@@ -1,0 +1,67 @@
+{
+  "id": "testar-bateria-com-multimetro",
+  "titulo": "Como testar a bateria e o alternador com um multímetro",
+  "resumo": "Tensão em repouso para saber a carga da bateria e tensão com o motor ligado para conferir o alternador.",
+  "categoria": "eletrica",
+  "tags": [
+    "bateria",
+    "alternador",
+    "multímetro",
+    "tensão",
+    "voltagem",
+    "carro não liga",
+    "carga"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Baterias liberam hidrogênio, que é explosivo, e contêm ácido. Use óculos de proteção, não fume e evite faíscas perto da bateria. Na dúvida, siga o manual do veículo.",
+  "materiais": [
+    "Multímetro digital",
+    "Óculos de proteção e luvas",
+    "Escova de aço para terminais, se precisar"
+  ],
+  "passos": [
+    {
+      "titulo": "Deixe a bateria descansar",
+      "texto": "Para medir a carga real, o carro deve estar desligado há pelo menos 1 hora, de preferência depois de uma noite parado. Logo depois de rodar, a \"carga de superfície\" mostra um valor maior que o real."
+    },
+    {
+      "titulo": "Ajuste o multímetro",
+      "texto": "Coloque o multímetro em tensão contínua (V com a linha reta, DCV), na escala de 20 V. Desligue faróis, rádio e outros consumidores."
+    },
+    {
+      "titulo": "Meça em repouso",
+      "texto": "Encoste a ponta vermelha no polo positivo (+) e a preta no negativo (−).\n\nReferência aproximada: 12,6 V ou mais = carga completa; cerca de 12,4 V = carga parcial; 12,2 V = cerca de metade; 12,0 V ou menos = descarregada.",
+      "dicas": [
+        "Bateria descarregada deve ser recarregada e medida de novo. Se não segurar a carga, está no fim da vida útil."
+      ]
+    },
+    {
+      "titulo": "Meça com o motor ligado",
+      "texto": "Dê partida e meça de novo nos polos, em marcha lenta. Um alternador saudável fornece cerca de 13,7 a 14,7 V.\n\nAbaixo de 13,5 V, o alternador pode não estar carregando direito; acima de cerca de 15 V, pode estar sobrecarregando a bateria."
+    },
+    {
+      "titulo": "Saiba o limite do teste",
+      "texto": "A tensão mostra o estado de carga, não a saúde da bateria. Uma bateria pode mostrar 12,6 V e falhar na partida. Para confirmar, peça um teste de carga ou de condutância em loja de baterias ou oficina."
+    },
+    {
+      "titulo": "Confira os terminais",
+      "texto": "Terminais com crosta branca ou esverdeada, ou frouxos, causam falha de partida mesmo com bateria boa. Limpe com escova e aperte, começando a soltar pelo negativo e recolocando o negativo por último."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Measure Battery Voltage with a Multimeter — Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-test-a-battery-with-a-multimeter"
+    },
+    {
+      "titulo": "How to test a car battery with a multimeter — Haynes",
+      "url": "https://us.haynes.com/blogs/tips-tutorials/how-test-car-battery-multimeter"
+    },
+    {
+      "titulo": "How to Test a Car Battery With a Multimeter — J.D. Power",
+      "url": "https://jdpower.com/cars/shopping-guides/how-to-test-a-car-battery-with-a-multimeter"
+    }
+  ]
+}

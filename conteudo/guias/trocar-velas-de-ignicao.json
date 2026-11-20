@@ -1,0 +1,75 @@
+{
+  "id": "trocar-velas-de-ignicao",
+  "titulo": "Como trocar as velas de ignição",
+  "resumo": "Remoção com motor frio, conferência da folga e aperto correto das velas novas, sem espanar a rosca do cabeçote.",
+  "categoria": "motor",
+  "tags": [
+    "vela",
+    "ignição",
+    "falha",
+    "motor falhando",
+    "bobina",
+    "cabo de vela",
+    "NGK"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Velas novas indicadas para o motor",
+    "Chave de vela com extensão",
+    "Calibre de lâminas",
+    "Torquímetro (recomendado)",
+    "Ar comprimido ou aspirador"
+  ],
+  "passos": [
+    {
+      "titulo": "Use a vela certa e espere esfriar",
+      "texto": "Compre a vela indicada no manual ou no catálogo do fabricante para o seu motor. Trabalhe com o motor frio: rosca quente no cabeçote de alumínio danifica com facilidade."
+    },
+    {
+      "titulo": "Retire bobinas ou cabos",
+      "texto": "Marque a ordem dos cabos ou bobinas, se houver dúvida. Puxe pelo terminal ou pela bobina, nunca pelo fio. Sopre ou aspire a sujeira ao redor das velas antes de soltá-las, para nada cair dentro do cilindro."
+    },
+    {
+      "titulo": "Solte as velas velhas",
+      "texto": "Use chave de vela com borracha interna e extensão. Solte no sentido anti-horário, com força constante.",
+      "dicas": [
+        "A ponta da vela velha mostra o estado do motor: depósito preto e seco sugere mistura rica; óleo na ponta pede avaliação."
+      ]
+    },
+    {
+      "titulo": "Confira a folga da vela nova",
+      "texto": "Meça a folga entre os eletrodos com um calibre de lâminas: ele deve passar justo, mas sem forçar. Muitas velas já vêm calibradas; ajuste só se o fabricante permitir e conforme o valor indicado."
+    },
+    {
+      "titulo": "Rosqueie com a mão",
+      "texto": "Comece sempre com a mão, usando a chave ou um pedaço de mangueira na ponta da vela, até a vela encostar no cabeçote. Se travar no começo, pare: a rosca entrou torta.",
+      "avisos": [
+        "A NGK não recomenda lubrificar a rosca das velas: isso muda o aperto real."
+      ]
+    },
+    {
+      "titulo": "Dê o aperto final",
+      "texto": "Use o torque do manual ou da embalagem da vela. Sem torquímetro, a NGK indica, para velas com arruela, cerca de 1/2 a 2/3 de volta depois de encostar; para velas de assento cônico, só 1/12 a 1/8 de volta.",
+      "avisos": [
+        "Aperto demais quebra a vela ou espana o cabeçote; aperto de menos faz a vela esquentar e soltar."
+      ]
+    },
+    {
+      "titulo": "Recoloque e teste",
+      "texto": "Recoloque bobinas ou cabos até sentir o encaixe, na ordem original. Ligue o motor e confira se a marcha lenta está estável e a luz de injeção apagada."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How do I install spark plugs correctly? — NGK",
+      "url": "https://ngksparkplugs.com/en/resources/correctly-install-spark-plugs"
+    },
+    {
+      "titulo": "Spark Plug Installation — NGK",
+      "url": "https://ngksparkplugs.com/en/resources/spark-plug-installation"
+    }
+  ]
+}

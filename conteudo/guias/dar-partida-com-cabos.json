@@ -1,0 +1,68 @@
+{
+  "id": "dar-partida-com-cabos",
+  "titulo": "Como dar partida com cabos (chupeta)",
+  "resumo": "A ordem segura de ligação dos cabos entre dois carros e por que o último terminal vai na massa, longe da bateria.",
+  "categoria": "eletrica",
+  "tags": [
+    "chupeta",
+    "bateria descarregada",
+    "cabo de bateria",
+    "carro não liga",
+    "partida",
+    "jump start"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Baterias liberam hidrogênio, que é explosivo, e contêm ácido. Use óculos de proteção, não fume e evite faíscas perto da bateria. Na dúvida, siga o manual do veículo.",
+  "materiais": [
+    "Cabos de chupeta em bom estado",
+    "Carro com bateria carregada de mesma tensão",
+    "Óculos de proteção"
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare os dois carros",
+      "texto": "Aproxime os carros sem que encostem um no outro. Desligue os dois, puxe o freio de mão e desligue faróis, rádio e ar-condicionado. Confira se as duas baterias têm a mesma tensão (12 V em carros de passeio).",
+      "avisos": [
+        "Não faça a chupeta se a bateria descarregada estiver rachada, vazando ou estufada."
+      ]
+    },
+    {
+      "titulo": "Ligue o cabo vermelho",
+      "texto": "Prenda uma ponta do cabo vermelho no polo positivo (+) da bateria descarregada. Depois, a outra ponta no positivo (+) da bateria boa."
+    },
+    {
+      "titulo": "Ligue o cabo preto",
+      "texto": "Prenda uma ponta do cabo preto no polo negativo (−) da bateria boa. A última ponta vai numa parte metálica sem pintura do carro com bateria descarregada, como um parafuso grosso do bloco do motor, longe da bateria.",
+      "avisos": [
+        "Não prenda a última garra no negativo da bateria descarregada: ela pode liberar hidrogênio, e a faísca ao conectar pode causar explosão."
+      ]
+    },
+    {
+      "titulo": "Dê a partida",
+      "texto": "Ligue o carro com a bateria boa e deixe funcionar um ou dois minutos, acelerando de leve. Depois, tente ligar o outro. Se não pegar, espere mais alguns minutos e tente de novo.",
+      "dicas": [
+        "A causa mais comum de falha é mau contato: mexa nas garras para que mordam bem o metal."
+      ]
+    },
+    {
+      "titulo": "Retire na ordem inversa",
+      "texto": "Com os dois motores funcionando, retire os cabos na ordem inversa: primeiro o preto da massa, depois o preto da bateria boa, depois o vermelho da bateria boa e por último o vermelho da bateria que estava descarregada. Não deixe as garras se tocarem."
+    },
+    {
+      "titulo": "Recarregue e investigue",
+      "texto": "Rode pelo menos 20 a 30 minutos para o alternador recarregar a bateria. Se ela descarregar de novo, teste a bateria e o alternador."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "How to Jump a Battery and Get Yourself Back on the Road — AAA",
+      "url": "https://www.aaa.com/autorepair/articles/how-to-jump-a-battery-and-get-yourself-back-on-the-road"
+    },
+    {
+      "titulo": "How to jump-start a dead car battery — Haynes",
+      "url": "https://us.haynes.com/blogs/tips-tutorials/how-jump-start-dead-car-battery"
+    }
+  ]
+}

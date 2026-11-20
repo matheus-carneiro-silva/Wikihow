@@ -1,0 +1,57 @@
+{
+  "id": "trocar-filtro-de-ar",
+  "titulo": "Como trocar o filtro de ar do motor",
+  "resumo": "Uma das manutenções mais simples: abrir a caixa do filtro, avaliar o elemento e trocar sem deixar sujeira entrar no motor.",
+  "categoria": "motor",
+  "tags": [
+    "filtro de ar",
+    "admissão",
+    "consumo",
+    "poeira",
+    "manutenção preventiva"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 15,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "materiais": [
+    "Filtro de ar indicado para o motor",
+    "Chave de fenda ou soquete, se a caixa tiver parafusos",
+    "Pano ou aspirador"
+  ],
+  "passos": [
+    {
+      "titulo": "Confira o prazo",
+      "texto": "O manual indica o intervalo de troca. Em estrada de terra ou lugares com muita poeira, o filtro entope antes e a revisão deve ser mais frequente."
+    },
+    {
+      "titulo": "Abra a caixa do filtro",
+      "texto": "Com o motor desligado, localize a caixa plástica ligada ao duto de ar (em geral perto da lateral do cofre). Solte as presilhas ou parafusos e levante a tampa."
+    },
+    {
+      "titulo": "Avalie o elemento",
+      "texto": "Retire o filtro e olhe contra a luz: se a luz quase não passa, se está muito escuro, úmido de óleo ou danificado, troque. Um ponto de luz muito forte indica furo.",
+      "avisos": [
+        "Não sopre filtros de papel com ar comprimido por fora nem com pressão alta: isso empurra a poeira para dentro das fibras ou abre furos. Alguns fabricantes proíbem qualquer sopro; na dúvida, troque."
+      ]
+    },
+    {
+      "titulo": "Limpe a caixa",
+      "texto": "Retire folhas e sujeira de dentro da caixa com um pano ou aspirador, tomando cuidado para nada cair no duto que vai para o motor."
+    },
+    {
+      "titulo": "Instale o filtro novo",
+      "texto": "Coloque o filtro na mesma posição do antigo, com a borda de borracha bem assentada em toda a volta. Feche a tampa e confira se todas as presilhas travaram: uma fresta deixa entrar ar sem filtrar."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Filter replacement — manual do proprietário Hyundai",
+      "url": "https://ownersmanual.hyundai.com/docview/webhelp/Hyundai/167792d3-910c-48c7-a4a2-74f466ff5f99/id19e793e9fd1.html"
+    },
+    {
+      "titulo": "How Often Should You Change the Engine Air Filter? — Cars.com",
+      "url": "https://www.cars.com/articles/how-often-should-you-change-the-engine-air-filter-1420663059324/"
+    }
+  ]
+}

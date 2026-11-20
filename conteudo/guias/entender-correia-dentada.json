@@ -1,0 +1,64 @@
+{
+  "id": "entender-correia-dentada",
+  "titulo": "Quando trocar a correia dentada (e por que não esperar)",
+  "resumo": "Intervalo de troca, motores de interferência, peças que devem ser trocadas junto e sinais de problema.",
+  "categoria": "motor",
+  "tags": [
+    "correia dentada",
+    "sincronismo",
+    "tensor",
+    "bomba d'água",
+    "motor de interferência",
+    "manutenção preventiva"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 10,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "passos": [
+    {
+      "titulo": "Entenda a função",
+      "texto": "A correia dentada sincroniza o virabrequim com o comando de válvulas: garante que as válvulas abram e fechem no momento certo em relação aos pistões. Ela fica escondida sob uma capa no lado do motor."
+    },
+    {
+      "titulo": "Saiba o risco de quebra",
+      "texto": "A maioria dos motores modernos é de interferência: se a correia quebrar ou pular um dente, pistões e válvulas se chocam. O conserto costuma envolver abrir o cabeçote, e o custo é muito maior que o da troca preventiva.\n\nEm motores sem interferência, a quebra apenas para o carro, sem dano interno."
+    },
+    {
+      "titulo": "Siga o intervalo do fabricante",
+      "texto": "O manual traz o intervalo em quilômetros e em tempo; vale o que vier primeiro. A Gates recomenda não passar de 6 anos (72 meses), mesmo com pouca quilometragem, porque a borracha envelhece.",
+      "dicas": [
+        "Carro usado sem histórico de troca: considere trocar logo, por precaução."
+      ]
+    },
+    {
+      "titulo": "Troque o kit completo",
+      "texto": "Troque junto o tensor e as polias, que se desgastam no mesmo ritmo, e a bomba d'água quando ela for movida pela correia. Um tensor gasto é uma das causas mais comuns de quebra, e uma bomba que trava destrói a correia nova."
+    },
+    {
+      "titulo": "Fique atento aos sinais",
+      "texto": "Ruído agudo ou chiado vindo da região da correia, vazamento de líquido de arrefecimento perto da capa, superaquecimento sem outra causa ou dificuldade de pegar podem indicar problema no conjunto.",
+      "avisos": [
+        "A troca exige ferramentas de sincronismo específicas e conhecimento do motor. Um dente fora do lugar já causa danos."
+      ]
+    },
+    {
+      "titulo": "Não confunda com corrente",
+      "texto": "Alguns motores usam corrente de comando em vez de correia. A corrente não tem troca periódica, mas depende de óleo em dia: ruído metálico na partida pede avaliação."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Timing Belt Replacement Guide — Gates",
+      "url": "https://www.maxiparts.com.au/Documents/Supplier/Gates/timingbeltreplacementguide.pdf"
+    },
+    {
+      "titulo": "Importance of water pump change interval — Gates",
+      "url": "https://gatestechzone.com/en/news/2019-03-importance-wp-change-interval"
+    },
+    {
+      "titulo": "Timing Belts and Interference Engines — AA1Car",
+      "url": "https://www.aa1car.com/library/timing_belts_interference_engines.htm"
+    }
+  ]
+}

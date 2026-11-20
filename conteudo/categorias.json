@@ -13,5 +13,20 @@
     "id": "pequenas-cirurgias",
     "nome": "Pequenas cirurgias",
     "descricao": "Procedimentos ambulatoriais com anestesia local"
+  },
+  {
+    "id": "motor",
+    "nome": "Motor",
+    "descricao": "Óleo, ignição, arrefecimento, correia e diagnóstico"
+  },
+  {
+    "id": "eletrica",
+    "nome": "Elétrica",
+    "descricao": "Bateria, alternador e partida"
+  },
+  {
+    "id": "freios",
+    "nome": "Freios",
+    "descricao": "Fluido, pastilhas e discos"
   }
 ]
