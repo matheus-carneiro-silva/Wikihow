@@ -95,6 +95,7 @@ export function validarGuia(
       'tempoMinutos',
       'atualizadoEm',
       'alerta',
+      'destaque',
       'materiais',
       'passos',
       'fontes',
@@ -121,6 +122,8 @@ export function validarGuia(
     erros.push(`${arquivo}.atualizadoEm: data AAAA-MM-DD`);
   if (g.materiais !== undefined && !ehListaDeTextos(g.materiais)) erros.push(`${arquivo}.materiais: lista de textos`);
   if (g.alerta !== undefined && !ehTexto(g.alerta)) erros.push(`${arquivo}.alerta: deve ser texto`);
+  if (g.destaque !== undefined && !(Number.isInteger(g.destaque) && (g.destaque as number) > 0))
+    erros.push(`${arquivo}.destaque: inteiro positivo (ordem na seção "Comece por aqui")`);
   if (g.fontes !== undefined) {
     if (!Array.isArray(g.fontes)) erros.push(`${arquivo}.fontes: lista de { titulo, url }`);
     else

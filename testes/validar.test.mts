@@ -143,6 +143,11 @@ describe('validarGuia', () => {
     assert.match(validarGuia(guiaValido(), ARQUIVO, categorias).join(), /não existe em conteudo\/imagens/);
   });
 
+  it('valida destaque', () => {
+    assert.deepEqual(errosCom((g) => (g.destaque = 1)), []);
+    for (const v of [0, -1, 1.5, 'sim', true]) umErro(errosCom((g) => (g.destaque = v)), '.destaque');
+  });
+
   it('valida alerta e fontes', () => {
     umErro(errosCom((g) => (g.alerta = ' ')), '.alerta');
     umErro(errosCom((g) => (g.fontes = 'https://x.com')), '.fontes: lista');

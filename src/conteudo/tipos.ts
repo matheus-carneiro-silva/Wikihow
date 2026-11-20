@@ -51,6 +51,8 @@ export type Guia = {
   atualizadoEm: string;
   /** Aviso importante exibido em destaque no topo do guia. */
   alerta?: string;
+  /** Exibe o guia em "Comece por aqui" na Início; menor número aparece primeiro. */
+  destaque?: number;
   materiais?: string[];
   passos: Passo[];
   /** Referências exibidas no fim do guia, com link. */

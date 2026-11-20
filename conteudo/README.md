@@ -100,6 +100,7 @@ recusa a atualização inteira, mantém a versão anterior e mostra os erros na 
 | `dificuldade` | não | `facil`, `media` ou `dificil` |
 | `tempoMinutos` | não | inteiro positivo |
 | `atualizadoEm` | sim | `AAAA-MM-DD`; a Início ordena pelos mais recentes |
+| `destaque` | não | número (1, 2, 3…): mostra o guia em "Comece por aqui" no topo da Início, nessa ordem |
 | `alerta` | não | aviso em destaque no topo do guia (ex.: conteúdo educativo, procure atendimento) |
 | `materiais` | não | lista exibida antes dos passos |
 | `passos` | sim | ao menos um passo |
