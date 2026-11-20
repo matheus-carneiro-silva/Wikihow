@@ -1,0 +1,105 @@
+{
+  "id": "criar-tilapia-em-tanque",
+  "titulo": "Como criar tilápia em tanque ou viveiro",
+  "resumo": "Tilápia em viveiro escavado ou caixa d'água: quantos peixes por m², ração por % do peso, oxigênio da água, peixes boquejando, despesca e licença ambiental.",
+  "categoria": "pequenas-criacoes",
+  "tags": [
+    "tilápia",
+    "peixe",
+    "piscicultura",
+    "criação de peixe",
+    "açude",
+    "tanque de peixe",
+    "alevinos",
+    "caixa d'água",
+    "boquejando",
+    "tilápia-do-nilo"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 30,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A tilápia é uma espécie exótica: nunca solte peixes, alevinos ou água do tanque em rios, lagos ou represas, e impeça fugas na drenagem e nas cheias. Antes de construir, procure o órgão ambiental do seu estado ou a Emater: mesmo criações pequenas podem precisar de cadastro ou licença.",
+  "materiais": [
+    "Viveiro escavado com entrada e saída de água (ou caixas d'água com filtro e bomba)",
+    "Alevinos de tilápia revertidos (machos), de fornecedor com certificado",
+    "Ração extrusada para peixes, no tamanho de cada fase",
+    "Balança de cozinha e puçá (rede de mão)",
+    "Disco de Secchi (disco de 20 cm, metade preto e metade branco, preso a uma trena)",
+    "Cal virgem ou hidratada para desinfetar o fundo",
+    "Tela antipássaros (malha menor que 30 mm)"
+  ],
+  "passos": [
+    {
+      "titulo": "Regularize e escolha o sistema",
+      "texto": "A atividade depende das regras federais, estaduais e municipais de uso da água e licenciamento (Resolução CONAMA 413/2009 e normas do estado). Criações pequenas costumam ter cadastro simplificado ou dispensa, mas isso varia por estado: confirme no órgão ambiental ou na Emater antes de cavar.\n\nViveiro escavado é o mais barato de manter: a água tem plâncton (alimento natural) e o próprio viveiro produz oxigênio durante o dia. A Embrapa recomenda profundidade de 0,8 a 1,4 m na parte rasa e de 1,3 a 1,8 m na parte funda, com o fundo inclinado de 0,5% a 2% até a saída.\n\nCaixa d'água só funciona com recirculação: bomba, decantador, filtro de brita e filtro biológico. Num teste da Embrapa numa propriedade familiar, cada caixa de 1.000 L recebeu 33 alevinos de 5 g. Quando faltou energia, a amônia subiu a níveis prejudiciais.",
+      "avisos": [
+        "Em caixa, a bomba não pode parar. Sem energia de reserva (bateria, painel solar, gerador), prefira o viveiro escavado."
+      ]
+    },
+    {
+      "titulo": "Prepare o viveiro",
+      "texto": "Esvazie e deixe o fundo secar ao sol. Dois ou três dias antes de encher, espalhe cal virgem ou hidratada no fundo, principalmente nas poças: 200 kg por 1.000 m², ou seja, 200 g por m². Isso elimina peixes indesejados, caramujos e parasitas.\n\nExemplo: viveiro de 10 × 20 m = 200 m² → 40 kg de cal.\n\nEncha e cubra com tela antipássaros (malha menor que 30 mm), principalmente enquanto os peixes são pequenos.",
+      "avisos": [
+        "Cal virgem queima a pele e os olhos: use luvas, botas e óculos."
+      ]
+    },
+    {
+      "titulo": "Compre alevinos revertidos e calcule quantos",
+      "texto": "Compre alevinos revertidos (lote com praticamente só machos) de produtor idôneo, com comprovante de reversão acima de 98%, Guia de Trânsito Animal (GTA) e atestado de sanidade.\n\nQuantidade, pela tabela da Embrapa para viveiro escavado, conforme o peso que você quer na despesca:\n\n• 1,0 kg por peixe: 1 alevino por m²;\n• 1,5 kg: 0,67 por m²;\n• 2,0 kg: 0,5 por m².\n\nSome 10% para cobrir as perdas normais.\n\nExemplo: viveiro de 200 m² para peixes de 1 kg → 200 + 10% = 220 alevinos, rendendo cerca de 200 kg de peixe.",
+      "dicas": [
+        "Na chegada, deixe o saco fechado boiando na água do viveiro por cerca de 15 minutos e vá misturando a água aos poucos antes de soltar os peixes.",
+        "É normal os alevinos comerem pouco nos primeiros dias."
+      ]
+    },
+    {
+      "titulo": "Vigie o oxigênio e a água",
+      "texto": "O oxigênio vem das algas, que só o produzem com luz. Por isso o pior momento é o amanhecer, depois de uma noite inteira sem produção, e em dias nublados.\n\nSinais de falta de oxigênio: peixes na superfície “boquejando” (abrindo a boca como se respirassem ar), juntos perto da entrada de água, e deixando de comer. Pode haver morte em massa.\n\nO que fazer: pare de dar ração, renove a água, reduza a quantidade de peixes e, em criações mais densas, use aerador.\n\nValores de referência da Embrapa:\n\n• oxigênio: acima de 4 mg/L; abaixo de 3 mg/L, não alimente;\n• temperatura: 26 a 30 °C é o ideal; abaixo de 22 °C o crescimento cai muito, abaixo de 18 °C praticamente para, e acima de 34 °C aumentam doenças e mortes;\n• transparência (disco de Secchi): 35 a 40 cm. Abaixo de 35 cm, água verde demais e risco de faltar oxigênio de madrugada; acima de 40 cm, crescem algas filamentosas e plantas no fundo, o que também pode baixar o oxigênio.",
+      "dicas": [
+        "Para medir a transparência, desça o disco na água até ele sumir de vista e anote a profundidade."
+      ],
+      "avisos": [
+        "Peixes boquejando ao amanhecer são emergência: renove a água na hora e não alimente até eles voltarem ao normal."
+      ]
+    },
+    {
+      "titulo": "Alimente pela porcentagem do peso",
+      "texto": "A cada 15 a 21 dias, pese de 3% a 5% dos peixes (pesagem por amostra, chamada biometria) e calcule o peso médio. Peso total no viveiro = número de peixes × peso médio. A ração do dia é uma porcentagem desse total, que cai à medida que o peixe cresce (tabela da Embrapa):\n\n• 18 a 55 g: 8,5% a 6,5%, em 4 a 6 tratos (refeições) por dia;\n• 55 a 130 g: 5,9% a 5,0%, em 4 tratos;\n• 130 a 305 g: 4,5% a 3,3%, em 4 tratos;\n• 305 g a 1 kg: 3,1% a 1,4%, em 2 a 4 tratos.\n\nUse ração com 36% a 40% de proteína nos alevinos e 28% a 32% na engorda, com o tamanho do grão adequado à boca do peixe.\n\nExemplo: 200 peixes de 300 g = 60 kg de peixe. Com 3,5%: 60 × 0,035 = 2,1 kg de ração por dia, dividida em 4 tratos.",
+      "dicas": [
+        "Jogue a ração aos poucos, em mais de um ponto do viveiro: os peixes devem comer tudo em 5 a 10 minutos. Se sobrar, diminua no trato seguinte.",
+        "Não alimente nas primeiras horas da manhã (5 h às 6 h), quando o oxigênio está mais baixo. Comece depois das 8 h e termine antes do entardecer."
+      ],
+      "avisos": [
+        "Em viveiro sem aerador, a Embrapa recomenda não passar de 30 a 40 kg de ração por hectare por dia (3 a 4 g por m²). Se a conta der mais que isso, renove água com frequência, instale aeração ou retire parte dos peixes para consumo."
+      ]
+    },
+    {
+      "titulo": "Faça a despesca",
+      "texto": "Na tabela da Embrapa, a tilápia vai de alevino com menos de 1 g até cerca de 1 kg em aproximadamente 29 semanas (pouco mais de 6 meses), com água na faixa ideal de temperatura. Em água mais fria, demora mais.\n\nAntes de despescar, deixe os peixes 24 horas sem ração. Retire de manhã cedo ou no fim da tarde, quando está mais fresco, e mantenha o peixe no gelo até limpar ou cozinhar.\n\nA família pode ir retirando peixes ao longo do cultivo para comer; isso também alivia a lotação no fim do ciclo, quando os peixes consomem mais oxigênio.",
+      "avisos": [
+        "Ao esvaziar o viveiro, passe a água por tela e não deixe nenhum peixe escapar para córregos ou rios."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Manual de piscicultura familiar em viveiros escavados — Embrapa Pesca e Aquicultura (2015)",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1038462/1/manual-piscicultura-familiar-viveiros-escavados-2015.pdf"
+    },
+    {
+      "titulo": "Manejo alimentar e da qualidade da água na produção de tilápia-do-nilo — Embrapa Meio Ambiente, Documentos 130 (2021)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1131706/1/SERIE-DOCUMENTOS-130-JULIO-06-05-21.pdf"
+    },
+    {
+      "titulo": "Boas práticas de manejo: produção de tilápias em tanques-rede — Embrapa Pesca e Aquicultura (2020)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1122524/1/CNPASA-2020-producao-tilapias.pdf"
+    },
+    {
+      "titulo": "Recria de tilápias em sistemas de recirculação de água em propriedade familiar — Embrapa Clima Temperado, Boletim 378 (2024)",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1169178/1/Boletim-378-Recria-de-tilapias-Oreochromis-niloticus-em-sistemas-de-recirculacao-de-agua-em-propriedade-familiar.pdf"
+    },
+    {
+      "titulo": "Resolução CONAMA nº 413/2009 — licenciamento ambiental da aquicultura",
+      "url": "https://assiste.icmbio.gov.br/cepsul/images/stories/legislacao/Resolucao/2009/RES_CONAMA_N413_2009.pdf"
+    }
+  ]
+}

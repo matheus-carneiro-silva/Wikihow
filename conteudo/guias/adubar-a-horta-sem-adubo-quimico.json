@@ -1,0 +1,99 @@
+{
+  "id": "adubar-a-horta-sem-adubo-quimico",
+  "titulo": "Como adubar a horta sem adubo químico",
+  "resumo": "Adubação orgânica com esterco curtido, composto, adubo verde, urina diluída e biofertilizante, com doses por m² e sinais de falta de nutrientes nas folhas.",
+  "categoria": "solo-e-adubacao",
+  "tags": [
+    "adubo orgânico",
+    "adubo caseiro",
+    "esterco",
+    "estrume",
+    "adubação verde",
+    "urina como adubo",
+    "biofertilizante",
+    "folha amarela",
+    "nitrogênio",
+    "NPK"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Esterco cru pode levar micróbios causadores de doença e parasitas para as verduras, principalmente as que crescem rentes ao chão e são comidas cruas. Use esterco curtido ou compostado, respeite os prazos deste guia, use luvas e lave bem as hortaliças. Grávidas, crianças pequenas e pessoas com doença crônica devem evitar verduras cruas de horta adubada com esterco que não foi compostado.",
+  "materiais": [
+    "Esterco curtido ou composto",
+    "Sementes de adubo verde (crotalária, mucuna, feijão-de-porco)",
+    "Bombona ou balde com tampa (para urina ou biofertilizante)",
+    "Regador e baldes de medida (litro)",
+    "Balança ou balde de volume conhecido",
+    "Luvas"
+  ],
+  "passos": [
+    {
+      "titulo": "Use esterco só curtido",
+      "texto": "Esterco fresco queima raízes e pode contaminar o alimento. Deixe curtir antes: o mais seguro é compostá-lo junto com palha, como no guia de fazer compostagem, até virar uma massa escura com cheiro de terra.\n\nPara canteiros de hortaliças folhosas, aplique no preparo da terra, por metro quadrado:\n\n• esterco de curral (gado) curtido: 1,5 a 2 kg; ou\n• esterco de galinha curtido: 0,7 a 1 kg (é mais forte).\n\nExemplo: canteiro de 1 m × 5 m = 5 m². Use de 7,5 a 10 kg de esterco de gado ou de 3,5 a 5 kg de esterco de galinha, misturado nos primeiros centímetros da terra.",
+      "avisos": [
+        "Se só houver esterco cru ou apenas envelhecido, aplique-o pelo menos 120 dias antes da colheita de verduras e raízes que tocam o solo (alface, couve, cenoura, morango) e 90 dias antes das demais. Depois de plantar, não use mais esterco que não tenha sido compostado.",
+        "Nunca use esterco de cão, gato ou porco na horta nem na composteira: eles carregam mais parasitas que infectam pessoas.",
+        "Esterco de gado de pasto tratado com herbicida pode trazer resíduo que prejudica as hortaliças. Pergunte ao fornecedor."
+      ]
+    },
+    {
+      "titulo": "Adube com composto",
+      "texto": "O composto é o adubo mais seguro e completo que dá para fazer em casa. Além de nutrientes, que ele libera devagar, melhora a retenção de água e a vida do solo.\n\nPara hortaliças, aplique de 1 a 3 kg de composto por metro quadrado de canteiro, misturado na terra antes de plantar. Exemplo: para 5 m² de canteiro, de 5 a 15 kg.\n\nComo os nutrientes de composto e esterco variam muito conforme o material, observe as plantas (último passo) e ajuste a dose no ciclo seguinte.",
+      "dicas": [
+        "Veja como produzir no guia de fazer compostagem."
+      ]
+    },
+    {
+      "titulo": "Plante adubo verde",
+      "texto": "Adubo verde é uma planta cultivada para melhorar o solo, não para colher. As leguminosas, como crotalária-juncea, mucuna-preta e feijão-de-porco, se associam a bactérias que captam nitrogênio do ar e o deixam no solo. As raízes também abrem a terra compactada.\n\nComo fazer:\n\n• semeie em linhas no canteiro em descanso ou numa área que vai virar horta, no início da estação das chuvas;\n• corte quando as plantas estiverem florindo: nessa fase a massa está tenra e se decompõe rápido;\n• deixe a massa cortada sobre o canteiro como cobertura ou misture na terra, e plante as hortaliças depois que ela começar a se desmanchar.\n\nAlterne no mesmo canteiro hortaliças com leguminosas (feijão, feijão-vagem ou um adubo verde) para não esgotar o solo.",
+      "dicas": [
+        "Crotalária-juncea e mucuna também ajudam a reduzir nematoides (vermes de solo que fazem caroços nas raízes) quando usadas em rotação."
+      ]
+    },
+    {
+      "titulo": "Use urina diluída com cuidado",
+      "texto": "A urina é rica em nitrogênio, mas pode carregar micróbios. Use só se seguir estas regras:\n\n• use apenas a urina da própria família, e as verduras só para a própria família;\n• guarde-a pura, em bombona bem fechada, por pelo menos 1 mês antes de usar;\n• dilua 1 parte de urina em 3 partes de água;\n• aplique no solo, entre as plantas ou num sulco que depois é coberto, nunca sobre folhas e frutos;\n• pare de aplicar pelo menos 1 mês antes da colheita, ainda mais nas verduras comidas cruas.\n\nQuantidade: cerca de 1,5 litro de urina pura por metro quadrado ao longo do ciclo, dividida em várias regas (no máximo 2 por semana). Exemplo: canteiro de 5 m² recebe no total 7,5 litros de urina, ou 30 litros da mistura com água, repartidos durante o ciclo.",
+      "avisos": [
+        "Se as verduras forem para pessoas de fora da família, a urina deve ficar guardada por 6 meses antes de usar.",
+        "Em solo que acumula sal (regiões secas, pouca chuva), o uso repetido de urina pode salinizar a terra."
+      ]
+    },
+    {
+      "titulo": "Faça um biofertilizante simples",
+      "texto": "A receita mais simples da Embrapa: esterco fresco de gado e água em partes iguais (1 balde de esterco para 1 balde de água), num recipiente fechado, sem entrada de ar, por 30 dias.\n\nDepois de pronto, coe com pano e dilua antes de usar, nas concentrações que a Embrapa indica para biofertilizantes em hortaliças: a 2% (200 mL em 10 litros de água) para mudas, uma vez por semana, e a 5% (1 litro em 20 litros de água) para plantas no canteiro, a cada 15 dias. Aplique no solo, ao redor das plantas, como complemento da adubação de plantio. A borra do fundo também serve como adubo de solo ou vai para o composto.",
+      "avisos": [
+        "Como é feito com esterco cru, não molhe folhas de verduras comidas cruas (alface, repolho, rúcula) nem frutos comidos crus, como morango. Para folhosas e raízes, prefira composto."
+      ]
+    },
+    {
+      "titulo": "Leia os sinais nas folhas",
+      "texto": "A planta mostra quando falta nutriente:\n\n• Nitrogênio (N): as folhas mais velhas, de baixo, ficam amarelas; com falta forte, a planta inteira amarela. Reforce com composto, esterco curtido ou urina diluída.\n• Fósforo (P): a planta cresce pouco desde o começo e as folhas ficam bronzeadas. Use composto e esterco de galinha curtido, que é mais rico em fósforo.\n• Potássio (K): as folhas velhas amarelam e depois secam nas pontas e nas bordas (o que não acontece na falta de nitrogênio). Use composto e cinza de madeira, com moderação.\n• Magnésio (Mg): amarelo entre as nervuras das folhas velhas. Calcário dolomítico fornece magnésio.\n• Cálcio (Ca): folhas novas deformadas, morte das pontas dos brotos e fundo do fruto escuro e afundado. Corrija com calcário.",
+      "avisos": [
+        "Vírus, pragas, falta ou excesso de água e solo ácido causam sintomas parecidos. Olhe embaixo das folhas, verifique a rega e, se puder, faça análise de solo (veja o guia de corrigir a acidez do solo)."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Hortas: recomendações para cultivo no estado do Pará — Embrapa Amazônia Oriental (2024)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1168224/1/CartilhaHortas.pdf"
+    },
+    {
+      "titulo": "Compostagem e adubos orgânicos (cap. 8), em Horticultura em Moçambique — Embrapa Hortaliças",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1029670/1/HorticulturaemMocambiquePDFCap8.pdf"
+    },
+    {
+      "titulo": "Horta em pequenos espaços — Embrapa Hortaliças",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/927690/1/HORTA-EM-PEQUENOS-ESPACOS-4-IMP-2017.pdf"
+    },
+    {
+      "titulo": "Guidelines for using animal manures and manure-based composts in the garden — University of New Hampshire Extension",
+      "url": "https://extension.unh.edu/resource/guidelines-using-animal-manures-and-manure-based-composts-garden-fact-sheet"
+    },
+    {
+      "titulo": "Application of stored urine — SSWM (Sustainable Sanitation and Water Management Toolbox)",
+      "url": "https://sswm.info/humanitarian-crises/rural-settings/sanitation/use-andor-disposal/application-of-stored-urine"
+    }
+  ]
+}

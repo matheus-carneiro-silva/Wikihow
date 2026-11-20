@@ -1,0 +1,104 @@
+{
+  "id": "planejar-uma-horta-de-sobrevivencia",
+  "titulo": "Como planejar uma horta de sobrevivência",
+  "resumo": "O que plantar para comer o ano todo: culturas calóricas e folhas, tempo até a colheita, área por pessoa calculada, escalonamento e época de plantio por região.",
+  "categoria": "cultivo-de-alimentos",
+  "tags": [
+    "o que plantar",
+    "quanto plantar",
+    "área por pessoa",
+    "calorias",
+    "roça",
+    "plantio escalonado",
+    "época de plantio",
+    "zoneamento agrícola",
+    "aipim",
+    "macaxeira"
+  ],
+  "dificuldade": "media",
+  "tempoMinutos": 40,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "A horta leva de 1 a 14 meses para produzir comida de verdade: não conte com ela para a fome desta semana e mantenha uma reserva de alimentos enquanto ela cresce. Mandioca brava e feijão cru ou mal cozido são tóxicos (veja o guia de cultivo de mandioca, batata-doce e feijão). Os números de área deste guia são estimativas com médias nacionais: solo pobre, seca e pragas podem reduzir muito a colheita.",
+  "materiais": [
+    "Papel, lápis e trena (ou passos medidos)",
+    "Calendário de chuvas da sua região",
+    "Manivas de mandioca, ramas de batata-doce e sementes de feijão, milho, abóbora e hortaliças",
+    "Aplicativo ou contato da Emater/Embrapa para a época de plantio do seu município"
+  ],
+  "passos": [
+    {
+      "titulo": "Escolha as culturas que dão calorias",
+      "texto": "Hortaliças de folha quase não dão energia: o que mantém uma família viva são raízes, grãos e frutos amiláceos. Calorias por 100 g do alimento cru (Tabela TACO): feijão carioca 329 kcal, mandioca 151, milho verde 138, batata-doce 118, banana-prata 98, inhame 97, cará 96 e abóbora cabotiá 39.\n\nA base mais segura no Brasil é mandioca (aipim, macaxeira), batata-doce e feijão: são rústicas, se propagam sem comprar semente e se complementam. Raízes dão energia, mas pouca proteína (mandioca crua tem 1,1 g por 100 g, contra 20 g no feijão cru), por isso o feijão é obrigatório no plano.\n\nComplete com milho, abóbora, cará ou inhame e banana, conforme o clima e o espaço.",
+      "dicas": [
+        "A Embrapa lista abóbora, batata-doce, jiló, maxixe, pimenta e quiabo entre as hortaliças de fácil cultivo; cará, taro e taioba vão bem em clima tropical."
+      ]
+    },
+    {
+      "titulo": "Reserve canteiros para folhas e vitaminas",
+      "texto": "Folhas e hortaliças não sustentam pela caloria, mas trazem vitaminas e minerais. As mais fáceis, que crescem rápido e podem ser plantadas em quase todo o Brasil o ano todo, são alface, couve, almeirão, mostarda, rúcula e agrião, além de temperos (salsa, cebolinha, coentro).\n\nAs pontas das ramas de batata-doce (últimos 10 a 15 cm) também são comestíveis e ricas em proteínas e vitaminas, e algumas cultivares de polpa alaranjada são ricas em vitamina A. Assim, o mesmo canteiro dá raiz e verdura.",
+      "dicas": [
+        "Couve vinda de broto lateral pega fácil e dá folhas por muito tempo: é a verdura mais prática para sobrevivência."
+      ],
+      "avisos": [
+        "Não coma folhas de mandioca cruas ou mal cozidas: elas também contêm o composto que libera ácido cianídrico."
+      ]
+    },
+    {
+      "titulo": "Saiba quanto tempo cada cultura demora",
+      "texto": "Prazo aproximado do plantio até a primeira colheita (Embrapa):\n\n• alface: 20 a 25 dias após o transplante da muda;\n• couve: 40 dias após o transplante, e segue produzindo folhas;\n• rúcula: 40 a 60 dias após a semeadura;\n• feijão-de-metro: 60 dias;\n• feijão comum: menos de 75 dias (precoce) a mais de 95 dias (tardio);\n• milho verde: 70 a 90 dias no calor, até 120 dias em época fria (Embrapa Milho e Sorgo);\n• abóbora: 90 a 150 dias;\n• batata-doce: 100 a 110 dias nas cultivares precoces, até 180 dias nas tardias;\n• cará: 150 a 180 dias;\n• mandioca: 10 a 14 meses nas variedades precoces (o ciclo varia de 6 a 36 meses);\n• banana: primeiro cacho aos 11 a 13 meses num bananal irrigado e bem conduzido, depois a cada 6 a 8 meses (Embrapa Semiárido); sem irrigação ou no frio, demora mais.\n\nUse essa lista para cobrir o tempo de espera: folhas e feijão alimentam nos primeiros meses, batata-doce a partir do 4º mês e mandioca e banana a partir do 1º ano."
+    },
+    {
+      "titulo": "Calcule a área para uma pessoa",
+      "texto": "Produtividade média brasileira usada aqui (valores baixos de propósito, sem adubo químico): mandioca 14,2 t/ha por ciclo de cerca de 1 ano; batata-doce 8,6 t/ha por ciclo de 4 a 6 meses; feijão 1.200 kg/ha por safra nas épocas das águas e da seca. Em m²: 1 t/ha = 0,1 kg/m².\n\nCalorias por m² por ano:\n• mandioca: 1,42 kg × 1.510 kcal/kg ≈ 2.140 kcal;\n• batata-doce: 0,86 kg × 1.180 kcal/kg ≈ 1.015 kcal por ciclo, ou ≈ 2.030 kcal com 2 ciclos;\n• feijão: 0,12 kg × 3.290 kcal/kg ≈ 395 kcal por safra, ou ≈ 790 kcal com 2 safras.\n\nExemplo para um adulto com 2.000 kcal/dia (valor de referência dos rótulos de alimentos):\n• 1.200 kcal/dia de mandioca (cerca de 800 g crua): 1.200 × 365 ÷ 2.140 ≈ 205 m²;\n• 500 kcal/dia de batata-doce (cerca de 420 g crua): 500 × 365 ÷ 2.030 ≈ 90 m²;\n• 300 kcal/dia de feijão (cerca de 90 g cru): 300 × 365 ÷ 790 ≈ 140 m².\n\nTotal: cerca de 435 m² por adulto (um terreno de uns 21 × 21 m), mais os canteiros de folhas. Uma família de 4 adultos precisaria de cerca de 1.740 m².",
+      "dicas": [
+        "Com boa adubação orgânica a produção sobe: a Embrapa Hortaliças obteve 25 a 30 t/ha de batata-doce em 4 a 5 meses, três vezes a média nacional. Mas planeje pela média e comemore a sobra."
+      ],
+      "avisos": [
+        "É uma conta de ordem de grandeza. Ela não desconta casca, perdas no armazenamento, ataque de pragas nem anos de seca. Planeje com folga generosa e comece pequeno, aumentando a área conforme você descobre o que rende no seu solo."
+      ]
+    },
+    {
+      "titulo": "Plante na época certa da sua região",
+      "texto": "A regra geral é plantar no começo da estação chuvosa, para não precisar irrigar. Exemplos da Embrapa:\n\n• mandioca: precisa de umidade nos primeiros 5 meses. Plante, por exemplo, de outubro a março em GO e ES, de outubro a dezembro no Cerrado de MG, de maio a agosto em SP, de junho a setembro no PR, de setembro a novembro no RS, de janeiro a março no CE e de maio a junho em PE e AL; no AM, o ano todo;\n• batata-doce: na metade do período chuvoso, ou seja, novembro a janeiro no Centro-Oeste, Sudeste e Sul; no Nordeste, logo no início das chuvas. Com irrigação, o ano todo, desde que a temperatura não fique abaixo de 10 °C por longos períodos;\n• feijão: safra das águas de agosto a dezembro no Sul, safra da seca de janeiro a abril em todo o país e safra de inverno de maio a agosto, com irrigação, principalmente no Centro-Oeste.\n\nPara o seu município, consulte o Zoneamento Agrícola de Risco Climático (ZARC) do Ministério da Agricultura no aplicativo gratuito Zarc Plantio Certo, ou a Emater local.",
+      "dicas": [
+        "Baixe o aplicativo e anote as janelas de plantio enquanto ainda há internet: depois ele pode não estar disponível."
+      ]
+    },
+    {
+      "titulo": "Escalone os plantios",
+      "texto": "Não plante tudo no mesmo dia: a comida chega toda junta e depois falta.\n\n• Mandioca: plante variedades de ciclos diferentes ou em várias levas. A raiz começa a estragar cerca de 24 horas depois de colhida, e a melhor forma de guardá-la é deixá-la na terra e arrancar só o que vai usar.\n• Batata-doce: colha assim que as raízes estiverem no tamanho certo; quanto mais tempo no solo, maior a perda por pragas. Por isso, plante em levas para ter colheitas seguidas.\n• Feijão: aproveite as duas ou três épocas de plantio da sua região.\n• Folhas: semeie uma pequena sementeira nova antes de colher a anterior; para alface, por exemplo, a cada 2 a 3 semanas.\n\nDeixe parte da área para descanso e adubação verde e outra para compostagem (veja os guias de compostagem e de adubar a horta sem adubo químico).",
+      "dicas": [
+        "Para guardar grãos e raízes colhidos, veja os guias de armazenar grãos e de secar e conservar alimentos."
+      ]
+    },
+    {
+      "titulo": "Garanta o material de plantio do ano seguinte",
+      "texto": "Sobrevivência depende de não precisar comprar semente. Em regiões sem geada, a Embrapa recomenda reservar cerca de 20% do mandiocal como campo de multiplicação de manivas. Cada batata-doce plantada em viveiro dá em média 20 ramas.\n\nPrefira variedades comuns (não híbridas) de feijão, milho, abóbora e hortaliças: sementes de híbridos dão plantas diferentes da mãe. Veja o guia de guardar sementes.",
+      "avisos": [
+        "Manivas e ramas devem ser plantadas logo depois de cortadas e não podem ficar ao sol; manivas guardadas por muito tempo perdem a qualidade."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Mandioca: o produtor pergunta, a Embrapa responde — Embrapa Mandioca e Fruticultura",
+      "url": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/120506/1/500perguntasmandioca.pdf"
+    },
+    {
+      "titulo": "Cultivo da batata-doce (Instruções Técnicas 7) — Embrapa Hortaliças",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/756782/1/Cultivo-da-batata-doce-1.pdf"
+    },
+    {
+      "titulo": "Feijão: o produtor pergunta, a Embrapa responde (2ª ed.) — Embrapa Arroz e Feijão",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1011664/1/500-perguntas-feijao.pdf"
+    },
+    {
+      "titulo": "Hortas: recomendações para cultivo no estado do Pará — Embrapa Amazônia Oriental",
+      "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1168224/1/CartilhaHortas.pdf"
+    },
+    {
+      "titulo": "Tabela Brasileira de Composição de Alimentos (TACO), 4ª ed. — NEPA/Unicamp",
+      "url": "https://www.cfn.org.br/wp-content/uploads/2017/03/taco_4_edicao_ampliada_e_revisada.pdf"
+    }
+  ]
+}
