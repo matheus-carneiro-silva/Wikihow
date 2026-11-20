@@ -76,7 +76,7 @@
     },
     {
       "titulo": "Faça o ponto de seleiro com duas agulhas",
-      "texto": "O ponto de seleiro usa uma linha só com uma agulha em cada ponta, passando pela mesma fileira de furos. Se um ponto romper, só aquele lado afrouxa, em vez de desmanchar os pontos vizinhos.\n\n1. Fure antes, com a sovela ou furador, numa linha reta marcada a giz ou riscada; ou use os furos antigos.\n2. Corte a linha com bastante sobra (pelo menos 4 vezes o comprimento da costura), encere e enfie uma agulha em cada ponta.\n3. Passe uma agulha pelo primeiro furo e puxe até as duas pontas ficarem do mesmo tamanho.\n4. Em cada furo seguinte, passe a agulha da frente e depois a de trás, pelo mesmo furo, em sentidos contrários, cruzando as linhas.\n5. Depois de cada ponto, puxe as duas agulhas por igual, para a linha deitar firme sem enrugar o couro.\n6. No fim, volte 2 ou 3 furos por cima dos pontos já feitos e corte rente.",
+      "texto": "O ponto de seleiro usa uma linha só com uma agulha em cada ponta, passando pela mesma fileira de furos. Se um ponto romper, só aquele lado afrouxa, em vez de desmanchar os pontos vizinhos.\n\n1. Fure antes, com a sovela ou furador, numa linha reta marcada a giz ou riscada; ou use os furos antigos.\n2. Corte um pedaço de linha do tamanho dos seus braços abertos (para costura longa, o dobro), encere e enfie uma agulha em cada ponta.\n3. Passe uma agulha pelo primeiro furo e puxe até as duas pontas ficarem do mesmo tamanho.\n4. Em cada furo seguinte, passe a agulha da frente e depois a de trás, pelo mesmo furo, em sentidos contrários, cruzando as linhas.\n5. Depois de cada ponto, puxe as duas agulhas por igual, para a linha deitar firme sem enrugar o couro.\n6. No fim, volte 2 furos por cima dos pontos já feitos e corte a linha rente ao couro.",
       "dicas": [
         "Agulha de ponta romba não fura o outro fio dentro do furo; quem fura o couro é a sovela."
       ]
@@ -97,9 +97,9 @@
     },
     {
       "titulo": "Conserte ou troque o cursor do zíper",
-      "texto": "Se o zíper fecha, mas os dentes se abrem logo atrás do cursor, o cursor está gasto e frouxo.\n\nConserto provisório: aperte de leve as duas laterais do cursor com um alicate, um pouquinho de cada vez, e teste. Aperto demais trava o cursor ou quebra o metal.\n\nTroca do cursor:\n1. Corte o cursor velho com o alicate.\n2. Em zíper de espiral (dente de náilon contínuo), feche as pontas da espiral entrelaçando os dentes uns 6 mm.\n3. Encaixe o cursor novo, do mesmo tamanho, sobre os dentes e gire até ele entrar.\n4. Recoloque o puxador.\n5. Refaça o batente no fim do zíper com alguns pontos de linha dupla bem apertados, para o cursor não sair.",
+      "texto": "Se o zíper fecha, mas os dentes se abrem logo atrás do cursor, o cursor está gasto e frouxo.\n\nConserto provisório: olhe as duas aberturas de trás do cursor; a que estiver mais larga não fecha os dentes. Aperte de leve com um alicate, um pouquinho de cada vez, até voltar ao tamanho da outra, e teste. Não force: cursor torto ou rachado se troca. Também não puxe o zíper com tranco, que estraga os dentes.\n\nTroca do cursor:\n1. Corte o cursor velho com o alicate.\n2. Em zíper de espiral (dente de náilon contínuo), feche as pontas da espiral entrelaçando os dentes uns 6 mm.\n3. Encaixe o cursor novo, do mesmo tamanho, sobre os dentes e gire até ele entrar.\n4. Recoloque o puxador.\n5. Se faltar o batente, refaça no fim do zíper com alguns pontos de linha dupla bem apertados, para o cursor não sair.",
       "dicas": [
-        "Quase todo cursor tem um número gravado atrás: o novo precisa ter o mesmo número e servir no mesmo tipo de dente."
+        "Leve o cursor velho para comparar: o novo precisa ser do mesmo tipo (espiral, dente de plástico ou de metal) e do mesmo tamanho."
       ]
     },
     {
@@ -134,6 +134,10 @@
     {
       "titulo": "DIY Zipper Slider Repair — Big Agnes",
       "url": "https://ca.bigagnes.com/blogs/support/diy-zipper-slider-repair"
+    },
+    {
+      "titulo": "How to Fix a Zipper — Nike",
+      "url": "https://www.nike.com/a/how-to-fix-a-broken-zipper"
     },
     {
       "titulo": "Zipper problems — iFixit",

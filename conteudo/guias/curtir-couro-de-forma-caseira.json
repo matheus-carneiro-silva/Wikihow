@@ -1,0 +1,180 @@
+{
+  "id": "curtir-couro-de-forma-caseira",
+  "titulo": "Como curtir couro de forma caseira com tanino vegetal",
+  "resumo": "Esfolar, salgar e conservar a pele, remolho, descarne, caleiro com cal para tirar o pelo, curtimento vegetal com casca de acácia-negra, angico ou barbatimão, engraxe e amaciamento, com cuidados contra carbúnculo (antraz) e descarte dos resíduos.",
+  "categoria": "oficios",
+  "tags": [
+    "curtume",
+    "curtimento",
+    "couro cru",
+    "pele de boi",
+    "pele de cabra",
+    "pele de carneiro",
+    "pelego",
+    "tanino",
+    "casca de angico",
+    "acácia-negra",
+    "barbatimão",
+    "salgar couro",
+    "esfolar",
+    "descarnar",
+    "caleiro",
+    "tirar o pelo",
+    "sola de couro",
+    "antraz",
+    "carbúnculo"
+  ],
+  "dificuldade": "dificil",
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Nunca esfole nem abra um animal encontrado morto sem causa conhecida ou que morreu de doença: pode ser carbúnculo hemático (antraz), que passa para pessoas pelo sangue, pela pele e pelo couro. Sinais típicos: morte súbita, sangue escuro e que não coagula saindo pela boca, narinas e ânus, e corpo sem endurecer. Não abra a carcaça; queime (o melhor) ou enterre fundo e avise um veterinário ou a defesa sanitária animal do estado assim que possível. Cal e cinza de lenha queimam a pele e os olhos: use luvas de borracha, óculos e manga comprida em todas as etapas. Não use sais de cromo em casa.",
+  "materiais": [
+    "Faca de esfolar e uma faca sem fio ou raspador (descarne e raspagem do pelo)",
+    "Cavalete de descarne: tronco ou tábua lisa e arredondada, inclinada",
+    "Sal comum de grão fino a médio (2 a 3 mm), cerca de metade do peso da pele",
+    "Cal hidratada (cerca de 4 kg para cada 100 L de água) ou cinza de lenha",
+    "Casca de acácia-negra, angico ou barbatimão, seca e moída",
+    "Tonéis, cochos ou potes de madeira ou barro com tampa, sem partes de ferro",
+    "Água limpa, de preferência de chuva",
+    "Sabão e óleo (vegetal, sebo ou óleo de mocotó) para engraxar",
+    "Barbante, varas de madeira, pedras para afundar a pele",
+    "Luvas de borracha compridas, óculos, avental e botas"
+  ],
+  "passos": [
+    {
+      "titulo": "Use só pele de animal sadio e abatido",
+      "texto": "O couro bom começa no abate: animal sadio, descansado, sem ferimentos e bem sangrado. Animal abatido cansado ou ferido dá pele sem brilho e com queda de pelo.\n\nDescarte a pele de animal encontrado morto no campo ou seca ao sol: além do risco de doença, ela já começou a apodrecer e tem dano que não tem conserto.\n\nComece por peles pequenas (cabra, carneiro, bezerro): são mais finas e curtem em dias; couro grosso de boi leva semanas a meses.",
+      "avisos": [
+        "Animal que morreu de repente, com sangue escuro saindo pelos orifícios: não abra, não esfole, não aproveite a carne nem o couro. Veja o alerta no topo do guia."
+      ]
+    },
+    {
+      "titulo": "Esfole sem cortar a pele",
+      "texto": "Esfole logo após o abate, com o animal ainda quente: a pele começa a estragar poucos minutos depois da morte, e o calor acelera.\n\nFaça os cortes de abertura com a faca (pela linha da barriga e por dentro das pernas, contornando pernas e pescoço) e solte o resto puxando e empurrando com a mão fechada, usando o mínimo de faca. Cada corte de faca é um furo ou ponto fraco no couro.\n\nDepois de tirar:\n• raspe restos de carne e sebo do lado de dentro (o carnal);\n• corte fora cara, tetas, bolsa e a ponta do rabo;\n• lave rapidamente o carnal para tirar sangue e sujeira, sem molhar o pelo.",
+      "dicas": [
+        "Não deixe a pele crua encostar em ferro (arame, tela, barra): o ferro mancha o couro de forma permanente."
+      ],
+      "avisos": [
+        "Use luvas: o sangue e a pele crua podem passar doenças, e carrapatos saem da pele quando o animal esfria. Lave mãos e facas com água e sabão no fim."
+      ]
+    },
+    {
+      "titulo": "Salgue se não for curtir no mesmo dia",
+      "texto": "Pele crua e úmida apodrece rápido: num calor de uns 38 °C ela começa a cheirar mal em 12 horas; a 10 °C, aguenta 3 a 4 dias. Se não for começar o curtimento no mesmo dia, salgue.\n\n1. Estenda a pele com o carnal para cima sobre ripas de madeira num chão levemente inclinado, para escorrer.\n2. Espalhe sal por todo o carnal: cerca de metade do peso da pele para cabra, carneiro e bezerro, e pelo menos 40% do peso para couro de boi. Dobre um pouco as bordas para o sal não cair.\n3. Empilhe outras peles salgadas por cima, sempre com o carnal para cima.\n4. Deixe 1 a 2 dias (em couro grosso, 3 a 4), sacuda o sal molhado e seque pendurada num varal, à sombra e ventilada.\n\nExemplo: pele de cabra de 2,5 kg leva cerca de 1,25 kg de sal.",
+      "dicas": [
+        "Sal de grão grosso (mais de 6 mm) absorve devagar e marca a pele; sal muito fino empedra no úmido. O ideal é grão de 2 a 3 mm.",
+        "Sem sal: estique a pele limpa num quadro de madeira e seque à sombra, longe do chão. Pele seca no chão ou no sol forte estraga."
+      ],
+      "avisos": [
+        "Não deixe a pele salgada e ainda úmida amontoada por muitos dias no calor: as bactérias se acostumam ao sal e a pele apodrece mesmo salgada. Com 30 a 42 °C, 6 dias já bastam para estragar."
+      ]
+    },
+    {
+      "titulo": "Guarde a pele seca protegida",
+      "texto": "Pele salgada e seca guarda por meses. Empilhe carnal com carnal e pelo com pelo, sobre estrado, num lugar seco e à prova de ratos.\n\nVigie larvas de besouro: elas abrem galerias no carnal e inutilizam a pele. Pele seca ao ar (sem sal) é a mais atacada."
+    },
+    {
+      "titulo": "Remolhe até ficar mole como pele fresca",
+      "texto": "Antes de curtir, a pele precisa voltar a ficar macia e limpa:\n\n• Pele fresca: basta uma boa lavagem.\n• Salgada: sacuda o sal solto e deixe de molho em água limpa e fresca, trocando a água pelo menos 3 a 4 vezes. Pode levar 2 dias.\n• Seca sem sal: até 3 dias, trocando a água com frequência.\n\nDeixe o recipiente à sombra; a água não deve passar de 27 a 30 °C. Vire e confira a pele várias vezes por dia. Está pronta quando ficar mole por inteiro, como pele recém-tirada.",
+      "avisos": [
+        "Se a pele começar a cheirar podre ou o pelo soltar em placas durante o remolho, ela está apodrecendo: na água a podridão continua e só acelera com o calor."
+      ]
+    },
+    {
+      "titulo": "Descarne no cavalete",
+      "texto": "Ponha a pele sobre o cavalete (tronco liso e arredondado, inclinado), com o carnal para cima e o pescoço virado para você. Raspe para baixo com faca sem fio, meia-lua ou raspador, empurrando sempre para longe do corpo.\n\nTire toda a carne, gordura e a película branca do carnal. Gordura que fica impede o tanino de entrar e o couro sai manchado e duro nesse lugar."
+    },
+    {
+      "titulo": "Tire o pelo no caleiro",
+      "texto": "Para couro sem pelo (sola, correia, cabedal, sacola), a pele passa pelo caleiro, um banho de cal que solta o pelo e abre as fibras.\n\n1. Num tonel, misture cal hidratada em água fria: cerca de 4 kg para cada 100 L. Ponha aos poucos até parar de dissolver; o excesso fica no fundo e não estraga a pele.\n2. Afunde a pele com pedras ou peso, sempre coberta.\n3. Uma vez por dia, tire a pele, mexa bem o banho e ponha a pele de volta esticada.\n4. Deixe de 3 a 7 dias (pele de cabra costuma levar 1 semana). Está pronta quando o pelo sai limpo ao esfregar com o polegar ou ao puxar de leve.\n5. No cavalete, raspe o pelo e a camada de cima da pele com a faca sem fio e tire o resto de carne e gordura.\n\nSem cal: cinza de lenha em bastante água também solta o pelo em alguns dias, mas a força varia com a lenha e o tempo.",
+      "avisos": [
+        "Cal queima a pele e os olhos e o pó irrita os pulmões: luvas, óculos e não respire o pó ao misturar.",
+        "Banho de cal muito usado que cheira a amônia deve ser jogado fora.",
+        "Nunca tente soltar o pelo enterrando a pele ou cobrindo com esterco: isso é apodrecimento e estraga o couro."
+      ]
+    },
+    {
+      "titulo": "Tire a cal antes do tanino",
+      "texto": "Cal que fica na pele deixa o couro duro, quebradiço e manchado, e corta o efeito do tanino.\n\nDeixe a pele num balde com um fio de água corrente por 12 a 24 horas, ou de molho em água fresca trocada a cada 2 a 6 horas durante 2 dias. Está pronta quando não parece mais inchada nem borrachuda.\n\nOutra forma tradicional é deixar a pele num banho morno de farelo (de milho, trigo ou arroz) fermentado, que tira o resto da cal e deixa a pele levemente ácida, pronta para o tanino."
+    },
+    {
+      "titulo": "Prepare o licor de tanino com casca",
+      "texto": "Cascas boas para curtir no Brasil:\n• acácia-negra: de 20% a 40% de tanino na casca, conforme a idade da árvore e o solo;\n• angico: de 15% a 25% de tanino em várias espécies e cerca de 32% no angico-vermelho;\n• barbatimão: casca rica em tanino (sem teor confiável publicado para curtimento).\n\n1. Seque e soque ou moa a casca bem miúda num pilão de madeira: pedaço grande não solta o tanino.\n2. Monte uma fileira de 6 vasilhas com casca moída. No 1º dia, cubra a casca da 1ª vasilha com água.\n3. No dia seguinte, passe a água da 1ª para a 2ª e ponha água nova (morna, se puder) na 1ª. A cada dia, passe o licor de uma vasilha para a seguinte e ponha água nova na primeira.\n4. No 6º dia, o licor da última vasilha passou por toda a fila e é o mais forte: guarde num tonel tampado. A casca da 1ª, lavada 6 vezes, está esgotada: troque por casca nova e continue o ciclo.\n\nRegras: casca sempre coberta de água (no ar ela escurece o couro), água limpa (de chuva é a melhor), nunca água fervendo, e o licor nunca encosta em ferro nem em cal.",
+      "dicas": [
+        "Vasilhas, conchas e peneiras devem ser de madeira, barro, cesto, alumínio, cobre ou latão. Ferro deixa o couro azulado ou esverdeado.",
+        "A casca de acácia-negra é um tanino adstringente, que dá couro mais firme. Comece sempre com o licor bem fraco."
+      ]
+    },
+    {
+      "titulo": "Curta começando fraco e fortalecendo",
+      "texto": "Pele posta direto num licor forte endurece por fora (fica \"cozida\") e o tanino não chega ao meio, que continua cru e apodrece quando molha. Por isso o curtimento vai do fraco para o forte.\n\n1. Pendure a pele no licor fraco por 3 barbantes (um em cada perna de trás e um no rabo) numa vara atravessada sobre o tonel. Não deixe a pele embolada nem encostada em outra: fica marcada.\n2. Pelo menos 4 vezes por dia, tire, puxe e estique a pele e devolva.\n3. A cada dia, acrescente licor forte (ou passe a pele para a vasilha seguinte, mais forte).\n\nCom densímetro (como o de vinho ou cerveja), comece com 1,020 e suba uns 0,020 por dia até 1,080 a 1,100. Tempo de referência: pele de carneiro uns 8 dias; de cabra uns 12 dias. Couro grosso de boi leva semanas; sola firme, 3 meses ou mais.\n\nTeste: corte uma lasquinha na parte mais grossa. Se a cor for igual de fora a fora, terminou. Se aparecer uma faixa clara no meio, continue.",
+      "avisos": [
+        "Couro que parece pronto por fora mas tem o meio cru apodrece com a primeira chuva. Faça sempre o teste do corte."
+      ]
+    },
+    {
+      "titulo": "Engraxe o couro",
+      "texto": "Depois de curtido, o couro precisa de gordura para ficar flexível, resistir à água e não rachar.\n\n1. Enxágue o couro em água morna por 10 a 15 minutos para tirar o tanino solto.\n2. Prepare a emulsão: dissolva sabão picado em um pouco de água quente e despeje o óleo devagar, mexendo sempre, até ficar com aspecto de leite. Também dá para usar gema de ovo no lugar do sabão, mas sem passar de 38 °C, senão a gema cozinha.\n3. Com poucas peles, esfregue a gordura nos dois lados, empilhe e cubra com sacos molhados ou lona por pelo menos 24 horas.\n\nServem óleos vegetais (amendoim, mamona, gergelim, algodão) e gorduras animais (sebo, gordura de carneiro, óleo de mocotó). O couro curtido com tanino absorve muita gordura no total; ela vai entrando aos poucos enquanto seca."
+    },
+    {
+      "titulo": "Amacie enquanto seca",
+      "texto": "Couro que seca parado fica duro como papelão. Ainda levemente úmido:\n\n• estique em todas as direções, sobre os joelhos, ou em dupla, puxando entre duas pessoas;\n• passe o lado do carnal, com força, para lá e para cá sobre uma lâmina arredondada sem fio (disco velho de arado ou de grade, a quina de uma mesa), começando pelo pescoço e indo para o rabo, em movimentos circulares;\n• continue até ele ficar seco ao toque (couro ainda frio na mão está úmido). Pode levar horas.\n\nSe secou e ficou duro, cubra com serragem úmida de um dia para o outro para umedecer por igual e trabalhe de novo. Não encharque.\n\nPara sola e correia, que devem ficar firmes, basta secar esticado à sombra e alisar a superfície ainda úmida com uma peça lisa de madeira ou vidro."
+    },
+    {
+      "titulo": "Alternativa sem casca: curtimento com gordura e fumaça",
+      "texto": "Para couro fino e macio, tipo camurça, o método antigo de curtir com cérebro usa gordura emulsionada em vez de tanino, depois de tirar o pelo e a cal como acima:\n\n1. Dissolva cerca de 6 colheres de sopa de lecitina de soja em grão para cada 3,8 L de água (comece na véspera: demora a dissolver). No dia seguinte, aqueça até quase ferver e junte meia xícara de azeite ou gordura vegetal.\n2. Deixe esfriar até ficar confortável na mão e deixe a pele de molho de 30 a 60 minutos, virando e esticando.\n3. Torça bem e amacie esticando sem parar até secar de vez, como no passo anterior. Se não ficar macio, repita o banho.\n4. Defumar de leve com fumaça de madeira podre ajuda o couro a continuar macio depois de molhar.\n\nTradicionalmente usa-se o cérebro do próprio animal no lugar da lecitina."
+    },
+    {
+      "titulo": "Por que não usar cromo",
+      "texto": "Na indústria, o curtimento mais comum usa sulfato de cromo, que dá couro macio e rápido. Não faça isso em casa: o cromo é poluente, considerado perigoso, e os restos não podem ser queimados porque a queima gera substância que causa câncer. A própria Embrapa pesquisa taninos vegetais, como o de acácia, para substituir o cromo."
+    },
+    {
+      "titulo": "Descarte os resíduos sem contaminar a água",
+      "texto": "Raspas de carne, sebo, pelo e restos de pele atraem moscas, ratos e cães e contaminam a água. Enterre numa vala com pelo menos 2 m de profundidade, em local plano, bem drenado e a pelo menos 20 m de rios, açudes, nascentes e poços (quanto mais longe, melhor): cubra com 20 cm de terra, 10 cm de cal virgem e mais 50 cm de terra.\n\nBanho de cal e licor de tanino velhos não vão para rio, açude ou perto de poço: despeje longe das fontes de água, numa fossa ou vala.\n\nAnimal suspeito de carbúnculo é outro caso: não abra; queime (o melhor) ou enterre fundo, inteiro, e avise o serviço veterinário oficial.",
+      "avisos": [
+        "A Embrapa recomenda que a área de curtimento tenha fossa para receber os efluentes e que, antes de começar, se procure a secretaria de saúde e meio ambiente do município."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Curtimento de pele ovina passo a passo (Instrução Técnica 5) — Embrapa Pecuária Sul",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/227192/1/it052000.pdf"
+    },
+    {
+      "titulo": "Flaying and Curing of Hides and Skins as a Rural Industry — FAO",
+      "url": "https://www.fao.org/3/bc373e/bc373e.pdf"
+    },
+    {
+      "titulo": "Rural Tanning Techniques (FAO Agricultural Development Paper 68), cópia digitalizada",
+      "url": "https://preparedness-downloads.s3.amazonaws.com/Homestead-Skills/Other-Skills/Rural_Tanning_Techniques_No-68_1974.pdf"
+    },
+    {
+      "titulo": "Making Buckskin — Missouri Department of Conservation",
+      "url": "https://mdc.mo.gov/magazines/missouri-conservationist/2026-11/making-buckskin"
+    },
+    {
+      "titulo": "Melhoramento genético e produção de acácia-negra (teor de tanino) — Embrapa Florestas",
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/306152/1/MelhoramentoGeneticoProducao.pdf"
+    },
+    {
+      "titulo": "Boletim Embrapa Pecuária Sudeste: taninos vegetais no lugar do sulfato de cromo",
+      "url": "https://tecnologias1.cppse.embrapa.br/informativo/86/files/assets/downloads/page0002.pdf"
+    },
+    {
+      "titulo": "Taninos em cascas de angico (Lorenzi e Matos) — Biodiversidade, UFMT",
+      "url": "https://periodicoscientificos.ufmt.br/ojs/index.php/biodiversidade/article/view/2254/1623"
+    },
+    {
+      "titulo": "Caderno de boas práticas: barbatimão — Ministério do Meio Ambiente",
+      "url": "https://www.gov.br/mma/pt-br/composicao/snpct/dgar/cadernos-de-boas-praticas-2/02_ct2_barbatimao_web.pdf"
+    },
+    {
+      "titulo": "Antraz em animais — Manual Veterinário MSD",
+      "url": "https://www.msdvetmanual.com/pt/infectious-diseases/antraz/antraz-em-animais"
+    },
+    {
+      "titulo": "Manual de descarte de carcaças (PAN Grandes Felinos) — ICMBio",
+      "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-grandes-felinos/1-ciclo/produtos/2021-pan-grandes-felinos-manual-de-descarte-de-carcacas.pdf"
+    }
+  ]
+}

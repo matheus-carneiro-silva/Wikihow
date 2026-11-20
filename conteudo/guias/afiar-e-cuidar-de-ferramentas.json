@@ -1,0 +1,151 @@
+{
+  "id": "afiar-e-cuidar-de-ferramentas",
+  "titulo": "Como afiar e cuidar de ferramentas",
+  "resumo": "Afiar faca, facão, machado, enxada, pá e formão com lima e pedra de afiar, com os ângulos de cada um, tirar a rebarba, encabar machado e enxada com cunha de madeira, tirar ferrugem e proteger com óleo.",
+  "categoria": "oficios",
+  "tags": [
+    "afiar",
+    "amolar",
+    "afiação",
+    "fio",
+    "gume",
+    "pedra de afiar",
+    "pedra de amolar",
+    "rebolo",
+    "esmeril",
+    "lima",
+    "chaira",
+    "fuzil",
+    "faca",
+    "facão",
+    "machado",
+    "machadinha",
+    "enxada",
+    "enxadão",
+    "pá",
+    "formão",
+    "plaina",
+    "cabo de ferramenta",
+    "encabar",
+    "cunha",
+    "ferrugem",
+    "enferrujado",
+    "óleo de linhaça",
+    "ângulo de afiação"
+  ],
+  "dificuldade": "facil",
+  "tempoMinutos": 60,
+  "atualizadoEm": "2026-11-20",
+  "alerta": "Ferramenta afiada é mais segura que cega, porque corta em vez de escorregar, mas afiar é quando mais se corta a mão. Prenda a ferramenta, use luva de couro ou resistente a corte na mão que fica perto do gume, use lima sempre com cabo e afie com o gume se afastando dos dedos. Cabeça de machado ou enxada frouxa pode voar do cabo: não use até consertar.",
+  "materiais": [
+    "Pedra de afiar de dupla face (grossa e fina) ou pedras separadas (grão 400 e 1000 ou mais fino)",
+    "Água ou óleo leve (óleo de máquina ou mineral) para a pedra",
+    "Lima chata murça (bastarda) com cabo",
+    "Morsa, grampo ou duas estacas para prender a ferramenta",
+    "Luvas de couro e óculos",
+    "Chaira (fuzil) para faca, se tiver",
+    "Tira de couro grudada numa madeira (assentador), se tiver",
+    "Escova de aço, palha de aço e lixa (grão 300 ou parecido)",
+    "Óleo de linhaça, óleo de máquina, vaselina ou cera",
+    "Madeira seca para cunhas e cabos, serrote, grosa e macete de madeira"
+  ],
+  "passos": [
+    {
+      "titulo": "Entenda o fio e escolha o abrasivo",
+      "texto": "O fio perde corte de dois jeitos: dobrado (amassou para um lado, com impacto) ou gasto (arredondado pelo uso). Fio dobrado se endireita na chaira, sem tirar metal. Fio gasto ou com dentes precisa tirar metal: lima, pedra grossa e depois pedra fina.\n\nPedras: quanto maior o número do grão, mais fina. Grão por volta de 400 desbasta (fio gasto ou danificado); de 800 a 5000 acaba e alisa o fio. Use a pedra sempre molhada: pedra de água fica uns 10 minutos de molho antes; pedra de óleo leva uma camada de óleo leve. A lama que se forma ajuda a afiar e leva embora o pó de aço. Pedra que já recebeu óleo deve continuar só com óleo.\n\nLima: corta só na ida (empurrando). Levante a lima na volta; vai e vem como serrote só gasta a lima. Bata a lima de vez em quando para soltar a limalha.\n\nRegra de todas as ferramentas: mantenha sempre o mesmo ângulo. A inclinação da ferramenta na pedra é o que faz o ângulo do fio. Na dúvida, siga o ângulo que a ferramenta já tem de fábrica.",
+      "dicas": [
+        "Para ver se está pegando o fio todo, pinte o chanfro com caneta ou carvão e dê umas passadas: onde a tinta saiu, a pedra está pegando."
+      ]
+    },
+    {
+      "titulo": "Afie a faca na pedra",
+      "texto": "Ângulo: cerca de 15° de cada lado para faca de corte suave (cozinha, carne, legumes); cerca de 20° de cada lado para faca que bate em osso, tábua dura ou trabalho pesado. Para ter ideia: 90° é a faca em pé; metade disso é 45°; metade de novo é cerca de 22°. Um pouco mais deitado que isso dá 20°; a lâmina de uma faca de cozinha costuma ficar mais deitada ainda, a 15°.\n\nComo fazer: (1) Apoie a pedra molhada num pano ou suporte que não escorregue, numa superfície plana. (2) Segure o cabo com uma mão e apoie os dedos da outra mão sobre a lâmina. (3) Passe a faca na pedra começando perto do cabo e indo até a ponta, sempre no mesmo ângulo. (4) Repita do mesmo lado até sentir, com o dedo passando de dentro para fora do outro lado da lâmina (nunca ao longo do fio), uma rebarba: uma lasquinha de metal dobrada ao longo de todo o fio. (5) Vire e faça o mesmo do outro lado até a rebarba passar para o primeiro lado. (6) Passe para a pedra fina e repita, com cada vez menos força, alternando os lados até a rebarba quase sumir.\n\nPara tirar o resto da rebarba, passe a faca de costas (com o fio para trás, sem cortar o couro) num couro ou no papelão, alternando os lados.",
+      "dicas": [
+        "No dia a dia, antes de ir para a pedra, passe na chaira: segure a chaira pelo cabo, de preferência com a ponta apoiada numa tábua, e deslize a faca do cabo à ponta, com só o fio encostando, alternando os lados. Comece com mais força e vá reduzindo.",
+        "Faca japonesa de um lado só (de sushi) tem outra técnica: esse método não serve para ela."
+      ]
+    },
+    {
+      "titulo": "Afie o facão",
+      "texto": "O facão é uma faca grossa que bate em galho e madeira. Desbaste com a lima: prenda o facão deitado na beira de uma tábua ou bancada, com o fio para fora, e empurre a lima do fio para dentro da lâmina, seguindo o chanfro de fábrica, do cabo à ponta. Quando aparecer rebarba do outro lado ao longo de todo o fio, vire e faça o outro lado. Termine com a pedra (como na faca) e tire a rebarba.\n\nComo ele bate em superfície dura, mantenha o chanfro de fábrica ou o lado mais robusto da faixa usada para facas (cerca de 20° de cada lado). Fio muito fino dentela e entorta no primeiro galho.",
+      "avisos": [
+        "Na lima, a mão que segura a ponta da lima passa perto do fio: luva de couro nessa mão e lima com cabo. Nunca lime com o facão apoiado na perna ou na mão."
+      ]
+    },
+    {
+      "titulo": "Afie o machado",
+      "texto": "Machado afiado é machado seguro: ele entra na madeira em vez de escorregar e vir na sua direção.\n\nÂngulos (Serviço Florestal dos EUA): o chanfro do fio fica entre 17° e 21° (cerca de 18° para lenha sem nós). Na beirada, um microchanfro de cerca de 25° (entre 25° e 32°), com cerca de 1,5 mm de largura, dá força ao fio para não lascar. Para cortar nós e madeira muito dura, use ângulo mais aberto, até 28°.\n\nComo fazer: (1) Prenda o machado na bancada com a cabeça para fora, com boa luz. (2) Lime empurrando do fio em direção ao centro da cabeça, em passadas longas e firmes, levantando a lima na volta. Nunca lime de trás para o fio: isso dobra o gume. (3) Lime em leque, deixando as duas pontas do fio (calcanhar e bico) um pouco mais grossas que o meio, para não lascarem. (4) Não lime só o fio: vá afinando também a parte de trás dele, para a cabeça continuar abaulada e entrar fácil na madeira. (5) Alterne os lados até ficarem iguais; quando aparecer rebarba, tire com a pedra. (6) Passe a pedra em movimentos circulares (lado grosso, depois fino) em cada face até o fio, e faça o microchanfro com a pedra fina, ao longo do fio. (7) Termine no couro, com o fio para trás.\n\nNo fim do dia de trabalho: algumas passadas da pedra fina no fio, limpe a resina e passe óleo leve ou cera na cabeça.",
+      "avisos": [
+        "Esmeril, rebolo ou lixadeira esquentam o fio fino rapidinho. Se o metal ficar azul ou roxo, a têmpera foi perdida e o fio não segura mais corte. Use rebolo só para desbastar a parte de trás do fio, nunca no gume; afaste a peça a cada pouco e espere esfriar: ela deve poder ser segurada com a mão nua.",
+        "Machado com trinca na cabeça, principalmente em volta do olho, deve ser descartado: pode partir em uso. Nunca use o machado como marreta para bater cunha de ferro: a cabeça (o olho) deforma e racha."
+      ]
+    },
+    {
+      "titulo": "Afie enxada, enxadão e pá",
+      "texto": "Ferramenta de terra precisa de fio bem formado, não de fio de navalha: a lima basta.\n\nComo fazer: (1) Tire terra e ferrugem com escova de aço ou palha de aço. (2) Prenda a ferramenta firme numa morsa ou apoiada no chão entre estacas, de modo que não se mexa. (3) Empurre a lima ao longo do chanfro, sempre num sentido só e no mesmo ângulo, até aparecer aço limpo e brilhante em todo o fio. (4) Tire a rebarba do outro lado com uma passada da lima deitada ou lixa grão 300. (5) Passe uma camada fina de óleo.\n\nÂngulo do chanfro (Universidade da Flórida): pá, cerca de 45°. Enxada para cavar pesado e cortar raiz: 45°; para uso geral: 30° a 35°; para capina fina: 20° a 30°. Ângulo mais aberto dura mais; mais fechado corta melhor, mas cega e dentela mais rápido.",
+      "dicas": [
+        "Afie um pouco e com frequência (a cada dia de trabalho pesado), em vez de esperar a ferramenta ficar redonda."
+      ]
+    },
+    {
+      "titulo": "Afie formão e ferro de plaina",
+      "texto": "Ângulo: o chanfro do formão (e do ferro da plaina) é afiado entre 25° e 35° para uso comum; um pouco menos para cortes finos de acabamento em madeira mole.\n\nComo fazer: (1) Prenda a pedra para ela não andar e cubra com óleo leve ou água, conforme a pedra. (2) Deite o chanfro inteiro na pedra grossa e levante só o necessário para ele assentar. (3) Firme com os dedos da outra mão e faça passadas longas e iguais, usando a pedra toda (para não cavar o meio da pedra), sem balançar o formão. (4) Quando a rebarba aparecer na face plana, passe para a pedra fina. (5) Tire a rebarba deitando a face plana totalmente na pedra fina e dando algumas passadas. Nunca afie a face plana com o formão inclinado.\n\nSó vá para o esmeril ou para a lima quando o fio tiver dentes que a pedra grossa não tira, ou quando o chanfro ficou curto ou arredondado de tanto afiar.",
+      "avisos": [
+        "No esmeril, encoste de leve e afaste a cada pouco para não esquentar. Fio que ficou azul ou roxo perdeu a têmpera e precisa ser desbastado até o aço bom."
+      ]
+    },
+    {
+      "titulo": "Escolha e faça cabos de ferramenta",
+      "texto": "A madeira para cabo de ferramenta (machado, enxada, enxadão, foice, pá, picareta, martelo, marreta, formão) deve ser de densidade média a alta, resistente a impacto, de fibra reta e textura fina a média para não machucar as mãos, segundo o Laboratório de Produtos Florestais do Serviço Florestal Brasileiro. Madeira de fibra inclinada ou irregular quebra com pouco esforço.\n\nO laboratório indica, entre outras, madeiras como tauari, pau-amarelo, itaúba, jatobá, peroba-mico e araracanga (estas duas do mesmo gênero do guatambu, tradicional em cabo de enxada). Nos cabos vendidos hoje o mais comum é o eucalipto. Para cabo de faca e utensílio de cozinha pode ser madeira mais leve, mas sem cheiro forte.\n\nAo escolher ou fazer um cabo: (1) A fibra deve correr reta por todo o comprimento, sem \"fugir\" para fora pela lateral (isso é ponto de quebra). (2) No machado, os veios vistos no topo do cabo devem ficar alinhados com a lâmina, não atravessados. (3) Sem nós, rachaduras ou cupim. (4) Lixe o cabo onde ele desliza na mão e deixe um pouco mais áspero onde a mão fica parada.",
+      "dicas": [
+        "Racha-se a madeira para cabo em vez de serrar: a rachadura segue a fibra, e o cabo sai com fibra reta de ponta a ponta."
+      ]
+    },
+    {
+      "titulo": "Encabe o machado ou a enxada com cunha de madeira",
+      "texto": "Ajuste: (1) Veja qual lado do olho é o de cima: no machado ele é um pouco mais largo, para receber a cunha. (2) Desbaste com grosa, faca ou lixa só a parte do cabo que entra no olho, aos poucos, provando várias vezes. (3) Para puxar a cabeça para o lugar, bata com macete de madeira no pé do cabo, não na cabeça. (4) A cada prova, olhe ao longo do fio: ele deve ficar alinhado com o fim do cabo. Se pender para um lado, tire madeira desse lado, só dentro do olho. (5) Quando a cabeça assentar firme no ombro do cabo, deixe de 2 a 2,5 cm de cabo para fora do olho.\n\nCunha: (1) Confira o rasgo (corte de serrote) no topo do cabo: ele deve chegar a metade ou três quartos da altura da cabeça; aprofunde com o serrote se preciso. (2) Faça uma cunha de madeira seca, do comprimento do olho (de frente para trás) e de cerca de três quartos da altura da cabeça. (3) Bata a cunha firme e por igual até não entrar mais. (4) Serre o que sobrar da cunha e do cabo, deixando de 6 a 12 mm de cabo acima da cabeça.\n\nSe a cabeça afrouxar com o tempo, bata a cunha mais para dentro ou troque por uma mais grossa. Um pino atravessando cabeça e cabo, no quinto de baixo do olho (abaixo do rasgo), dá segurança extra.",
+      "avisos": [
+        "Não deixe o machado de molho na água para apertar a cabeça: a madeira incha, é esmagada pelo olho e, quando seca, a cabeça fica mais frouxa do que antes.",
+        "Não enfie pregos, parafusos ou cunhas de ferro no cabo: amassam a fibra, racham o cabo e não acompanham a madeira quando ela incha e encolhe. Não passe óleo de linhaça na cunha: ela escorrega para fora.",
+        "Cabo rachado ou com trincas que crescem deve ser trocado. Cabo que quebra em uso arremessa a cabeça."
+      ]
+    },
+    {
+      "titulo": "Tire a ferrugem e proteja com óleo",
+      "texto": "Limpeza: no fim do uso, tire terra, seiva e resina. Ferrugem solta sai com escova de aço, palha de aço ou lixa. Resina sai com querosene ou outro solvente. Se usar limpador de cítrico (ácido), lave todo o resíduo depois: o ácido corrói o aço. Seque bem a ferramenta que molhou antes de guardar.\n\nProteção do metal: passe uma camada fina de óleo leve (óleo de máquina, mineral) com um pano. Para guardar por muito tempo, vaselina protege melhor. Cera de assoalho, de móveis ou de carro também serve; a mistura antiga de óleo de linhaça com cera de abelha é outra opção.\n\nCabo de madeira: lixe as farpas e passe óleo de linhaça (cru ou cozido) em várias demãos, até a madeira não absorver mais; repita quando o cabo parecer seco. Clima quente e seco resseca e encolhe o cabo mais rápido.\n\nGuarde as ferramentas penduradas em ganchos ou pregos, em lugar seco e ventilado, com o ar circulando em volta. Encostar de lado na parede por muito tempo entorta o cabo. Machado e facão vão na bainha ou capa.",
+      "avisos": [
+        "Panos sujos de óleo de linhaça ou de solvente podem pegar fogo sozinhos, aquecendo dentro do lixo. Não amontoe nem jogue no lixo: estenda para secar ao ar livre, longe da casa e de coisas que queimam."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Afiação (pedras, grãos, ângulos de 15° e 20° e uso da chaira) — Tramontina",
+      "url": "https://www.tramontina.com.br/on/demandware.static/-/Library-Sites-TramontinaSharedLibrary/default/dw2b036977/landingPages/churrasco/Afiacao-Portugues.pdf"
+    },
+    {
+      "titulo": "Ax Manual, cap. 8: Sharpening and Shaping an Ax Head — USDA Forest Service",
+      "url": "https://www.fs.usda.gov/t-d/pubs/pdfpubs/pdf18232812P/Part08_Sharpening.pdf"
+    },
+    {
+      "titulo": "Ax Manual, cap. 12: Maintaining an Ax — USDA Forest Service",
+      "url": "https://fs.usda.gov/t-d/pubs/pdfpubs/pdf18232812P/Part12_MaintainingAnAx.pdf"
+    },
+    {
+      "titulo": "Ax Manual completo (cap. 10: Hanging an Ax) — USDA Forest Service",
+      "url": "https://fs.usda.gov/t-d/pubs/pdfpubs/pdf18232812P/1823-2812P_AxManual_508_10-21-20c_150dpi.pdf"
+    },
+    {
+      "titulo": "Sharpening Your Tools (enxadas, pás e tesouras) — University of Florida IFAS",
+      "url": "https://gardeningsolutions.ifas.ufl.edu/home/care/tools-and-equipment/sharpening-your-tools"
+    },
+    {
+      "titulo": "Use/Care of Handtools: sharpening chisels — U.S. Army Ordnance (OD1621)",
+      "url": "https://armyordnance.tpub.com/Od16218/Od162180120.htm"
+    },
+    {
+      "titulo": "A madeira e seus usos (madeiras para cabos de ferramentas) — Laboratório de Produtos Florestais / Serviço Florestal Brasileiro",
+      "url": "https://www.gov.br/florestal/pt-br/centrais-de-conteudo/publicacoes/publicacoes-diversas/lpf/a-madeira-e-seus-usos.pdf/@@display-file/file"
+    }
+  ]
+}

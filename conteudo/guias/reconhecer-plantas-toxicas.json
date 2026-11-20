@@ -55,7 +55,7 @@
     },
     {
       "titulo": "Reconheça a mamona",
-      "texto": "A mamona (Ricinus communis) é um arbusto muito comum em terrenos baldios e beira de estrada, com folhas grandes recortadas em forma de mão e frutos com espinhos moles em cachos. O perigo está nas sementes, que contêm ricina.\n\nSinais: sementes mastigadas causam náuseas, vômitos, cólicas, diarreia com muco e até com sangue, convulsões e coma. Os sintomas costumam aparecer em menos de 10 horas.\n\nO óleo de rícino vendido em farmácia é outra coisa: a toxina fica no resíduo da semente, não no óleo purificado. Nunca tente extrair óleo ou fazer remédio caseiro com a semente.",
+      "texto": "A mamona (Ricinus communis) é um arbusto muito comum em terrenos baldios e beira de estrada, com folhas grandes recortadas em forma de mão e frutos com espinhos moles em cachos. O perigo está nas sementes, que contêm ricina.\n\nSinais: sementes mastigadas causam náuseas, vômitos, cólicas, diarreia com muco e até com sangue, convulsões e coma. Os sintomas costumam aparecer em menos de 10 horas.\n\nA ricina fica no resíduo (a massa) que sobra quando se faz óleo de rícino, e não existe antídoto: o tratamento é só de suporte no hospital. Nunca tente extrair óleo ou fazer remédio caseiro com a semente.",
       "avisos": [
         "Qualquer suspeita de criança que mastigou semente de mamona é emergência: ligue 0800 722 6001 ou 192, mesmo sem sintomas."
       ]
@@ -83,14 +83,14 @@
     },
     {
       "titulo": "Conheça outras plantas perigosas comuns",
-      "texto": "Saia-branca ou trombeteira (Brugmansia): arbusto de flores grandes em forma de trombeta, penduradas. Toda a planta é tóxica e é às vezes usada como chá alucinógeno. Causa boca e pele secas, coração acelerado, pupilas dilatadas, agitação, alucinação e febre, e pode matar.\n\nAvelós ou aveloz (Euphorbia tirucalli) e bico-de-papagaio (Euphorbia pulcherrima): o látex (leite) causa lesão na pele e irritação forte nos olhos; engolir causa náuseas, vômitos e diarreia. Use luvas e proteja os olhos ao podar plantas que soltam leite.",
+      "texto": "Saia-branca ou trombeteira (Brugmansia): arbusto de flores grandes em forma de trombeta, penduradas. Toda a planta é tóxica. Causa boca e pele secas, coração acelerado, pupilas dilatadas, agitação, alucinação e febre, e pode matar.\n\nAvelós ou aveloz (Euphorbia tirucalli) e bico-de-papagaio (Euphorbia pulcherrima): o látex (leite) causa lesão na pele e irritação forte nos olhos; engolir causa náuseas, vômitos e diarreia. Use luvas e proteja os olhos ao podar plantas que soltam leite.",
       "avisos": [
         "Não use plantas tóxicas como chá, remédio caseiro ou \"para dar barato\": a dose venenosa é imprevisível."
       ]
     },
     {
       "titulo": "Não coma cogumelos silvestres",
-      "texto": "Não colha cogumelos do mato, do gramado ou de troncos para comer, a não ser que um especialista identifique cada exemplar. O conhecimento popular não é confiável e até especialistas têm dificuldade de separar os venenosos dos comestíveis. Não existe teste caseiro seguro (colher de prata, alho, cebola, cheiro, cor ou bicho que comeu). Cozinhar também não garante segurança.\n\nNo Brasil, um cogumelo venenoso comum em gramados e áreas urbanas é o Chlorophyllum molybdites (chapéu branco grande com escamas marrons), com casos de intoxicação registrados no Paraná.\n\nSinais e tempo:\n• sintomas em até 2 horas (vômitos, diarreia, suor, alucinação) costumam vir de cogumelos menos perigosos;\n• vômitos e diarreia que começam 6 a 12 horas depois são sinal de alerta para os mais perigosos (como Amanita), que destroem o fígado. O gênero Amanita causa cerca de 95% das mortes por cogumelo.",
+      "texto": "Não colha cogumelos do mato, do gramado ou de troncos para comer, a não ser que um especialista identifique cada exemplar. O conhecimento popular não é confiável e até especialistas têm dificuldade de separar os venenosos dos comestíveis. Não existe teste caseiro seguro (colher de prata, alho, cebola, cheiro, cor ou bicho que comeu). Cozinhar também não garante segurança.\n\nNo Brasil, um cogumelo venenoso comum em gramados e áreas urbanas é o Chlorophyllum molybdites (chapéu grande, de 6 a 23 cm, branco com escamas marrons, lâminas embaixo do chapéu que ficam esverdeadas com o tempo e anel no pé), com casos de intoxicação registrados no Paraná: vômitos intensos (às vezes com sangue), cólicas, diarreia e desmaio, começando 1,5 a 3 horas depois de comer, com internação.\n\nSinais e tempo:\n• sintomas em até 2 horas (vômitos, diarreia, suor, alucinação) costumam vir de cogumelos menos perigosos;\n• vômitos e diarreia que começam 6 a 12 horas depois são sinal de alerta para os mais perigosos (como Amanita), que destroem o fígado. O gênero Amanita causa cerca de 95% das mortes por cogumelo.",
       "avisos": [
         "Quem passou mal horas depois de comer cogumelo silvestre precisa de atendimento médico mesmo que melhore: o dano ao fígado pode vir depois."
       ]
@@ -123,6 +123,10 @@
     {
       "titulo": "Diretrizes para intoxicações por agrotóxicos, cap. 1 (Disque-Intoxicação e Renaciat) — Conitec/Ministério da Saúde",
       "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/resumidos/ddt_resumido_intoxicacoes_por_agrotoxicos_cap1.pdf"
+    },
+    {
+      "titulo": "Ricin: chemical fact sheet — CDC (EUA)",
+      "url": "https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/ricin.html"
     },
     {
       "titulo": "Mandioca: o produtor pergunta, a Embrapa responde — Embrapa Mandioca e Fruticultura",
