@@ -15,7 +15,7 @@
   "dificuldade": "media",
   "tempoMinutos": 45,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro. Nunca entre embaixo de um carro apoiado só no macaco: use cavaletes ou rampas.",
+  "alerta": "Siga o manual sobre medir ou drenar com o motor quente ou frio. Com o motor quente, cuidado: escapamento e óleo queimam. Trabalhe com o carro em local plano e freio de mão puxado; o manual do veículo prevalece sobre estas orientações gerais. Nunca entre embaixo de um carro apoiado só no macaco: use cavaletes ou rampas.",
   "materiais": [
     "Óleo da especificação e quantidade do manual",
     "Filtro de óleo novo",

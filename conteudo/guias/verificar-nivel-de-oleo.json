@@ -14,7 +14,7 @@
   "dificuldade": "facil",
   "tempoMinutos": 10,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "alerta": "Siga o manual sobre medir ou drenar com o motor quente ou frio. Com o motor quente, cuidado: escapamento e óleo queimam. Trabalhe com o carro em local plano e freio de mão puxado; o manual do veículo prevalece sobre estas orientações gerais.",
   "materiais": [
     "Pano ou papel que não solte fiapos",
     "Óleo da especificação do manual, se precisar completar",
@@ -35,20 +35,23 @@
     },
     {
       "titulo": "Interprete a leitura",
-      "texto": "O nível certo fica entre as marcas MÍN e MÁX. Perto do MÍN ou abaixo dele, complete.\n\nObserve também a cor e o aspecto: óleo muito escuro e grosso pede troca; aspecto leitoso ou de \"café com leite\" pode indicar mistura com líquido de arrefecimento e precisa de avaliação na oficina."
+      "texto": "O nível certo fica entre as marcas MÍN e MÁX. Perto do MÍN ou abaixo dele, complete.\n\nObserve também o aspecto (a hora da troca segue o prazo do manual, não a cor): aspecto leitoso ou de \"café com leite\" pode indicar mistura com líquido de arrefecimento (junta do cabeçote) e exige reparo antes de rodar."
     },
     {
       "titulo": "Complete aos poucos",
       "texto": "Use o óleo da especificação do manual (viscosidade, como 5W30, e norma, como API SP). Pelo bocal de enchimento na tampa do motor, coloque pouco de cada vez, espere alguns minutos e meça de novo.",
       "avisos": [
         "Não passe do MÁX: óleo demais também prejudica o motor."
+      ],
+      "dicas": [
+        "Sem o óleo exato, use o mais próximo: mesma viscosidade e mesma norma API ou mais nova (ex.: SN no lugar de SM). Misturar marcas de mesma especificação é aceitável; rodar com o nível baixo é muito pior."
       ]
     },
     {
       "titulo": "Repita com frequência",
       "texto": "Verifique a cada abastecimento ou ao menos uma vez por mês e antes de viagens. Consumo grande de óleo entre as trocas é sinal de problema.",
       "avisos": [
-        "Se a luz de pressão do óleo (um \"regador\") acender com o carro andando, pare assim que for seguro e desligue o motor."
+        "Se a luz de pressão do óleo (um \"regador\") acender com o carro andando, pare assim que for seguro e desligue o motor. Não religue antes de medir: se estiver baixo, complete e ligue. Se a luz apagar em segundos, siga devagar e meça a cada parada. Se continuar acesa com o nível certo, não rode: o motor pode fundir em minutos."
       ]
     }
   ],
@@ -60,6 +63,10 @@
     {
       "titulo": "How To Check Engine Oil — J.D. Power",
       "url": "https://www.jdpower.com/cars/shopping-guides/how-to-check-engine-oil"
+    },
+    {
+      "titulo": "Engine Oil Licensing and Certification System — API",
+      "url": "https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/2019%20EOLCS%20Motor%20Oil%20Guide.pdf"
     }
   ]
 }

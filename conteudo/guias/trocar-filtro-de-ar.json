@@ -29,10 +29,20 @@
       "texto": "Com o motor desligado, localize a caixa plástica ligada ao duto de ar (em geral perto da lateral do cofre). Solte as presilhas ou parafusos e levante a tampa."
     },
     {
+      "titulo": "Se o carro passou por alagamento",
+      "texto": "Filtro ou caixa com água indicam que pode ter entrado água no motor. Não dê partida: água no cilindro não se comprime e entorta bielas (calço hidráulico).",
+      "avisos": [
+        "Se não houver ajuda, retire as velas antes de girar o motor para expulsar a água, e troque o filtro e o óleo antes de rodar."
+      ]
+    },
+    {
       "titulo": "Avalie o elemento",
       "texto": "Retire o filtro e olhe contra a luz: se a luz quase não passa, se está muito escuro, úmido de óleo ou danificado, troque. Um ponto de luz muito forte indica furo.",
       "avisos": [
         "Não sopre filtros de papel com ar comprimido por fora nem com pressão alta: isso empurra a poeira para dentro das fibras ou abre furos. Alguns fabricantes proíbem qualquer sopro; na dúvida, troque."
+      ],
+      "dicas": [
+        "Sem filtro novo, bata o filtro de papel de leve pela borda numa superfície, com o lado sujo para baixo, e recoloque. Nunca rode sem filtro."
       ]
     },
     {

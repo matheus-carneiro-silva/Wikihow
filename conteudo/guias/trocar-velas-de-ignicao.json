@@ -41,7 +41,10 @@
     },
     {
       "titulo": "Confira a folga da vela nova",
-      "texto": "Meça a folga entre os eletrodos com um calibre de lâminas: ele deve passar justo, mas sem forçar. Muitas velas já vêm calibradas; ajuste só se o fabricante permitir e conforme o valor indicado."
+      "texto": "Meça a folga entre os eletrodos com um calibre de lâminas: ele deve passar justo, mas sem forçar. Muitas velas já vêm calibradas; ajuste só se o fabricante permitir e conforme o valor indicado.",
+      "avisos": [
+        "Em velas de irídio ou platina, meça com calibre de fio e nunca force nem dobre o eletrodo central."
+      ]
     },
     {
       "titulo": "Rosqueie com a mão",
@@ -52,14 +55,17 @@
     },
     {
       "titulo": "Dê o aperto final",
-      "texto": "Use o torque do manual ou da embalagem da vela. Sem torquímetro, a NGK indica, para velas com arruela, cerca de 1/2 a 2/3 de volta depois de encostar; para velas de assento cônico, só 1/12 a 1/8 de volta.",
+      "texto": "Use o torque do manual ou da embalagem da vela. Sem torquímetro, a NGK indica, depois de a vela encostar: vela com arruela nova, 1/2 a 2/3 de volta; com arruela reaproveitada, 1/12 a 1/8 de volta; vela de assento cônico (sem arruela), cerca de 1/16 de volta.\n\nCom torquímetro, uma vela de 14 mm em cabeçote de alumínio fica em geral entre 24 e 29 N·m com arruela e entre 10 e 20 N·m se for cônica, salvo outro valor no manual.",
       "avisos": [
         "Aperto demais quebra a vela ou espana o cabeçote; aperto de menos faz a vela esquentar e soltar."
       ]
     },
     {
       "titulo": "Recoloque e teste",
-      "texto": "Recoloque bobinas ou cabos até sentir o encaixe, na ordem original. Ligue o motor e confira se a marcha lenta está estável e a luz de injeção apagada."
+      "texto": "Recoloque bobinas ou cabos até sentir o encaixe, na ordem original. Ligue o motor e confira se a marcha lenta está estável e a luz de injeção apagada.",
+      "dicas": [
+        "Em carros flex com reservatório de partida a frio (\"tanquinho\"), mantenha gasolina nele para o carro pegar com etanol em dias frios."
+      ]
     }
   ],
   "fontes": [

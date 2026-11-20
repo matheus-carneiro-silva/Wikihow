@@ -16,14 +16,14 @@
   "dificuldade": "facil",
   "tempoMinutos": 15,
   "atualizadoEm": "2026-11-20",
-  "alerta": "Trabalhe com o motor frio, o carro em local plano e o freio de mão puxado. O manual do seu veículo prevalece sobre estas orientações gerais: especificações de óleo, torques e intervalos mudam de um modelo para outro.",
+  "alerta": "Leia os códigos com o carro parado: não mexa no scanner nem no celular dirigindo. Apagar um código não resolve a causa.",
   "materiais": [
     "Scanner OBD2 ou adaptador Bluetooth com aplicativo"
   ],
   "passos": [
     {
       "titulo": "Encontre o conector",
-      "texto": "O conector de diagnóstico tem 16 pinos e fica, na maioria dos carros, embaixo do painel do lado do motorista, perto da coluna de direção ou da caixa de fusíveis. No Brasil, ele é obrigatório em carros novos desde 2010."
+      "texto": "O conector de diagnóstico tem 16 pinos e fica, na maioria dos carros, embaixo do painel do lado do motorista, perto da coluna de direção ou da caixa de fusíveis. No Brasil, o padrão OBDBr-2 vale para todos os carros novos desde 2011 (parte já em 2010). Carros de 2007 a 2009 podem ter OBDBr-1, que nem todo scanner genérico lê."
     },
     {
       "titulo": "Conecte o scanner",
@@ -35,9 +35,10 @@
     },
     {
       "titulo": "Interprete o código",
-      "texto": "A letra indica o sistema: P (trem de força: motor e câmbio), B (carroceria), C (chassi) e U (rede de comunicação). O primeiro número diz o tipo: 0 é código padrão, 1 é específico da montadora. O segundo indica o subsistema; 3, por exemplo, é ignição e falha de combustão.\n\nExemplo: P0302 é falha de combustão no cilindro 2.",
+      "texto": "A letra indica o sistema: P (trem de força: motor e câmbio), B (carroceria), C (chassi) e U (rede de comunicação). O primeiro número diz o tipo: 0 e 2 são códigos padrão, 1 é específico da montadora, 3 pode ser de qualquer um dos dois. O segundo indica o subsistema; 3, por exemplo, é ignição e falha de combustão.\n\nExemplo: P0302 é falha de combustão no cilindro 2.",
       "dicas": [
-        "O código aponta o sintoma detectado, não necessariamente a peça com defeito. Uma falha no cilindro 2 pode ser vela, bobina, bico injetor ou compressão."
+        "O código aponta o sintoma detectado, não necessariamente a peça com defeito. Uma falha no cilindro 2 pode ser vela, bobina, bico injetor ou compressão.",
+        "Diagnóstico sem peças de reserva: numa falha de um cilindro, troque a bobina (ou o cabo) dele com a de outro cilindro, apague o código e rode. Se a falha mudar de cilindro, o defeito é da bobina; se ficar, repita o teste com a vela."
       ]
     },
     {
@@ -65,6 +66,10 @@
     {
       "titulo": "Check Engine Light — AAA",
       "url": "https://www.aaa.com/tripcanvas/article/check-engine-light-CM852"
+    },
+    {
+      "titulo": "Resolução CONAMA 354/2004 — OBDBr-2",
+      "url": "https://www.legisweb.com.br/legislacao/?id=100339"
     }
   ]
 }

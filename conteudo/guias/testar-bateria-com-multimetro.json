@@ -39,15 +39,21 @@
     },
     {
       "titulo": "Meça com o motor ligado",
-      "texto": "Dê partida e meça de novo nos polos, em marcha lenta. Um alternador saudável fornece cerca de 13,7 a 14,7 V.\n\nAbaixo de 13,5 V, o alternador pode não estar carregando direito; acima de cerca de 15 V, pode estar sobrecarregando a bateria."
+      "texto": "Dê partida e meça de novo nos polos, em marcha lenta. Um alternador saudável fornece cerca de 13,7 a 14,7 V.\n\nAbaixo de 13,5 V, o alternador pode não estar carregando direito; acima de cerca de 15 V, pode estar sobrecarregando a bateria.",
+      "dicas": [
+        "Em carros com start-stop ou gerenciamento de bateria, 12,5 a 13,2 V pode ser normal. Acenda faróis e desembaçador: a tensão deve subir para a faixa de carga."
+      ]
     },
     {
       "titulo": "Saiba o limite do teste",
-      "texto": "A tensão mostra o estado de carga, não a saúde da bateria. Uma bateria pode mostrar 12,6 V e falhar na partida. Para confirmar, peça um teste de carga ou de condutância em loja de baterias ou oficina."
+      "texto": "A tensão mostra o estado de carga, não a saúde da bateria. Uma bateria pode mostrar 12,6 V e falhar na partida. Teste de carga com o próprio multímetro: com a bateria acima de 12,4 V, peça a alguém para dar partida (no máximo 10 segundos) enquanto você lê a tensão. Se cair abaixo de cerca de 9,6 V (com temperatura de 20 °C ou mais), a bateria está fraca."
     },
     {
       "titulo": "Confira os terminais",
-      "texto": "Terminais com crosta branca ou esverdeada, ou frouxos, causam falha de partida mesmo com bateria boa. Limpe com escova e aperte, começando a soltar pelo negativo e recolocando o negativo por último."
+      "texto": "Terminais com crosta branca ou esverdeada, ou frouxos, causam falha de partida mesmo com bateria boa. Limpe com escova e aperte, começando a soltar pelo negativo e recolocando o negativo por último.",
+      "dicas": [
+        "Ao desconectar a bateria, rádio e marcha lenta podem precisar de reaprendizado: rode alguns minutos em marcha lenta."
+      ]
     }
   ],
   "fontes": [
@@ -62,6 +68,14 @@
     {
       "titulo": "How to Test a Car Battery With a Multimeter — J.D. Power",
       "url": "https://jdpower.com/cars/shopping-guides/how-to-test-a-car-battery-with-a-multimeter"
+    },
+    {
+      "titulo": "Battery load test — AA1Car",
+      "url": "https://www.aa1car.com/library/2003/us20310.htm"
+    },
+    {
+      "titulo": "Service work on the charging system — HELLA",
+      "url": "https://www.hella.com/techworld/us/technical/car-electronics-and-electrics/starting-and-charging-system/service-work-on-the-charging-system/"
     }
   ]
 }

@@ -36,10 +36,15 @@
       ]
     },
     {
+      "titulo": "Se o freio falhar com o carro andando",
+      "texto": "Bombeie o pedal várias vezes, reduza as marchas para frear com o motor e puxe o freio de mão aos poucos, sem travar as rodas. Pare fora da pista e não volte a rodar até consertar."
+    },
+    {
       "titulo": "Complete com o fluido certo",
-      "texto": "Use só o tipo indicado na tampa ou no manual, de frasco lacrado. Complete até o MÁX e feche bem.",
+      "texto": "Use só o tipo indicado na tampa ou no manual, de frasco lacrado, e feche bem.\n\nSe o nível baixou apenas pelo desgaste das pastilhas, não complete até o MÁX: deixe um pouco acima do MÍN. Quando as pastilhas forem trocadas e os pistões recuados, o nível sobe sozinho.",
       "avisos": [
-        "Nunca misture DOT 5 (à base de silicone) com DOT 3, 4 ou 5.1."
+        "Nunca misture DOT 5 (à base de silicone) com DOT 3, 4 ou 5.1.",
+        "Nunca complete com água, óleo de motor, fluido de câmbio ou de direção, nem álcool: óleo mineral incha as borrachas e o freio pode falhar de vez. Sem o fluido certo, não rode."
       ]
     },
     {

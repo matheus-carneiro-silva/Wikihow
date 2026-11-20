@@ -30,6 +30,9 @@
       "texto": "Sinais: chiado metálico ao frear (muitas pastilhas têm um indicador sonoro de desgaste), luz de pastilha no painel ou pouca espessura visível pela roda. Troque com cerca de 3 mm de material; o limite exato varia por carro e está no manual.",
       "dicas": [
         "Sempre troque as pastilhas dos dois lados do mesmo eixo, para o carro frear por igual."
+      ],
+      "avisos": [
+        "Sem pastilha nova, não improvise (pastilha de outro modelo, cortada ou só a chapa). Se o chiado virar ruído de metal com metal, rode o mínimo, devagar e freando com o motor: o disco se destrói rápido e a frenagem piora."
       ]
     },
     {
@@ -45,7 +48,7 @@
     },
     {
       "titulo": "Retraia o pistão",
-      "texto": "Abra o reservatório de fluido (o nível vai subir) e empurre o pistão de volta com um sargento ou ferramenta própria, usando a pastilha velha como apoio para não marcar o pistão. Ele deve ficar alinhado com a pinça.",
+      "texto": "Antes, retire um pouco de fluido do reservatório com uma seringa limpa e cubra a pintura com pano: o nível sobe ao recuar o pistão. Empurre o pistão de volta com um sargento ou ferramenta própria, usando a pastilha velha como apoio para não marcar o pistão. Ele deve ficar alinhado com a pinça.",
       "avisos": [
         "Pinças traseiras com freio de mão integrado precisam ser giradas enquanto empurra, com ferramenta específica.",
         "Se a coifa de borracha do pistão estiver rasgada ou houver vazamento de fluido, a pinça precisa de reparo."
@@ -55,12 +58,16 @@
       "titulo": "Monte as pastilhas novas",
       "texto": "Retire as pastilhas velhas e os grampos. Confira o disco: sulcos fundos, trincas ou espessura abaixo do mínimo gravado nele pedem troca. Limpe os pontos de apoio, passe graxa própria para freio só nos contatos metálicos e encaixe as pastilhas novas.",
       "avisos": [
-        "Nunca deixe graxa, óleo ou fluido no material de atrito ou no disco."
+        "Nunca deixe graxa, óleo ou fluido no material de atrito ou no disco.",
+        "Não sopre nem varra o pó de freio a seco; limpe com pano úmido. Pastilhas antigas podem conter amianto."
+      ],
+      "dicas": [
+        "Confira se os pinos-guia deslizam livres; limpe e lubrifique com graxa própria."
       ]
     },
     {
       "titulo": "Remonte e bombeie o pedal",
-      "texto": "Recoloque a pinça com o torque do manual, monte a roda e baixe o carro. Antes de dar partida, bombeie o pedal várias vezes até ele ficar firme e alto: o pistão precisa voltar a encostar nas pastilhas. Confira o nível do fluido.",
+      "texto": "Recoloque a pinça com o torque do manual, monte a roda apertando os parafusos em cruz e baixe o carro. Reaperte a roda depois de 50 a 100 km. Antes de dar partida, bombeie o pedal várias vezes até ele ficar firme e alto: o pistão precisa voltar a encostar nas pastilhas. Confira o nível do fluido.",
       "avisos": [
         "Sem bombear o pedal, a primeira frenagem pode não acontecer."
       ]

@@ -44,6 +44,9 @@
       "texto": "Ligue o carro com a bateria boa e deixe funcionar um ou dois minutos, acelerando de leve. Depois, tente ligar o outro. Se não pegar, espere mais alguns minutos e tente de novo.",
       "dicas": [
         "A causa mais comum de falha é mau contato: mexa nas garras para que mordam bem o metal."
+      ],
+      "avisos": [
+        "Não acione o motor de partida por mais de 10 segundos seguidos; espere de 10 a 30 segundos entre as tentativas."
       ]
     },
     {
@@ -51,8 +54,15 @@
       "texto": "Com os dois motores funcionando, retire os cabos na ordem inversa: primeiro o preto da massa, depois o preto da bateria boa, depois o vermelho da bateria boa e por último o vermelho da bateria que estava descarregada. Não deixe as garras se tocarem."
     },
     {
+      "titulo": "Sem outro carro: o tranco (só câmbio manual)",
+      "texto": "Com a ignição ligada, engate a 2ª marcha e pise na embreagem. Peça para empurrarem até uns 10 km/h e solte a embreagem de uma vez. Quando o motor pegar, pise na embreagem e mantenha o motor acelerado.",
+      "avisos": [
+        "Nunca faça em carro automático. Não insista se o motor não pegar: combustível não queimado pode danificar o catalisador."
+      ]
+    },
+    {
       "titulo": "Recarregue e investigue",
-      "texto": "Rode pelo menos 20 a 30 minutos para o alternador recarregar a bateria. Se ela descarregar de novo, teste a bateria e o alternador."
+      "texto": "Rode pelo menos 20 a 30 minutos. O alternador repõe só parte da carga: bateria muito descarregada precisa de carregador. Até lá, evite desligar o carro onde não puder fazer outra chupeta. Se descarregar de novo, teste a bateria e o alternador."
     }
   ],
   "fontes": [
@@ -63,6 +73,10 @@
     {
       "titulo": "How to jump-start a dead car battery — Haynes",
       "url": "https://us.haynes.com/blogs/tips-tutorials/how-jump-start-dead-car-battery"
+    },
+    {
+      "titulo": "Jump starting — manual do proprietário Kia",
+      "url": "https://ownersmanual.kia.com/full_webhelp/SK3/2024/en_US/topics/t00242.html"
     }
   ]
 }

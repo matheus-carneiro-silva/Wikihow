@@ -1,6 +1,6 @@
 {
   "id": "cuidar-do-arrefecimento",
-  "titulo": "Como verificar o arrefecimento e agir se o motor superaquecer",
+  "titulo": "Como cuidar do arrefecimento e agir no superaquecimento",
   "resumo": "Nível do líquido de arrefecimento com o motor frio, mistura correta de aditivo e o que fazer quando o ponteiro de temperatura sobe.",
   "categoria": "motor",
   "tags": [
@@ -29,7 +29,7 @@
     },
     {
       "titulo": "Complete com o líquido certo",
-      "texto": "Use o aditivo indicado no manual: pronto para uso ou concentrado, diluído em água desmineralizada na proporção do rótulo. Não misture tipos diferentes de aditivo.",
+      "texto": "Use o aditivo indicado no manual: pronto para uso ou concentrado, diluído em água desmineralizada na proporção do rótulo (em geral de 30% a 50% de aditivo). Não misture tipos diferentes de aditivo.",
       "avisos": [
         "Só água comum perde a proteção contra corrosão e superaquecimento. Use água pura apenas numa emergência e corrija depois."
       ]
@@ -57,8 +57,15 @@
       ]
     },
     {
+      "titulo": "Sem oficina por perto",
+      "texto": "Sem aditivo, complete só com água limpa (de garrafa, filtrada ou de chuva), nunca salgada ou suja.\n\nPara um furo pequeno em mangueira, com o motor frio e a mangueira limpa e seca, enrole fita de silicone autofusão bem esticada, passando 2 a 3 cm do furo dos dois lados. Na falta dela, fita isolante bem firme; fita adesiva comum amolece com o calor.\n\nDepois, rode devagar, em trechos curtos, com o aquecimento ligado e de olho no ponteiro. Quando a temperatura subir, pare, deixe esfriar e complete de novo. Leve água de reserva.",
+      "avisos": [
+        "É provisório: troque a mangueira e restaure a mistura com aditivo assim que puder. Não rode com o reservatório vazio."
+      ]
+    },
+    {
       "titulo": "Investigue a causa",
-      "texto": "Superaquecimento tem causa: vazamento, válvula termostática travada, bomba d'água fraca, ventoinha que não liga ou radiador entupido. Leve à oficina antes de voltar a rodar normalmente."
+      "texto": "Superaquecimento tem causa: vazamento, válvula termostática travada, bomba d'água fraca, ventoinha que não liga ou radiador entupido. Descubra e corrija a causa (ou leve a uma oficina, se houver) antes de voltar a rodar normalmente."
     }
   ],
   "fontes": [
@@ -73,6 +80,10 @@
     {
       "titulo": "Overheating Issues — O'Reilly Auto Parts",
       "url": "https://www.oreillyauto.com/how-to-hub/cooling-system/overheating-issues"
+    },
+    {
+      "titulo": "How to Stop a Radiator Hose Leak — EngineerFix",
+      "url": "https://engineerfix.com/how-to-stop-a-radiator-hose-leak/"
     }
   ]
 }

@@ -26,20 +26,24 @@
     },
     {
       "titulo": "Siga o intervalo do fabricante",
-      "texto": "O manual traz o intervalo em quilômetros e em tempo; vale o que vier primeiro. A Gates recomenda não passar de 6 anos (72 meses), mesmo com pouca quilometragem, porque a borracha envelhece.",
+      "texto": "O manual traz o intervalo em quilômetros e em tempo; vale o que vier primeiro. A Gates recomenda não passar de 6 anos (72 meses), mesmo com pouca quilometragem, porque a borracha envelhece. Em clima quente, alguns fabricantes reduzem para 4 a 5 anos.",
       "dicas": [
         "Carro usado sem histórico de troca: considere trocar logo, por precaução."
       ]
     },
     {
       "titulo": "Troque o kit completo",
-      "texto": "Troque junto o tensor e as polias, que se desgastam no mesmo ritmo, e a bomba d'água quando ela for movida pela correia. Um tensor gasto é uma das causas mais comuns de quebra, e uma bomba que trava destrói a correia nova."
+      "texto": "Troque junto o tensor e as polias, que se desgastam no mesmo ritmo, e a bomba d'água quando ela for movida pela correia. Um tensor gasto é uma das causas mais comuns de quebra, e uma bomba que trava destrói a correia nova.",
+      "avisos": [
+        "Alguns motores usam correia banhada a óleo: neles, usar o óleo exato do manual é obrigatório, porque óleo fora da especificação degrada a correia."
+      ]
     },
     {
       "titulo": "Fique atento aos sinais",
       "texto": "Ruído agudo ou chiado vindo da região da correia, vazamento de líquido de arrefecimento perto da capa, superaquecimento sem outra causa ou dificuldade de pegar podem indicar problema no conjunto.",
       "avisos": [
-        "A troca exige ferramentas de sincronismo específicas e conhecimento do motor. Um dente fora do lugar já causa danos."
+        "A troca exige ferramentas de sincronismo específicas e conhecimento do motor. Um dente fora do lugar já causa danos.",
+        "Se o motor apagar e, na partida, girar \"solto\", mais rápido e com som diferente, suspeite de correia quebrada. Não insista na partida: em motor de interferência, cada tentativa pode piorar o dano. Reboque."
       ]
     },
     {
@@ -59,6 +63,10 @@
     {
       "titulo": "Timing Belts and Interference Engines — AA1Car",
       "url": "https://www.aa1car.com/library/timing_belts_interference_engines.htm"
+    },
+    {
+      "titulo": "VAG timing system replacement intervals — Gates",
+      "url": "https://www.techtips.ie/Gates/vag-timing-system-replacement-intervals.pdf"
     }
   ]
 }
